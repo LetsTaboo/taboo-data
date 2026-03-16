@@ -5690,19 +5690,19 @@
         {
           "type": "basic",
           "words": [
-            {"word": "Consequences", "forbiddens": ["result", "outcome", "effect", "action", "punishment"]}
+            {"word": "Consequences", "forbiddens": ["result", "outcome", "effect", "action", "punishment"]},
+            {"word": "Brand", "forbiddens": ["logo", "company", "name", "product", "marketing"]},
+            {"word": "Contactless Payment", "forbiddens": ["tap", "card", "NFC", "phone", "wireless"]}
           ]
         },
         {
           "type": "medium",
           "words": [
-            {"word": "Brand", "forbiddens": ["logo", "company", "name", "product", "marketing"]}
           ]
         },
         {
           "type": "hard",
           "words": [
-            {"word": "Contactless Payment", "forbiddens": ["tap", "card", "NFC", "phone", "wireless"]}
           ]
         }
       ]
