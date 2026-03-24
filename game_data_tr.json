@@ -6589,16 +6589,6 @@
               ]
             },
             {
-              "word": "Smaç",
-              "forbiddens": [
-                "Basketbol",
-                "atlama",
-                "Çember",
-                "above",
-                "çember"
-              ]
-            },
-            {
               "word": "Hat-trick",
               "forbiddens": [
                 "üç",
@@ -6786,16 +6776,6 @@
                 "vuruşlar",
                 "dışarı",
                 "Sallanış"
-              ]
-            },
-            {
-              "word": "Yürüyüş",
-              "forbiddens": [
-                "Beyzbol",
-                "dört",
-                "balls",
-                "birinci",
-                "üs"
               ]
             },
             {
@@ -7189,16 +7169,6 @@
               ]
             },
             {
-              "word": "Kırmızı Kart",
-              "forbiddens": [
-                "futbol",
-                "ihraç",
-                "Faul",
-                "ciddi",
-                "hakem"
-              ]
-            },
-            {
               "word": "Yellow Card",
               "forbiddens": [
                 "futbol",
@@ -7236,16 +7206,6 @@
                 "help",
                 "düzen",
                 "önce"
-              ]
-            },
-            {
-              "word": "Uzatma",
-              "forbiddens": [
-                "Uzatma",
-                "ek",
-                "dakika",
-                "eşit",
-                "oynamak"
               ]
             },
             {
@@ -8029,16 +7989,6 @@
               ]
             },
             {
-              "word": "Oyun Kurucu",
-              "forbiddens": [
-                "Basketbol",
-                "pozisyon",
-                "bir",
-                "Pas",
-                "lider"
-              ]
-            },
-            {
               "word": "Şutör Gard",
               "forbiddens": [
                 "Basketbol",
@@ -8579,16 +8529,6 @@
               ]
             },
             {
-              "word": "Ralli",
-              "forbiddens": [
-                "geri",
-                "forth",
-                "uzun",
-                "vuruş",
-                "değiş tokuş"
-              ]
-            },
-            {
               "word": "Moonball",
               "forbiddens": [
                 "Tenis",
@@ -9119,26 +9059,6 @@
               ]
             },
             {
-              "word": "Defans",
-              "forbiddens": [
-                "savunma",
-                "kaleci",
-                "geri",
-                "korumak",
-                "oyuncu"
-              ]
-            },
-            {
-              "word": "Hücum",
-              "forbiddens": [
-                "atak",
-                "gol",
-                "forvet",
-                "ileri",
-                "vuruş"
-              ]
-            },
-            {
               "word": "Kontrattak",
               "forbiddens": [
                 "savunma",
@@ -9169,16 +9089,6 @@
               ]
             },
             {
-              "word": "Fair Play",
-              "forbiddens": [
-                "centilmenlik",
-                "kurallara uymak",
-                "saygı",
-                "sportmenlik",
-                "adil"
-              ]
-            },
-            {
               "word": "Golden Gol",
               "forbiddens": [
                 "altın",
@@ -9199,16 +9109,6 @@
               ]
             },
             {
-              "word": "Taç Atışı",
-              "forbiddens": [
-                "dışarı",
-                "el",
-                "çizgi",
-                "atmak",
-                "yan"
-              ]
-            },
-            {
               "word": "Kadro",
               "forbiddens": [
                 "oyuncu",
@@ -9219,16 +9119,6 @@
               ]
             },
             {
-              "word": "Kaptan",
-              "forbiddens": [
-                "lider",
-                "kol bandı",
-                "takım",
-                "oyuncu",
-                "sorumluluk"
-              ]
-            },
-            {
               "word": "Performans",
               "forbiddens": [
                 "başarı",
@@ -9236,26 +9126,6 @@
                 "sonuç",
                 "göstermek",
                 "seviye"
-              ]
-            },
-            {
-              "word": "Kondisyon",
-              "forbiddens": [
-                "dayanıklılık",
-                "forma",
-                "fizik",
-                "koşu",
-                "hazırlık"
-              ]
-            },
-            {
-              "word": "Sakatlık",
-              "forbiddens": [
-                "yaralanma",
-                "oyuncu",
-                "tedavi",
-                "diz",
-                "oynayamamak"
               ]
             },
             {
@@ -9286,16 +9156,6 @@
                 "desteklemek",
                 "marka",
                 "anlaşma"
-              ]
-            },
-            {
-              "word": "Seyirci",
-              "forbiddens": [
-                "izlemek",
-                "tribün",
-                "taraftar",
-                "bilet",
-                "stadyum"
               ]
             },
             {
@@ -9339,16 +9199,6 @@
               ]
             },
             {
-              "word": "Kamp",
-              "forbiddens": [
-                "hazırlık",
-                "antrenman",
-                "sezon",
-                "takım",
-                "otel"
-              ]
-            },
-            {
               "word": "Yenilgi",
               "forbiddens": [
                 "kaybetmek",
@@ -9356,26 +9206,6 @@
                 "maç",
                 "rakip",
                 "mağlubiyet"
-              ]
-            },
-            {
-              "word": "Galibiyet",
-              "forbiddens": [
-                "kazanmak",
-                "skor",
-                "maç",
-                "puan",
-                "zafer"
-              ]
-            },
-            {
-              "word": "Beraberlik",
-              "forbiddens": [
-                "eşit",
-                "skor",
-                "puan",
-                "maç",
-                "aynı"
               ]
             },
             {
@@ -9573,16 +9403,6 @@
         {
           "type": "hard",
           "words": [
-            {
-              "word": "Doping",
-              "forbiddens": [
-                "drugs",
-                "banned",
-                "Performans",
-                "cheat",
-                "test"
-              ]
-            },
             {
               "word": "Arbitraj",
               "forbiddens": [
@@ -10761,16 +10581,6 @@
                 "aerial",
                 "tutma",
                 "yukarı"
-              ]
-            },
-            {
-              "word": "Oyun Kurucu",
-              "forbiddens": [
-                "yaratıcı",
-                "Pas",
-                "vizyon",
-                "Asist",
-                "anahtar"
               ]
             },
             {
@@ -12074,16 +11884,6 @@
               ]
             },
             {
-              "word": "Pentatlon",
-              "forbiddens": [
-                "beş",
-                "branş",
-                "modern",
-                "yarış",
-                "olimpiyat"
-              ]
-            },
-            {
               "word": "Plyometrik",
               "forbiddens": [
                 "patlayıcı",
@@ -12111,16 +11911,6 @@
                 "kısa",
                 "yoğun",
                 "sprint"
-              ]
-            },
-            {
-              "word": "Aerobik",
-              "forbiddens": [
-                "oksijen",
-                "dayanıklılık",
-                "koşu",
-                "uzun",
-                "kalp"
               ]
             },
             {
@@ -15711,16 +15501,6 @@
               ]
             },
             {
-              "word": "Monolog",
-              "forbiddens": [
-                "konuşma",
-                "alone",
-                "one person",
-                "uzun",
-                "konuşma"
-              ]
-            },
-            {
               "word": "Soliloquy",
               "forbiddens": [
                 "alone",
@@ -15738,16 +15518,6 @@
                 "görünüm",
                 "Kamera",
                 "farkında"
-              ]
-            },
-            {
-              "word": "Seslendirme",
-              "forbiddens": [
-                "anlatma",
-                "off-screen",
-                "konuşma",
-                "Karakter",
-                "ses"
               ]
             },
             {
@@ -15958,16 +15728,6 @@
                 "shots",
                 "Sahne",
                 "düzenleme"
-              ]
-            },
-            {
-              "word": "Çekim",
-              "forbiddens": [
-                "girişim",
-                "atış",
-                "again",
-                "numara",
-                "Aksiyon"
               ]
             },
             {
@@ -16781,16 +16541,6 @@
               ]
             },
             {
-              "word": "Dublaj",
-              "forbiddens": [
-                "ses",
-                "değiştirme",
-                "dil",
-                "çeviri",
-                "üzerinden"
-              ]
-            },
-            {
               "word": "Ses Tasarımı",
               "forbiddens": [
                 "ses",
@@ -17051,16 +16801,6 @@
               ]
             },
             {
-              "word": "Kırmızı Halı",
-              "forbiddens": [
-                "Yürüyüş",
-                "ünlü",
-                "elbise",
-                "Gala",
-                "fashion"
-              ]
-            },
-            {
               "word": "Gece Partisi",
               "forbiddens": [
                 "celebrate",
@@ -17068,16 +16808,6 @@
                 "gece",
                 "Gala",
                 "içmek"
-              ]
-            },
-            {
-              "word": "Paparazzi",
-              "forbiddens": [
-                "photographer",
-                "ünlü",
-                "Kamera",
-                "takip",
-                "tabloid"
               ]
             },
             {
@@ -17161,16 +16891,6 @@
               ]
             },
             {
-              "word": "Seri",
-              "forbiddens": [
-                "Dizi",
-                "marka",
-                "Devam Filmi",
-                "evren",
-                "films"
-              ]
-            },
-            {
               "word": "Sinematik Evren",
               "forbiddens": [
                 "connected",
@@ -17198,16 +16918,6 @@
                 "başlamak",
                 "again",
                 "fresh"
-              ]
-            },
-            {
-              "word": "Yeniden Çevrim",
-              "forbiddens": [
-                "yeni",
-                "versiyon",
-                "again",
-                "orijinal",
-                "yeniden yapma"
               ]
             },
             {
@@ -17278,16 +16988,6 @@
                 "nonstop",
                 "hepsi",
                 "sürekli"
-              ]
-            },
-            {
-              "word": "Merak Unsuru",
-              "forbiddens": [
-                "gerilim",
-                "unresolved",
-                "Bitiş",
-                "sonraki",
-                "bekleme"
               ]
             },
             {
@@ -17981,36 +17681,6 @@
               ]
             },
             {
-              "word": "Senaryo",
-              "forbiddens": [
-                "film",
-                "yazmak",
-                "hikaye",
-                "diyalog",
-                "metin"
-              ]
-            },
-            {
-              "word": "Oscar",
-              "forbiddens": [
-                "ödül",
-                "Hollywood",
-                "heykel",
-                "en iyi",
-                "akademi"
-              ]
-            },
-            {
-              "word": "Animasyon",
-              "forbiddens": [
-                "çizgi",
-                "hareket",
-                "karakter",
-                "bilgisayar",
-                "Disney"
-              ]
-            },
-            {
               "word": "Kast",
               "forbiddens": [
                 "oyuncu",
@@ -18041,16 +17711,6 @@
               ]
             },
             {
-              "word": "Plot Twist",
-              "forbiddens": [
-                "sürpriz",
-                "hikaye",
-                "beklenmedik",
-                "döndü",
-                "son"
-              ]
-            },
-            {
               "word": "Remake",
               "forbiddens": [
                 "yeniden",
@@ -18078,16 +17738,6 @@
                 "sonrası",
                 "ikinci",
                 "serinin"
-              ]
-            },
-            {
-              "word": "Spin-off",
-              "forbiddens": [
-                "türetme",
-                "karakter",
-                "dizi",
-                "ayrılan",
-                "yeni"
               ]
             },
             {
@@ -18151,16 +17801,6 @@
               ]
             },
             {
-              "word": "Stüdyo",
-              "forbiddens": [
-                "çekim",
-                "yapım",
-                "film",
-                "set",
-                "bina"
-              ]
-            },
-            {
               "word": "Post-prodüksiyon",
               "forbiddens": [
                 "çekim sonrası",
@@ -18198,26 +17838,6 @@
                 "düzenleme",
                 "sahne",
                 "adım"
-              ]
-            },
-            {
-              "word": "Dublör",
-              "forbiddens": [
-                "tehlikeli",
-                "sahne",
-                "yerine",
-                "aksiyon",
-                "atlama"
-              ]
-            },
-            {
-              "word": "Diyalog",
-              "forbiddens": [
-                "konuşma",
-                "iki kişi",
-                "replik",
-                "senaryo",
-                "karakter"
               ]
             },
             {
@@ -18351,16 +17971,6 @@
               ]
             },
             {
-              "word": "Parodi",
-              "forbiddens": [
-                "taklit",
-                "komik",
-                "dalga",
-                "orijinal",
-                "alay"
-              ]
-            },
-            {
               "word": "Süblimasyon",
               "forbiddens": [
                 "bilinçaltı",
@@ -18368,26 +17978,6 @@
                 "gizli",
                 "algı",
                 "etki"
-              ]
-            },
-            {
-              "word": "Biyografi",
-              "forbiddens": [
-                "gerçek kişi",
-                "hayat",
-                "hikaye",
-                "film",
-                "yaşam"
-              ]
-            },
-            {
-              "word": "Klişe",
-              "forbiddens": [
-                "kalıp",
-                "tekrar",
-                "bildik",
-                "sıkıcı",
-                "tahmin"
               ]
             },
             {
@@ -19333,16 +18923,6 @@
                 "printing",
                 "copy",
                 "intermediate"
-              ]
-            },
-            {
-              "word": "Günlük Çekim",
-              "forbiddens": [
-                "rushes",
-                "raw",
-                "görüntü",
-                "previous",
-                "Eleştiri"
               ]
             },
             {
@@ -20346,16 +19926,6 @@
               ]
             },
             {
-              "word": "Rack Focus",
-              "forbiddens": [
-                "shift",
-                "attention",
-                "keskin",
-                "blur",
-                "değiştirme"
-              ]
-            },
-            {
               "word": "Follow Focus",
               "forbiddens": [
                 "maintain",
@@ -21006,16 +20576,6 @@
               ]
             },
             {
-              "word": "Montaj",
-              "forbiddens": [
-                "kurgu",
-                "kesmek",
-                "birleştirmek",
-                "sahne",
-                "düzenlemek"
-              ]
-            },
-            {
               "word": "Mise en Scène",
               "forbiddens": [
                 "sahne düzeni",
@@ -21086,26 +20646,6 @@
               ]
             },
             {
-              "word": "Chiaroscuro",
-              "forbiddens": [
-                "ışık",
-                "gölge",
-                "kontrast",
-                "karanlık",
-                "aydınlık"
-              ]
-            },
-            {
-              "word": "Deus Ex Machina",
-              "forbiddens": [
-                "beklenmedik",
-                "çözüm",
-                "tanrı",
-                "kolaylık",
-                "sonu"
-              ]
-            },
-            {
               "word": "McGuffin",
               "forbiddens": [
                 "nesne",
@@ -21113,26 +20653,6 @@
                 "önemsiz",
                 "harekete geçiren",
                 "Hitchcock"
-              ]
-            },
-            {
-              "word": "Leitmotif",
-              "forbiddens": [
-                "tekrarlanan",
-                "tema",
-                "müzik",
-                "melodi",
-                "karakter"
-              ]
-            },
-            {
-              "word": "Foley",
-              "forbiddens": [
-                "ses efekti",
-                "yapay",
-                "kayıt",
-                "adım",
-                "yaratmak"
               ]
             },
             {
@@ -21153,16 +20673,6 @@
                 "hareket",
                 "ray",
                 "çekim"
-              ]
-            },
-            {
-              "word": "Steadicam",
-              "forbiddens": [
-                "sabit",
-                "kamera",
-                "hareket",
-                "titreşim",
-                "taşıma"
               ]
             },
             {
@@ -21233,16 +20743,6 @@
                 "teknoloji",
                 "sinema",
                 "üç boyut"
-              ]
-            },
-            {
-              "word": "IMAX",
-              "forbiddens": [
-                "büyük",
-                "ekran",
-                "sinema",
-                "format",
-                "çözünürlük"
               ]
             },
             {
@@ -21376,16 +20876,6 @@
               ]
             },
             {
-              "word": "MacGuffin",
-              "forbiddens": [
-                "nesne",
-                "hikaye",
-                "Hitchcock",
-                "önemsiz",
-                "amaç"
-              ]
-            },
-            {
               "word": "Bildungsroman",
               "forbiddens": [
                 "büyüme",
@@ -21433,16 +20923,6 @@
                 "sözel",
                 "görsel",
                 "anlatım"
-              ]
-            },
-            {
-              "word": "Rotoscoping",
-              "forbiddens": [
-                "animasyon",
-                "çizim",
-                "üzerine",
-                "gerçek görüntü",
-                "kare kare"
               ]
             }
           ]
@@ -24773,16 +24253,6 @@
               ]
             },
             {
-              "word": "Pesto",
-              "forbiddens": [
-                "fesleğen",
-                "çam fıstığı",
-                "yeşil",
-                "İtalyan",
-                "sos"
-              ]
-            },
-            {
               "word": "Cacık",
               "forbiddens": [
                 "yoğurt",
@@ -24973,16 +24443,6 @@
               ]
             },
             {
-              "word": "Soya Fasulyesi",
-              "forbiddens": [
-                "soya",
-                "yeşil",
-                "Japon",
-                "kabuk",
-                "atıştırmalık"
-              ]
-            },
-            {
               "word": "Miso",
               "forbiddens": [
                 "soya fasulyesi",
@@ -24990,16 +24450,6 @@
                 "Japon",
                 "çorba",
                 "mayalanmak"
-              ]
-            },
-            {
-              "word": "Wasabi",
-              "forbiddens": [
-                "Japon",
-                "acı",
-                "yeşil",
-                "suşi",
-                "baharatlı"
               ]
             },
             {
@@ -25213,16 +24663,6 @@
               ]
             },
             {
-              "word": "Sriracha",
-              "forbiddens": [
-                "biber",
-                "acı",
-                "horoz",
-                "Tayland",
-                "sos"
-              ]
-            },
-            {
               "word": "Sambal",
               "forbiddens": [
                 "biber",
@@ -25230,16 +24670,6 @@
                 "Endonezya",
                 "baharatlı",
                 "çeşni"
-              ]
-            },
-            {
-              "word": "Çatni",
-              "forbiddens": [
-                "Hint",
-                "çeşni",
-                "tatlı",
-                "garnitür",
-                "meyve"
               ]
             },
             {
@@ -25320,36 +24750,6 @@
                 "ricotta",
                 "çıtır",
                 "Sicilya"
-              ]
-            },
-            {
-              "word": "Baklava",
-              "forbiddens": [
-                "hamur işi",
-                "bal",
-                "fındık",
-                "katman",
-                "yufka"
-              ]
-            },
-            {
-              "word": "Churros",
-              "forbiddens": [
-                "kızarmış",
-                "hamur",
-                "İspanyol",
-                "şeker",
-                "tarçın"
-              ]
-            },
-            {
-              "word": "Krep",
-              "forbiddens": [
-                "ince",
-                "Fransız",
-                "gözleme",
-                "dolgu",
-                "katlamak"
               ]
             },
             {
@@ -25863,16 +25263,6 @@
               ]
             },
             {
-              "word": "Falafel",
-              "forbiddens": [
-                "nohut",
-                "kızarmış",
-                "Ortadoğu",
-                "top",
-                "pide"
-              ]
-            },
-            {
               "word": "Şavarma",
               "forbiddens": [
                 "et",
@@ -25920,16 +25310,6 @@
                 "yufka",
                 "beyaz peynir",
                 "börek"
-              ]
-            },
-            {
-              "word": "Gyros",
-              "forbiddens": [
-                "Yunan",
-                "et",
-                "pide",
-                "döner",
-                "cacık"
               ]
             },
             {
@@ -26003,36 +25383,6 @@
               ]
             },
             {
-              "word": "Kiş",
-              "forbiddens": [
-                "yumurta",
-                "turta",
-                "Fransız",
-                "hamur işi",
-                "muhallebi"
-              ]
-            },
-            {
-              "word": "Fondü",
-              "forbiddens": [
-                "erimiş",
-                "peynir",
-                "İsviçre",
-                "daldırmak",
-                "tencere"
-              ]
-            },
-            {
-              "word": "Raclette",
-              "forbiddens": [
-                "peynir",
-                "erimiş",
-                "İsviçre",
-                "kazımak",
-                "patates"
-              ]
-            },
-            {
               "word": "Şnitzel",
               "forbiddens": [
                 "paneli",
@@ -26050,16 +25400,6 @@
                 "ızgara",
                 "domuz",
                 "ekmek"
-              ]
-            },
-            {
-              "word": "Lahana Turşusu",
-              "forbiddens": [
-                "lahana",
-                "mayalanmak",
-                "Alman",
-                "ekşi",
-                "turşu"
               ]
             },
             {
@@ -26090,16 +25430,6 @@
                 "küçük",
                 "havyar",
                 "karabuğday"
-              ]
-            },
-            {
-              "word": "Gulaş",
-              "forbiddens": [
-                "Macar",
-                "güveç",
-                "kırmızı biber",
-                "sığır",
-                "doyurucu"
               ]
             },
             {
@@ -26163,16 +25493,6 @@
               ]
             },
             {
-              "word": "Bolonez",
-              "forbiddens": [
-                "et",
-                "sos",
-                "İtalyan",
-                "domates",
-                "makarna"
-              ]
-            },
-            {
               "word": "Puttanesca",
               "forbiddens": [
                 "makarna",
@@ -26233,16 +25553,6 @@
               ]
             },
             {
-              "word": "Bruschetta",
-              "forbiddens": [
-                "kızarmış ekmek",
-                "domates",
-                "sarımsak",
-                "İtalyan",
-                "meze"
-              ]
-            },
-            {
               "word": "Crostini",
               "forbiddens": [
                 "kızarmış ekmek",
@@ -26250,16 +25560,6 @@
                 "üstüne",
                 "İtalyan",
                 "meze"
-              ]
-            },
-            {
-              "word": "Focaccia",
-              "forbiddens": [
-                "ekmek",
-                "düz",
-                "zeytinyağı",
-                "İtalyan",
-                "çukur"
               ]
             },
             {
@@ -26953,16 +26253,6 @@
               ]
             },
             {
-              "word": "Bisque",
-              "forbiddens": [
-                "çorba",
-                "krema",
-                "kabuklu",
-                "koyu",
-                "ıstakoz"
-              ]
-            },
-            {
               "word": "Vichyssoise",
               "forbiddens": [
                 "çorba",
@@ -27020,16 +26310,6 @@
                 "tencere",
                 "yavaş pişirmek",
                 "baharat"
-              ]
-            },
-            {
-              "word": "Kuskus",
-              "forbiddens": [
-                "Kuzey Afrika",
-                "tahıl",
-                "irmik",
-                "buharda",
-                "küçük"
               ]
             },
             {
@@ -27230,16 +26510,6 @@
                 "et alternatifi",
                 "lifli",
                 "meyve"
-              ]
-            },
-            {
-              "word": "Kimchi",
-              "forbiddens": [
-                "Kore",
-                "lahana",
-                "mayalanmış",
-                "baharatlı",
-                "garnitür"
               ]
             },
             {
@@ -27593,16 +26863,6 @@
               ]
             },
             {
-              "word": "Kebap",
-              "forbiddens": [
-                "et",
-                "ızgara",
-                "şiş",
-                "Adana",
-                "ateş"
-              ]
-            },
-            {
               "word": "Meze",
               "forbiddens": [
                 "başlangıç",
@@ -27633,26 +26893,6 @@
               ]
             },
             {
-              "word": "Pide",
-              "forbiddens": [
-                "hamur",
-                "fırın",
-                "peynir",
-                "uzun",
-                "kayık"
-              ]
-            },
-            {
-              "word": "Mantı",
-              "forbiddens": [
-                "hamur",
-                "kıyma",
-                "yoğurt",
-                "küçük",
-                "Kayseri"
-              ]
-            },
-            {
               "word": "İskender",
               "forbiddens": [
                 "döner",
@@ -27663,16 +26903,6 @@
               ]
             },
             {
-              "word": "Köfte",
-              "forbiddens": [
-                "et",
-                "kıyma",
-                "yuvarlak",
-                "ızgara",
-                "baharatlı"
-              ]
-            },
-            {
               "word": "Künefe",
               "forbiddens": [
                 "tatlı",
@@ -27680,16 +26910,6 @@
                 "kadayıf",
                 "sıcak",
                 "şerbet"
-              ]
-            },
-            {
-              "word": "Lokum",
-              "forbiddens": [
-                "tatlı",
-                "şeker",
-                "yumuşak",
-                "fıstık",
-                "Türk"
               ]
             },
             {
@@ -27853,16 +27073,6 @@
               ]
             },
             {
-              "word": "Şalgam",
-              "forbiddens": [
-                "mor",
-                "acı",
-                "Adana",
-                "kebap",
-                "içecek"
-              ]
-            },
-            {
               "word": "Helva",
               "forbiddens": [
                 "tatlı",
@@ -27900,16 +27110,6 @@
                 "gül suyu",
                 "ince",
                 "tatlı"
-              ]
-            },
-            {
-              "word": "Etli Ekmek",
-              "forbiddens": [
-                "hamur",
-                "kıyma",
-                "Konya",
-                "uzun",
-                "fırın"
               ]
             },
             {
@@ -28060,16 +27260,6 @@
                 "sarımsak",
                 "meze",
                 "soğuk"
-              ]
-            },
-            {
-              "word": "Humus",
-              "forbiddens": [
-                "nohut",
-                "tahin",
-                "meze",
-                "pürüz",
-                "Ortadoğu"
               ]
             },
             {
@@ -30638,16 +29828,6 @@
               ]
             },
             {
-              "word": "Umami",
-              "forbiddens": [
-                "lezzet",
-                "beşinci",
-                "tat",
-                "Japon",
-                "tuzlu"
-              ]
-            },
-            {
               "word": "Moleküler Mutfak",
               "forbiddens": [
                 "bilim",
@@ -30655,26 +29835,6 @@
                 "kimya",
                 "deneysel",
                 "modern"
-              ]
-            },
-            {
-              "word": "Flambe",
-              "forbiddens": [
-                "alev",
-                "alkol",
-                "yakmak",
-                "tava",
-                "görsel"
-              ]
-            },
-            {
-              "word": "Demleme",
-              "forbiddens": [
-                "çay",
-                "kahve",
-                "su",
-                "bekletmek",
-                "süzme"
               ]
             },
             {
@@ -30755,26 +29915,6 @@
                 "kesim",
                 "sebze",
                 "uzun"
-              ]
-            },
-            {
-              "word": "Brunoise",
-              "forbiddens": [
-                "küçük küp",
-                "kesim",
-                "sebze",
-                "ince",
-                "doğramak"
-              ]
-            },
-            {
-              "word": "Confit",
-              "forbiddens": [
-                "yağda pişirme",
-                "yavaş",
-                "ördek",
-                "muhafaza",
-                "düşük"
               ]
             },
             {
@@ -31035,36 +30175,6 @@
                 "kurutulmuş",
                 "tabak",
                 "Fransız"
-              ]
-            },
-            {
-              "word": "Tapenade",
-              "forbiddens": [
-                "zeytin",
-                "ezme",
-                "kapari",
-                "Fransız",
-                "meze"
-              ]
-            },
-            {
-              "word": "Pesto",
-              "forbiddens": [
-                "fesleğen",
-                "çam fıstığı",
-                "İtalyan",
-                "sos",
-                "yeşil"
-              ]
-            },
-            {
-              "word": "Roux",
-              "forbiddens": [
-                "un",
-                "yağ",
-                "sos",
-                "kıvam",
-                "pişirmek"
               ]
             },
             {
@@ -33735,46 +32845,6 @@
           "type": "medium",
           "words": [
             {
-              "word": "Evrim",
-              "forbiddens": [
-                "Darwin",
-                "doğal seçilim",
-                "değişim",
-                "tür",
-                "uyum"
-              ]
-            },
-            {
-              "word": "DNA",
-              "forbiddens": [
-                "gen",
-                "sarmal",
-                "genetik",
-                "hücre",
-                "kalıtım"
-              ]
-            },
-            {
-              "word": "Hücre",
-              "forbiddens": [
-                "canlı",
-                "çekirdek",
-                "bölünme",
-                "biyoloji",
-                "zar"
-              ]
-            },
-            {
-              "word": "Molekül",
-              "forbiddens": [
-                "atom",
-                "bağ",
-                "kimya",
-                "küçük",
-                "yapı"
-              ]
-            },
-            {
               "word": "Elementler",
               "forbiddens": [
                 "periyodik tablo",
@@ -33792,26 +32862,6 @@
                 "sıralama",
                 "atom",
                 "sembol"
-              ]
-            },
-            {
-              "word": "Fotosentez",
-              "forbiddens": [
-                "bitki",
-                "güneş",
-                "oksijen",
-                "karbondioksit",
-                "yaprak"
-              ]
-            },
-            {
-              "word": "Yerçekimi",
-              "forbiddens": [
-                "çekim",
-                "düşme",
-                "Newton",
-                "kütle",
-                "ağırlık"
               ]
             },
             {
@@ -33865,16 +32915,6 @@
               ]
             },
             {
-              "word": "Teleskop",
-              "forbiddens": [
-                "uzay",
-                "görmek",
-                "uzak",
-                "yıldız",
-                "büyütme"
-              ]
-            },
-            {
               "word": "Büyük Patlama",
               "forbiddens": [
                 "evren",
@@ -33882,36 +32922,6 @@
                 "genişleme",
                 "uzay",
                 "teori"
-              ]
-            },
-            {
-              "word": "Karbon",
-              "forbiddens": [
-                "element",
-                "kömür",
-                "organik",
-                "yaşam",
-                "atom"
-              ]
-            },
-            {
-              "word": "Oksijen",
-              "forbiddens": [
-                "solumak",
-                "gaz",
-                "hava",
-                "yaşam",
-                "O2"
-              ]
-            },
-            {
-              "word": "Hidrojen",
-              "forbiddens": [
-                "gaz",
-                "su",
-                "hafif",
-                "element",
-                "yakıt"
               ]
             },
             {
@@ -33925,26 +32935,6 @@
               ]
             },
             {
-              "word": "Dalga",
-              "forbiddens": [
-                "deniz",
-                "ses",
-                "titreşim",
-                "frekans",
-                "hareket"
-              ]
-            },
-            {
-              "word": "Frekans",
-              "forbiddens": [
-                "dalga",
-                "hertz",
-                "ses",
-                "titreşim",
-                "tekrar"
-              ]
-            },
-            {
               "word": "Spektrum",
               "forbiddens": [
                 "renk",
@@ -33952,26 +32942,6 @@
                 "gökkuşağı",
                 "dalga boyu",
                 "aralık"
-              ]
-            },
-            {
-              "word": "Asit",
-              "forbiddens": [
-                "pH",
-                "yakıcı",
-                "ekşi",
-                "baz",
-                "kimya"
-              ]
-            },
-            {
-              "word": "Baz",
-              "forbiddens": [
-                "pH",
-                "asit",
-                "alkali",
-                "kimya",
-                "sabun"
               ]
             },
             {
@@ -34205,16 +33175,6 @@
               ]
             },
             {
-              "word": "Ozon",
-              "forbiddens": [
-                "tabaka",
-                "koruma",
-                "oksijen",
-                "ultraviyole",
-                "atmosfer"
-              ]
-            },
-            {
               "word": "Sera Etkisi",
               "forbiddens": [
                 "ısınma",
@@ -34360,16 +33320,6 @@
               ]
             },
             {
-              "word": "Antimadde",
-              "forbiddens": [
-                "zıt parçacık",
-                "yok olma",
-                "enerji",
-                "pozitron",
-                "madde"
-              ]
-            },
-            {
               "word": "Süperiletkenlik",
               "forbiddens": [
                 "sıfır direnç",
@@ -34407,16 +33357,6 @@
                 "ölü",
                 "kuantum",
                 "deney"
-              ]
-            },
-            {
-              "word": "Karanlık Madde",
-              "forbiddens": [
-                "görünmez",
-                "evren",
-                "kütle",
-                "çekim",
-                "madde"
               ]
             },
             {
@@ -35564,16 +34504,6 @@
                 "sultan",
                 "hükümdar",
                 "sınır"
-              ]
-            },
-            {
-              "word": "Fetih",
-              "forbiddens": [
-                "almak",
-                "şehir",
-                "savaş",
-                "toprak",
-                "fatih"
               ]
             },
             {
