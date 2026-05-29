@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 5,
   "data": [
     {
       "topic": "cultural",
@@ -5010,233 +5010,43 @@
           "type": "hard",
           "words": [
             {
-              "word": "La Chartreuse de Parme",
+              "word": "Abbé Pierre",
               "forbiddens": [
-                "Stendhal roman 1839",
-                "Fabrice del Dongo",
-                "Italie 1820 Lombardie",
-                "Sanseverina duchesse",
-                "Waterloo épisode début"
+                "Emmaüs fondateur 1949",
+                "appel hiver 1954 ondes radio",
+                "compagnons sans-abri",
+                "barbe béret canne",
+                "Esteville mort 2007"
               ]
             },
             {
-              "word": "L'Éducation Sentimentale",
+              "word": "Aimé Césaire",
               "forbiddens": [
-                "Flaubert roman",
-                "Frédéric Moreau étudiant",
-                "Madame Arnoux passion impossible",
-                "1840 Paris révolution 1848",
-                "Maxime Du Camp dédicace"
+                "Martinique poète politicien",
+                "Négritude Senghor mouvement",
+                "Discours Colonialisme essai",
+                "Fort-de-France maire 56 ans",
+                "Cahier retour pays natal"
               ]
             },
             {
-              "word": "Salammbô",
+              "word": "Alain Ducasse",
               "forbiddens": [
-                "Flaubert roman 1862",
-                "Carthage Antiquité Punique",
-                "Salammbô prêtresse Tanit",
-                "mercenaires guerre",
-                "Hamilcar Barca père chef carthaginois"
+                "chef multi-étoilé international",
+                "Plaza Athénée Hôtel Hermitage Monaco",
+                "Castelsarrasin natif Sud-Ouest",
+                "École Ducasse formation",
+                "Trois étoiles trois pays records"
               ]
             },
             {
-              "word": "Illusions Perdues",
+              "word": "Albert Schweitzer",
               "forbiddens": [
-                "Balzac La Comédie Humaine",
-                "Lucien de Rubempré poète",
-                "Angoulême Paris province capitale",
-                "journalisme corruption",
-                "Vautrin Carlos Herrera"
-              ]
-            },
-            {
-              "word": "La Cousine Bette",
-              "forbiddens": [
-                "Balzac roman tardif",
-                "Lisbeth Fischer cousine pauvre",
-                "Hortense Adeline famille Hulot",
-                "vengeance complot bourgeoisie",
-                "Marneffe ambitieuse"
-              ]
-            },
-            {
-              "word": "Quatrevingt-Treize",
-              "forbiddens": [
-                "Victor Hugo dernier roman 1874",
-                "Vendée chouans Bretagne",
-                "Révolution Convention 1793",
-                "Lantenac marquis Gauvain neveu",
-                "Cimourdain prêtre républicain"
-              ]
-            },
-            {
-              "word": "Les Travailleurs de la Mer",
-              "forbiddens": [
-                "Victor Hugo 1866",
-                "Gilliatt pêcheur Guernesey",
-                "machine sauvetage poulpe",
-                "Iles Anglo-Normandes mer exil",
-                "Durande bateau vapeur"
-              ]
-            },
-            {
-              "word": "Le Mariage de Figaro",
-              "forbiddens": [
-                "Beaumarchais comédie 1784",
-                "Figaro valet ruse",
-                "Comte Almaviva libertin",
-                "Suzanne Chérubin",
-                "Mozart opéra Rossini"
-              ]
-            },
-            {
-              "word": "Le Barbier de Séville",
-              "forbiddens": [
-                "Beaumarchais comédie 1775",
-                "Figaro barbier",
-                "Rosine Bartholo tuteur",
-                "Comte Almaviva amoureux",
-                "trilogie première œuvre"
-              ]
-            },
-            {
-              "word": "Jacques le Fataliste",
-              "forbiddens": [
-                "Diderot roman dialogue",
-                "Jacques son maître voyage",
-                "philosophique fatalisme déterminisme",
-                "C'était écrit là-haut",
-                "1796 posthume"
-              ]
-            },
-            {
-              "word": "Le Neveu de Rameau",
-              "forbiddens": [
-                "Diderot dialogue posthume",
-                "Neveu Jean-François Rameau musicien",
-                "Moi philosophe Lui musicien",
-                "Goethe traduction admire",
-                "Café Régence Paris"
-              ]
-            },
-            {
-              "word": "Émile ou De l'Éducation",
-              "forbiddens": [
-                "Rousseau pédagogie traité 1762",
-                "Émile élève idéal",
-                "éducation naturelle",
-                "Sophie épouse parfaite",
-                "censuré condamné brûlé"
-              ]
-            },
-            {
-              "word": "Les Confessions",
-              "forbiddens": [
-                "Rousseau autobiographie posthume",
-                "12 livres Vie",
-                "Maman Madame de Warens",
-                "Hermitage Montmorency Genève",
-                "premier auto-introspectif moderne"
-              ]
-            },
-            {
-              "word": "Les Pensées",
-              "forbiddens": [
-                "Blaise Pascal posthume 1670",
-                "fragments apologie chrétienne",
-                "Pari Pascal infini",
-                "Roseau pensant homme",
-                "Jansénisme Port-Royal"
-              ]
-            },
-            {
-              "word": "Les Essais",
-              "forbiddens": [
-                "Michel de Montaigne",
-                "Que sais-je devise",
-                "Bordeaux maire essais",
-                "humaniste Renaissance",
-                "tour château retraite"
-              ]
-            },
-            {
-              "word": "La Chute",
-              "forbiddens": [
-                "Camus roman 1956",
-                "Jean-Baptiste Clamence avocat",
-                "Amsterdam Mexico-City bar",
-                "monologue confession",
-                "juge-pénitent personnage"
-              ]
-            },
-            {
-              "word": "La Nausée",
-              "forbiddens": [
-                "Sartre premier roman 1938",
-                "Antoine Roquentin Bouville",
-                "existentialiste contingence",
-                "marronnier racine révélation",
-                "ennui dégoût"
-              ]
-            },
-            {
-              "word": "Huis Clos",
-              "forbiddens": [
-                "Sartre pièce 1944",
-                "trois morts enfer salon Empire",
-                "enfer c'est les autres",
-                "Garcin Inès Estelle",
-                "miroir absent"
-              ]
-            },
-            {
-              "word": "Le Deuxième Sexe",
-              "forbiddens": [
-                "Simone de Beauvoir 1949",
-                "féminisme essai fondateur",
-                "On ne naît pas femme on le devient",
-                "deux tomes Faits Mythes Expérience",
-                "Sartre compagne"
-              ]
-            },
-            {
-              "word": "Vol de Nuit",
-              "forbiddens": [
-                "Saint-Exupéry roman 1931",
-                "aviation courrier Patagonie Argentine",
-                "Rivière chef Fabien pilote",
-                "André Gide préface",
-                "Femina prix 1931"
-              ]
-            },
-            {
-              "word": "Le Mythe de Sisyphe",
-              "forbiddens": [
-                "Camus essai 1942",
-                "absurde philosophique",
-                "Sisyphe rocher éternel",
-                "il faut imaginer heureux",
-                "suicide philosophique question"
-              ]
-            },
-            {
-              "word": "Thérèse Desqueyroux",
-              "forbiddens": [
-                "Mauriac roman 1927",
-                "Thérèse province bourgeoise empoisonneuse",
-                "Bordeaux mariage forcé Bernard",
-                "huis clos campagne pin",
-                "non-lieu procès"
-              ]
-            },
-            {
-              "word": "Mémoires d'une Jeune Fille Rangée",
-              "forbiddens": [
-                "Beauvoir autobiographie 1958",
-                "enfance bourgeoise Catholique Paris",
-                "Zaza meilleure amie morte",
-                "agrégation Sartre rencontre",
-                "première tome quatre"
+                "docteur Lambaréné Gabon hôpital",
+                "Nobel Paix 1952",
+                "Alsace musique orgue protestant",
+                "Bach interprète théologien",
+                "Jungle hôpital fondation"
               ]
             },
             {
@@ -5250,236 +5060,6 @@
               ]
             },
             {
-              "word": "Les Fleurs du Mal",
-              "forbiddens": [
-                "Charles Baudelaire 1857",
-                "recueil poésie scandale procès censure",
-                "Spleen Idéal",
-                "Albatros pièces condamnées",
-                "À une Passante célèbre"
-              ]
-            },
-            {
-              "word": "Le Spleen de Paris",
-              "forbiddens": [
-                "Baudelaire posthume 1869",
-                "petits poèmes prose 50",
-                "Paris flâneur observations",
-                "Anywhere Out of the World",
-                "L'Étranger ouverture"
-              ]
-            },
-            {
-              "word": "Une Saison en Enfer",
-              "forbiddens": [
-                "Arthur Rimbaud 1873",
-                "récit vers prose",
-                "adieu poésie 19 ans",
-                "Mauvais Sang Délires",
-                "Verlaine ami Bruxelles tir"
-              ]
-            },
-            {
-              "word": "Le Bateau Ivre",
-              "forbiddens": [
-                "Rimbaud poème 1871",
-                "vers libres bateau libéré",
-                "voyage hallucinatoire fleuves mers",
-                "100 vers alexandrins",
-                "Verlaine impressionné premier"
-              ]
-            },
-            {
-              "word": "Pierre Bourdieu",
-              "forbiddens": [
-                "sociologue Béarn natif",
-                "La Distinction Misère du Monde",
-                "habitus capital social culturel",
-                "Collège France chaire",
-                "années 90-2000 médiatique"
-              ]
-            },
-            {
-              "word": "Michel Foucault",
-              "forbiddens": [
-                "philosophe historien Poitiers natif",
-                "Surveiller et Punir Histoire Folie",
-                "savoir pouvoir biopolitique",
-                "Sexualité histoire trilogie",
-                "Sida mort 1984"
-              ]
-            },
-            {
-              "word": "Jacques Derrida",
-              "forbiddens": [
-                "philosophe Algérie El Biar natif",
-                "déconstruction théorie",
-                "écriture différance",
-                "De la grammatologie",
-                "Yale école américaine"
-              ]
-            },
-            {
-              "word": "Roland Barthes",
-              "forbiddens": [
-                "sémiologie critique",
-                "Mythologies Plaisir du Texte",
-                "Fragments discours amoureux",
-                "Camera Lucida photo dernier",
-                "renversé camionnette mort 1980"
-              ]
-            },
-            {
-              "word": "Gilles Deleuze",
-              "forbiddens": [
-                "philosophe Anti-Œdipe rhizome",
-                "Guattari Félix duo",
-                "Différence Répétition",
-                "Mille Plateaux",
-                "suicide défenestration"
-              ]
-            },
-            {
-              "word": "Henri Bergson",
-              "forbiddens": [
-                "Bergson Nobel littérature 1927",
-                "Durée Élan Vital",
-                "intuition contre intellect",
-                "Évolution créatrice",
-                "Collège France professeur"
-              ]
-            },
-            {
-              "word": "Simone Weil",
-              "forbiddens": [
-                "philosophe ouvrière engagée",
-                "Pesanteur et Grâce posthume",
-                "mystique chrétienne juive",
-                "Andrée André frère",
-                "Londres exil mort 1943"
-              ]
-            },
-            {
-              "word": "Claude Lévi-Strauss",
-              "forbiddens": [
-                "anthropologue structuralisme",
-                "Tristes Tropiques Brésil terrain",
-                "La Pensée Sauvage Mythologiques",
-                "Académie Française immortel",
-                "centenaire mort 100 ans"
-              ]
-            },
-            {
-              "word": "Edgar Morin",
-              "forbiddens": [
-                "sociologue centenaire 102 ans",
-                "pensée complexité",
-                "Méthode encyclopédique 6 tomes",
-                "écologie politique précurseur",
-                "Résistance jeune juif"
-              ]
-            },
-            {
-              "word": "Bernard-Henri Lévy",
-              "forbiddens": [
-                "philosophe médiatique BHL",
-                "Nouvelle Philosophie 1977",
-                "chemise blanche ouverte signature",
-                "engagement Bosnie Libye Ukraine",
-                "Béziers natif élite"
-              ]
-            },
-            {
-              "word": "Yves Klein",
-              "forbiddens": [
-                "peintre années 50-60",
-                "Bleu Klein IKB pigment",
-                "monochrome saut vide",
-                "anthropométries pinceaux vivants",
-                "Nice natif jeune mort 1962"
-              ]
-            },
-            {
-              "word": "Niki de Saint Phalle",
-              "forbiddens": [
-                "sculptrice Nanas colorées géantes",
-                "fontaine Stravinsky Pompidou",
-                "Tarot Jardin Toscane",
-                "tirs peinture années 60",
-                "Jean Tinguely époux"
-              ]
-            },
-            {
-              "word": "Jean Dubuffet",
-              "forbiddens": [
-                "Art Brut concept fondateur",
-                "Hourloupe série",
-                "Closerie Falbala",
-                "Le Havre natif vin marchand",
-                "Asilaire Art Brut Lausanne"
-              ]
-            },
-            {
-              "word": "Christo et Jeanne-Claude",
-              "forbiddens": [
-                "empaqueteurs Pont-Neuf Arc Triomphe Reichstag",
-                "duo couple bulgare",
-                "tissu kilomètres orange jaune",
-                "année 1985 Pont-Neuf empaqueté",
-                "2021 Arc Triomphe posthume"
-              ]
-            },
-            {
-              "word": "Daniel Buren",
-              "forbiddens": [
-                "colonnes Buren Palais Royal",
-                "rayures 8.7 cm signature",
-                "controverse 1985-86 sculpture",
-                "in situ art contextuel",
-                "noir blanc bandes art"
-              ]
-            },
-            {
-              "word": "JR",
-              "forbiddens": [
-                "street artist photographie",
-                "Inside Out Project portraits géants",
-                "Femmes Sont Héros",
-                "anonyme casquette lunettes noires",
-                "Louvre Pyramide trompe-l'œil immense"
-              ]
-            },
-            {
-              "word": "Olivier Messiaen",
-              "forbiddens": [
-                "compositeur 20e siècle organiste catholique",
-                "Turangalîla Symphonie",
-                "oiseaux chants partition",
-                "Trinité organiste Paris décennies",
-                "Quatuor pour la fin du temps Stalag"
-              ]
-            },
-            {
-              "word": "Pierre Boulez",
-              "forbiddens": [
-                "compositeur chef orchestre avant-garde",
-                "IRCAM fondateur Pompidou",
-                "Le Marteau sans Maître",
-                "Domaine Musical ensemble",
-                "post-sériel avant-garde direction"
-              ]
-            },
-            {
-              "word": "Yann Tiersen",
-              "forbiddens": [
-                "Amélie Poulain bande son musique",
-                "Brest natif Breton",
-                "accordéon piano violon instrumental",
-                "Ouessant Île habite",
-                "instrumental minimal post-rock"
-              ]
-            },
-            {
               "word": "Alexandre Desplat",
               "forbiddens": [
                 "compositeur cinéma international",
@@ -5490,273 +5070,73 @@
               ]
             },
             {
-              "word": "Vladimir Cosma",
+              "word": "Allard",
               "forbiddens": [
-                "compositeur cinéma années 70-80",
-                "La Boum Le Père Noël Ordure",
-                "Le Grand Blond Cousteau musique",
-                "Diva bande originale",
-                "Reality bande Sophie Marceau"
+                "bistrot historique Rue Saint-André-des-Arts",
+                "Mère Allard fondatrice 1932",
+                "Ducasse rachat 2013",
+                "canard navets spécialité signature",
+                "Saint-Germain-des-Prés Rive Gauche"
               ]
             },
             {
-              "word": "Maurice Béjart",
+              "word": "Amedeo Modigliani",
               "forbiddens": [
-                "chorégraphe ballet 20e",
-                "Ballet 20e Siècle Bruxelles Lausanne",
-                "Boléro Sacre Printemps",
-                "danseur Jorge Donn fétiche",
-                "Brel chansons ballets adaptés"
+                "italien-français École Paris",
+                "visages allongés cous longs",
+                "Jeanne Hébuterne tragédie",
+                "Montparnasse années 10 20",
+                "1920 mort tuberculose 35 ans"
               ]
             },
             {
-              "word": "Christian Lacroix",
+              "word": "Amélie Nothomb",
               "forbiddens": [
-                "couturier provençal",
-                "années 80-90 couleurs vives baroque",
-                "Arles natif Camargue tauromachie",
-                "Maison fondée 1987 LVMH",
-                "broderies tauromachie inspiration"
+                "belge écrivaine prolifique annuel",
+                "Stupeur et Tremblements 1999",
+                "Japon enfance diplomate père",
+                "chapeau noir signature",
+                "Académie Goncourt jury membre"
               ]
             },
             {
-              "word": "Thierry Mugler",
+              "word": "Anatole France",
               "forbiddens": [
-                "couturier futuriste années 80-90",
-                "robe corset cintrée sablier",
-                "Angel parfum étoile bleue bonbon",
-                "Strasbourg natif",
-                "transformiste mort 2022"
+                "Nobel Littérature 1921",
+                "Le Crime de Sylvestre Bonnard",
+                "Académie Française 1896",
+                "Île des Pingouins satire",
+                "Paris natif Quai Malaquais"
               ]
             },
             {
-              "word": "Azzedine Alaïa",
+              "word": "André Breton",
               "forbiddens": [
-                "couturier tunisien-français",
-                "moulage robe femme corps",
-                "petit homme parisien",
-                "Naomi Campbell muse mannequin",
-                "boutique Marais 7 rue Moussy"
+                "fondateur surréalisme Manifeste 1924",
+                "Pape Surréalisme surnom autoritaire",
+                "Nadja roman",
+                "écriture automatique méthode",
+                "Tinchebray Orne natif"
               ]
             },
             {
-              "word": "Madeleine Vionnet",
+              "word": "André Gide",
               "forbiddens": [
-                "couturière biais coupe inventrice",
-                "années 20-30",
-                "drape grec inspiré antique",
-                "Aubervilliers atelier",
-                "robe colonne sans corset"
+                "écrivain prix Nobel 1947",
+                "Faux-Monnayeurs Nourritures Terrestres Immoraliste",
+                "homosexualité revendiquée Corydon",
+                "NRF Gallimard cofondateur",
+                "Cuverville Normandie maison Élisabeth"
               ]
             },
             {
-              "word": "Jeanne Lanvin",
+              "word": "André Malraux",
               "forbiddens": [
-                "couturière années 20",
-                "robes mère-fille logo",
-                "Bleu Lanvin couleur signature",
-                "Arpège parfum 1927",
-                "Faubourg Saint-Honoré boutique"
-              ]
-            },
-            {
-              "word": "Elsa Schiaparelli",
-              "forbiddens": [
-                "couturière italienne-FR surréaliste",
-                "rose Shocking Pink couleur signature",
-                "Dalí collaboration homard chapeau chaussure",
-                "années 30 Coco Chanel rivale",
-                "Place Vendôme boutique"
-              ]
-            },
-            {
-              "word": "Paul Poiret",
-              "forbiddens": [
-                "couturier libère corset 1910",
-                "Orient inspiration sultanes turban",
-                "abat-jour robe",
-                "Place Vendôme premières",
-                "années 20 déclin ruine"
-              ]
-            },
-            {
-              "word": "Jacques Fath",
-              "forbiddens": [
-                "couturier années 40-50",
-                "lignes douces ample féminin",
-                "Geneviève Christian Dior époque",
-                "mort jeune 1954 leucémie",
-                "Hollywood actrices clientes"
-              ]
-            },
-            {
-              "word": "Isabel Marant",
-              "forbiddens": [
-                "créatrice mode bohème chic",
-                "boho Paris années 90 2000",
-                "marque sneaker plateforme femmes",
-                "Étoile Bobo Bohème pre-Bobo",
-                "Marais boutiques"
-              ]
-            },
-            {
-              "word": "Nicolas Ghesquière",
-              "forbiddens": [
-                "directeur créatif Balenciaga Louis Vuitton",
-                "années 2010 successions",
-                "Comme des Garçons formation Inhouse",
-                "Loudun natif",
-                "moderne sport luxe contemporain"
-              ]
-            },
-            {
-              "word": "Le Corbusier",
-              "forbiddens": [
-                "architecte Suisse-FR moderne",
-                "Cité Radieuse Marseille",
-                "5 points architecture moderne",
-                "Unité d'Habitation",
-                "Charles-Édouard Jeanneret nom naissance"
-              ]
-            },
-            {
-              "word": "Christian de Portzamparc",
-              "forbiddens": [
-                "architecte Pritzker 1994",
-                "Cité Musique Philharmonie",
-                "Casablanca Tour CMA CGM",
-                "Casino Pont Coupole projet",
-                "Rabat ambassade France"
-              ]
-            },
-            {
-              "word": "Dominique Perrault",
-              "forbiddens": [
-                "BNF François Mitterrand 4 tours livres",
-                "Tolbiac quatre livres ouverts",
-                "Hambourg piscine olympique",
-                "Vélodrome Madrid couvert",
-                "Cité Université EPFL Lausanne"
-              ]
-            },
-            {
-              "word": "Paul Andreu",
-              "forbiddens": [
-                "aéroports terminal Roissy CDG",
-                "Opéra Pékin œuf",
-                "Aérogare circulaire CDG 1",
-                "ingénieur architecte ADP",
-                "Centre national Caen architecture"
-              ]
-            },
-            {
-              "word": "Henri Poincaré",
-              "forbiddens": [
-                "mathématicien physicien fin 19e",
-                "topologie conjecture chaos",
-                "Sorbonne Académie Sciences",
-                "Nancy natif famille élite",
-                "relativité avant Einstein"
-              ]
-            },
-            {
-              "word": "Évariste Galois",
-              "forbiddens": [
-                "mathématicien tragique mort 20 ans",
-                "théorie Galois groupes équations",
-                "duel 31 mai 1832 mort",
-                "Polytechnique refus 2 fois",
-                "Bourg-la-Reine natif"
-              ]
-            },
-            {
-              "word": "Champollion",
-              "forbiddens": [
-                "Jean-François égyptologue",
-                "hiéroglyphes déchiffrement 1822",
-                "Pierre Rosette traduction",
-                "Figeac natif Lot",
-                "Collège France chaire"
-              ]
-            },
-            {
-              "word": "Louis Pasteur",
-              "forbiddens": [
-                "microbiologiste fondateur microbiologie",
-                "vaccin rage 1885 enfant Meister",
-                "Pasteurisation lait",
-                "Dole Jura natif",
-                "Institut Pasteur fondation"
-              ]
-            },
-            {
-              "word": "Marie Curie",
-              "forbiddens": [
-                "Maria Skłodowska polonaise",
-                "radioactivité Polonium Radium",
-                "Nobel Physique 1903 Chimie 1911 deux",
-                "Sorbonne professeure première femme",
-                "fille Irène Joliot-Curie Nobel"
-              ]
-            },
-            {
-              "word": "Pierre Curie",
-              "forbiddens": [
-                "physicien Marie époux",
-                "radioactivité co-prix Nobel 1903",
-                "piézoélectricité",
-                "Sorbonne professeur",
-                "accident calèche mort 1906"
-              ]
-            },
-            {
-              "word": "Frédéric et Irène Joliot-Curie",
-              "forbiddens": [
-                "Frédéric Irène couple",
-                "fille Marie Curie Irène",
-                "Nobel Chimie 1935 radioactivité artificielle",
-                "physiciens nucléaire",
-                "Institut Curie laboratoires"
-              ]
-            },
-            {
-              "word": "Bernadette Soubirous",
-              "forbiddens": [
-                "Lourdes 1858 visions Vierge",
-                "Massabielle grotte source",
-                "miracles guérisons pèlerinage",
-                "Nevers carmélite vie ensuite",
-                "canonisée 1933 sainte"
-              ]
-            },
-            {
-              "word": "Abbé Pierre",
-              "forbiddens": [
-                "Emmaüs fondateur 1949",
-                "appel hiver 1954 ondes radio",
-                "compagnons sans-abri",
-                "barbe béret canne",
-                "Esteville mort 2007"
-              ]
-            },
-            {
-              "word": "Sœur Emmanuelle",
-              "forbiddens": [
-                "religieuse Égypte Caire chiffonniers",
-                "Notre-Dame Sion congrégation",
-                "Madeleine Cinquin nom civil",
-                "Yallah avec Dieu",
-                "centenaire mort 2008 100 ans"
-              ]
-            },
-            {
-              "word": "Léon Foucault",
-              "forbiddens": [
-                "pendule Foucault Panthéon",
-                "vitesse lumière mesure",
-                "rotation Terre démonstration",
-                "Académie Sciences",
-                "1851 expérience Observatoire"
+                "Condition Humaine Goncourt 1933",
+                "Ministre Affaires Culturelles De Gaulle 1959-69",
+                "musée imaginaire concept",
+                "Maisons Culture créées province",
+                "voix Panthéon Jean Moulin discours mythique"
               ]
             },
             {
@@ -5770,33 +5150,623 @@
               ]
             },
             {
-              "word": "Île d'Yeu",
+              "word": "Anjou",
               "forbiddens": [
-                "Vendée île Atlantique",
-                "Port Joinville port principal",
-                "Pétain exilé mort prison",
-                "Côte sauvage Vieux Château",
-                "ferry Fromentine Île Yeu"
+                "Maine-et-Loire région",
+                "Angers château tapisserie Apocalypse",
+                "Loire ardoise tuffeau",
+                "vin Anjou Saumur",
+                "Plantagenêt dynastie médiévale"
               ]
             },
             {
-              "word": "Île de Bréhat",
+              "word": "Anne-Sophie Pic",
               "forbiddens": [
-                "Côtes-d'Armor Bretagne Nord",
-                "fleurs jardin tempéré micro-climat",
-                "Phare Paon Phare Rosédo",
-                "pas voiture vélos piétons",
-                "Ploubazlanec embarcadère"
+                "seule femme trois étoiles France",
+                "Valence Maison Pic Drôme famille",
+                "Top Chef coach M6",
+                "Lait carotte signatures",
+                "trois générations chefs étoiles"
               ]
             },
             {
-              "word": "Ouessant",
+              "word": "Annie Cordy",
               "forbiddens": [
-                "Finistère île occident France",
-                "Créac'h phare puissant Atlantique",
-                "moutons noirs vent fort",
-                "Brest départ ferry",
-                "Iroise mer rouge ardent"
+                "belge française naturalisée",
+                "Tata Yoyo Cho Ka Ka O La Bonne",
+                "Bonbons et caramels",
+                "actrice télé Marraine bonne fée",
+                "centenaire avant mort 2020"
+              ]
+            },
+            {
+              "word": "Annie Ernaux",
+              "forbiddens": [
+                "Nobel Littérature 2022",
+                "auto-sociobiographique La Place Femme Années",
+                "Yvetot Cergy Pontoise",
+                "féminisme classes sociales mémoire",
+                "écriture plate minimal blanche"
+              ]
+            },
+            {
+              "word": "Antoine de Saint-Exupéry",
+              "forbiddens": [
+                "aviateur Aéropostale écrivain",
+                "Le Petit Prince mondial bestseller",
+                "Vol Nuit Terre Hommes",
+                "Lyon natif famille aristocratique",
+                "disparu 31 juillet 1944 Méditerranée mission"
+              ]
+            },
+            {
+              "word": "Antonin Artaud",
+              "forbiddens": [
+                "théâtre cruauté manifeste",
+                "Le Théâtre et son Double",
+                "asile internement long Rodez",
+                "Mort par lui-même Van Gogh",
+                "Marseille natif folle souffrance"
+              ]
+            },
+            {
+              "word": "Antonin Carême",
+              "forbiddens": [
+                "chef cuisinier 19e legend",
+                "Roi Chefs Chef Rois surnom",
+                "Talleyrand Rothschild service",
+                "pâtisserie architecture pièces montées",
+                "haute cuisine fondateur"
+              ]
+            },
+            {
+              "word": "Apostrophes",
+              "forbiddens": [
+                "Bernard Pivot animateur émission littérature",
+                "1975-1990 vendredi 21h30 Antenne 2",
+                "auteurs interview discussion grand public",
+                "millions téléspectateurs grand public",
+                "Bouillon Culture remplaçante"
+              ]
+            },
+            {
+              "word": "Ariane Mnouchkine",
+              "forbiddens": [
+                "Théâtre du Soleil Vincennes",
+                "1789 spectacle révolution",
+                "Cartoucherie Vincennes lieu",
+                "tatouages costumes décor extravagant",
+                "Soulier Satin Mahabharata"
+              ]
+            },
+            {
+              "word": "Arme à Double Tranchant",
+              "forbiddens": [
+                "Avantage",
+                "Risque",
+                "Côté",
+                "Lame",
+                "Danger"
+              ]
+            },
+            {
+              "word": "Arthur Honegger",
+              "forbiddens": [
+                "Groupe Six suisse-français",
+                "Pacific 231 locomotive",
+                "Le Roi David oratorio dramatique",
+                "Symphonies cinq",
+                "Cocteau Antigone collaboration"
+              ]
+            },
+            {
+              "word": "Auguste Escoffier",
+              "forbiddens": [
+                "roi cuisiniers cuisinier rois",
+                "Carlton Ritz Londres direction César Ritz",
+                "Pêche Melba Tournedos Rossini",
+                "Villeneuve-Loubet natif",
+                "Guide Culinaire bible"
+              ]
+            },
+            {
+              "word": "Azzedine Alaïa",
+              "forbiddens": [
+                "couturier tunisien-français",
+                "moulage robe femme corps",
+                "petit homme parisien",
+                "Naomi Campbell muse mannequin",
+                "boutique Marais 7 rue Moussy"
+              ]
+            },
+            {
+              "word": "Bernachon",
+              "forbiddens": [
+                "chocolatier Lyon Cours Franklin Roosevelt",
+                "haut de gamme grand cru",
+                "Maurice Bernachon fondateur",
+                "Brut artisan torréfacteur",
+                "tradition fève cacao"
+              ]
+            },
+            {
+              "word": "Bernadette Soubirous",
+              "forbiddens": [
+                "Lourdes 1858 visions Vierge",
+                "Massabielle grotte source",
+                "miracles guérisons pèlerinage",
+                "Nevers carmélite vie ensuite",
+                "canonisée 1933 sainte"
+              ]
+            },
+            {
+              "word": "Bernard Buffet",
+              "forbiddens": [
+                "expressionniste figuratif années 50-90",
+                "traits noirs anguleux marqué",
+                "Annabel femme muse",
+                "rapide prolifique controversé valeur baisse",
+                "suicide cancer Parkinson 1999"
+              ]
+            },
+            {
+              "word": "Bernard Pivot",
+              "forbiddens": [
+                "Apostrophes Bouillon Culture animateur",
+                "Académie Goncourt président",
+                "Lyon natif vin Beaujolais amour",
+                "Dicos d'or orthographe",
+                "France 2 littérature TV"
+              ]
+            },
+            {
+              "word": "Bernard-Henri Lévy",
+              "forbiddens": [
+                "philosophe médiatique BHL",
+                "Nouvelle Philosophie 1977",
+                "chemise blanche ouverte signature",
+                "engagement Bosnie Libye Ukraine",
+                "Béziers natif élite"
+              ]
+            },
+            {
+              "word": "Berry",
+              "forbiddens": [
+                "Cher Indre",
+                "Bourges Châteauroux",
+                "George Sand Nohant",
+                "campagne plat plaine",
+                "Saint-Étienne cathédrale Bourges UNESCO"
+              ]
+            },
+            {
+              "word": "Bigorre",
+              "forbiddens": [
+                "Hautes-Pyrénées région",
+                "Tarbes ville préfecture",
+                "Pic du Midi haut Bigorre",
+                "Lourdes ville pèlerinage",
+                "Adour rivière source"
+              ]
+            },
+            {
+              "word": "Boris Vian",
+              "forbiddens": [
+                "Écume Jours roman culte",
+                "Déserteur chanson antimilitariste",
+                "jazz trompette amateur",
+                "polymathe ingénieur écrivain",
+                "Saint-Germain-des-Prés Lorientais club"
+              ]
+            },
+            {
+              "word": "Bouillon Chartier",
+              "forbiddens": [
+                "bouillon parisien populaire",
+                "1896 Rue Faubourg Montmartre",
+                "menu pas cher serveurs",
+                "queue trottoir touristes",
+                "garçon écrit nappe addition"
+              ]
+            },
+            {
+              "word": "Bouillon de Culture",
+              "forbiddens": [
+                "Bernard Pivot 1991-2001 France 2",
+                "Apostrophes suite continuation",
+                "culture interview littéraire",
+                "Olivier Le Naire participation",
+                "fin émission grand âge retraite Pivot"
+              ]
+            },
+            {
+              "word": "Bouillon Pigalle",
+              "forbiddens": [
+                "bouillon parisien moderne",
+                "Place Pigalle ouverture 2017",
+                "prix bas formule plats",
+                "queue rues file",
+                "frères Moussié fondateurs"
+              ]
+            },
+            {
+              "word": "Bugnes Lyonnaises",
+              "forbiddens": [
+                "beignets fris Mardi Gras Carnaval",
+                "Lyon Rhône-Alpes spécialité",
+                "pâte fine sucre glace",
+                "février carême période",
+                "Saint-Vincent fête bugnes Beaujolais"
+              ]
+            },
+            {
+              "word": "Byrrh",
+              "forbiddens": [
+                "apéritif vin quinquina",
+                "Thuir Pyrénées-Orientales caves grandes",
+                "Violet Frères fondateurs 1866",
+                "Pernod Ricard groupe",
+                "amer tonique apéritif chic"
+              ]
+            },
+            {
+              "word": "Béarn",
+              "forbiddens": [
+                "Pyrénées-Atlantiques région",
+                "Pau capitale historique vicomté",
+                "Henri IV natif Béarnais",
+                "Garbure soupe spécialité",
+                "indépendance vicomté ancienne historique"
+              ]
+            },
+            {
+              "word": "Café de Flore",
+              "forbiddens": [
+                "Saint-Germain-des-Prés café littéraire",
+                "Sartre Beauvoir habitués philosophes",
+                "Boulevard Saint-Germain coin Rue Saint-Benoît",
+                "Prix Flore littéraire annuel",
+                "années 50 60 intellectuels existentialistes"
+              ]
+            },
+            {
+              "word": "Calvados",
+              "forbiddens": [
+                "eau-de-vie pommes",
+                "Normandie origine pommiers",
+                "trou normand repas",
+                "AOC Pays Auge",
+                "verre digestif tradition fermes"
+              ]
+            },
+            {
+              "word": "Calvados Bessin",
+              "forbiddens": [
+                "Calvados région nord Caen",
+                "Bayeux Tapisserie ville",
+                "vache prairies bocages",
+                "Camembert Pont-l'Évêque Livarot fromages",
+                "Débarquement Arromanches Mulberry"
+              ]
+            },
+            {
+              "word": "Camille Saint-Saëns",
+              "forbiddens": [
+                "Carnaval Animaux Samson Dalila",
+                "compositeur prolifique 19e fin",
+                "organiste Madeleine décennies",
+                "Cygne thème violoncelle",
+                "Académie Beaux-Arts membre"
+              ]
+            },
+            {
+              "word": "Carolyn Carlson",
+              "forbiddens": [
+                "danseuse chorégraphe américaine FR",
+                "Opéra Paris Danse étoile",
+                "Atelier Recherche Chorégraphique fondation",
+                "1974 nommée première",
+                "contemporain art danse poétesse"
+              ]
+            },
+            {
+              "word": "Causses du Larzac",
+              "forbiddens": [
+                "Aveyron Lozère plateau calcaire",
+                "manifestations années 70 paysans",
+                "Saint-Pierre Roquefort caves",
+                "brebis moutons élevage",
+                "Millau viaduc proximité"
+              ]
+            },
+            {
+              "word": "Champollion",
+              "forbiddens": [
+                "Jean-François égyptologue",
+                "hiéroglyphes déchiffrement 1822",
+                "Pierre Rosette traduction",
+                "Figeac natif Lot",
+                "Collège France chaire"
+              ]
+            },
+            {
+              "word": "Charles Péguy",
+              "forbiddens": [
+                "écrivain catholique engagé",
+                "Jeanne d'Arc Mystère charité",
+                "Cahiers Quinzaine revue",
+                "Orléans natif tué front 1914",
+                "Notre Dame Chartres pèlerinage à pied"
+              ]
+            },
+            {
+              "word": "Charles Trenet",
+              "forbiddens": [
+                "La Mer Y'a d'la joie",
+                "Fou Chantant surnom",
+                "Narbonne natif",
+                "Académie Charles Cros prix",
+                "homosexualité scandale années 50"
+              ]
+            },
+            {
+              "word": "Chaïm Soutine",
+              "forbiddens": [
+                "École Paris années 20",
+                "expressionniste Lituanien juif",
+                "bœufs écorchés série",
+                "Modigliani ami compagnon",
+                "Cagnes-sur-Mer Céret périodes"
+              ]
+            },
+            {
+              "word": "Christian Bobin",
+              "forbiddens": [
+                "poète bobinien spirituel",
+                "Le Très-Bas Saint François Assise",
+                "Plus que Vif Femme à Venir",
+                "Saône-et-Loire vit Creusot",
+                "écriture brève poétique"
+              ]
+            },
+            {
+              "word": "Christian de Portzamparc",
+              "forbiddens": [
+                "architecte Pritzker 1994",
+                "Cité Musique Philharmonie",
+                "Casablanca Tour CMA CGM",
+                "Casino Pont Coupole projet",
+                "Rabat ambassade France"
+              ]
+            },
+            {
+              "word": "Christian Lacroix",
+              "forbiddens": [
+                "couturier provençal",
+                "années 80-90 couleurs vives baroque",
+                "Arles natif Camargue tauromachie",
+                "Maison fondée 1987 LVMH",
+                "broderies tauromachie inspiration"
+              ]
+            },
+            {
+              "word": "Christine Angot",
+              "forbiddens": [
+                "auto-fiction inceste père récit",
+                "polémiste France 2 ONPC chroniqueuse",
+                "Goncourt absente écrit Sujet",
+                "Châteauroux natif Cher",
+                "Sujet écrit Inceste choc révélation"
+              ]
+            },
+            {
+              "word": "Christo et Jeanne-Claude",
+              "forbiddens": [
+                "empaqueteurs Pont-Neuf Arc Triomphe Reichstag",
+                "duo couple bulgare",
+                "tissu kilomètres orange jaune",
+                "année 1985 Pont-Neuf empaqueté",
+                "2021 Arc Triomphe posthume"
+              ]
+            },
+            {
+              "word": "Christophe",
+              "forbiddens": [
+                "Aline Les Mots Bleus",
+                "moustache lunettes années 70 80",
+                "instrumental crooner mode",
+                "voix tendre française",
+                "mort Covid 2020 chanteur"
+              ]
+            },
+            {
+              "word": "Claude Debussy",
+              "forbiddens": [
+                "impressionnisme musical",
+                "Prélude après-midi Faune La Mer",
+                "Pelléas Mélisande opéra",
+                "années 1890 1910 fin",
+                "Clair Lune Suite Bergamasque"
+              ]
+            },
+            {
+              "word": "Claude Lévi-Strauss",
+              "forbiddens": [
+                "anthropologue structuralisme",
+                "Tristes Tropiques Brésil terrain",
+                "La Pensée Sauvage Mythologiques",
+                "Académie Française immortel",
+                "centenaire mort 100 ans"
+              ]
+            },
+            {
+              "word": "Comtesse de Ségur",
+              "forbiddens": [
+                "écrivaine",
+                "russe",
+                "enfants",
+                "Malheurs de Sophie",
+                "comtesse"
+              ]
+            },
+            {
+              "word": "Conditions Équitables",
+              "forbiddens": [
+                "Juste",
+                "Égal",
+                "Match",
+                "Chance",
+                "Rival"
+              ]
+            },
+            {
+              "word": "Conflit d'Intérêts",
+              "forbiddens": [
+                "Parti",
+                "Personnel",
+                "Éthique",
+                "Loyauté",
+                "Décision"
+              ]
+            },
+            {
+              "word": "Cotentin",
+              "forbiddens": [
+                "Manche péninsule normande",
+                "Cherbourg ville port militaire",
+                "Mont-Saint-Michel proximité",
+                "Débarquement Omaha Utah Beach",
+                "vache Normande pommes paysages"
+              ]
+            },
+            {
+              "word": "Course vers le Bas",
+              "forbiddens": [
+                "Concurrence",
+                "Baisser",
+                "Qualité",
+                "Prix",
+                "Standard"
+              ]
+            },
+            {
+              "word": "Coûts Irrécupérables",
+              "forbiddens": [
+                "Abandonner",
+                "Investir",
+                "Perte",
+                "Continuer",
+                "Raison"
+              ]
+            },
+            {
+              "word": "Cyril Lignac",
+              "forbiddens": [
+                "chef télé M6 chef opportunité",
+                "Le Quinzième Le Chardenoux",
+                "Aveyron natif",
+                "Top Chef juré première saisons",
+                "boulangeries pâtisseries marque"
+              ]
+            },
+            {
+              "word": "Daniel Buren",
+              "forbiddens": [
+                "colonnes Buren Palais Royal",
+                "rayures 8.7 cm signature",
+                "controverse 1985-86 sculpture",
+                "in situ art contextuel",
+                "noir blanc bandes art"
+              ]
+            },
+            {
+              "word": "Daniel Pennac",
+              "forbiddens": [
+                "Casablanca Maroc né",
+                "Saga Malaussène famille Belleville",
+                "Chagrin École Renaudot 2007",
+                "Belleville Paris ami quartier",
+                "ancien prof français vulgarisateur lecture"
+              ]
+            },
+            {
+              "word": "Darius Milhaud",
+              "forbiddens": [
+                "Groupe Six membre Aix-en-Provence",
+                "Bœuf sur le Toit Cocteau Brésil",
+                "polytonalité technique",
+                "exil USA Mills College",
+                "Marseille Aix natif juif"
+              ]
+            },
+            {
+              "word": "Dominique Perrault",
+              "forbiddens": [
+                "BNF François Mitterrand 4 tours livres",
+                "Tolbiac quatre livres ouverts",
+                "Hambourg piscine olympique",
+                "Vélodrome Madrid couvert",
+                "Cité Université EPFL Lausanne"
+              ]
+            },
+            {
+              "word": "Edgar Morin",
+              "forbiddens": [
+                "sociologue centenaire 102 ans",
+                "pensée complexité",
+                "Méthode encyclopédique 6 tomes",
+                "écologie politique précurseur",
+                "Résistance jeune juif"
+              ]
+            },
+            {
+              "word": "Effet Dunning Kruger",
+              "forbiddens": [
+                "Confiance",
+                "Compétence",
+                "Biais",
+                "Conscient",
+                "Expert"
+              ]
+            },
+            {
+              "word": "Elsa Schiaparelli",
+              "forbiddens": [
+                "couturière italienne-FR surréaliste",
+                "rose Shocking Pink couleur signature",
+                "Dalí collaboration homard chapeau chaussure",
+                "années 30 Coco Chanel rivale",
+                "Place Vendôme boutique"
+              ]
+            },
+            {
+              "word": "Erik Satie",
+              "forbiddens": [
+                "Honfleur natif excentrique",
+                "Gymnopédies Gnossiennes",
+                "Six Berceuse Rose Croix Catholique Art",
+                "Cocteau Picasso Parade ballet",
+                "années 1890 1920 minimaliste précurseur"
+              ]
+            },
+            {
+              "word": "Eugène Ionesco",
+              "forbiddens": [
+                "théâtre absurde roumain français",
+                "Cantatrice Chauve Rhinocéros Leçon",
+                "Académie Française 1970",
+                "Bérenger personnage récurrent",
+                "Slatina natif Roumanie France adopté"
+              ]
+            },
+            {
+              "word": "Fauchon",
+              "forbiddens": [
+                "épicerie luxe Place Madeleine",
+                "couleurs rose noir signature",
+                "1886 fondation Auguste Fauchon",
+                "macarons traiteur réception",
+                "international expansion Tokyo"
               ]
             },
             {
@@ -5820,473 +5790,73 @@
               ]
             },
             {
-              "word": "Plateau du Vercors",
+              "word": "Francis Poulenc",
               "forbiddens": [
-                "Isère Drôme Alpes massif préalpes",
-                "Résistance Seconde Guerre maquis tragique",
-                "falaises calcaires plateau",
-                "Grenoble Sud-Ouest",
-                "Parc Naturel Régional"
+                "Groupe Six membre",
+                "Dialogues Carmélites opéra",
+                "années 20 30 50 prolifique",
+                "religieux nostalgique",
+                "Voix Humaine monodrame"
               ]
             },
             {
-              "word": "Plateau de l'Aubrac",
+              "word": "Françoise Dolto",
               "forbiddens": [
-                "Aveyron Cantal Lozère altiplano",
-                "vaches Aubrac fromage",
-                "Compostelle GR 65 chemin",
-                "aligot truffade fameux",
-                "Laguiole couteaux pliants"
+                "psychanalyste enfance Maison Verte",
+                "France Inter Lorsque enfant paraît",
+                "Marette nom naissance",
+                "Carlos chanson son fils",
+                "Catherine fille Boris fils chanteur Carlos"
               ]
             },
             {
-              "word": "Causses du Larzac",
+              "word": "Françoise Hardy",
               "forbiddens": [
-                "Aveyron Lozère plateau calcaire",
-                "manifestations années 70 paysans",
-                "Saint-Pierre Roquefort caves",
-                "brebis moutons élevage",
-                "Millau viaduc proximité"
+                "Tous les Garçons et les Filles",
+                "années 60 yé-yé icône",
+                "Dutronc Jacques époux",
+                "Mon Amie la Rose",
+                "années 70 80 90 prolifique mode"
               ]
             },
             {
-              "word": "Quercy",
+              "word": "Françoise Sagan",
               "forbiddens": [
-                "Lot Tarn-et-Garonne",
-                "Cahors vin foie gras",
-                "Rocamadour Padirac",
-                "Lot rivière causses",
-                "blanc noir Quercy distinction"
+                "Bonjour Tristesse 18 ans 1954",
+                "Cécile Anne Cyril Cazalet",
+                "scandale jeune star riche",
+                "casino voitures luxe drogue jeux",
+                "Aimez-vous Brahms"
               ]
             },
             {
-              "word": "Périgord noir",
+              "word": "Frédéric et Irène Joliot-Curie",
               "forbiddens": [
-                "Dordogne sud-est",
-                "Sarlat Lascaux Beynac villages",
-                "truffe noire foie gras canard",
-                "Dordogne rivière vallée",
-                "Périgord quatre couleurs"
+                "Frédéric Irène couple",
+                "fille Marie Curie Irène",
+                "Nobel Chimie 1935 radioactivité artificielle",
+                "physiciens nucléaire",
+                "Institut Curie laboratoires"
               ]
             },
             {
-              "word": "Sologne",
+              "word": "Frédéric Mistral",
               "forbiddens": [
-                "Loir-et-Cher Cher",
-                "étangs chasse gibier sauvage",
-                "George Sand romancière vie",
-                "Chambord proximité forêt",
-                "marais étangs faisans sangliers"
+                "Nobel Littérature 1904",
+                "provençal poète Félibrige",
+                "Mireille poème Mireio",
+                "langue d'oc Provençal défense",
+                "Maillane natif Bouches-du-Rhône"
               ]
             },
             {
-              "word": "Berry",
+              "word": "Gabriel Fauré",
               "forbiddens": [
-                "Cher Indre",
-                "Bourges Châteauroux",
-                "George Sand Nohant",
-                "campagne plat plaine",
-                "Saint-Étienne cathédrale Bourges UNESCO"
-              ]
-            },
-            {
-              "word": "Mâconnais",
-              "forbiddens": [
-                "Saône-et-Loire région",
-                "vignoble Bourgogne sud",
-                "Mâcon ville chef-lieu",
-                "Chardonnay cépage roches",
-                "Solutré Pouilly-Fuissé"
-              ]
-            },
-            {
-              "word": "Bigorre",
-              "forbiddens": [
-                "Hautes-Pyrénées région",
-                "Tarbes ville préfecture",
-                "Pic du Midi haut Bigorre",
-                "Lourdes ville pèlerinage",
-                "Adour rivière source"
-              ]
-            },
-            {
-              "word": "Béarn",
-              "forbiddens": [
-                "Pyrénées-Atlantiques région",
-                "Pau capitale historique vicomté",
-                "Henri IV natif Béarnais",
-                "Garbure soupe spécialité",
-                "indépendance vicomté ancienne historique"
-              ]
-            },
-            {
-              "word": "Anjou",
-              "forbiddens": [
-                "Maine-et-Loire région",
-                "Angers château tapisserie Apocalypse",
-                "Loire ardoise tuffeau",
-                "vin Anjou Saumur",
-                "Plantagenêt dynastie médiévale"
-              ]
-            },
-            {
-              "word": "Cotentin",
-              "forbiddens": [
-                "Manche péninsule normande",
-                "Cherbourg ville port militaire",
-                "Mont-Saint-Michel proximité",
-                "Débarquement Omaha Utah Beach",
-                "vache Normande pommes paysages"
-              ]
-            },
-            {
-              "word": "Calvados Bessin",
-              "forbiddens": [
-                "Calvados région nord Caen",
-                "Bayeux Tapisserie ville",
-                "vache prairies bocages",
-                "Camembert Pont-l'Évêque Livarot fromages",
-                "Débarquement Arromanches Mulberry"
-              ]
-            },
-            {
-              "word": "Vendée",
-              "forbiddens": [
-                "Pays Loire département 85",
-                "Puy du Fou parc historique",
-                "Sables-d'Olonne Vendée Globe",
-                "Guerres Vendée Chouans 1793",
-                "Madame de Maintenon Bourbon"
-              ]
-            },
-            {
-              "word": "Bugnes Lyonnaises",
-              "forbiddens": [
-                "beignets fris Mardi Gras Carnaval",
-                "Lyon Rhône-Alpes spécialité",
-                "pâte fine sucre glace",
-                "février carême période",
-                "Saint-Vincent fête bugnes Beaujolais"
-              ]
-            },
-            {
-              "word": "Pralus chocolat",
-              "forbiddens": [
-                "chocolatier Roanne praluline",
-                "François Pralus chocolatier maître",
-                "praline rose brioche",
-                "haut de gamme cacao plantation",
-                "fève cacao bean to bar"
-              ]
-            },
-            {
-              "word": "Bernachon",
-              "forbiddens": [
-                "chocolatier Lyon Cours Franklin Roosevelt",
-                "haut de gamme grand cru",
-                "Maurice Bernachon fondateur",
-                "Brut artisan torréfacteur",
-                "tradition fève cacao"
-              ]
-            },
-            {
-              "word": "Lenôtre",
-              "forbiddens": [
-                "Gaston Lenôtre fondateur école",
-                "haut gamme pâtisserie traiteur",
-                "années 60 80 ascension",
-                "Saint-Nom-Bretèche origine Normandie",
-                "École Lenôtre formation chefs"
-              ]
-            },
-            {
-              "word": "Fauchon",
-              "forbiddens": [
-                "épicerie luxe Place Madeleine",
-                "couleurs rose noir signature",
-                "1886 fondation Auguste Fauchon",
-                "macarons traiteur réception",
-                "international expansion Tokyo"
-              ]
-            },
-            {
-              "word": "Hediard",
-              "forbiddens": [
-                "épicerie fine Place Madeleine",
-                "1854 fondation Ferdinand Hédiard",
-                "exotique premier importateur",
-                "rouge noir décor",
-                "thé café spécialités gastronomie"
-              ]
-            },
-            {
-              "word": "Maille",
-              "forbiddens": [
-                "moutardier Dijon historique 1747",
-                "moutarde Maille royale",
-                "Place Madeleine boutique",
-                "Unilever propriétaire actuel",
-                "fine grenade traditions"
-              ]
-            },
-            {
-              "word": "Michel Cluizel",
-              "forbiddens": [
-                "chocolatier Damville Normandie",
-                "haut gamme manufacture chocolat",
-                "fève cacao single estate",
-                "Cocoa terroirs grands crus origine",
-                "manufacture transmission familial"
-              ]
-            },
-            {
-              "word": "Pierre Hermé",
-              "forbiddens": [
-                "pâtissier macarons modernes",
-                "Picasso pâtisserie surnom Vogue",
-                "Ispahan rose framboise litchi",
-                "Tokyo NY Paris boutiques",
-                "Alsace formation Lenôtre Fauchon"
-              ]
-            },
-            {
-              "word": "Café de Flore",
-              "forbiddens": [
-                "Saint-Germain-des-Prés café littéraire",
-                "Sartre Beauvoir habitués philosophes",
-                "Boulevard Saint-Germain coin Rue Saint-Benoît",
-                "Prix Flore littéraire annuel",
-                "années 50 60 intellectuels existentialistes"
-              ]
-            },
-            {
-              "word": "Les Deux Magots",
-              "forbiddens": [
-                "Saint-Germain-des-Prés café",
-                "Flore voisin concurrent",
-                "Hemingway Sartre Beauvoir Picasso",
-                "Place Saint-Germain",
-                "Prix Deux Magots littéraire"
-              ]
-            },
-            {
-              "word": "Le Procope",
-              "forbiddens": [
-                "plus ancien café Paris 1686",
-                "Voltaire Diderot Rousseau Beaumarchais habitués",
-                "Comédie-Française face origine",
-                "Sicilien Procopio fondateur",
-                "Rue Ancienne Comédie"
-              ]
-            },
-            {
-              "word": "Ladurée",
-              "forbiddens": [
-                "macarons Champs-Élysées Royale",
-                "pâtisserie verte pâle décor",
-                "salon thé luxe",
-                "1862 fondation Louis-Ernest Ladurée",
-                "Marie-Antoinette esprit décor"
-              ]
-            },
-            {
-              "word": "Allard",
-              "forbiddens": [
-                "bistrot historique Rue Saint-André-des-Arts",
-                "Mère Allard fondatrice 1932",
-                "Ducasse rachat 2013",
-                "canard navets spécialité signature",
-                "Saint-Germain-des-Prés Rive Gauche"
-              ]
-            },
-            {
-              "word": "Lipp",
-              "forbiddens": [
-                "brasserie Saint-Germain-des-Prés",
-                "Boulevard Saint-Germain",
-                "choucroute saucisses bières",
-                "années 30 institution littéraire",
-                "Léopold Sédar Senghor mosaïque"
-              ]
-            },
-            {
-              "word": "Le Train Bleu",
-              "forbiddens": [
-                "Gare Lyon restaurant ornementé",
-                "1901 Belle Époque inauguration",
-                "fresques peintures plafond",
-                "Train Bleu Côte Azur célèbre",
-                "monument historique classé"
-              ]
-            },
-            {
-              "word": "Bouillon Chartier",
-              "forbiddens": [
-                "bouillon parisien populaire",
-                "1896 Rue Faubourg Montmartre",
-                "menu pas cher serveurs",
-                "queue trottoir touristes",
-                "garçon écrit nappe addition"
-              ]
-            },
-            {
-              "word": "Bouillon Pigalle",
-              "forbiddens": [
-                "bouillon parisien moderne",
-                "Place Pigalle ouverture 2017",
-                "prix bas formule plats",
-                "queue rues file",
-                "frères Moussié fondateurs"
-              ]
-            },
-            {
-              "word": "Suze",
-              "forbiddens": [
-                "apéritif gentiane jaune amer",
-                "années 1880 Fernand Moureaux",
-                "Pernod Ricard groupe",
-                "Picasso peinture cubiste collage",
-                "amer racines plantes"
-              ]
-            },
-            {
-              "word": "Picon",
-              "forbiddens": [
-                "apéritif amer orange",
-                "années 1837 Gaétan Picon",
-                "bière Picon mélangé picon-bière",
-                "Diageo propriétaire",
-                "Algérie origine 19e siècle"
-              ]
-            },
-            {
-              "word": "Byrrh",
-              "forbiddens": [
-                "apéritif vin quinquina",
-                "Thuir Pyrénées-Orientales caves grandes",
-                "Violet Frères fondateurs 1866",
-                "Pernod Ricard groupe",
-                "amer tonique apéritif chic"
-              ]
-            },
-            {
-              "word": "Mirabelle eau-de-vie",
-              "forbiddens": [
-                "Lorraine eau-de-vie prune jaune",
-                "AOC Mirabelle Lorraine fruit",
-                "alcool fort transparent",
-                "septembre récolte",
-                "digestif goûter régional"
-              ]
-            },
-            {
-              "word": "Calvados",
-              "forbiddens": [
-                "eau-de-vie pommes",
-                "Normandie origine pommiers",
-                "trou normand repas",
-                "AOC Pays Auge",
-                "verre digestif tradition fermes"
-              ]
-            },
-            {
-              "word": "Liqueur de Cassis",
-              "forbiddens": [
-                "Dijon Bourgogne spécialité",
-                "Kir blanc cassis cocktail",
-                "fruits noirs liqueur",
-                "Lejay Lagoute Védrenne marques",
-                "alcool fruité 16-20°"
-              ]
-            },
-            {
-              "word": "Apostrophes",
-              "forbiddens": [
-                "Bernard Pivot animateur émission littérature",
-                "1975-1990 vendredi 21h30 Antenne 2",
-                "auteurs interview discussion grand public",
-                "millions téléspectateurs grand public",
-                "Bouillon Culture remplaçante"
-              ]
-            },
-            {
-              "word": "Bouillon de Culture",
-              "forbiddens": [
-                "Bernard Pivot 1991-2001 France 2",
-                "Apostrophes suite continuation",
-                "culture interview littéraire",
-                "Olivier Le Naire participation",
-                "fin émission grand âge retraite Pivot"
-              ]
-            },
-            {
-              "word": "Le Grand Échiquier",
-              "forbiddens": [
-                "Jacques Chancel animateur Antenne 2 1972-89",
-                "musique classique invités concerts",
-                "studio directs",
-                "longue durée 3 heures",
-                "Michel Drucker reprise tentative"
-              ]
-            },
-            {
-              "word": "Yves Tanguy",
-              "forbiddens": [
-                "peintre surréaliste années 30 40",
-                "paysages désertiques formes biomorphes",
-                "Marin breton Bretagne natif",
-                "exil américain femme Kay Sage",
-                "André Breton groupe ami"
-              ]
-            },
-            {
-              "word": "André Breton",
-              "forbiddens": [
-                "fondateur surréalisme Manifeste 1924",
-                "Pape Surréalisme surnom autoritaire",
-                "Nadja roman",
-                "écriture automatique méthode",
-                "Tinchebray Orne natif"
-              ]
-            },
-            {
-              "word": "Paul Éluard",
-              "forbiddens": [
-                "poète résistant Liberté poème",
-                "Capitale Douleur recueil",
-                "Gala première femme épouse",
-                "communiste engagé PCF",
-                "Éluard pseudonyme Grindel naissance"
-              ]
-            },
-            {
-              "word": "Louis Aragon",
-              "forbiddens": [
-                "Surréalisme premier compagnon Breton",
-                "Elsa Triolet épouse muse",
-                "Communiste engagé PCF Aurélien Cloches Bâle",
-                "résistance Diane française",
-                "Crève-Cœur Yeux Elsa recueils"
-              ]
-            },
-            {
-              "word": "Jean Cocteau",
-              "forbiddens": [
-                "poète cinéaste dessinateur peintre",
-                "Belle et la Bête Orphée Sang Poète",
-                "Édith Piaf amis mort jour même",
-                "Académie Française élu",
-                "Maisons-Laffitte natif Étoile mer"
-              ]
-            },
-            {
-              "word": "Charles Péguy",
-              "forbiddens": [
-                "écrivain catholique engagé",
-                "Jeanne d'Arc Mystère charité",
-                "Cahiers Quinzaine revue",
-                "Orléans natif tué front 1914",
-                "Notre Dame Chartres pèlerinage à pied"
+                "Requiem Pavane Sicilienne",
+                "années 19e fin 20e début",
+                "Conservatoire Paris directeur",
+                "élève Saint-Saëns",
+                "Ariège natif Pamiers"
               ]
             },
             {
@@ -6300,13 +5870,783 @@
               ]
             },
             {
-              "word": "André Gide",
+              "word": "Gilles Deleuze",
               "forbiddens": [
-                "écrivain prix Nobel 1947",
-                "Faux-Monnayeurs Nourritures Terrestres Immoraliste",
-                "homosexualité revendiquée Corydon",
-                "NRF Gallimard cofondateur",
-                "Cuverville Normandie maison Élisabeth"
+                "philosophe Anti-Œdipe rhizome",
+                "Guattari Félix duo",
+                "Différence Répétition",
+                "Mille Plateaux",
+                "suicide défenestration"
+              ]
+            },
+            {
+              "word": "Hector Berlioz",
+              "forbiddens": [
+                "Symphonie Fantastique 1830",
+                "Romantisme idée fixe",
+                "Côte-Saint-André Isère natif",
+                "Damnation Faust Troyens",
+                "Critique passion désespérée Harriet Smithson"
+              ]
+            },
+            {
+              "word": "Hediard",
+              "forbiddens": [
+                "épicerie fine Place Madeleine",
+                "1854 fondation Ferdinand Hédiard",
+                "exotique premier importateur",
+                "rouge noir décor",
+                "thé café spécialités gastronomie"
+              ]
+            },
+            {
+              "word": "Henri Bergson",
+              "forbiddens": [
+                "Bergson Nobel littérature 1927",
+                "Durée Élan Vital",
+                "intuition contre intellect",
+                "Évolution créatrice",
+                "Collège France professeur"
+              ]
+            },
+            {
+              "word": "Henri Poincaré",
+              "forbiddens": [
+                "mathématicien physicien fin 19e",
+                "topologie conjecture chaos",
+                "Sorbonne Académie Sciences",
+                "Nancy natif famille élite",
+                "relativité avant Einstein"
+              ]
+            },
+            {
+              "word": "Henri Rousseau dit le Douanier",
+              "forbiddens": [
+                "Douanier surnom naïf primitif",
+                "jungles fauves rêve",
+                "La Bohémienne endormie",
+                "Picasso banquet hommage célèbre",
+                "autodidacte douane employé Laval"
+              ]
+            },
+            {
+              "word": "Henry de Montherlant",
+              "forbiddens": [
+                "romancier dramaturge Bestiaires Reine Morte",
+                "Académie Française élu",
+                "suicide cécité fin 1972",
+                "polémique politique collaboration accusations",
+                "Filles écrivain misogyne controversé"
+              ]
+            },
+            {
+              "word": "Hervé Bazin",
+              "forbiddens": [
+                "Vipère au Poing Mère Folcoche",
+                "Académie Goncourt président",
+                "Trilogie Rezeau autobiographique",
+                "Angers natif",
+                "Cri Hibou romans série"
+              ]
+            },
+            {
+              "word": "Hippolyte Taine",
+              "forbiddens": [
+                "philosophe",
+                "français",
+                "critique",
+                "histoire",
+                "positivisme"
+              ]
+            },
+            {
+              "word": "Hors de Proportion",
+              "forbiddens": [
+                "Exagérer",
+                "Réagir",
+                "Mesure",
+                "Réalité",
+                "Démesure"
+              ]
+            },
+            {
+              "word": "Huis Clos",
+              "forbiddens": [
+                "Sartre pièce 1944",
+                "trois morts enfer salon Empire",
+                "enfer c'est les autres",
+                "Garcin Inès Estelle",
+                "miroir absent"
+              ]
+            },
+            {
+              "word": "Hélène Darroze",
+              "forbiddens": [
+                "Top Chef coach jury M6",
+                "Connaught Londres Plaza Athénée",
+                "Mont-de-Marsan Landes famille",
+                "Connaught trois étoiles Londres",
+                "Auberge Darroze parents Villeneuve"
+              ]
+            },
+            {
+              "word": "Iannis Xenakis",
+              "forbiddens": [
+                "grec architecte musicien",
+                "Le Corbusier collaboration Cité Radieuse Couvent Tourette",
+                "musique stochastique probabilités",
+                "UPIC interface graphique",
+                "Métastasis 1954 première"
+              ]
+            },
+            {
+              "word": "Illusions Perdues",
+              "forbiddens": [
+                "Balzac La Comédie Humaine",
+                "Lucien de Rubempré poète",
+                "Angoulême Paris province capitale",
+                "journalisme corruption",
+                "Vautrin Carlos Herrera"
+              ]
+            },
+            {
+              "word": "Isabel Marant",
+              "forbiddens": [
+                "créatrice mode bohème chic",
+                "boho Paris années 90 2000",
+                "marque sneaker plateforme femmes",
+                "Étoile Bobo Bohème pre-Bobo",
+                "Marais boutiques"
+              ]
+            },
+            {
+              "word": "J.M.G. Le Clézio",
+              "forbiddens": [
+                "Nobel Littérature 2008",
+                "Désert Onitsha Étoile Errante",
+                "Maurice double nationalité Île",
+                "voyageur écrivain Nouveau Roman école",
+                "Nice natif"
+              ]
+            },
+            {
+              "word": "Jacques Derrida",
+              "forbiddens": [
+                "philosophe Algérie El Biar natif",
+                "déconstruction théorie",
+                "écriture différance",
+                "De la grammatologie",
+                "Yale école américaine"
+              ]
+            },
+            {
+              "word": "Jacques Dutronc",
+              "forbiddens": [
+                "Cactus Faut Pas Toucher",
+                "Hardy Françoise femme depuis",
+                "Van Gogh César acteur Pialat",
+                "Provence Corse vit retiré",
+                "années 60 dandy crooner Et moi"
+              ]
+            },
+            {
+              "word": "Jacques Fath",
+              "forbiddens": [
+                "couturier années 40-50",
+                "lignes douces ample féminin",
+                "Geneviève Christian Dior époque",
+                "mort jeune 1954 leucémie",
+                "Hollywood actrices clientes"
+              ]
+            },
+            {
+              "word": "Jacques Lacan",
+              "forbiddens": [
+                "psychanalyste structuraliste",
+                "École Freudienne Paris fondateur",
+                "Séminaire enseignement Sainte-Anne",
+                "stade miroir développement",
+                "Inconscient structuré langage formule"
+              ]
+            },
+            {
+              "word": "Jacques le Fataliste",
+              "forbiddens": [
+                "Diderot roman dialogue",
+                "Jacques son maître voyage",
+                "philosophique fatalisme déterminisme",
+                "C'était écrit là-haut",
+                "1796 posthume"
+              ]
+            },
+            {
+              "word": "Jean Anouilh",
+              "forbiddens": [
+                "théâtre 20e Antigone Alouette Jeanne",
+                "Pièces noires roses brillantes",
+                "Bordeaux natif",
+                "années 40 50 succès Paris boulevard",
+                "Becket Hommage Dieu Sansévérine"
+              ]
+            },
+            {
+              "word": "Jean Carmet",
+              "forbiddens": [
+                "acteur années 70 80 populaire",
+                "Tony Berger Veber comédies",
+                "vin amour passion gourmet",
+                "Bourgueil natif Indre-et-Loire",
+                "Mort cancer 1994 Paris"
+              ]
+            },
+            {
+              "word": "Jean Cocteau",
+              "forbiddens": [
+                "poète cinéaste dessinateur peintre",
+                "Belle et la Bête Orphée Sang Poète",
+                "Édith Piaf amis mort jour même",
+                "Académie Française élu",
+                "Maisons-Laffitte natif Étoile mer"
+              ]
+            },
+            {
+              "word": "Jean Dubuffet",
+              "forbiddens": [
+                "Art Brut concept fondateur",
+                "Hourloupe série",
+                "Closerie Falbala",
+                "Le Havre natif vin marchand",
+                "Asilaire Art Brut Lausanne"
+              ]
+            },
+            {
+              "word": "Jean Genet",
+              "forbiddens": [
+                "voleur écrivain",
+                "Notre-Dame Fleurs Querelle Brest",
+                "homosexualité prison enfance",
+                "Cocteau Sartre défenseurs",
+                "Bonnes Balcon théâtre"
+              ]
+            },
+            {
+              "word": "Jean Tinguely",
+              "forbiddens": [
+                "sculpteur suisse cinétique",
+                "Niki Saint Phalle épouse",
+                "Fontaine Stravinsky Pompidou animée",
+                "Méta-mécanique machines",
+                "Homage to New York autodestructeur"
+              ]
+            },
+            {
+              "word": "Jean Vilar",
+              "forbiddens": [
+                "TNP Théâtre National Populaire",
+                "Festival Avignon fondateur 1947",
+                "démocratisation culture théâtre",
+                "Gérard Philipe acteur partenaire",
+                "Chaillot direction"
+              ]
+            },
+            {
+              "word": "Jean-Louis Barrault",
+              "forbiddens": [
+                "Enfants Paradis Baptiste Deburau mime",
+                "Madeleine Renaud épouse",
+                "Théâtre Odéon Châtelet directeur",
+                "Mai 68 Odéon expulsé",
+                "Récamier théâtre fondateur"
+              ]
+            },
+            {
+              "word": "Jean-Michel Jarre",
+              "forbiddens": [
+                "compositeur électronique pionnier",
+                "Oxygène Équinoxe Champs-Magnétiques",
+                "Place Concorde concert 1979 record million",
+                "Charlotte Rampling Anne Parillaud épouses",
+                "papa Maurice Jarre Lawrence Arabie"
+              ]
+            },
+            {
+              "word": "Jean-Pierre Rampal",
+              "forbiddens": [
+                "flûtiste classique virtuose",
+                "Marseille natif fils Joseph flûte",
+                "années 50-90 popularisation flûte",
+                "Bach Mozart soliste",
+                "ensemble Rampal flûte"
+              ]
+            },
+            {
+              "word": "Jeanne Lanvin",
+              "forbiddens": [
+                "couturière années 20",
+                "robes mère-fille logo",
+                "Bleu Lanvin couleur signature",
+                "Arpège parfum 1927",
+                "Faubourg Saint-Honoré boutique"
+              ]
+            },
+            {
+              "word": "Jeu à Somme Nulle",
+              "forbiddens": [
+                "Gagner",
+                "Perdre",
+                "Gain",
+                "Autre",
+                "Équilibre"
+              ]
+            },
+            {
+              "word": "Joséphine Baker",
+              "forbiddens": [
+                "américaine FR adoptée",
+                "Saint-Louis Missouri origine",
+                "Revue Nègre Folies Bergère bananes ceinture",
+                "Résistance Seconde Guerre Légion Honneur",
+                "Panthéonisée 2021 première noir"
+              ]
+            },
+            {
+              "word": "Joël Robuchon",
+              "forbiddens": [
+                "chef plus étoilé monde 32",
+                "Atelier Robuchon concept",
+                "purée pomme terre signature",
+                "Poitiers natif chef année 1976",
+                "mort 2018 cancer"
+              ]
+            },
+            {
+              "word": "JR",
+              "forbiddens": [
+                "street artist photographie",
+                "Inside Out Project portraits géants",
+                "Femmes Sont Héros",
+                "anonyme casquette lunettes noires",
+                "Louvre Pyramide trompe-l'œil immense"
+              ]
+            },
+            {
+              "word": "L'Éducation Sentimentale",
+              "forbiddens": [
+                "Flaubert roman",
+                "Frédéric Moreau étudiant",
+                "Madame Arnoux passion impossible",
+                "1840 Paris révolution 1848",
+                "Maxime Du Camp dédicace"
+              ]
+            },
+            {
+              "word": "La Chartreuse de Parme",
+              "forbiddens": [
+                "Stendhal roman 1839",
+                "Fabrice del Dongo",
+                "Italie 1820 Lombardie",
+                "Sanseverina duchesse",
+                "Waterloo épisode début"
+              ]
+            },
+            {
+              "word": "La Chute",
+              "forbiddens": [
+                "Camus roman 1956",
+                "Jean-Baptiste Clamence avocat",
+                "Amsterdam Mexico-City bar",
+                "monologue confession",
+                "juge-pénitent personnage"
+              ]
+            },
+            {
+              "word": "La Cousine Bette",
+              "forbiddens": [
+                "Balzac roman tardif",
+                "Lisbeth Fischer cousine pauvre",
+                "Hortense Adeline famille Hulot",
+                "vengeance complot bourgeoisie",
+                "Marneffe ambitieuse"
+              ]
+            },
+            {
+              "word": "La Nausée",
+              "forbiddens": [
+                "Sartre premier roman 1938",
+                "Antoine Roquentin Bouville",
+                "existentialiste contingence",
+                "marronnier racine révélation",
+                "ennui dégoût"
+              ]
+            },
+            {
+              "word": "La Nouvelle Cuisine",
+              "forbiddens": [
+                "années 70 mouvement cuisine",
+                "Bocuse Troisgros Vergé Guérard",
+                "présentation assiette tradition allégée",
+                "Henri Gault Christian Millau critiques inventeurs",
+                "10 commandements minceur"
+              ]
+            },
+            {
+              "word": "La Nouvelle Vague",
+              "forbiddens": [
+                "cinéma années 1958-65 nouvelle",
+                "Truffaut Godard Chabrol Rohmer Rivette",
+                "Cahiers Cinéma critique avant film",
+                "tournage léger budget réduit naturel",
+                "Bazin théoricien mentor"
+              ]
+            },
+            {
+              "word": "La Pléiade",
+              "forbiddens": [
+                "Pierre Ronsard Joachim Du Bellay",
+                "groupe sept poètes XVIe Renaissance",
+                "Défense Illustration langue française",
+                "Pétrarque imitation italien",
+                "Sonnet Renaissance France"
+              ]
+            },
+            {
+              "word": "Ladurée",
+              "forbiddens": [
+                "macarons Champs-Élysées Royale",
+                "pâtisserie verte pâle décor",
+                "salon thé luxe",
+                "1862 fondation Louis-Ernest Ladurée",
+                "Marie-Antoinette esprit décor"
+              ]
+            },
+            {
+              "word": "Lazare Carnot",
+              "forbiddens": [
+                "Organisateur Victoire armées Révolution",
+                "mathématicien physicien Comité Salut Public",
+                "Père Sadi Carnot président petit-fils",
+                "Nolay Côte-d'Or natif",
+                "guerres révolutionnaires fin 18e"
+              ]
+            },
+            {
+              "word": "Le Barbier de Séville",
+              "forbiddens": [
+                "Beaumarchais comédie 1775",
+                "Figaro barbier",
+                "Rosine Bartholo tuteur",
+                "Comte Almaviva amoureux",
+                "trilogie première œuvre"
+              ]
+            },
+            {
+              "word": "Le Bateau Ivre",
+              "forbiddens": [
+                "Rimbaud poème 1871",
+                "vers libres bateau libéré",
+                "voyage hallucinatoire fleuves mers",
+                "100 vers alexandrins",
+                "Verlaine impressionné premier"
+              ]
+            },
+            {
+              "word": "Le Corbusier",
+              "forbiddens": [
+                "architecte Suisse-FR moderne",
+                "Cité Radieuse Marseille",
+                "5 points architecture moderne",
+                "Unité d'Habitation",
+                "Charles-Édouard Jeanneret nom naissance"
+              ]
+            },
+            {
+              "word": "Le Deuxième Sexe",
+              "forbiddens": [
+                "Simone de Beauvoir 1949",
+                "féminisme essai fondateur",
+                "On ne naît pas femme on le devient",
+                "deux tomes Faits Mythes Expérience",
+                "Sartre compagne"
+              ]
+            },
+            {
+              "word": "Le Grand Échiquier",
+              "forbiddens": [
+                "Jacques Chancel animateur Antenne 2 1972-89",
+                "musique classique invités concerts",
+                "studio directs",
+                "longue durée 3 heures",
+                "Michel Drucker reprise tentative"
+              ]
+            },
+            {
+              "word": "Le Mariage de Figaro",
+              "forbiddens": [
+                "Beaumarchais comédie 1784",
+                "Figaro valet ruse",
+                "Comte Almaviva libertin",
+                "Suzanne Chérubin",
+                "Mozart opéra Rossini"
+              ]
+            },
+            {
+              "word": "Le Mythe de Sisyphe",
+              "forbiddens": [
+                "Camus essai 1942",
+                "absurde philosophique",
+                "Sisyphe rocher éternel",
+                "il faut imaginer heureux",
+                "suicide philosophique question"
+              ]
+            },
+            {
+              "word": "Le Neveu de Rameau",
+              "forbiddens": [
+                "Diderot dialogue posthume",
+                "Neveu Jean-François Rameau musicien",
+                "Moi philosophe Lui musicien",
+                "Goethe traduction admire",
+                "Café Régence Paris"
+              ]
+            },
+            {
+              "word": "Le Parnasse",
+              "forbiddens": [
+                "école poétique 19e",
+                "Leconte Lisle José-Maria Heredia",
+                "art pour art principe",
+                "perfection formelle marbre",
+                "Théophile Gautier précurseur"
+              ]
+            },
+            {
+              "word": "Le Procope",
+              "forbiddens": [
+                "plus ancien café Paris 1686",
+                "Voltaire Diderot Rousseau Beaumarchais habitués",
+                "Comédie-Française face origine",
+                "Sicilien Procopio fondateur",
+                "Rue Ancienne Comédie"
+              ]
+            },
+            {
+              "word": "Le Spleen de Paris",
+              "forbiddens": [
+                "Baudelaire posthume 1869",
+                "petits poèmes prose 50",
+                "Paris flâneur observations",
+                "Anywhere Out of the World",
+                "L'Étranger ouverture"
+              ]
+            },
+            {
+              "word": "Le Surréalisme",
+              "forbiddens": [
+                "André Breton Manifeste 1924",
+                "écriture automatique rêve inconscient",
+                "Aragon Éluard Dalí Magritte Buñuel",
+                "années 20 30 jusque 60",
+                "antibourgeois antirationaliste révolte"
+              ]
+            },
+            {
+              "word": "Le Symbolisme",
+              "forbiddens": [
+                "Mallarmé Verlaine Rimbaud Baudelaire précurseur",
+                "correspondances synesthésie",
+                "rêve mystère poétique",
+                "fin 19e mouvement décadence",
+                "Maeterlinck théâtre"
+              ]
+            },
+            {
+              "word": "Le Train Bleu",
+              "forbiddens": [
+                "Gare Lyon restaurant ornementé",
+                "1901 Belle Époque inauguration",
+                "fresques peintures plafond",
+                "Train Bleu Côte Azur célèbre",
+                "monument historique classé"
+              ]
+            },
+            {
+              "word": "Lenôtre",
+              "forbiddens": [
+                "Gaston Lenôtre fondateur école",
+                "haut gamme pâtisserie traiteur",
+                "années 60 80 ascension",
+                "Saint-Nom-Bretèche origine Normandie",
+                "École Lenôtre formation chefs"
+              ]
+            },
+            {
+              "word": "Les Confessions",
+              "forbiddens": [
+                "Rousseau autobiographie posthume",
+                "12 livres Vie",
+                "Maman Madame de Warens",
+                "Hermitage Montmorency Genève",
+                "premier auto-introspectif moderne"
+              ]
+            },
+            {
+              "word": "Les Deux Magots",
+              "forbiddens": [
+                "Saint-Germain-des-Prés café",
+                "Flore voisin concurrent",
+                "Hemingway Sartre Beauvoir Picasso",
+                "Place Saint-Germain",
+                "Prix Deux Magots littéraire"
+              ]
+            },
+            {
+              "word": "Les Essais",
+              "forbiddens": [
+                "Michel de Montaigne",
+                "Que sais-je devise",
+                "Bordeaux maire essais",
+                "humaniste Renaissance",
+                "tour château retraite"
+              ]
+            },
+            {
+              "word": "Les Fleurs du Mal",
+              "forbiddens": [
+                "Charles Baudelaire 1857",
+                "recueil poésie scandale procès censure",
+                "Spleen Idéal",
+                "Albatros pièces condamnées",
+                "À une Passante célèbre"
+              ]
+            },
+            {
+              "word": "Les Pensées",
+              "forbiddens": [
+                "Blaise Pascal posthume 1670",
+                "fragments apologie chrétienne",
+                "Pari Pascal infini",
+                "Roseau pensant homme",
+                "Jansénisme Port-Royal"
+              ]
+            },
+            {
+              "word": "Les Travailleurs de la Mer",
+              "forbiddens": [
+                "Victor Hugo 1866",
+                "Gilliatt pêcheur Guernesey",
+                "machine sauvetage poulpe",
+                "Iles Anglo-Normandes mer exil",
+                "Durande bateau vapeur"
+              ]
+            },
+            {
+              "word": "Lipp",
+              "forbiddens": [
+                "brasserie Saint-Germain-des-Prés",
+                "Boulevard Saint-Germain",
+                "choucroute saucisses bières",
+                "années 30 institution littéraire",
+                "Léopold Sédar Senghor mosaïque"
+              ]
+            },
+            {
+              "word": "Liqueur de Cassis",
+              "forbiddens": [
+                "Dijon Bourgogne spécialité",
+                "Kir blanc cassis cocktail",
+                "fruits noirs liqueur",
+                "Lejay Lagoute Védrenne marques",
+                "alcool fruité 16-20°"
+              ]
+            },
+            {
+              "word": "Louis Aragon",
+              "forbiddens": [
+                "Surréalisme premier compagnon Breton",
+                "Elsa Triolet épouse muse",
+                "Communiste engagé PCF Aurélien Cloches Bâle",
+                "résistance Diane française",
+                "Crève-Cœur Yeux Elsa recueils"
+              ]
+            },
+            {
+              "word": "Louis Pasteur",
+              "forbiddens": [
+                "microbiologiste fondateur microbiologie",
+                "vaccin rage 1885 enfant Meister",
+                "Pasteurisation lait",
+                "Dole Jura natif",
+                "Institut Pasteur fondation"
+              ]
+            },
+            {
+              "word": "Léon Foucault",
+              "forbiddens": [
+                "pendule Foucault Panthéon",
+                "vitesse lumière mesure",
+                "rotation Terre démonstration",
+                "Académie Sciences",
+                "1851 expérience Observatoire"
+              ]
+            },
+            {
+              "word": "Léopold Sédar Senghor",
+              "forbiddens": [
+                "Sénégal président poète",
+                "Négritude mouvement Césaire ami",
+                "Académie Française 1983 première noir",
+                "Joal-Fadiouth natif",
+                "Verson Normandie mort"
+              ]
+            },
+            {
+              "word": "Madeleine Renaud",
+              "forbiddens": [
+                "actrice longueur carrière",
+                "Jean-Louis Barrault époux",
+                "Comédie-Française pensionnaire départ 1947",
+                "Compagnie théâtre Renaud-Barrault",
+                "Marguerite Duras actrice fétiche"
+              ]
+            },
+            {
+              "word": "Madeleine Vionnet",
+              "forbiddens": [
+                "couturière biais coupe inventrice",
+                "années 20-30",
+                "drape grec inspiré antique",
+                "Aubervilliers atelier",
+                "robe colonne sans corset"
+              ]
+            },
+            {
+              "word": "Maille",
+              "forbiddens": [
+                "moutardier Dijon historique 1747",
+                "moutarde Maille royale",
+                "Place Madeleine boutique",
+                "Unilever propriétaire actuel",
+                "fine grenade traditions"
+              ]
+            },
+            {
+              "word": "Marc Chagall",
+              "forbiddens": [
+                "russo-français Vitebsk Loshyts",
+                "Opéra Garnier plafond peinture",
+                "vitraux Reims Metz cathédrales",
+                "violoniste vache lévitation amour",
+                "amour Bella thème poétique"
+              ]
+            },
+            {
+              "word": "Marcel Marceau",
+              "forbiddens": [
+                "mime artiste muet",
+                "Bip personnage chapeau melon fleur rouge",
+                "Strasbourg formation Étienne Decroux",
+                "USA shows mondial",
+                "Yiddish enfance Mendel Mangel"
               ]
             },
             {
@@ -6330,93 +6670,133 @@
               ]
             },
             {
-              "word": "Émile Cioran",
+              "word": "Marie Cardinal",
               "forbiddens": [
-                "philosophe roumain français",
-                "Précis Décomposition aphorismes",
-                "pessimisme nihilisme noir",
-                "Rue Odéon Paris habite mansarde",
-                "français adopté écrit langue choisie"
+                "Mots pour Dire roman 1975",
+                "Algérie pieds-noirs née Alger",
+                "Maintenant Vivants féministe",
+                "Psychanalyse récit autobiographique",
+                "années 70 80 succès"
               ]
             },
             {
-              "word": "Eugène Ionesco",
+              "word": "Marie Curie",
               "forbiddens": [
-                "théâtre absurde roumain français",
-                "Cantatrice Chauve Rhinocéros Leçon",
-                "Académie Française 1970",
-                "Bérenger personnage récurrent",
-                "Slatina natif Roumanie France adopté"
+                "Maria Skłodowska polonaise",
+                "radioactivité Polonium Radium",
+                "Nobel Physique 1903 Chimie 1911 deux",
+                "Sorbonne professeure première femme",
+                "fille Irène Joliot-Curie Nobel"
               ]
             },
             {
-              "word": "Samuel Beckett",
+              "word": "Marie-Claude Pietragalla",
               "forbiddens": [
-                "Irlandais français adopté",
-                "En Attendant Godot 1953",
-                "Nobel Littérature 1969",
-                "Joyce assistant ami secrétaire",
-                "Vladimir Estragon attente vain"
+                "danseuse étoile Opéra Paris",
+                "compagnie Pietragalla Théâtre Corps",
+                "Marseille Ballet National direction",
+                "blonde longue chevelure rousse",
+                "années 90 starisée danse contemporaine"
               ]
             },
             {
-              "word": "Antonin Artaud",
+              "word": "Maréchal Lyautey",
               "forbiddens": [
-                "théâtre cruauté manifeste",
-                "Le Théâtre et son Double",
-                "asile internement long Rodez",
-                "Mort par lui-même Van Gogh",
-                "Marseille natif folle souffrance"
-              ]
-            },
-            {
-              "word": "Jean Anouilh",
-              "forbiddens": [
-                "théâtre 20e Antigone Alouette Jeanne",
-                "Pièces noires roses brillantes",
-                "Bordeaux natif",
-                "années 40 50 succès Paris boulevard",
-                "Becket Hommage Dieu Sansévérine"
-              ]
-            },
-            {
-              "word": "Henry de Montherlant",
-              "forbiddens": [
-                "romancier dramaturge Bestiaires Reine Morte",
+                "maréchal France colonial",
+                "Maroc Protectorat résident général",
                 "Académie Française élu",
-                "suicide cécité fin 1972",
-                "polémique politique collaboration accusations",
-                "Filles écrivain misogyne controversé"
+                "carrière Indochine Madagascar Algérie Maroc",
+                "Centenaire Rabat hôpital"
               ]
             },
             {
-              "word": "André Malraux",
+              "word": "Maurice Béjart",
               "forbiddens": [
-                "Condition Humaine Goncourt 1933",
-                "Ministre Affaires Culturelles De Gaulle 1959-69",
-                "musée imaginaire concept",
-                "Maisons Culture créées province",
-                "voix Panthéon Jean Moulin discours mythique"
+                "chorégraphe ballet 20e",
+                "Ballet 20e Siècle Bruxelles Lausanne",
+                "Boléro Sacre Printemps",
+                "danseur Jorge Donn fétiche",
+                "Brel chansons ballets adaptés"
               ]
             },
             {
-              "word": "Romain Gary",
+              "word": "Maurice Chevalier",
               "forbiddens": [
-                "deux Goncourt deux pseudonymes Émile Ajar",
-                "Promesse Aube La Vie devant Soi",
-                "diplomate aviateur Guerre Lithuanie",
-                "Jean Seberg épouse actrice",
-                "suicide 1980 Paris Gauloise"
+                "Paname Valentine Prosper",
+                "chapeau melon nœud papillon",
+                "Hollywood années 30 expat",
+                "Mistinguett ex liaison vedette",
+                "Marnes-la-Coquette natif"
               ]
             },
             {
-              "word": "Patrick Modiano",
+              "word": "Maurice Ravel",
               "forbiddens": [
-                "Nobel Littérature 2014",
-                "Place Étoile Rue Boutiques Obscures",
-                "Occupation mémoire enfance",
-                "père juif années 40 Paris collaboration",
-                "écriture épurée mystère identité"
+                "Boléro 1928 commande",
+                "Daphnis Chloé Concerto sol main gauche",
+                "Ciboure Pays Basque natif",
+                "tableaux Moussorgsky orchestration",
+                "Pavane Infante défunte"
+              ]
+            },
+            {
+              "word": "Maurice Utrillo",
+              "forbiddens": [
+                "peintre Montmartre paysages rues",
+                "Suzanne Valadon mère peintre",
+                "alcoolisme période blanche",
+                "rue parisienne caractéristique",
+                "naïf populaire fils valadon"
+              ]
+            },
+            {
+              "word": "Michel Bouquet",
+              "forbiddens": [
+                "acteur théâtre cinéma raffiné",
+                "Le Promeneur Champ Mars Mitterrand",
+                "Toto Héros film",
+                "Chabrol fréquent acteur",
+                "Comédie-Française société théâtre"
+              ]
+            },
+            {
+              "word": "Michel Cluizel",
+              "forbiddens": [
+                "chocolatier Damville Normandie",
+                "haut gamme manufacture chocolat",
+                "fève cacao single estate",
+                "Cocoa terroirs grands crus origine",
+                "manufacture transmission familial"
+              ]
+            },
+            {
+              "word": "Michel Cymes",
+              "forbiddens": [
+                "ORL médecin TV",
+                "Le Magazine de la Santé France 5",
+                "Marina Carrère d'Encausse copine émission",
+                "Académie Médecine confrérie",
+                "vulgarisation médicale"
+              ]
+            },
+            {
+              "word": "Michel Foucault",
+              "forbiddens": [
+                "philosophe historien Poitiers natif",
+                "Surveiller et Punir Histoire Folie",
+                "savoir pouvoir biopolitique",
+                "Sexualité histoire trilogie",
+                "Sida mort 1984"
+              ]
+            },
+            {
+              "word": "Michel Galabru",
+              "forbiddens": [
+                "Le Juge et l'Assassin César Vacher tueur",
+                "Gendarmerie Saint-Tropez Cruchot brigadier",
+                "Safari Cruchot comique",
+                "Académie acteur prolifique cinéma",
+                "Marseille mort 2016 acteur populaire"
               ]
             },
             {
@@ -6430,63 +6810,273 @@
               ]
             },
             {
-              "word": "Annie Ernaux",
+              "word": "Mirabelle eau-de-vie",
               "forbiddens": [
-                "Nobel Littérature 2022",
-                "auto-sociobiographique La Place Femme Années",
-                "Yvetot Cergy Pontoise",
-                "féminisme classes sociales mémoire",
-                "écriture plate minimal blanche"
+                "Lorraine eau-de-vie prune jaune",
+                "AOC Mirabelle Lorraine fruit",
+                "alcool fort transparent",
+                "septembre récolte",
+                "digestif goûter régional"
               ]
             },
             {
-              "word": "Amélie Nothomb",
+              "word": "Mistinguett",
               "forbiddens": [
-                "belge écrivaine prolifique annuel",
-                "Stupeur et Tremblements 1999",
-                "Japon enfance diplomate père",
-                "chapeau noir signature",
-                "Académie Goncourt jury membre"
+                "music-hall années 20 30 vedette",
+                "Casino Paris Folies Bergère",
+                "jambes assurées chères Lloyd's",
+                "Maurice Chevalier liaison",
+                "Mon Homme Reine Plumes"
               ]
             },
             {
-              "word": "Daniel Pennac",
+              "word": "Mâconnais",
               "forbiddens": [
-                "Casablanca Maroc né",
-                "Saga Malaussène famille Belleville",
-                "Chagrin École Renaudot 2007",
-                "Belleville Paris ami quartier",
-                "ancien prof français vulgarisateur lecture"
+                "Saône-et-Loire région",
+                "vignoble Bourgogne sud",
+                "Mâcon ville chef-lieu",
+                "Chardonnay cépage roches",
+                "Solutré Pouilly-Fuissé"
               ]
             },
             {
-              "word": "Christine Angot",
+              "word": "Mémoires d'une Jeune Fille Rangée",
               "forbiddens": [
-                "auto-fiction inceste père récit",
-                "polémiste France 2 ONPC chroniqueuse",
-                "Goncourt absente écrit Sujet",
-                "Châteauroux natif Cher",
-                "Sujet écrit Inceste choc révélation"
+                "Beauvoir autobiographie 1958",
+                "enfance bourgeoise Catholique Paris",
+                "Zaza meilleure amie morte",
+                "agrégation Sartre rencontre",
+                "première tome quatre"
               ]
             },
             {
-              "word": "Hervé Bazin",
+              "word": "Natalie Dessay",
               "forbiddens": [
-                "Vipère au Poing Mère Folcoche",
-                "Académie Goncourt président",
-                "Trilogie Rezeau autobiographique",
-                "Angers natif",
-                "Cri Hibou romans série"
+                "soprano colorature légende",
+                "Lakmé Olympia rôles signatures",
+                "Lyon Conservatoire formation",
+                "rôle Manon Lescaut",
+                "retraite opéra 2013 chanson tournée"
               ]
             },
             {
-              "word": "Jean-Michel Jarre",
+              "word": "Nicolas Bourbaki",
               "forbiddens": [
-                "compositeur électronique pionnier",
-                "Oxygène Équinoxe Champs-Magnétiques",
-                "Place Concorde concert 1979 record million",
-                "Charlotte Rampling Anne Parillaud épouses",
-                "papa Maurice Jarre Lawrence Arabie"
+                "collectif mathématiciens 1935 fondé",
+                "Éléments Mathématique encyclopédie",
+                "Cartan Weil Dieudonné Chevalley fondateurs",
+                "ENS École Normale école",
+                "structuralisme axiomatique programme"
+              ]
+            },
+            {
+              "word": "Nicolas Ghesquière",
+              "forbiddens": [
+                "directeur créatif Balenciaga Louis Vuitton",
+                "années 2010 successions",
+                "Comme des Garçons formation Inhouse",
+                "Loudun natif",
+                "moderne sport luxe contemporain"
+              ]
+            },
+            {
+              "word": "Niki de Saint Phalle",
+              "forbiddens": [
+                "sculptrice Nanas colorées géantes",
+                "fontaine Stravinsky Pompidou",
+                "Tarot Jardin Toscane",
+                "tirs peinture années 60",
+                "Jean Tinguely époux"
+              ]
+            },
+            {
+              "word": "Olivier Messiaen",
+              "forbiddens": [
+                "compositeur 20e siècle organiste catholique",
+                "Turangalîla Symphonie",
+                "oiseaux chants partition",
+                "Trinité organiste Paris décennies",
+                "Quatuor pour la fin du temps Stalag"
+              ]
+            },
+            {
+              "word": "Ouessant",
+              "forbiddens": [
+                "Finistère île occident France",
+                "Créac'h phare puissant Atlantique",
+                "moutons noirs vent fort",
+                "Brest départ ferry",
+                "Iroise mer rouge ardent"
+              ]
+            },
+            {
+              "word": "Partie Émergée",
+              "forbiddens": [
+                "Surface",
+                "Caché",
+                "Visible",
+                "Iceberg",
+                "Dessous"
+              ]
+            },
+            {
+              "word": "Pascal Quignard",
+              "forbiddens": [
+                "Tous Matins Monde inspiré roman",
+                "Goncourt 2002 Ombres errantes",
+                "musique baroque connaisseur",
+                "isolement provincial Yvelines",
+                "Sainte Colombe viole gambe"
+              ]
+            },
+            {
+              "word": "Patrice Chéreau",
+              "forbiddens": [
+                "théâtre Bayreuth Anneau Nibelungen direction",
+                "Reine Margot film Cannes",
+                "TNP Nanterre Amandiers direction",
+                "Hamlet Avignon scandale",
+                "Intimacy Phèdre fin vie"
+              ]
+            },
+            {
+              "word": "Patrick Modiano",
+              "forbiddens": [
+                "Nobel Littérature 2014",
+                "Place Étoile Rue Boutiques Obscures",
+                "Occupation mémoire enfance",
+                "père juif années 40 Paris collaboration",
+                "écriture épurée mystère identité"
+              ]
+            },
+            {
+              "word": "Paul Andreu",
+              "forbiddens": [
+                "aéroports terminal Roissy CDG",
+                "Opéra Pékin œuf",
+                "Aérogare circulaire CDG 1",
+                "ingénieur architecte ADP",
+                "Centre national Caen architecture"
+              ]
+            },
+            {
+              "word": "Paul Bocuse",
+              "forbiddens": [
+                "Lyon Collonges chef légende",
+                "trois étoiles 50 ans record",
+                "Bocuse d'Or concours mondial",
+                "soupe truffes VGE Élysée 1975",
+                "Hall Lyon marché nom"
+              ]
+            },
+            {
+              "word": "Paul Poiret",
+              "forbiddens": [
+                "couturier libère corset 1910",
+                "Orient inspiration sultanes turban",
+                "abat-jour robe",
+                "Place Vendôme premières",
+                "années 20 déclin ruine"
+              ]
+            },
+            {
+              "word": "Paul Éluard",
+              "forbiddens": [
+                "poète résistant Liberté poème",
+                "Capitale Douleur recueil",
+                "Gala première femme épouse",
+                "communiste engagé PCF",
+                "Éluard pseudonyme Grindel naissance"
+              ]
+            },
+            {
+              "word": "Picon",
+              "forbiddens": [
+                "apéritif amer orange",
+                "années 1837 Gaétan Picon",
+                "bière Picon mélangé picon-bière",
+                "Diageo propriétaire",
+                "Algérie origine 19e siècle"
+              ]
+            },
+            {
+              "word": "Pierre Bellemare",
+              "forbiddens": [
+                "animateur radio télé années 50-90",
+                "Histoires extraordinaires raconteur",
+                "voix grave conteur",
+                "C'est Mon Choix présentateur",
+                "Cinq millions Français Schedell co-créateur"
+              ]
+            },
+            {
+              "word": "Pierre Bonnard",
+              "forbiddens": [
+                "nabis groupe couleurs vives",
+                "Marthe femme nu modèle obsession",
+                "Cannet Côte Azur fin vie",
+                "intérieurs paysages méditerranée",
+                "années 20 30 affichiste France-Champagne"
+              ]
+            },
+            {
+              "word": "Pierre Boulez",
+              "forbiddens": [
+                "compositeur chef orchestre avant-garde",
+                "IRCAM fondateur Pompidou",
+                "Le Marteau sans Maître",
+                "Domaine Musical ensemble",
+                "post-sériel avant-garde direction"
+              ]
+            },
+            {
+              "word": "Pierre Bourdieu",
+              "forbiddens": [
+                "sociologue Béarn natif",
+                "La Distinction Misère du Monde",
+                "habitus capital social culturel",
+                "Collège France chaire",
+                "années 90-2000 médiatique"
+              ]
+            },
+            {
+              "word": "Pierre Brasseur",
+              "forbiddens": [
+                "acteur années 30-60 théâtral",
+                "Enfants Paradis Frédérick Lemaître",
+                "Claude Brasseur fils",
+                "voix grandiloquente théâtre",
+                "Quatre Cents Coups apparition"
+              ]
+            },
+            {
+              "word": "Pierre Cochereau",
+              "forbiddens": [
+                "Notre-Dame Paris organiste titulaire",
+                "improvisateur génie reconnu",
+                "Conservatoire enseignement",
+                "1955-1984 service Notre-Dame",
+                "concerts internationaux tournées"
+              ]
+            },
+            {
+              "word": "Pierre Curie",
+              "forbiddens": [
+                "physicien Marie époux",
+                "radioactivité co-prix Nobel 1903",
+                "piézoélectricité",
+                "Sorbonne professeur",
+                "accident calèche mort 1906"
+              ]
+            },
+            {
+              "word": "Pierre Gagnaire",
+              "forbiddens": [
+                "chef trois étoiles avant-garde",
+                "Saint-Étienne origine carrière",
+                "associations cocottes inattendu",
+                "création textures fusion",
+                "Sketch Londres restaurant"
               ]
             },
             {
@@ -6500,6 +7090,26 @@
               ]
             },
             {
+              "word": "Pierre Hermé",
+              "forbiddens": [
+                "pâtissier macarons modernes",
+                "Picasso pâtisserie surnom Vogue",
+                "Ispahan rose framboise litchi",
+                "Tokyo NY Paris boutiques",
+                "Alsace formation Lenôtre Fauchon"
+              ]
+            },
+            {
+              "word": "Pierre Mendès France",
+              "forbiddens": [
+                "Président Conseil 1954",
+                "verre lait combat alcool écoles",
+                "Indochine fin guerre Genève",
+                "modernisateur économique",
+                "radical-socialiste convictions juif"
+              ]
+            },
+            {
               "word": "Pierre Schaeffer",
               "forbiddens": [
                 "RTF musique concrète fondateur 1948",
@@ -6510,13 +7120,523 @@
               ]
             },
             {
-              "word": "Iannis Xenakis",
+              "word": "Plateau de l'Aubrac",
               "forbiddens": [
-                "grec architecte musicien",
-                "Le Corbusier collaboration Cité Radieuse Couvent Tourette",
-                "musique stochastique probabilités",
-                "UPIC interface graphique",
-                "Métastasis 1954 première"
+                "Aveyron Cantal Lozère altiplano",
+                "vaches Aubrac fromage",
+                "Compostelle GR 65 chemin",
+                "aligot truffade fameux",
+                "Laguiole couteaux pliants"
+              ]
+            },
+            {
+              "word": "Plateau du Vercors",
+              "forbiddens": [
+                "Isère Drôme Alpes massif préalpes",
+                "Résistance Seconde Guerre maquis tragique",
+                "falaises calcaires plateau",
+                "Grenoble Sud-Ouest",
+                "Parc Naturel Régional"
+              ]
+            },
+            {
+              "word": "Point de Non Retour",
+              "forbiddens": [
+                "Seuil",
+                "Engager",
+                "Avancer",
+                "Passé",
+                "Décision"
+              ]
+            },
+            {
+              "word": "Pralus chocolat",
+              "forbiddens": [
+                "chocolatier Roanne praluline",
+                "François Pralus chocolatier maître",
+                "praline rose brioche",
+                "haut de gamme cacao plantation",
+                "fève cacao bean to bar"
+              ]
+            },
+            {
+              "word": "Pris Pour Acquis",
+              "forbiddens": [
+                "Apprécier",
+                "Garanti",
+                "Remarquer",
+                "Ignorer",
+                "Habitude"
+              ]
+            },
+            {
+              "word": "Prophétie Auto Réalisatrice",
+              "forbiddens": [
+                "Croyance",
+                "Résultat",
+                "Prédire",
+                "Devenir",
+                "Cause"
+              ]
+            },
+            {
+              "word": "Périgord noir",
+              "forbiddens": [
+                "Dordogne sud-est",
+                "Sarlat Lascaux Beynac villages",
+                "truffe noire foie gras canard",
+                "Dordogne rivière vallée",
+                "Périgord quatre couleurs"
+              ]
+            },
+            {
+              "word": "Quatrevingt-Treize",
+              "forbiddens": [
+                "Victor Hugo dernier roman 1874",
+                "Vendée chouans Bretagne",
+                "Révolution Convention 1793",
+                "Lantenac marquis Gauvain neveu",
+                "Cimourdain prêtre républicain"
+              ]
+            },
+            {
+              "word": "Quercy",
+              "forbiddens": [
+                "Lot Tarn-et-Garonne",
+                "Cahors vin foie gras",
+                "Rocamadour Padirac",
+                "Lot rivière causses",
+                "blanc noir Quercy distinction"
+              ]
+            },
+            {
+              "word": "Quête de Sens",
+              "forbiddens": [
+                "Sens",
+                "But",
+                "Mission",
+                "Pourquoi",
+                "Motivation"
+              ]
+            },
+            {
+              "word": "Rite de Passage",
+              "forbiddens": [
+                "Tradition",
+                "Cérémonie",
+                "Adulte",
+                "Franchir",
+                "Étape"
+              ]
+            },
+            {
+              "word": "Roberto Alagna",
+              "forbiddens": [
+                "ténor franco-italien-sicilien",
+                "Clichy-sous-Bois natif Italien",
+                "Aleksandra Kurzak épouse actuelle",
+                "Opéra mondiale carrière",
+                "polémique Scala 2006 quitte"
+              ]
+            },
+            {
+              "word": "Roland Barthes",
+              "forbiddens": [
+                "sémiologie critique",
+                "Mythologies Plaisir du Texte",
+                "Fragments discours amoureux",
+                "Camera Lucida photo dernier",
+                "renversé camionnette mort 1980"
+              ]
+            },
+            {
+              "word": "Roland Petit",
+              "forbiddens": [
+                "ballet Petit Roland chorégraphe danseur",
+                "Jeune Homme et la Mort 1946",
+                "Cocteau collaboration ballet",
+                "Zizi Jeanmaire épouse muse",
+                "Marseille Ballet National direction"
+              ]
+            },
+            {
+              "word": "Romain Gary",
+              "forbiddens": [
+                "deux Goncourt deux pseudonymes Émile Ajar",
+                "Promesse Aube La Vie devant Soi",
+                "diplomate aviateur Guerre Lithuanie",
+                "Jean Seberg épouse actrice",
+                "suicide 1980 Paris Gauloise"
+              ]
+            },
+            {
+              "word": "Romain Rolland",
+              "forbiddens": [
+                "Nobel Littérature 1915",
+                "Jean-Christophe roman fleuve 10 tomes",
+                "pacifiste guerre 14-18",
+                "Clamecy natif Nièvre",
+                "Au-dessus de la mêlée article"
+              ]
+            },
+            {
+              "word": "Régine Crespin",
+              "forbiddens": [
+                "soprano opéra légende française",
+                "Marseillaise française cantatrice",
+                "Wagner Strauss Mozart répertoire",
+                "Marseille natif soprano",
+                "Académie Beaux-Arts élue"
+              ]
+            },
+            {
+              "word": "Sacha Distel",
+              "forbiddens": [
+                "Toute la pluie tombe sur moi reprise",
+                "Brigitte Bardot ex compagnon",
+                "guitariste jazz formation",
+                "années 60 70 télé crooner",
+                "neveu Ray Ventura musicien"
+              ]
+            },
+            {
+              "word": "Sacha Guitry",
+              "forbiddens": [
+                "fils Lucien Guitry théâtre boulevard",
+                "Roman Tricheur cinéma 1936",
+                "Yvonne Printemps Geneviève Sereville épouses",
+                "boulevard pièces nombreuses",
+                "5 mariages personnalité"
+              ]
+            },
+            {
+              "word": "Saint-Cyr",
+              "forbiddens": [
+                "École Spéciale Militaire",
+                "Coëtquidan Bretagne actuelle",
+                "Saint-Cyr Yvelines origine",
+                "officiers armée terre formation",
+                "Napoléon création 1802"
+              ]
+            },
+            {
+              "word": "Saint-John Perse",
+              "forbiddens": [
+                "Nobel Littérature 1960",
+                "diplomate poète Alexis Léger",
+                "Anabase Vents Amers",
+                "Guadeloupe natif",
+                "exil USA Vichy révoqué"
+              ]
+            },
+            {
+              "word": "Salammbô",
+              "forbiddens": [
+                "Flaubert roman 1862",
+                "Carthage Antiquité Punique",
+                "Salammbô prêtresse Tanit",
+                "mercenaires guerre",
+                "Hamilcar Barca père chef carthaginois"
+              ]
+            },
+            {
+              "word": "Samuel Beckett",
+              "forbiddens": [
+                "Irlandais français adopté",
+                "En Attendant Godot 1953",
+                "Nobel Littérature 1969",
+                "Joyce assistant ami secrétaire",
+                "Vladimir Estragon attente vain"
+              ]
+            },
+            {
+              "word": "Saut dans l'Inconnu",
+              "forbiddens": [
+                "Confiance",
+                "Risque",
+                "Croire",
+                "Mystère",
+                "Plonger"
+              ]
+            },
+            {
+              "word": "Sentiment d'Appartenance",
+              "forbiddens": [
+                "Groupe",
+                "Accepter",
+                "Intégrer",
+                "Ressentir",
+                "Foyer"
+              ]
+            },
+            {
+              "word": "Signal d'Alarme",
+              "forbiddens": [
+                "Réveil",
+                "Matin",
+                "Comprendre",
+                "Avertissement",
+                "Signe"
+              ]
+            },
+            {
+              "word": "Simone Weil",
+              "forbiddens": [
+                "philosophe ouvrière engagée",
+                "Pesanteur et Grâce posthume",
+                "mystique chrétienne juive",
+                "Andrée André frère",
+                "Londres exil mort 1943"
+              ]
+            },
+            {
+              "word": "Situation Gagnant Gagnant",
+              "forbiddens": [
+                "Deux",
+                "Profit",
+                "Accord",
+                "Issue",
+                "Mutuel"
+              ]
+            },
+            {
+              "word": "Sologne",
+              "forbiddens": [
+                "Loir-et-Cher Cher",
+                "étangs chasse gibier sauvage",
+                "George Sand romancière vie",
+                "Chambord proximité forêt",
+                "marais étangs faisans sangliers"
+              ]
+            },
+            {
+              "word": "Suze",
+              "forbiddens": [
+                "apéritif gentiane jaune amer",
+                "années 1880 Fernand Moureaux",
+                "Pernod Ricard groupe",
+                "Picasso peinture cubiste collage",
+                "amer racines plantes"
+              ]
+            },
+            {
+              "word": "Sylvain Tesson",
+              "forbiddens": [
+                "voyageur écrivain explorer",
+                "Dans Forêts Sibérie Médicis",
+                "chute toit accident grave 2014",
+                "alpiniste géographe philosophie",
+                "Panthère Neige Renaudot 2019"
+              ]
+            },
+            {
+              "word": "Sylvie Vartan",
+              "forbiddens": [
+                "bulgare française yé-yé icône années 60",
+                "La Plus Belle pour aller danser",
+                "Johnny Hallyday première épouse",
+                "David Hallyday fils",
+                "Tony Scotti époux actuel"
+              ]
+            },
+            {
+              "word": "Sœur Anne",
+              "forbiddens": [
+                "Barbe-bleue",
+                "conte",
+                "tour",
+                "Perrault",
+                "vois"
+              ]
+            },
+            {
+              "word": "Sœur Emmanuelle",
+              "forbiddens": [
+                "religieuse Égypte Caire chiffonniers",
+                "Notre-Dame Sion congrégation",
+                "Madeleine Cinquin nom civil",
+                "Yallah avec Dieu",
+                "centenaire mort 2008 100 ans"
+              ]
+            },
+            {
+              "word": "Thierry Mugler",
+              "forbiddens": [
+                "couturier futuriste années 80-90",
+                "robe corset cintrée sablier",
+                "Angel parfum étoile bleue bonbon",
+                "Strasbourg natif",
+                "transformiste mort 2022"
+              ]
+            },
+            {
+              "word": "Thérèse Desqueyroux",
+              "forbiddens": [
+                "Mauriac roman 1927",
+                "Thérèse province bourgeoise empoisonneuse",
+                "Bordeaux mariage forcé Bernard",
+                "huis clos campagne pin",
+                "non-lieu procès"
+              ]
+            },
+            {
+              "word": "Tino Rossi",
+              "forbiddens": [
+                "Petit Papa Noël",
+                "corse né Ajaccio",
+                "ténor crooner années 30-70",
+                "Marinella Vieni Vieni",
+                "voix légendaire italienne charme"
+              ]
+            },
+            {
+              "word": "Tragédie des Communs",
+              "forbiddens": [
+                "Partager",
+                "Ressource",
+                "Égoïste",
+                "Public",
+                "Épuiser"
+              ]
+            },
+            {
+              "word": "Tâtonnement",
+              "forbiddens": [
+                "Erreur",
+                "Essayer",
+                "Apprendre",
+                "Méthode",
+                "Aveugle"
+              ]
+            },
+            {
+              "word": "Une Saison en Enfer",
+              "forbiddens": [
+                "Arthur Rimbaud 1873",
+                "récit vers prose",
+                "adieu poésie 19 ans",
+                "Mauvais Sang Délires",
+                "Verlaine ami Bruxelles tir"
+              ]
+            },
+            {
+              "word": "Vendée",
+              "forbiddens": [
+                "Pays Loire département 85",
+                "Puy du Fou parc historique",
+                "Sables-d'Olonne Vendée Globe",
+                "Guerres Vendée Chouans 1793",
+                "Madame de Maintenon Bourbon"
+              ]
+            },
+            {
+              "word": "Vladimir Cosma",
+              "forbiddens": [
+                "compositeur cinéma années 70-80",
+                "La Boum Le Père Noël Ordure",
+                "Le Grand Blond Cousteau musique",
+                "Diva bande originale",
+                "Reality bande Sophie Marceau"
+              ]
+            },
+            {
+              "word": "Vol de Nuit",
+              "forbiddens": [
+                "Saint-Exupéry roman 1931",
+                "aviation courrier Patagonie Argentine",
+                "Rivière chef Fabien pilote",
+                "André Gide préface",
+                "Femina prix 1931"
+              ]
+            },
+            {
+              "word": "Volte-Face",
+              "forbiddens": [
+                "Avis",
+                "Inverser",
+                "Sentiment",
+                "Soudain",
+                "Décision"
+              ]
+            },
+            {
+              "word": "Yann Tiersen",
+              "forbiddens": [
+                "Amélie Poulain bande son musique",
+                "Brest natif Breton",
+                "accordéon piano violon instrumental",
+                "Ouessant Île habite",
+                "instrumental minimal post-rock"
+              ]
+            },
+            {
+              "word": "Yannick Alléno",
+              "forbiddens": [
+                "Pavillon Ledoyen chef",
+                "trois étoiles Paris",
+                "sauce extraction technique signature",
+                "Le 1947 Courchevel",
+                "Le Petit Cor Pavillon"
+              ]
+            },
+            {
+              "word": "Yves Camdeborde",
+              "forbiddens": [
+                "bistronomie inventeur",
+                "Le Comptoir Hôtel Relais Saint-Germain",
+                "Sud-Ouest Béarn Pau",
+                "Top Chef juré dur",
+                "Régalade premier restaurant"
+              ]
+            },
+            {
+              "word": "Yves Klein",
+              "forbiddens": [
+                "peintre années 50-60",
+                "Bleu Klein IKB pigment",
+                "monochrome saut vide",
+                "anthropométries pinceaux vivants",
+                "Nice natif jeune mort 1962"
+              ]
+            },
+            {
+              "word": "Yves Tanguy",
+              "forbiddens": [
+                "peintre surréaliste années 30 40",
+                "paysages désertiques formes biomorphes",
+                "Marin breton Bretagne natif",
+                "exil américain femme Kay Sage",
+                "André Breton groupe ami"
+              ]
+            },
+            {
+              "word": "Yvette Horner",
+              "forbiddens": [
+                "accordéoniste Tour France suivait peloton",
+                "petite femme accordéon caractéristique",
+                "années 50-90 popular",
+                "Tarbes natif Pyrénées",
+                "longueur carrière musette bal"
+              ]
+            },
+            {
+              "word": "École des Mines de Paris",
+              "forbiddens": [
+                "École Mines Paris MINES Tech",
+                "Boulevard Saint-Michel siège",
+                "grande école ingénieurs prestige",
+                "1783 fondation Louis XVI",
+                "PSL université rattachée"
+              ]
+            },
+            {
+              "word": "École Normale Supérieure",
+              "forbiddens": [
+                "grande école",
+                "Rue d'Ulm Paris 5e",
+                "philosophie lettres sciences agrégation",
+                "LSH Lyon",
+                "Académie Sciences immortels nombreux"
               ]
             },
             {
@@ -6540,963 +7660,33 @@
               ]
             },
             {
-              "word": "Pierre Bonnard",
+              "word": "Éléphant dans la Pièce",
               "forbiddens": [
-                "nabis groupe couleurs vives",
-                "Marthe femme nu modèle obsession",
-                "Cannet Côte Azur fin vie",
-                "intérieurs paysages méditerranée",
-                "années 20 30 affichiste France-Champagne"
+                "Sujet",
+                "Évident",
+                "Silence",
+                "Aborder",
+                "Éviter"
               ]
             },
             {
-              "word": "Henri Rousseau dit le Douanier",
+              "word": "Émile Cioran",
               "forbiddens": [
-                "Douanier surnom naïf primitif",
-                "jungles fauves rêve",
-                "La Bohémienne endormie",
-                "Picasso banquet hommage célèbre",
-                "autodidacte douane employé Laval"
+                "philosophe roumain français",
+                "Précis Décomposition aphorismes",
+                "pessimisme nihilisme noir",
+                "Rue Odéon Paris habite mansarde",
+                "français adopté écrit langue choisie"
               ]
             },
             {
-              "word": "Maurice Utrillo",
+              "word": "Émile ou De l'Éducation",
               "forbiddens": [
-                "peintre Montmartre paysages rues",
-                "Suzanne Valadon mère peintre",
-                "alcoolisme période blanche",
-                "rue parisienne caractéristique",
-                "naïf populaire fils valadon"
-              ]
-            },
-            {
-              "word": "Marc Chagall",
-              "forbiddens": [
-                "russo-français Vitebsk Loshyts",
-                "Opéra Garnier plafond peinture",
-                "vitraux Reims Metz cathédrales",
-                "violoniste vache lévitation amour",
-                "amour Bella thème poétique"
-              ]
-            },
-            {
-              "word": "Chaïm Soutine",
-              "forbiddens": [
-                "École Paris années 20",
-                "expressionniste Lituanien juif",
-                "bœufs écorchés série",
-                "Modigliani ami compagnon",
-                "Cagnes-sur-Mer Céret périodes"
-              ]
-            },
-            {
-              "word": "Amedeo Modigliani",
-              "forbiddens": [
-                "italien-français École Paris",
-                "visages allongés cous longs",
-                "Jeanne Hébuterne tragédie",
-                "Montparnasse années 10 20",
-                "1920 mort tuberculose 35 ans"
-              ]
-            },
-            {
-              "word": "Jean Tinguely",
-              "forbiddens": [
-                "sculpteur suisse cinétique",
-                "Niki Saint Phalle épouse",
-                "Fontaine Stravinsky Pompidou animée",
-                "Méta-mécanique machines",
-                "Homage to New York autodestructeur"
-              ]
-            },
-            {
-              "word": "Bernard Buffet",
-              "forbiddens": [
-                "expressionniste figuratif années 50-90",
-                "traits noirs anguleux marqué",
-                "Annabel femme muse",
-                "rapide prolifique controversé valeur baisse",
-                "suicide cancer Parkinson 1999"
-              ]
-            },
-            {
-              "word": "La Pléiade",
-              "forbiddens": [
-                "Pierre Ronsard Joachim Du Bellay",
-                "groupe sept poètes XVIe Renaissance",
-                "Défense Illustration langue française",
-                "Pétrarque imitation italien",
-                "Sonnet Renaissance France"
-              ]
-            },
-            {
-              "word": "Le Parnasse",
-              "forbiddens": [
-                "école poétique 19e",
-                "Leconte Lisle José-Maria Heredia",
-                "art pour art principe",
-                "perfection formelle marbre",
-                "Théophile Gautier précurseur"
-              ]
-            },
-            {
-              "word": "Le Symbolisme",
-              "forbiddens": [
-                "Mallarmé Verlaine Rimbaud Baudelaire précurseur",
-                "correspondances synesthésie",
-                "rêve mystère poétique",
-                "fin 19e mouvement décadence",
-                "Maeterlinck théâtre"
-              ]
-            },
-            {
-              "word": "Le Surréalisme",
-              "forbiddens": [
-                "André Breton Manifeste 1924",
-                "écriture automatique rêve inconscient",
-                "Aragon Éluard Dalí Magritte Buñuel",
-                "années 20 30 jusque 60",
-                "antibourgeois antirationaliste révolte"
-              ]
-            },
-            {
-              "word": "La Nouvelle Vague",
-              "forbiddens": [
-                "cinéma années 1958-65 nouvelle",
-                "Truffaut Godard Chabrol Rohmer Rivette",
-                "Cahiers Cinéma critique avant film",
-                "tournage léger budget réduit naturel",
-                "Bazin théoricien mentor"
-              ]
-            },
-            {
-              "word": "La Nouvelle Cuisine",
-              "forbiddens": [
-                "années 70 mouvement cuisine",
-                "Bocuse Troisgros Vergé Guérard",
-                "présentation assiette tradition allégée",
-                "Henri Gault Christian Millau critiques inventeurs",
-                "10 commandements minceur"
-              ]
-            },
-            {
-              "word": "Jean Vilar",
-              "forbiddens": [
-                "TNP Théâtre National Populaire",
-                "Festival Avignon fondateur 1947",
-                "démocratisation culture théâtre",
-                "Gérard Philipe acteur partenaire",
-                "Chaillot direction"
-              ]
-            },
-            {
-              "word": "Ariane Mnouchkine",
-              "forbiddens": [
-                "Théâtre du Soleil Vincennes",
-                "1789 spectacle révolution",
-                "Cartoucherie Vincennes lieu",
-                "tatouages costumes décor extravagant",
-                "Soulier Satin Mahabharata"
-              ]
-            },
-            {
-              "word": "Patrice Chéreau",
-              "forbiddens": [
-                "théâtre Bayreuth Anneau Nibelungen direction",
-                "Reine Margot film Cannes",
-                "TNP Nanterre Amandiers direction",
-                "Hamlet Avignon scandale",
-                "Intimacy Phèdre fin vie"
-              ]
-            },
-            {
-              "word": "Marie-Claude Pietragalla",
-              "forbiddens": [
-                "danseuse étoile Opéra Paris",
-                "compagnie Pietragalla Théâtre Corps",
-                "Marseille Ballet National direction",
-                "blonde longue chevelure rousse",
-                "années 90 starisée danse contemporaine"
-              ]
-            },
-            {
-              "word": "Roland Petit",
-              "forbiddens": [
-                "ballet Petit Roland chorégraphe danseur",
-                "Jeune Homme et la Mort 1946",
-                "Cocteau collaboration ballet",
-                "Zizi Jeanmaire épouse muse",
-                "Marseille Ballet National direction"
-              ]
-            },
-            {
-              "word": "Carolyn Carlson",
-              "forbiddens": [
-                "danseuse chorégraphe américaine FR",
-                "Opéra Paris Danse étoile",
-                "Atelier Recherche Chorégraphique fondation",
-                "1974 nommée première",
-                "contemporain art danse poétesse"
-              ]
-            },
-            {
-              "word": "Camille Saint-Saëns",
-              "forbiddens": [
-                "Carnaval Animaux Samson Dalila",
-                "compositeur prolifique 19e fin",
-                "organiste Madeleine décennies",
-                "Cygne thème violoncelle",
-                "Académie Beaux-Arts membre"
-              ]
-            },
-            {
-              "word": "Gabriel Fauré",
-              "forbiddens": [
-                "Requiem Pavane Sicilienne",
-                "années 19e fin 20e début",
-                "Conservatoire Paris directeur",
-                "élève Saint-Saëns",
-                "Ariège natif Pamiers"
-              ]
-            },
-            {
-              "word": "Francis Poulenc",
-              "forbiddens": [
-                "Groupe Six membre",
-                "Dialogues Carmélites opéra",
-                "années 20 30 50 prolifique",
-                "religieux nostalgique",
-                "Voix Humaine monodrame"
-              ]
-            },
-            {
-              "word": "Darius Milhaud",
-              "forbiddens": [
-                "Groupe Six membre Aix-en-Provence",
-                "Bœuf sur le Toit Cocteau Brésil",
-                "polytonalité technique",
-                "exil USA Mills College",
-                "Marseille Aix natif juif"
-              ]
-            },
-            {
-              "word": "Arthur Honegger",
-              "forbiddens": [
-                "Groupe Six suisse-français",
-                "Pacific 231 locomotive",
-                "Le Roi David oratorio dramatique",
-                "Symphonies cinq",
-                "Cocteau Antigone collaboration"
-              ]
-            },
-            {
-              "word": "Erik Satie",
-              "forbiddens": [
-                "Honfleur natif excentrique",
-                "Gymnopédies Gnossiennes",
-                "Six Berceuse Rose Croix Catholique Art",
-                "Cocteau Picasso Parade ballet",
-                "années 1890 1920 minimaliste précurseur"
-              ]
-            },
-            {
-              "word": "Hector Berlioz",
-              "forbiddens": [
-                "Symphonie Fantastique 1830",
-                "Romantisme idée fixe",
-                "Côte-Saint-André Isère natif",
-                "Damnation Faust Troyens",
-                "Critique passion désespérée Harriet Smithson"
-              ]
-            },
-            {
-              "word": "Maurice Ravel",
-              "forbiddens": [
-                "Boléro 1928 commande",
-                "Daphnis Chloé Concerto sol main gauche",
-                "Ciboure Pays Basque natif",
-                "tableaux Moussorgsky orchestration",
-                "Pavane Infante défunte"
-              ]
-            },
-            {
-              "word": "Claude Debussy",
-              "forbiddens": [
-                "impressionnisme musical",
-                "Prélude après-midi Faune La Mer",
-                "Pelléas Mélisande opéra",
-                "années 1890 1910 fin",
-                "Clair Lune Suite Bergamasque"
-              ]
-            },
-            {
-              "word": "Sacha Guitry",
-              "forbiddens": [
-                "fils Lucien Guitry théâtre boulevard",
-                "Roman Tricheur cinéma 1936",
-                "Yvonne Printemps Geneviève Sereville épouses",
-                "boulevard pièces nombreuses",
-                "5 mariages personnalité"
-              ]
-            },
-            {
-              "word": "Pierre Mendès France",
-              "forbiddens": [
-                "Président Conseil 1954",
-                "verre lait combat alcool écoles",
-                "Indochine fin guerre Genève",
-                "modernisateur économique",
-                "radical-socialiste convictions juif"
-              ]
-            },
-            {
-              "word": "Jacques Lacan",
-              "forbiddens": [
-                "psychanalyste structuraliste",
-                "École Freudienne Paris fondateur",
-                "Séminaire enseignement Sainte-Anne",
-                "stade miroir développement",
-                "Inconscient structuré langage formule"
-              ]
-            },
-            {
-              "word": "Françoise Dolto",
-              "forbiddens": [
-                "psychanalyste enfance Maison Verte",
-                "France Inter Lorsque enfant paraît",
-                "Marette nom naissance",
-                "Carlos chanson son fils",
-                "Catherine fille Boris fils chanteur Carlos"
-              ]
-            },
-            {
-              "word": "Jean Carmet",
-              "forbiddens": [
-                "acteur années 70 80 populaire",
-                "Tony Berger Veber comédies",
-                "vin amour passion gourmet",
-                "Bourgueil natif Indre-et-Loire",
-                "Mort cancer 1994 Paris"
-              ]
-            },
-            {
-              "word": "Michel Galabru",
-              "forbiddens": [
-                "Le Juge et l'Assassin César Vacher tueur",
-                "Gendarmerie Saint-Tropez Cruchot brigadier",
-                "Safari Cruchot comique",
-                "Académie acteur prolifique cinéma",
-                "Marseille mort 2016 acteur populaire"
-              ]
-            },
-            {
-              "word": "Michel Bouquet",
-              "forbiddens": [
-                "acteur théâtre cinéma raffiné",
-                "Le Promeneur Champ Mars Mitterrand",
-                "Toto Héros film",
-                "Chabrol fréquent acteur",
-                "Comédie-Française société théâtre"
-              ]
-            },
-            {
-              "word": "Pierre Brasseur",
-              "forbiddens": [
-                "acteur années 30-60 théâtral",
-                "Enfants Paradis Frédérick Lemaître",
-                "Claude Brasseur fils",
-                "voix grandiloquente théâtre",
-                "Quatre Cents Coups apparition"
-              ]
-            },
-            {
-              "word": "Sacha Distel",
-              "forbiddens": [
-                "Toute la pluie tombe sur moi reprise",
-                "Brigitte Bardot ex compagnon",
-                "guitariste jazz formation",
-                "années 60 70 télé crooner",
-                "neveu Ray Ventura musicien"
-              ]
-            },
-            {
-              "word": "Annie Cordy",
-              "forbiddens": [
-                "belge française naturalisée",
-                "Tata Yoyo Cho Ka Ka O La Bonne",
-                "Bonbons et caramels",
-                "actrice télé Marraine bonne fée",
-                "centenaire avant mort 2020"
-              ]
-            },
-            {
-              "word": "Yvette Horner",
-              "forbiddens": [
-                "accordéoniste Tour France suivait peloton",
-                "petite femme accordéon caractéristique",
-                "années 50-90 popular",
-                "Tarbes natif Pyrénées",
-                "longueur carrière musette bal"
-              ]
-            },
-            {
-              "word": "Marcel Marceau",
-              "forbiddens": [
-                "mime artiste muet",
-                "Bip personnage chapeau melon fleur rouge",
-                "Strasbourg formation Étienne Decroux",
-                "USA shows mondial",
-                "Yiddish enfance Mendel Mangel"
-              ]
-            },
-            {
-              "word": "Jean-Louis Barrault",
-              "forbiddens": [
-                "Enfants Paradis Baptiste Deburau mime",
-                "Madeleine Renaud épouse",
-                "Théâtre Odéon Châtelet directeur",
-                "Mai 68 Odéon expulsé",
-                "Récamier théâtre fondateur"
-              ]
-            },
-            {
-              "word": "Antoine de Saint-Exupéry",
-              "forbiddens": [
-                "aviateur Aéropostale écrivain",
-                "Le Petit Prince mondial bestseller",
-                "Vol Nuit Terre Hommes",
-                "Lyon natif famille aristocratique",
-                "disparu 31 juillet 1944 Méditerranée mission"
-              ]
-            },
-            {
-              "word": "Charles Trenet",
-              "forbiddens": [
-                "La Mer Y'a d'la joie",
-                "Fou Chantant surnom",
-                "Narbonne natif",
-                "Académie Charles Cros prix",
-                "homosexualité scandale années 50"
-              ]
-            },
-            {
-              "word": "Tino Rossi",
-              "forbiddens": [
-                "Petit Papa Noël",
-                "corse né Ajaccio",
-                "ténor crooner années 30-70",
-                "Marinella Vieni Vieni",
-                "voix légendaire italienne charme"
-              ]
-            },
-            {
-              "word": "Maurice Chevalier",
-              "forbiddens": [
-                "Paname Valentine Prosper",
-                "chapeau melon nœud papillon",
-                "Hollywood années 30 expat",
-                "Mistinguett ex liaison vedette",
-                "Marnes-la-Coquette natif"
-              ]
-            },
-            {
-              "word": "Mistinguett",
-              "forbiddens": [
-                "music-hall années 20 30 vedette",
-                "Casino Paris Folies Bergère",
-                "jambes assurées chères Lloyd's",
-                "Maurice Chevalier liaison",
-                "Mon Homme Reine Plumes"
-              ]
-            },
-            {
-              "word": "Joséphine Baker",
-              "forbiddens": [
-                "américaine FR adoptée",
-                "Saint-Louis Missouri origine",
-                "Revue Nègre Folies Bergère bananes ceinture",
-                "Résistance Seconde Guerre Légion Honneur",
-                "Panthéonisée 2021 première noir"
-              ]
-            },
-            {
-              "word": "Christophe",
-              "forbiddens": [
-                "Aline Les Mots Bleus",
-                "moustache lunettes années 70 80",
-                "instrumental crooner mode",
-                "voix tendre française",
-                "mort Covid 2020 chanteur"
-              ]
-            },
-            {
-              "word": "Jacques Dutronc",
-              "forbiddens": [
-                "Cactus Faut Pas Toucher",
-                "Hardy Françoise femme depuis",
-                "Van Gogh César acteur Pialat",
-                "Provence Corse vit retiré",
-                "années 60 dandy crooner Et moi"
-              ]
-            },
-            {
-              "word": "Françoise Hardy",
-              "forbiddens": [
-                "Tous les Garçons et les Filles",
-                "années 60 yé-yé icône",
-                "Dutronc Jacques époux",
-                "Mon Amie la Rose",
-                "années 70 80 90 prolifique mode"
-              ]
-            },
-            {
-              "word": "Sylvie Vartan",
-              "forbiddens": [
-                "bulgare française yé-yé icône années 60",
-                "La Plus Belle pour aller danser",
-                "Johnny Hallyday première épouse",
-                "David Hallyday fils",
-                "Tony Scotti époux actuel"
-              ]
-            },
-            {
-              "word": "Boris Vian",
-              "forbiddens": [
-                "Écume Jours roman culte",
-                "Déserteur chanson antimilitariste",
-                "jazz trompette amateur",
-                "polymathe ingénieur écrivain",
-                "Saint-Germain-des-Prés Lorientais club"
-              ]
-            },
-            {
-              "word": "Régine Crespin",
-              "forbiddens": [
-                "soprano opéra légende française",
-                "Marseillaise française cantatrice",
-                "Wagner Strauss Mozart répertoire",
-                "Marseille natif soprano",
-                "Académie Beaux-Arts élue"
-              ]
-            },
-            {
-              "word": "Roberto Alagna",
-              "forbiddens": [
-                "ténor franco-italien-sicilien",
-                "Clichy-sous-Bois natif Italien",
-                "Aleksandra Kurzak épouse actuelle",
-                "Opéra mondiale carrière",
-                "polémique Scala 2006 quitte"
-              ]
-            },
-            {
-              "word": "Natalie Dessay",
-              "forbiddens": [
-                "soprano colorature légende",
-                "Lakmé Olympia rôles signatures",
-                "Lyon Conservatoire formation",
-                "rôle Manon Lescaut",
-                "retraite opéra 2013 chanson tournée"
-              ]
-            },
-            {
-              "word": "Jean-Pierre Rampal",
-              "forbiddens": [
-                "flûtiste classique virtuose",
-                "Marseille natif fils Joseph flûte",
-                "années 50-90 popularisation flûte",
-                "Bach Mozart soliste",
-                "ensemble Rampal flûte"
-              ]
-            },
-            {
-              "word": "Pierre Cochereau",
-              "forbiddens": [
-                "Notre-Dame Paris organiste titulaire",
-                "improvisateur génie reconnu",
-                "Conservatoire enseignement",
-                "1955-1984 service Notre-Dame",
-                "concerts internationaux tournées"
-              ]
-            },
-            {
-              "word": "Madeleine Renaud",
-              "forbiddens": [
-                "actrice longueur carrière",
-                "Jean-Louis Barrault époux",
-                "Comédie-Française pensionnaire départ 1947",
-                "Compagnie théâtre Renaud-Barrault",
-                "Marguerite Duras actrice fétiche"
-              ]
-            },
-            {
-              "word": "Maréchal Lyautey",
-              "forbiddens": [
-                "maréchal France colonial",
-                "Maroc Protectorat résident général",
-                "Académie Française élu",
-                "carrière Indochine Madagascar Algérie Maroc",
-                "Centenaire Rabat hôpital"
-              ]
-            },
-            {
-              "word": "Lazare Carnot",
-              "forbiddens": [
-                "Organisateur Victoire armées Révolution",
-                "mathématicien physicien Comité Salut Public",
-                "Père Sadi Carnot président petit-fils",
-                "Nolay Côte-d'Or natif",
-                "guerres révolutionnaires fin 18e"
-              ]
-            },
-            {
-              "word": "Nicolas Bourbaki",
-              "forbiddens": [
-                "collectif mathématiciens 1935 fondé",
-                "Éléments Mathématique encyclopédie",
-                "Cartan Weil Dieudonné Chevalley fondateurs",
-                "ENS École Normale école",
-                "structuralisme axiomatique programme"
-              ]
-            },
-            {
-              "word": "Jean Genet",
-              "forbiddens": [
-                "voleur écrivain",
-                "Notre-Dame Fleurs Querelle Brest",
-                "homosexualité prison enfance",
-                "Cocteau Sartre défenseurs",
-                "Bonnes Balcon théâtre"
-              ]
-            },
-            {
-              "word": "Marie Cardinal",
-              "forbiddens": [
-                "Mots pour Dire roman 1975",
-                "Algérie pieds-noirs née Alger",
-                "Maintenant Vivants féministe",
-                "Psychanalyse récit autobiographique",
-                "années 70 80 succès"
-              ]
-            },
-            {
-              "word": "Françoise Sagan",
-              "forbiddens": [
-                "Bonjour Tristesse 18 ans 1954",
-                "Cécile Anne Cyril Cazalet",
-                "scandale jeune star riche",
-                "casino voitures luxe drogue jeux",
-                "Aimez-vous Brahms"
-              ]
-            },
-            {
-              "word": "Pascal Quignard",
-              "forbiddens": [
-                "Tous Matins Monde inspiré roman",
-                "Goncourt 2002 Ombres errantes",
-                "musique baroque connaisseur",
-                "isolement provincial Yvelines",
-                "Sainte Colombe viole gambe"
-              ]
-            },
-            {
-              "word": "Christian Bobin",
-              "forbiddens": [
-                "poète bobinien spirituel",
-                "Le Très-Bas Saint François Assise",
-                "Plus que Vif Femme à Venir",
-                "Saône-et-Loire vit Creusot",
-                "écriture brève poétique"
-              ]
-            },
-            {
-              "word": "Sylvain Tesson",
-              "forbiddens": [
-                "voyageur écrivain explorer",
-                "Dans Forêts Sibérie Médicis",
-                "chute toit accident grave 2014",
-                "alpiniste géographe philosophie",
-                "Panthère Neige Renaudot 2019"
-              ]
-            },
-            {
-              "word": "J.M.G. Le Clézio",
-              "forbiddens": [
-                "Nobel Littérature 2008",
-                "Désert Onitsha Étoile Errante",
-                "Maurice double nationalité Île",
-                "voyageur écrivain Nouveau Roman école",
-                "Nice natif"
-              ]
-            },
-            {
-              "word": "Antonin Carême",
-              "forbiddens": [
-                "chef cuisinier 19e legend",
-                "Roi Chefs Chef Rois surnom",
-                "Talleyrand Rothschild service",
-                "pâtisserie architecture pièces montées",
-                "haute cuisine fondateur"
-              ]
-            },
-            {
-              "word": "Auguste Escoffier",
-              "forbiddens": [
-                "roi cuisiniers cuisinier rois",
-                "Carlton Ritz Londres direction César Ritz",
-                "Pêche Melba Tournedos Rossini",
-                "Villeneuve-Loubet natif",
-                "Guide Culinaire bible"
-              ]
-            },
-            {
-              "word": "Paul Bocuse",
-              "forbiddens": [
-                "Lyon Collonges chef légende",
-                "trois étoiles 50 ans record",
-                "Bocuse d'Or concours mondial",
-                "soupe truffes VGE Élysée 1975",
-                "Hall Lyon marché nom"
-              ]
-            },
-            {
-              "word": "Joël Robuchon",
-              "forbiddens": [
-                "chef plus étoilé monde 32",
-                "Atelier Robuchon concept",
-                "purée pomme terre signature",
-                "Poitiers natif chef année 1976",
-                "mort 2018 cancer"
-              ]
-            },
-            {
-              "word": "Alain Ducasse",
-              "forbiddens": [
-                "chef multi-étoilé international",
-                "Plaza Athénée Hôtel Hermitage Monaco",
-                "Castelsarrasin natif Sud-Ouest",
-                "École Ducasse formation",
-                "Trois étoiles trois pays records"
-              ]
-            },
-            {
-              "word": "Anne-Sophie Pic",
-              "forbiddens": [
-                "seule femme trois étoiles France",
-                "Valence Maison Pic Drôme famille",
-                "Top Chef coach M6",
-                "Lait carotte signatures",
-                "trois générations chefs étoiles"
-              ]
-            },
-            {
-              "word": "Hélène Darroze",
-              "forbiddens": [
-                "Top Chef coach jury M6",
-                "Connaught Londres Plaza Athénée",
-                "Mont-de-Marsan Landes famille",
-                "Connaught trois étoiles Londres",
-                "Auberge Darroze parents Villeneuve"
-              ]
-            },
-            {
-              "word": "Pierre Gagnaire",
-              "forbiddens": [
-                "chef trois étoiles avant-garde",
-                "Saint-Étienne origine carrière",
-                "associations cocottes inattendu",
-                "création textures fusion",
-                "Sketch Londres restaurant"
-              ]
-            },
-            {
-              "word": "Yannick Alléno",
-              "forbiddens": [
-                "Pavillon Ledoyen chef",
-                "trois étoiles Paris",
-                "sauce extraction technique signature",
-                "Le 1947 Courchevel",
-                "Le Petit Cor Pavillon"
-              ]
-            },
-            {
-              "word": "Cyril Lignac",
-              "forbiddens": [
-                "chef télé M6 chef opportunité",
-                "Le Quinzième Le Chardenoux",
-                "Aveyron natif",
-                "Top Chef juré première saisons",
-                "boulangeries pâtisseries marque"
-              ]
-            },
-            {
-              "word": "Yves Camdeborde",
-              "forbiddens": [
-                "bistronomie inventeur",
-                "Le Comptoir Hôtel Relais Saint-Germain",
-                "Sud-Ouest Béarn Pau",
-                "Top Chef juré dur",
-                "Régalade premier restaurant"
-              ]
-            },
-            {
-              "word": "Bernard Pivot",
-              "forbiddens": [
-                "Apostrophes Bouillon Culture animateur",
-                "Académie Goncourt président",
-                "Lyon natif vin Beaujolais amour",
-                "Dicos d'or orthographe",
-                "France 2 littérature TV"
-              ]
-            },
-            {
-              "word": "Pierre Bellemare",
-              "forbiddens": [
-                "animateur radio télé années 50-90",
-                "Histoires extraordinaires raconteur",
-                "voix grave conteur",
-                "C'est Mon Choix présentateur",
-                "Cinq millions Français Schedell co-créateur"
-              ]
-            },
-            {
-              "word": "Michel Cymes",
-              "forbiddens": [
-                "ORL médecin TV",
-                "Le Magazine de la Santé France 5",
-                "Marina Carrère d'Encausse copine émission",
-                "Académie Médecine confrérie",
-                "vulgarisation médicale"
-              ]
-            },
-            {
-              "word": "Saint-Cyr",
-              "forbiddens": [
-                "École Spéciale Militaire",
-                "Coëtquidan Bretagne actuelle",
-                "Saint-Cyr Yvelines origine",
-                "officiers armée terre formation",
-                "Napoléon création 1802"
-              ]
-            },
-            {
-              "word": "École des Mines de Paris",
-              "forbiddens": [
-                "École Mines Paris MINES Tech",
-                "Boulevard Saint-Michel siège",
-                "grande école ingénieurs prestige",
-                "1783 fondation Louis XVI",
-                "PSL université rattachée"
-              ]
-            },
-            {
-              "word": "École Normale Supérieure",
-              "forbiddens": [
-                "École Normale Supérieure",
-                "Rue d'Ulm Paris 5e",
-                "philosophie lettres sciences agrégation",
-                "ENS LSH Lyon",
-                "Académie Sciences immortels nombreux"
-              ]
-            },
-            {
-              "word": "Albert Schweitzer",
-              "forbiddens": [
-                "docteur Lambaréné Gabon hôpital",
-                "Nobel Paix 1952",
-                "Alsace musique orgue protestant",
-                "Bach interprète théologien",
-                "Jungle hôpital fondation"
-              ]
-            },
-            {
-              "word": "Léopold Sédar Senghor",
-              "forbiddens": [
-                "Sénégal président poète",
-                "Négritude mouvement Césaire ami",
-                "Académie Française 1983 première noir",
-                "Joal-Fadiouth natif",
-                "Verson Normandie mort"
-              ]
-            },
-            {
-              "word": "Aimé Césaire",
-              "forbiddens": [
-                "Martinique poète politicien",
-                "Négritude Senghor mouvement",
-                "Discours Colonialisme essai",
-                "Fort-de-France maire 56 ans",
-                "Cahier retour pays natal"
-              ]
-            },
-            {
-              "word": "Romain Rolland",
-              "forbiddens": [
-                "Nobel Littérature 1915",
-                "Jean-Christophe roman fleuve 10 tomes",
-                "pacifiste guerre 14-18",
-                "Clamecy natif Nièvre",
-                "Au-dessus de la mêlée article"
-              ]
-            },
-            {
-              "word": "Anatole France",
-              "forbiddens": [
-                "Nobel Littérature 1921",
-                "Le Crime de Sylvestre Bonnard",
-                "Académie Française 1896",
-                "Île des Pingouins satire",
-                "Paris natif Quai Malaquais"
-              ]
-            },
-            {
-              "word": "Frédéric Mistral",
-              "forbiddens": [
-                "Nobel Littérature 1904",
-                "provençal poète Félibrige",
-                "Mireille poème Mireio",
-                "langue d'oc Provençal défense",
-                "Maillane natif Bouches-du-Rhône"
-              ]
-            },
-            {
-              "word": "Saint-John Perse",
-              "forbiddens": [
-                "Nobel Littérature 1960",
-                "diplomate poète Alexis Léger",
-                "Anabase Vents Amers",
-                "Guadeloupe natif",
-                "exil USA Vichy révoqué"
-              ]
-            },
-            {
-              "word": "Hippolyte Taine",
-              "forbiddens": [
-                "philosophe",
-                "français",
-                "critique",
-                "histoire",
-                "positivisme"
-              ]
-            },
-            {
-              "word": "Sœur Anne",
-              "forbiddens": [
-                "Barbe-bleue",
-                "conte",
-                "tour",
-                "Perrault",
-                "vois"
-              ]
-            },
-            {
-              "word": "Comtesse de Ségur",
-              "forbiddens": [
-                "écrivaine",
-                "russe",
-                "enfants",
-                "Malheurs de Sophie",
-                "comtesse"
+                "Rousseau pédagogie traité 1762",
+                "Émile élève idéal",
+                "éducation naturelle",
+                "Sophie épouse parfaite",
+                "censuré condamné brûlé"
               ]
             },
             {
@@ -7507,6 +7697,46 @@
                 "symbolisme",
                 "français",
                 "industriel"
+              ]
+            },
+            {
+              "word": "Équilibre Vie Travail",
+              "forbiddens": [
+                "Bureau",
+                "Famille",
+                "Temps",
+                "Stress",
+                "Loisir"
+              ]
+            },
+            {
+              "word": "Évariste Galois",
+              "forbiddens": [
+                "mathématicien tragique mort 20 ans",
+                "théorie Galois groupes équations",
+                "duel 31 mai 1832 mort",
+                "Polytechnique refus 2 fois",
+                "Bourg-la-Reine natif"
+              ]
+            },
+            {
+              "word": "Île d'Yeu",
+              "forbiddens": [
+                "Vendée île Atlantique",
+                "Port Joinville port principal",
+                "Pétain exilé mort prison",
+                "Côte sauvage Vieux Château",
+                "ferry Fromentine Île Yeu"
+              ]
+            },
+            {
+              "word": "Île de Bréhat",
+              "forbiddens": [
+                "Côtes-d'Armor Bretagne Nord",
+                "fleurs jardin tempéré micro-climat",
+                "Phare Paon Phare Rosédo",
+                "pas voiture vélos piétons",
+                "Ploubazlanec embarcadère"
               ]
             }
           ]
@@ -21396,7 +21626,7 @@
             {
               "word": "PER",
               "forbiddens": [
-                "per",
+                "indice efficacité",
                 "basketball",
                 "statistique",
                 "global",
@@ -35625,7 +35855,7 @@
             {
               "word": "Bonbon",
               "forbiddens": [
-                "bonbon",
+                "friandise",
                 "chocolat",
                 "sucré",
                 "petit",
@@ -37170,11 +37400,11 @@
             {
               "word": "Pâte feuilletée",
               "forbiddens": [
-                "pâte feuilletée",
+                "feuilletage",
                 "couche",
                 "beurre",
                 "plier",
-                "feuilleté"
+                "croustillant"
               ]
             },
             {
@@ -37230,7 +37460,7 @@
             {
               "word": "Crème pâtissière",
               "forbiddens": [
-                "crème pâtissière",
+                "crème",
                 "appareil",
                 "vanille",
                 "épais",
@@ -37372,7 +37602,7 @@
               "forbiddens": [
                 "viande séchée",
                 "planche",
-                "charcuterie",
+                "assiette",
                 "salami",
                 "français"
               ]
@@ -38930,7 +39160,7 @@
             {
               "word": "Beurre noir",
               "forbiddens": [
-                "beurre noir",
+                "sauce brune",
                 "foncé",
                 "câpre",
                 "vinaigre",

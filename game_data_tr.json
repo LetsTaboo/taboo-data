@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 5,
   "data": [
     {
       "topic": "cultural",
@@ -5020,23 +5020,303 @@
           "type": "hard",
           "words": [
             {
-              "word": "Vahdet-i Vücud",
+              "word": "Aba Güreşi",
               "forbiddens": [
-                "tasavvuf",
-                "varlık birliği",
-                "ibn arabi",
-                "sufi",
-                "felsefe"
+                "gaziantep",
+                "geleneksel",
+                "türk",
+                "eski",
+                "güreş"
               ]
             },
             {
-              "word": "Fenâ",
+              "word": "Acem Makamı",
               "forbiddens": [
-                "tasavvuf",
-                "yok olmak",
+                "klasik",
+                "türk",
+                "müzik",
+                "makam",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Ahmed Adnan Saygun",
+              "forbiddens": [
+                "bestekar",
+                "modern",
+                "türk",
+                "opera",
+                "sanat"
+              ]
+            },
+            {
+              "word": "Ahmet Mithat",
+              "forbiddens": [
+                "yazar",
+                "gazeteci",
+                "hace-i evvel",
+                "tanzimat",
+                "popüler"
+              ]
+            },
+            {
+              "word": "Aidiyet Hissi",
+              "forbiddens": [
+                "Grup",
+                "Kabul",
+                "Uyum",
+                "Hisset",
+                "Yuva"
+              ]
+            },
+            {
+              "word": "Akdeniz Şivesi",
+              "forbiddens": [
+                "diyalekt",
+                "güney",
+                "türk",
+                "ağız",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Alafranga",
+              "forbiddens": [
+                "batı",
+                "modern",
+                "frenk",
+                "etkisi",
+                "türk"
+              ]
+            },
+            {
+              "word": "Alaturka",
+              "forbiddens": [
+                "türk",
+                "geleneksel",
+                "doğu",
+                "eski",
+                "müzik"
+              ]
+            },
+            {
+              "word": "Amasya Genelgesi",
+              "forbiddens": [
+                "1919",
+                "milli",
+                "atatürk",
+                "milli mücadele",
+                "kurtuluş"
+              ]
+            },
+            {
+              "word": "Amaç Duygusu",
+              "forbiddens": [
+                "Anlam",
+                "Hedef",
+                "Görev",
+                "Neden",
+                "Güdü"
+              ]
+            },
+            {
+              "word": "Anadolu Sözlü Edebiyatı",
+              "forbiddens": [
+                "halk",
+                "geleneksel",
+                "türk",
+                "ozan",
+                "anlatı"
+              ]
+            },
+            {
+              "word": "Anadolu Türküleri",
+              "forbiddens": [
+                "halk",
+                "ezgi",
+                "türk",
+                "geleneksel",
+                "ağıt"
+              ]
+            },
+            {
+              "word": "Anıtkabir",
+              "forbiddens": [
+                "atatürk",
+                "mezar",
+                "ankara",
+                "anıt",
+                "modern"
+              ]
+            },
+            {
+              "word": "Aslı ile Kerem",
+              "forbiddens": [
+                "halk",
+                "sevda",
+                "ateş",
+                "türkü",
+                "anadolu"
+              ]
+            },
+            {
+              "word": "Atasözü",
+              "forbiddens": [
+                "bilgelik",
+                "halk",
+                "geleneksel",
+                "türk",
+                "deyim"
+              ]
+            },
+            {
+              "word": "Ağıt",
+              "forbiddens": [
+                "ölüm",
+                "kadın",
+                "halk",
+                "geleneksel",
+                "türk"
+              ]
+            },
+            {
+              "word": "Aşure Günü",
+              "forbiddens": [
+                "muharrem",
+                "dini",
+                "tatlı",
+                "dağıtmak",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Aşık Geleneği",
+              "forbiddens": [
+                "halk",
+                "ozan",
+                "saz",
+                "gezgin",
+                "anadolu"
+              ]
+            },
+            {
+              "word": "Aşık Mahzuni Şerif",
+              "forbiddens": [
+                "halk",
+                "ozan",
+                "kahramanmaraş",
+                "anadolu",
+                "modern"
+              ]
+            },
+            {
+              "word": "Aşık Veysel",
+              "forbiddens": [
+                "halk",
+                "ozan",
+                "kara toprak",
+                "anadolu",
+                "ünlü"
+              ]
+            },
+            {
+              "word": "Bakırcı Çarşısı",
+              "forbiddens": [
+                "esnaf",
+                "geleneksel",
+                "sokak",
+                "ürün",
+                "gaziantep"
+              ]
+            },
+            {
+              "word": "Bakırcılık",
+              "forbiddens": [
+                "bakır",
+                "geleneksel",
+                "esnaf",
+                "anadolu",
+                "gaziantep"
+              ]
+            },
+            {
+              "word": "Bar",
+              "forbiddens": [
+                "doğu",
+                "halk",
+                "dans",
+                "geleneksel",
+                "erzurum"
+              ]
+            },
+            {
+              "word": "Battal Gazi",
+              "forbiddens": [
+                "kahraman",
+                "anadolu",
+                "eski",
+                "gazi",
+                "türk"
+              ]
+            },
+            {
+              "word": "Battaniye Dokumacılığı",
+              "forbiddens": [
+                "yün",
+                "kalın",
+                "kış",
+                "geleneksel",
+                "anadolu"
+              ]
+            },
+            {
+              "word": "Batıcılık",
+              "forbiddens": [
+                "fikir",
+                "modern",
+                "türk",
+                "abdullah cevdet",
+                "etkili"
+              ]
+            },
+            {
+              "word": "Batık Maliyet Yanılgısı",
+              "forbiddens": [
+                "Bırak",
+                "Yatır",
+                "Kayıp",
+                "Sürdür",
+                "Mantık"
+              ]
+            },
+            {
+              "word": "Bağlama",
+              "forbiddens": [
+                "saz",
+                "halk",
+                "türk",
+                "geleneksel",
+                "çalgı"
+              ]
+            },
+            {
+              "word": "Bedri Rahmi Eyüboğlu",
+              "forbiddens": [
+                "ressam",
+                "şair",
+                "modern",
+                "türk",
+                "sanat"
+              ]
+            },
+            {
+              "word": "Bektaşilik",
+              "forbiddens": [
+                "tarikat",
+                "hacı bektaş",
                 "sufi",
-                "kavram",
-                "manevi"
+                "alevi",
+                "geleneksel"
               ]
             },
             {
@@ -5050,13 +5330,123 @@
               ]
             },
             {
-              "word": "Halvet",
+              "word": "Berat Kandili",
               "forbiddens": [
-                "tasavvuf",
-                "yalnızlık",
-                "çekilmek",
-                "sufi",
-                "manevi"
+                "dini",
+                "kurtuluş",
+                "gece",
+                "geleneksel",
+                "kandil"
+              ]
+            },
+            {
+              "word": "Bergama Halısı",
+              "forbiddens": [
+                "geleneksel",
+                "halı",
+                "ege",
+                "motif",
+                "klasik"
+              ]
+            },
+            {
+              "word": "Bilge Karasu",
+              "forbiddens": [
+                "yazar",
+                "modern",
+                "türk",
+                "edebiyat",
+                "deneysel"
+              ]
+            },
+            {
+              "word": "Bilmece",
+              "forbiddens": [
+                "soru",
+                "halk",
+                "geleneksel",
+                "türk",
+                "oyun"
+              ]
+            },
+            {
+              "word": "Birinci Ulusal Mimari",
+              "forbiddens": [
+                "mimar",
+                "osmanlı",
+                "ulusal",
+                "modern",
+                "türk"
+              ]
+            },
+            {
+              "word": "Bohça Sanatı",
+              "forbiddens": [
+                "gelin",
+                "çeyiz",
+                "geleneksel",
+                "kadın",
+                "motif"
+              ]
+            },
+            {
+              "word": "Buselik Makamı",
+              "forbiddens": [
+                "klasik",
+                "türk",
+                "müzik",
+                "makam",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Buzdağının Görünen Yüzü",
+              "forbiddens": [
+                "Yüzey",
+                "Büyük",
+                "Saklı",
+                "Altında",
+                "Sadece"
+              ]
+            },
+            {
+              "word": "Bâki",
+              "forbiddens": [
+                "divan",
+                "şair",
+                "klasik",
+                "ünlü",
+                "kanuni"
+              ]
+            },
+            {
+              "word": "Cağaloğlu Hamamı",
+              "forbiddens": [
+                "istanbul",
+                "eski",
+                "geleneksel",
+                "mahmut",
+                "hamam"
+              ]
+            },
+            {
+              "word": "Cemal Reşit Rey",
+              "forbiddens": [
+                "bestekar",
+                "modern",
+                "türk",
+                "klasik",
+                "opera"
+              ]
+            },
+            {
+              "word": "Cenap Şahabettin",
+              "forbiddens": [
+                "şair",
+                "servet-i fünun",
+                "edebiyat",
+                "türk",
+                "modern"
               ]
             },
             {
@@ -5070,13 +5460,253 @@
               ]
             },
             {
-              "word": "Manevî Yol",
+              "word": "Cilt Sanatı",
               "forbiddens": [
-                "tasavvuf",
-                "sufi",
-                "yol",
-                "derviş",
-                "mistik"
+                "kitap",
+                "deri",
+                "geleneksel",
+                "sanat",
+                "türk"
+              ]
+            },
+            {
+              "word": "Cirit",
+              "forbiddens": [
+                "geleneksel",
+                "at",
+                "mızrak",
+                "anadolu",
+                "eski"
+              ]
+            },
+            {
+              "word": "Cumhuriyet Müzesi",
+              "forbiddens": [
+                "ankara",
+                "müze",
+                "milli",
+                "atatürk",
+                "cumhuriyet"
+              ]
+            },
+            {
+              "word": "Cura",
+              "forbiddens": [
+                "saz",
+                "küçük",
+                "halk",
+                "geleneksel",
+                "türk"
+              ]
+            },
+            {
+              "word": "D Grubu",
+              "forbiddens": [
+                "resim",
+                "sanat",
+                "modern",
+                "türk",
+                "akım"
+              ]
+            },
+            {
+              "word": "Dadaloğlu",
+              "forbiddens": [
+                "halk",
+                "şair",
+                "toros",
+                "anadolu",
+                "türkmen"
+              ]
+            },
+            {
+              "word": "Demircilik",
+              "forbiddens": [
+                "demir",
+                "geleneksel",
+                "esnaf",
+                "anadolu",
+                "alet"
+              ]
+            },
+            {
+              "word": "Deneme Yanılma",
+              "forbiddens": [
+                "Hata",
+                "Tekrar",
+                "Öğren",
+                "Yöntem",
+                "Süreç"
+              ]
+            },
+            {
+              "word": "Devlet Opera ve Balesi",
+              "forbiddens": [
+                "sahne",
+                "opera",
+                "modern",
+                "türk",
+                "klasik"
+              ]
+            },
+            {
+              "word": "Devlet Tiyatroları",
+              "forbiddens": [
+                "sahne",
+                "devlet",
+                "modern",
+                "türk",
+                "sanat"
+              ]
+            },
+            {
+              "word": "Devrim Heykeli",
+              "forbiddens": [
+                "atatürk",
+                "taksim",
+                "ankara",
+                "modern",
+                "sembol"
+              ]
+            },
+            {
+              "word": "Devşirme",
+              "forbiddens": [
+                "osmanlı",
+                "çocuk",
+                "yeniçeri",
+                "kapıkulu",
+                "eğitim"
+              ]
+            },
+            {
+              "word": "Dibe Doğru Yarış",
+              "forbiddens": [
+                "Rekabet",
+                "Düşür",
+                "Kalite",
+                "Fiyat",
+                "Standart"
+              ]
+            },
+            {
+              "word": "Divân-ı Hümâyûn",
+              "forbiddens": [
+                "osmanlı",
+                "kabine",
+                "padişah",
+                "danışma",
+                "devlet"
+              ]
+            },
+            {
+              "word": "Dokumacılık",
+              "forbiddens": [
+                "el",
+                "tezgah",
+                "geleneksel",
+                "anadolu",
+                "halk"
+              ]
+            },
+            {
+              "word": "Doğu Anadolu Müziği",
+              "forbiddens": [
+                "halk",
+                "bar",
+                "klasik",
+                "geleneksel",
+                "türk"
+              ]
+            },
+            {
+              "word": "Doğu Şivesi",
+              "forbiddens": [
+                "diyalekt",
+                "doğu",
+                "türk",
+                "ağız",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Dunning Kruger Etkisi",
+              "forbiddens": [
+                "Özgüven",
+                "Yetkin",
+                "Önyargı",
+                "Farkındalık",
+                "Uzman"
+              ]
+            },
+            {
+              "word": "Dönüşü Olmayan Nokta",
+              "forbiddens": [
+                "Eşik",
+                "Karar",
+                "İleri",
+                "Geri",
+                "Geçmiş"
+              ]
+            },
+            {
+              "word": "Düğün Geleneği",
+              "forbiddens": [
+                "kına",
+                "gelin",
+                "davet",
+                "geleneksel",
+                "türk"
+              ]
+            },
+            {
+              "word": "Ebru Sanatı",
+              "forbiddens": [
+                "kağıt",
+                "su",
+                "geleneksel",
+                "türk",
+                "motif"
+              ]
+            },
+            {
+              "word": "Edebiyat-ı Cedide",
+              "forbiddens": [
+                "yeni",
+                "batı",
+                "modern",
+                "akım",
+                "türk"
+              ]
+            },
+            {
+              "word": "Ege Yöresi Müziği",
+              "forbiddens": [
+                "zeybek",
+                "halk",
+                "geleneksel",
+                "türk",
+                "klasik"
+              ]
+            },
+            {
+              "word": "Egeli Şivesi",
+              "forbiddens": [
+                "diyalekt",
+                "batı",
+                "türk",
+                "ağız",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Enderun",
+              "forbiddens": [
+                "osmanlı",
+                "okul",
+                "devşirme",
+                "eğitim",
+                "saray"
               ]
             },
             {
@@ -5087,6 +5717,1016 @@
                 "kural",
                 "sufi",
                 "yol"
+              ]
+            },
+            {
+              "word": "Erzurum Kongresi",
+              "forbiddens": [
+                "1919",
+                "milli",
+                "atatürk",
+                "kongre",
+                "kurtuluş"
+              ]
+            },
+            {
+              "word": "Etibank",
+              "forbiddens": [
+                "maden",
+                "devlet",
+                "modern",
+                "kurum",
+                "milli"
+              ]
+            },
+            {
+              "word": "Etnografya Müzesi",
+              "forbiddens": [
+                "ankara",
+                "müze",
+                "anıt",
+                "kültür",
+                "modern"
+              ]
+            },
+            {
+              "word": "Evliya Ziyareti",
+              "forbiddens": [
+                "türbe",
+                "dini",
+                "geleneksel",
+                "dilek",
+                "kutsal"
+              ]
+            },
+            {
+              "word": "Eşit Şartlar",
+              "forbiddens": [
+                "Adil",
+                "Hak",
+                "Yarış",
+                "Şans",
+                "Rekabet"
+              ]
+            },
+            {
+              "word": "Falih Rıfkı Atay",
+              "forbiddens": [
+                "yazar",
+                "gazeteci",
+                "çankaya",
+                "modern",
+                "türk"
+              ]
+            },
+            {
+              "word": "Fecr-i Âtî",
+              "forbiddens": [
+                "edebiyat",
+                "akım",
+                "1909",
+                "modern",
+                "türk"
+              ]
+            },
+            {
+              "word": "Fenâ",
+              "forbiddens": [
+                "tasavvuf",
+                "yok olmak",
+                "sufi",
+                "kavram",
+                "manevi"
+              ]
+            },
+            {
+              "word": "Fikir Değişikliği",
+              "forbiddens": [
+                "Karar",
+                "Vazgeç",
+                "Yeni",
+                "Önce",
+                "Tutum"
+              ]
+            },
+            {
+              "word": "Fuzuli",
+              "forbiddens": [
+                "divan",
+                "şair",
+                "leyla mecnun",
+                "klasik",
+                "eski"
+              ]
+            },
+            {
+              "word": "Galatasaray Hamamı",
+              "forbiddens": [
+                "istanbul",
+                "geleneksel",
+                "beyoğlu",
+                "eski",
+                "hamam"
+              ]
+            },
+            {
+              "word": "Garip Akımı",
+              "forbiddens": [
+                "şiir",
+                "sade",
+                "türk",
+                "modern",
+                "orhan veli"
+              ]
+            },
+            {
+              "word": "Gazel",
+              "forbiddens": [
+                "divan",
+                "beyit",
+                "kafiye",
+                "klasik",
+                "edebiyat"
+              ]
+            },
+            {
+              "word": "Geçiş Ritüeli",
+              "forbiddens": [
+                "Gelenek",
+                "Tören",
+                "Olgun",
+                "Erkin",
+                "Aşama"
+              ]
+            },
+            {
+              "word": "Görmezden Gelinen Sorun",
+              "forbiddens": [
+                "Konu",
+                "Apaçık",
+                "Sessiz",
+                "Tartış",
+                "Kaçın"
+              ]
+            },
+            {
+              "word": "Hacı Arif Bey",
+              "forbiddens": [
+                "bestekar",
+                "klasik",
+                "türk",
+                "müzik",
+                "ünlü"
+              ]
+            },
+            {
+              "word": "Hacı Bektaş Veli",
+              "forbiddens": [
+                "bektaşi",
+                "anadolu",
+                "sufi",
+                "evliya",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Hafife Alma",
+              "forbiddens": [
+                "Önemse",
+                "Garanti",
+                "Fark",
+                "Yokumsa",
+                "Alışkanlık"
+              ]
+            },
+            {
+              "word": "Halay",
+              "forbiddens": [
+                "orta",
+                "halk",
+                "dans",
+                "geleneksel",
+                "sıralı"
+              ]
+            },
+            {
+              "word": "Halid Ziya Uşaklıgil",
+              "forbiddens": [
+                "yazar",
+                "servet-i fünun",
+                "roman",
+                "türk",
+                "edebiyat"
+              ]
+            },
+            {
+              "word": "Halide Edib Adıvar",
+              "forbiddens": [
+                "yazar",
+                "kadın",
+                "milli",
+                "modern",
+                "türk"
+              ]
+            },
+            {
+              "word": "Halife",
+              "forbiddens": [
+                "tasavvuf",
+                "vekil",
+                "mürşit",
+                "sufi",
+                "dini"
+              ]
+            },
+            {
+              "word": "Halile",
+              "forbiddens": [
+                "sufi",
+                "vurmalı",
+                "geleneksel",
+                "mevlevi",
+                "küçük"
+              ]
+            },
+            {
+              "word": "Halk Evleri",
+              "forbiddens": [
+                "1932",
+                "halk",
+                "kültür",
+                "atatürk",
+                "kurum"
+              ]
+            },
+            {
+              "word": "Halkın Sesi Radyosu",
+              "forbiddens": [
+                "radyo",
+                "milli",
+                "yayın",
+                "türk",
+                "modern"
+              ]
+            },
+            {
+              "word": "Halvet",
+              "forbiddens": [
+                "tasavvuf",
+                "yalnızlık",
+                "çekilmek",
+                "sufi",
+                "manevi"
+              ]
+            },
+            {
+              "word": "Halvetilik",
+              "forbiddens": [
+                "tarikat",
+                "sufi",
+                "halvet",
+                "geleneksel",
+                "dini"
+              ]
+            },
+            {
+              "word": "Hamamcı",
+              "forbiddens": [
+                "geleneksel",
+                "hamam",
+                "esnaf",
+                "dini",
+                "temizlik"
+              ]
+            },
+            {
+              "word": "Hammam Kültürü",
+              "forbiddens": [
+                "geleneksel",
+                "dini",
+                "türk",
+                "banyo",
+                "eski"
+              ]
+            },
+            {
+              "word": "Hammamizade İsmail Dede Efendi",
+              "forbiddens": [
+                "bestekar",
+                "klasik",
+                "türk",
+                "müzik",
+                "dahi"
+              ]
+            },
+            {
+              "word": "Harem",
+              "forbiddens": [
+                "osmanlı",
+                "kadın",
+                "saray",
+                "padişah",
+                "gizli"
+              ]
+            },
+            {
+              "word": "Harf Devrimi",
+              "forbiddens": [
+                "1928",
+                "latin",
+                "eğitim",
+                "atatürk",
+                "modern"
+              ]
+            },
+            {
+              "word": "Hat Sanatı",
+              "forbiddens": [
+                "yazı",
+                "kaligrafi",
+                "geleneksel",
+                "türk",
+                "sanat"
+              ]
+            },
+            {
+              "word": "Hediyeci",
+              "forbiddens": [
+                "esnaf",
+                "dükkan",
+                "geleneksel",
+                "ürün",
+                "çeşit"
+              ]
+            },
+            {
+              "word": "Hereke Halısı",
+              "forbiddens": [
+                "ipek",
+                "kocaeli",
+                "padişah",
+                "geleneksel",
+                "ünlü"
+              ]
+            },
+            {
+              "word": "Hicaz Makamı",
+              "forbiddens": [
+                "klasik",
+                "türk",
+                "müzik",
+                "makam",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Hilafetin Kaldırılması",
+              "forbiddens": [
+                "1924",
+                "dini",
+                "devrim",
+                "devlet",
+                "atatürk"
+              ]
+            },
+            {
+              "word": "Horon",
+              "forbiddens": [
+                "karadeniz",
+                "halk",
+                "dans",
+                "hızlı",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Hâkimiyet-i Milliye Gazetesi",
+              "forbiddens": [
+                "atatürk dönemi",
+                "basın",
+                "milli",
+                "ankara",
+                "gazete"
+              ]
+            },
+            {
+              "word": "Hüseyni Makamı",
+              "forbiddens": [
+                "klasik",
+                "türk",
+                "müzik",
+                "makam",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Hıdırellez",
+              "forbiddens": [
+                "bahar",
+                "dilek",
+                "geleneksel",
+                "6 mayıs",
+                "türk"
+              ]
+            },
+            {
+              "word": "Hırka",
+              "forbiddens": [
+                "sufi",
+                "mevlevi",
+                "üst",
+                "geleneksel",
+                "derviş"
+              ]
+            },
+            {
+              "word": "Islahat Fermanı",
+              "forbiddens": [
+                "1856",
+                "reform",
+                "osmanlı",
+                "batılılaşma",
+                "hukuk"
+              ]
+            },
+            {
+              "word": "Itrî",
+              "forbiddens": [
+                "bestekar",
+                "klasik",
+                "türk",
+                "ünlü",
+                "eski"
+              ]
+            },
+            {
+              "word": "İbrahim Şinasi",
+              "forbiddens": [
+                "gazete",
+                "tanzimat",
+                "modern",
+                "edebiyat",
+                "ilk"
+              ]
+            },
+            {
+              "word": "İki Ucu Keskin Bıçak",
+              "forbiddens": [
+                "Yarar",
+                "Zarar",
+                "Yan",
+                "Risk",
+                "Tehlike"
+              ]
+            },
+            {
+              "word": "İkinci Ulusal Mimari",
+              "forbiddens": [
+                "mimar",
+                "modern",
+                "ulusal",
+                "türk",
+                "1940"
+              ]
+            },
+            {
+              "word": "İkinci Yeni",
+              "forbiddens": [
+                "şiir",
+                "akım",
+                "modern",
+                "türk",
+                "1950ler"
+              ]
+            },
+            {
+              "word": "İlahi",
+              "forbiddens": [
+                "sufi",
+                "dini",
+                "klasik",
+                "türk",
+                "sözlü"
+              ]
+            },
+            {
+              "word": "İnanç Sıçraması",
+              "forbiddens": [
+                "Güven",
+                "Atla",
+                "Risk",
+                "Bilinmez",
+                "Cesaret"
+              ]
+            },
+            {
+              "word": "İslamcılık",
+              "forbiddens": [
+                "fikir",
+                "ideoloji",
+                "modern",
+                "türk",
+                "mehmet akif"
+              ]
+            },
+            {
+              "word": "İznik Çinisi",
+              "forbiddens": [
+                "geleneksel",
+                "mavi",
+                "padişah",
+                "motif",
+                "eski"
+              ]
+            },
+            {
+              "word": "İç Anadolu Müziği",
+              "forbiddens": [
+                "halk",
+                "geleneksel",
+                "türk",
+                "anadolu",
+                "klasik"
+              ]
+            },
+            {
+              "word": "İç Anadolu Şivesi",
+              "forbiddens": [
+                "diyalekt",
+                "orta",
+                "türk",
+                "ağız",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "İğne Oyası",
+              "forbiddens": [
+                "geleneksel",
+                "kadın",
+                "ince",
+                "başörtü",
+                "motif"
+              ]
+            },
+            {
+              "word": "İş Bankası",
+              "forbiddens": [
+                "atatürk",
+                "banka",
+                "modern",
+                "kurum",
+                "milli"
+              ]
+            },
+            {
+              "word": "İş Hayat Dengesi",
+              "forbiddens": [
+                "Mesai",
+                "Aile",
+                "Zaman",
+                "Stres",
+                "Hobi"
+              ]
+            },
+            {
+              "word": "Kadir Gecesi",
+              "forbiddens": [
+                "dini",
+                "ramazan",
+                "kutsal",
+                "geleneksel",
+                "gece"
+              ]
+            },
+            {
+              "word": "Kadirilik",
+              "forbiddens": [
+                "tarikat",
+                "sufi",
+                "abdülkadir geylani",
+                "geleneksel",
+                "dini"
+              ]
+            },
+            {
+              "word": "Kadılık",
+              "forbiddens": [
+                "osmanlı",
+                "hukuk",
+                "yargı",
+                "şer'i",
+                "mahkeme"
+              ]
+            },
+            {
+              "word": "Kandil Gecesi",
+              "forbiddens": [
+                "dini",
+                "gece",
+                "dua",
+                "geleneksel",
+                "türk"
+              ]
+            },
+            {
+              "word": "Kanun",
+              "forbiddens": [
+                "klasik",
+                "türk",
+                "geleneksel",
+                "çalgı",
+                "tel"
+              ]
+            },
+            {
+              "word": "Kapalı Çarşı",
+              "forbiddens": [
+                "istanbul",
+                "alışveriş",
+                "geleneksel",
+                "padişah",
+                "ünlü"
+              ]
+            },
+            {
+              "word": "Karacaoğlan",
+              "forbiddens": [
+                "halk",
+                "şair",
+                "sevda",
+                "anadolu",
+                "eski"
+              ]
+            },
+            {
+              "word": "Karadeniz Yöresi Müziği",
+              "forbiddens": [
+                "kemençe",
+                "horon",
+                "halk",
+                "geleneksel",
+                "türk"
+              ]
+            },
+            {
+              "word": "Karadeniz Şivesi",
+              "forbiddens": [
+                "diyalekt",
+                "kuzey",
+                "türk",
+                "ağız",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Karakucak",
+              "forbiddens": [
+                "geleneksel",
+                "güreş",
+                "türk",
+                "kıspetsiz",
+                "eski"
+              ]
+            },
+            {
+              "word": "Karcığar Makamı",
+              "forbiddens": [
+                "klasik",
+                "türk",
+                "müzik",
+                "makam",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Karşılama",
+              "forbiddens": [
+                "trakya",
+                "halk",
+                "dans",
+                "çift",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Kaside",
+              "forbiddens": [
+                "divan",
+                "övgü",
+                "uzun",
+                "klasik",
+                "edebiyat"
+              ]
+            },
+            {
+              "word": "Kayseri Halısı",
+              "forbiddens": [
+                "geleneksel",
+                "halı",
+                "anadolu",
+                "motif",
+                "ünlü"
+              ]
+            },
+            {
+              "word": "Kazan Kazan Durumu",
+              "forbiddens": [
+                "İki",
+                "Yarar",
+                "Anlaş",
+                "Sonuç",
+                "Mutlu"
+              ]
+            },
+            {
+              "word": "Kemençe",
+              "forbiddens": [
+                "yay",
+                "klasik",
+                "türk",
+                "çalgı",
+                "karadeniz"
+              ]
+            },
+            {
+              "word": "Kendini Gerçekleştiren Kehanet",
+              "forbiddens": [
+                "İnanç",
+                "Sonuç",
+                "Tahmin",
+                "Sebep",
+                "Olur"
+              ]
+            },
+            {
+              "word": "Kudüm",
+              "forbiddens": [
+                "sufi",
+                "vurmalı",
+                "ritm",
+                "mevlevi",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Kâr-ı Nâtık",
+              "forbiddens": [
+                "klasik",
+                "türk",
+                "müzik",
+                "beste",
+                "divan"
+              ]
+            },
+            {
+              "word": "Köroğlu",
+              "forbiddens": [
+                "halk",
+                "şair",
+                "kahraman",
+                "türkü",
+                "anadolu"
+              ]
+            },
+            {
+              "word": "Köroğlu Destanı",
+              "forbiddens": [
+                "kahraman",
+                "halk",
+                "türkü",
+                "anadolu",
+                "ozan"
+              ]
+            },
+            {
+              "word": "Köy Enstitüleri",
+              "forbiddens": [
+                "1940",
+                "köy",
+                "eğitim",
+                "öğretmen",
+                "atatürk"
+              ]
+            },
+            {
+              "word": "Kütahya Çinisi",
+              "forbiddens": [
+                "porselen",
+                "motif",
+                "mavi",
+                "geleneksel",
+                "sanat"
+              ]
+            },
+            {
+              "word": "Lale Devri",
+              "forbiddens": [
+                "osmanlı",
+                "1718-1730",
+                "eğlence",
+                "sanat",
+                "gelişme"
+              ]
+            },
+            {
+              "word": "Leyla ile Mecnun",
+              "forbiddens": [
+                "fuzuli",
+                "sevda",
+                "klasik",
+                "divan",
+                "edebiyat"
+              ]
+            },
+            {
+              "word": "Mahur Makamı",
+              "forbiddens": [
+                "klasik",
+                "türk",
+                "müzik",
+                "makam",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Manevî Yol",
+              "forbiddens": [
+                "tasavvuf",
+                "sufi",
+                "yol",
+                "derviş",
+                "mistik"
+              ]
+            },
+            {
+              "word": "Maviciler",
+              "forbiddens": [
+                "edebiyat",
+                "akım",
+                "mavi",
+                "modern",
+                "türk"
+              ]
+            },
+            {
+              "word": "Mehmet Akif Ersoy",
+              "forbiddens": [
+                "şair",
+                "milli marş",
+                "edebiyat",
+                "türk",
+                "milli"
+              ]
+            },
+            {
+              "word": "Mekik Oyası",
+              "forbiddens": [
+                "geleneksel",
+                "kadın",
+                "ince",
+                "motif",
+                "dantel"
+              ]
+            },
+            {
+              "word": "Mersiye",
+              "forbiddens": [
+                "ağıt",
+                "kerbela",
+                "sufi",
+                "klasik",
+                "alevi"
+              ]
+            },
+            {
+              "word": "Mesnevi",
+              "forbiddens": [
+                "divan",
+                "hikaye",
+                "mevlana",
+                "klasik",
+                "edebiyat"
+              ]
+            },
+            {
+              "word": "Mevlevi Ayini",
+              "forbiddens": [
+                "sema",
+                "mevlana",
+                "sufi",
+                "ritüel",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Mevlid Kandili",
+              "forbiddens": [
+                "dini",
+                "peygamber",
+                "doğum",
+                "geleneksel",
+                "kandil"
+              ]
+            },
+            {
+              "word": "Milli Edebiyat",
+              "forbiddens": [
+                "türk",
+                "dil",
+                "akım",
+                "modern",
+                "ziya gökalp"
+              ]
+            },
+            {
+              "word": "Mimar Kemaleddin",
+              "forbiddens": [
+                "birinci ulusal",
+                "mimar",
+                "osmanlı",
+                "modern",
+                "türk"
+              ]
+            },
+            {
+              "word": "Mimar Vedat Tek",
+              "forbiddens": [
+                "birinci ulusal",
+                "mimar",
+                "türk",
+                "modern",
+                "ankara"
+              ]
+            },
+            {
+              "word": "Minyatür",
+              "forbiddens": [
+                "geleneksel",
+                "küçük",
+                "padişah",
+                "sanat",
+                "türk"
+              ]
+            },
+            {
+              "word": "Miraç Kandili",
+              "forbiddens": [
+                "dini",
+                "peygamber",
+                "gökyüzü",
+                "geleneksel",
+                "kandil"
+              ]
+            },
+            {
+              "word": "Mudanya Mütarekesi",
+              "forbiddens": [
+                "1922",
+                "ateşkes",
+                "kurtuluş",
+                "yunan",
+                "atatürk"
+              ]
+            },
+            {
+              "word": "Mumcu Esnafı",
+              "forbiddens": [
+                "mum",
+                "balmumu",
+                "dini",
+                "geleneksel",
+                "eski"
+              ]
+            },
+            {
+              "word": "Murabba",
+              "forbiddens": [
+                "divan",
+                "dört",
+                "mısra",
+                "klasik",
+                "edebiyat"
+              ]
+            },
+            {
+              "word": "Mâni",
+              "forbiddens": [
+                "dörtlük",
+                "halk",
+                "geleneksel",
+                "türk",
+                "ezgi"
+              ]
+            },
+            {
+              "word": "Münacat",
+              "forbiddens": [
+                "dua",
+                "sufi",
+                "klasik",
+                "türk",
+                "ezgi"
               ]
             },
             {
@@ -5110,213 +6750,53 @@
               ]
             },
             {
-              "word": "Halife",
+              "word": "Müstezat",
               "forbiddens": [
-                "tasavvuf",
-                "vekil",
-                "mürşit",
+                "divan",
+                "ek mısra",
+                "klasik",
+                "edebiyat",
+                "türk"
+              ]
+            },
+            {
+              "word": "Mısır Çarşısı",
+              "forbiddens": [
+                "istanbul",
+                "baharat",
+                "eminönü",
+                "geleneksel",
+                "padişah"
+              ]
+            },
+            {
+              "word": "Naat",
+              "forbiddens": [
+                "peygamber",
                 "sufi",
-                "dini"
+                "klasik",
+                "türk",
+                "ezgi"
               ]
             },
             {
-              "word": "Divân-ı Hümâyûn",
+              "word": "Nakşibendilik",
               "forbiddens": [
-                "osmanlı",
-                "kabine",
-                "padişah",
-                "danışma",
-                "devlet"
-              ]
-            },
-            {
-              "word": "Şehzâde",
-              "forbiddens": [
-                "osmanlı",
-                "prens",
-                "padişah oğlu",
-                "eğitim",
-                "valilik"
-              ]
-            },
-            {
-              "word": "Harem",
-              "forbiddens": [
-                "osmanlı",
-                "kadın",
-                "saray",
-                "padişah",
-                "gizli"
-              ]
-            },
-            {
-              "word": "Enderun",
-              "forbiddens": [
-                "osmanlı",
-                "okul",
-                "devşirme",
-                "eğitim",
-                "saray"
-              ]
-            },
-            {
-              "word": "Devşirme",
-              "forbiddens": [
-                "osmanlı",
-                "çocuk",
-                "yeniçeri",
-                "kapıkulu",
-                "eğitim"
-              ]
-            },
-            {
-              "word": "Yeniçeri",
-              "forbiddens": [
-                "osmanlı",
-                "asker",
-                "kapıkulu",
-                "devşirme",
-                "ocak"
-              ]
-            },
-            {
-              "word": "Tımar",
-              "forbiddens": [
-                "osmanlı",
-                "sipahi",
-                "asker",
-                "toprak",
-                "gelir"
-              ]
-            },
-            {
-              "word": "Vakıf",
-              "forbiddens": [
-                "osmanlı",
-                "kurum",
-                "hayır",
-                "mülk",
-                "dini"
-              ]
-            },
-            {
-              "word": "Kadılık",
-              "forbiddens": [
-                "osmanlı",
-                "hukuk",
-                "yargı",
-                "şer'i",
-                "mahkeme"
-              ]
-            },
-            {
-              "word": "Sadrazam",
-              "forbiddens": [
-                "osmanlı",
-                "başbakan",
-                "padişah",
-                "vekil",
-                "divan"
-              ]
-            },
-            {
-              "word": "Şeyhülislam",
-              "forbiddens": [
-                "osmanlı",
+                "tarikat",
+                "sufi",
+                "geleneksel",
                 "dini",
-                "hukuk",
-                "başkan",
-                "ulema"
+                "hat"
               ]
             },
             {
-              "word": "Padişah",
-              "forbiddens": [
-                "osmanlı",
-                "sultan",
-                "hükümdar",
-                "taht",
-                "devlet"
-              ]
-            },
-            {
-              "word": "Lale Devri",
-              "forbiddens": [
-                "osmanlı",
-                "1718-1730",
-                "eğlence",
-                "sanat",
-                "gelişme"
-              ]
-            },
-            {
-              "word": "Tanzimat",
-              "forbiddens": [
-                "1839",
-                "ferman",
-                "reform",
-                "osmanlı",
-                "batı"
-              ]
-            },
-            {
-              "word": "Islahat Fermanı",
-              "forbiddens": [
-                "1856",
-                "reform",
-                "osmanlı",
-                "batılılaşma",
-                "hukuk"
-              ]
-            },
-            {
-              "word": "Servet-i Fünun",
-              "forbiddens": [
-                "edebiyat",
-                "1896",
-                "batı",
-                "dergi",
-                "akım"
-              ]
-            },
-            {
-              "word": "Tevfik Fikret",
+              "word": "Namık Kemal",
               "forbiddens": [
                 "şair",
-                "servet-i fünun",
-                "modern",
-                "türk",
-                "edebiyat"
-              ]
-            },
-            {
-              "word": "Cenap Şahabettin",
-              "forbiddens": [
-                "şair",
-                "servet-i fünun",
+                "tanzimat",
+                "vatan",
                 "edebiyat",
-                "türk",
                 "modern"
-              ]
-            },
-            {
-              "word": "Halid Ziya Uşaklıgil",
-              "forbiddens": [
-                "yazar",
-                "servet-i fünun",
-                "roman",
-                "türk",
-                "edebiyat"
-              ]
-            },
-            {
-              "word": "Mehmet Akif Ersoy",
-              "forbiddens": [
-                "şair",
-                "milli marş",
-                "edebiyat",
-                "türk",
-                "milli"
               ]
             },
             {
@@ -5330,62 +6810,112 @@
               ]
             },
             {
-              "word": "İkinci Yeni",
+              "word": "Nedim",
               "forbiddens": [
-                "şiir",
-                "akım",
-                "modern",
-                "türk",
-                "1950ler"
+                "divan",
+                "şair",
+                "lale devri",
+                "klasik",
+                "hassas"
               ]
             },
             {
-              "word": "Garip Akımı",
+              "word": "Nef'i",
               "forbiddens": [
-                "şiir",
-                "sade",
-                "türk",
-                "modern",
-                "orhan veli"
+                "divan",
+                "şair",
+                "kaside",
+                "hiciv",
+                "klasik"
               ]
             },
             {
-              "word": "Maviciler",
+              "word": "Nevruz",
               "forbiddens": [
-                "edebiyat",
-                "akım",
-                "mavi",
+                "bahar",
+                "kutlama",
+                "geleneksel",
+                "alevi",
+                "doğa"
+              ]
+            },
+            {
+              "word": "Ney",
+              "forbiddens": [
+                "sufi",
+                "mevlana",
+                "üflemeli",
+                "klasik",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Orantısız Tepki",
+              "forbiddens": [
+                "Abart",
+                "Ölçü",
+                "Aşır",
+                "Gerçek",
+                "Büyüt"
+              ]
+            },
+            {
+              "word": "Ortakların Trajedisi",
+              "forbiddens": [
+                "Paylaş",
+                "Kaynak",
+                "Bencil",
+                "Kamu",
+                "Tüket"
+              ]
+            },
+            {
+              "word": "Osmanlıcılık",
+              "forbiddens": [
+                "fikir",
+                "ittihad",
+                "namık kemal",
                 "modern",
+                "ideoloji"
+              ]
+            },
+            {
+              "word": "Ozan Geleneği",
+              "forbiddens": [
+                "saz",
+                "halk",
+                "gezgin",
+                "geleneksel",
                 "türk"
               ]
             },
             {
-              "word": "Tanpınar Edebiyatı",
+              "word": "Padişah",
               "forbiddens": [
-                "huzur",
-                "ahmet hamdi",
-                "modern",
-                "türk",
-                "edebiyat"
+                "osmanlı",
+                "sultan",
+                "hükümdar",
+                "taht",
+                "devlet"
               ]
             },
             {
-              "word": "Bilge Karasu",
+              "word": "Pir Sultan Abdal",
               "forbiddens": [
-                "yazar",
-                "modern",
-                "türk",
-                "edebiyat",
-                "deneysel"
+                "halk",
+                "şair",
+                "alevi",
+                "anadolu",
+                "sazlı"
               ]
             },
             {
-              "word": "Hicaz Makamı",
+              "word": "Postnişin",
               "forbiddens": [
-                "klasik",
-                "türk",
-                "müzik",
+                "sufi",
+                "mevlevi",
                 "makam",
+                "baş",
                 "geleneksel"
               ]
             },
@@ -5400,153 +6930,43 @@
               ]
             },
             {
-              "word": "Uşşak Makamı",
+              "word": "Refik Halid Karay",
               "forbiddens": [
-                "klasik",
+                "yazar",
+                "memleket hikayeleri",
+                "modern",
                 "türk",
-                "müzik",
-                "makam",
-                "geleneksel"
+                "edebiyat"
               ]
             },
             {
-              "word": "Hüseyni Makamı",
+              "word": "Regaib Kandili",
               "forbiddens": [
-                "klasik",
-                "türk",
-                "müzik",
-                "makam",
-                "geleneksel"
+                "dini",
+                "gece",
+                "geleneksel",
+                "dua",
+                "kandil"
               ]
             },
             {
-              "word": "Saba Makamı",
+              "word": "Reşat Nuri Güntekin",
               "forbiddens": [
-                "klasik",
+                "yazar",
+                "çalıkuşu",
+                "modern",
                 "türk",
-                "müzik",
-                "makam",
-                "geleneksel"
+                "edebiyat"
               ]
             },
             {
-              "word": "Karcığar Makamı",
+              "word": "Rifailik",
               "forbiddens": [
-                "klasik",
-                "türk",
-                "müzik",
-                "makam",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Buselik Makamı",
-              "forbiddens": [
-                "klasik",
-                "türk",
-                "müzik",
-                "makam",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Mahur Makamı",
-              "forbiddens": [
-                "klasik",
-                "türk",
-                "müzik",
-                "makam",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Acem Makamı",
-              "forbiddens": [
-                "klasik",
-                "türk",
-                "müzik",
-                "makam",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Hammamizade İsmail Dede Efendi",
-              "forbiddens": [
-                "bestekar",
-                "klasik",
-                "türk",
-                "müzik",
-                "dahi"
-              ]
-            },
-            {
-              "word": "Itrî",
-              "forbiddens": [
-                "bestekar",
-                "klasik",
-                "türk",
-                "ünlü",
+                "tarikat",
+                "sufi",
+                "geleneksel",
+                "dini",
                 "eski"
-              ]
-            },
-            {
-              "word": "Hacı Arif Bey",
-              "forbiddens": [
-                "bestekar",
-                "klasik",
-                "türk",
-                "müzik",
-                "ünlü"
-              ]
-            },
-            {
-              "word": "Tanburi Cemil Bey",
-              "forbiddens": [
-                "bestekar",
-                "klasik",
-                "tanbur",
-                "türk",
-                "müzik"
-              ]
-            },
-            {
-              "word": "Kâr-ı Nâtık",
-              "forbiddens": [
-                "klasik",
-                "türk",
-                "müzik",
-                "beste",
-                "divan"
-              ]
-            },
-            {
-              "word": "Gazel",
-              "forbiddens": [
-                "divan",
-                "beyit",
-                "kafiye",
-                "klasik",
-                "edebiyat"
-              ]
-            },
-            {
-              "word": "Kaside",
-              "forbiddens": [
-                "divan",
-                "övgü",
-                "uzun",
-                "klasik",
-                "edebiyat"
-              ]
-            },
-            {
-              "word": "Mesnevi",
-              "forbiddens": [
-                "divan",
-                "hikaye",
-                "mevlana",
-                "klasik",
-                "edebiyat"
               ]
             },
             {
@@ -5560,283 +6980,73 @@
               ]
             },
             {
-              "word": "Murabba",
+              "word": "Saba Makamı",
               "forbiddens": [
-                "divan",
-                "dört",
-                "mısra",
-                "klasik",
-                "edebiyat"
-              ]
-            },
-            {
-              "word": "Şarkı",
-              "forbiddens": [
-                "divan",
-                "beste",
                 "klasik",
                 "türk",
-                "edebiyat"
+                "müzik",
+                "makam",
+                "geleneksel"
               ]
             },
             {
-              "word": "Tuyug",
+              "word": "Sadrazam",
               "forbiddens": [
-                "divan",
+                "osmanlı",
+                "başbakan",
+                "padişah",
+                "vekil",
+                "divan"
+              ]
+            },
+            {
+              "word": "Saltanatın Kaldırılması",
+              "forbiddens": [
+                "1922",
+                "padişah",
+                "devrim",
+                "devlet",
+                "atatürk"
+              ]
+            },
+            {
+              "word": "Sedad Hakkı Eldem",
+              "forbiddens": [
+                "mimar",
+                "ulusal",
+                "modern",
                 "türk",
-                "klasik",
-                "kıta",
-                "edebiyat"
+                "türk evi"
               ]
             },
             {
-              "word": "Müstezat",
+              "word": "Sedef Kakma",
               "forbiddens": [
-                "divan",
-                "ek mısra",
-                "klasik",
+                "geleneksel",
+                "ahşap",
+                "süsleme",
+                "sanat",
+                "türk"
+              ]
+            },
+            {
+              "word": "Servet-i Fünun",
+              "forbiddens": [
                 "edebiyat",
-                "türk"
+                "1896",
+                "batı",
+                "dergi",
+                "akım"
               ]
             },
             {
-              "word": "Fuzuli",
+              "word": "Sevr Antlaşması",
               "forbiddens": [
-                "divan",
-                "şair",
-                "leyla mecnun",
-                "klasik",
-                "eski"
-              ]
-            },
-            {
-              "word": "Bâki",
-              "forbiddens": [
-                "divan",
-                "şair",
-                "klasik",
-                "ünlü",
-                "kanuni"
-              ]
-            },
-            {
-              "word": "Nedim",
-              "forbiddens": [
-                "divan",
-                "şair",
-                "lale devri",
-                "klasik",
-                "hassas"
-              ]
-            },
-            {
-              "word": "Şeyh Galip",
-              "forbiddens": [
-                "divan",
-                "şair",
-                "hüsn ü aşk",
-                "mevlevi",
-                "klasik"
-              ]
-            },
-            {
-              "word": "Nef'i",
-              "forbiddens": [
-                "divan",
-                "şair",
-                "kaside",
-                "hiciv",
-                "klasik"
-              ]
-            },
-            {
-              "word": "Karacaoğlan",
-              "forbiddens": [
-                "halk",
-                "şair",
-                "sevda",
-                "anadolu",
-                "eski"
-              ]
-            },
-            {
-              "word": "Yunus Emre",
-              "forbiddens": [
-                "halk",
-                "şair",
-                "tasavvuf",
-                "türkçe",
-                "anadolu"
-              ]
-            },
-            {
-              "word": "Pir Sultan Abdal",
-              "forbiddens": [
-                "halk",
-                "şair",
-                "alevi",
-                "anadolu",
-                "sazlı"
-              ]
-            },
-            {
-              "word": "Köroğlu",
-              "forbiddens": [
-                "halk",
-                "şair",
-                "kahraman",
-                "türkü",
-                "anadolu"
-              ]
-            },
-            {
-              "word": "Aşık Veysel",
-              "forbiddens": [
-                "halk",
-                "ozan",
-                "kara toprak",
-                "anadolu",
-                "ünlü"
-              ]
-            },
-            {
-              "word": "Dadaloğlu",
-              "forbiddens": [
-                "halk",
-                "şair",
-                "toros",
-                "anadolu",
-                "türkmen"
-              ]
-            },
-            {
-              "word": "Aşık Mahzuni Şerif",
-              "forbiddens": [
-                "halk",
-                "ozan",
-                "kahramanmaraş",
-                "anadolu",
-                "modern"
-              ]
-            },
-            {
-              "word": "Aşık Geleneği",
-              "forbiddens": [
-                "halk",
-                "ozan",
-                "saz",
-                "gezgin",
-                "anadolu"
-              ]
-            },
-            {
-              "word": "Cura",
-              "forbiddens": [
-                "saz",
-                "küçük",
-                "halk",
-                "geleneksel",
-                "türk"
-              ]
-            },
-            {
-              "word": "Bağlama",
-              "forbiddens": [
-                "saz",
-                "halk",
-                "türk",
-                "geleneksel",
-                "çalgı"
-              ]
-            },
-            {
-              "word": "Tanbur",
-              "forbiddens": [
-                "klasik",
-                "türk",
-                "çalgı",
-                "uzun saplı",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Kemençe",
-              "forbiddens": [
-                "yay",
-                "klasik",
-                "türk",
-                "çalgı",
-                "karadeniz"
-              ]
-            },
-            {
-              "word": "Ud",
-              "forbiddens": [
-                "klasik",
-                "türk",
-                "arap",
-                "geleneksel",
-                "çalgı"
-              ]
-            },
-            {
-              "word": "Kanun",
-              "forbiddens": [
-                "klasik",
-                "türk",
-                "geleneksel",
-                "çalgı",
-                "tel"
-              ]
-            },
-            {
-              "word": "Ney",
-              "forbiddens": [
-                "sufi",
-                "mevlana",
-                "üflemeli",
-                "klasik",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Kudüm",
-              "forbiddens": [
-                "sufi",
-                "vurmalı",
-                "ritm",
-                "mevlevi",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Halile",
-              "forbiddens": [
-                "sufi",
-                "vurmalı",
-                "geleneksel",
-                "mevlevi",
-                "küçük"
-              ]
-            },
-            {
-              "word": "Mevlevi Ayini",
-              "forbiddens": [
-                "sema",
-                "mevlana",
-                "sufi",
-                "ritüel",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Çile-i Mevlevi",
-              "forbiddens": [
-                "1001 gün",
-                "sufi",
-                "eğitim",
-                "mevlevi",
-                "geleneksel"
+                "1920",
+                "osmanlı",
+                "yenilgi",
+                "padişah",
+                "antlaşma"
               ]
             },
             {
@@ -5850,63 +7060,93 @@
               ]
             },
             {
-              "word": "Tennure",
+              "word": "Sivas Kongresi",
               "forbiddens": [
-                "mevlevi",
-                "beyaz",
-                "etek",
-                "sema",
-                "geleneksel"
+                "1919",
+                "milli",
+                "atatürk",
+                "kongre",
+                "kurtuluş"
               ]
             },
             {
-              "word": "Hırka",
+              "word": "Soyadı Kanunu",
               "forbiddens": [
-                "sufi",
-                "mevlevi",
-                "üst",
-                "geleneksel",
-                "derviş"
+                "1934",
+                "isim",
+                "devrim",
+                "atatürk",
+                "modern"
               ]
             },
             {
-              "word": "Postnişin",
+              "word": "Sümerbank",
               "forbiddens": [
-                "sufi",
-                "mevlevi",
-                "makam",
-                "baş",
-                "geleneksel"
+                "tekstil",
+                "devlet",
+                "modern",
+                "kurum",
+                "milli"
               ]
             },
             {
-              "word": "Şeb-i Arus",
+              "word": "Sıfır Toplamlı Oyun",
               "forbiddens": [
-                "mevlana",
-                "ölüm",
-                "düğün",
-                "17 aralık",
-                "dini"
+                "Kazan",
+                "Kayıp",
+                "Kâr",
+                "Diğer",
+                "Denge"
               ]
             },
             {
-              "word": "Alaturka",
+              "word": "Tahir ile Zühre",
               "forbiddens": [
+                "halk",
+                "sevda",
+                "klasik",
+                "anadolu",
+                "türkü"
+              ]
+            },
+            {
+              "word": "Tanbur",
+              "forbiddens": [
+                "klasik",
                 "türk",
-                "geleneksel",
-                "doğu",
-                "eski",
+                "çalgı",
+                "uzun saplı",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Tanburi Cemil Bey",
+              "forbiddens": [
+                "bestekar",
+                "klasik",
+                "tanbur",
+                "türk",
                 "müzik"
               ]
             },
             {
-              "word": "Alafranga",
+              "word": "Tanpınar Edebiyatı",
               "forbiddens": [
-                "batı",
+                "huzur",
+                "ahmet hamdi",
                 "modern",
-                "frenk",
-                "etkisi",
-                "türk"
+                "türk",
+                "edebiyat"
+              ]
+            },
+            {
+              "word": "Tanzimat",
+              "forbiddens": [
+                "1839",
+                "ferman",
+                "reform",
+                "osmanlı",
+                "batı"
               ]
             },
             {
@@ -5920,100 +7160,70 @@
               ]
             },
             {
-              "word": "Namık Kemal",
+              "word": "Tatlıcı",
+              "forbiddens": [
+                "esnaf",
+                "geleneksel",
+                "lokum",
+                "baklava",
+                "dükkan"
+              ]
+            },
+            {
+              "word": "Tekerleme",
+              "forbiddens": [
+                "çocuk",
+                "hızlı",
+                "oyun",
+                "geleneksel",
+                "türk"
+              ]
+            },
+            {
+              "word": "Tekke",
+              "forbiddens": [
+                "tarikat",
+                "sufi",
+                "mekan",
+                "eski",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Tekke ve Zaviyelerin Kapatılması",
+              "forbiddens": [
+                "1925",
+                "tarikat",
+                "devrim",
+                "atatürk",
+                "dini"
+              ]
+            },
+            {
+              "word": "Telli Saz",
+              "forbiddens": [
+                "bağlama",
+                "halk",
+                "geleneksel",
+                "türk",
+                "akım"
+              ]
+            },
+            {
+              "word": "Tennure",
+              "forbiddens": [
+                "mevlevi",
+                "beyaz",
+                "etek",
+                "sema",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Tevfik Fikret",
               "forbiddens": [
                 "şair",
-                "tanzimat",
-                "vatan",
-                "edebiyat",
-                "modern"
-              ]
-            },
-            {
-              "word": "İbrahim Şinasi",
-              "forbiddens": [
-                "gazete",
-                "tanzimat",
-                "modern",
-                "edebiyat",
-                "ilk"
-              ]
-            },
-            {
-              "word": "Ahmet Mithat",
-              "forbiddens": [
-                "yazar",
-                "gazeteci",
-                "hace-i evvel",
-                "tanzimat",
-                "popüler"
-              ]
-            },
-            {
-              "word": "Edebiyat-ı Cedide",
-              "forbiddens": [
-                "yeni",
-                "batı",
-                "modern",
-                "akım",
-                "türk"
-              ]
-            },
-            {
-              "word": "Fecr-i Âtî",
-              "forbiddens": [
-                "edebiyat",
-                "akım",
-                "1909",
-                "modern",
-                "türk"
-              ]
-            },
-            {
-              "word": "Milli Edebiyat",
-              "forbiddens": [
-                "türk",
-                "dil",
-                "akım",
-                "modern",
-                "ziya gökalp"
-              ]
-            },
-            {
-              "word": "Ziya Gökalp",
-              "forbiddens": [
-                "sosyolog",
-                "türkçülük",
-                "modern",
-                "fikir",
-                "milli"
-              ]
-            },
-            {
-              "word": "Yahya Kemal Beyatlı",
-              "forbiddens": [
-                "şair",
-                "klasik",
-                "modern",
-                "türk",
-                "istanbul"
-              ]
-            },
-            {
-              "word": "Halide Edib Adıvar",
-              "forbiddens": [
-                "yazar",
-                "kadın",
-                "milli",
-                "modern",
-                "türk"
-              ]
-            },
-            {
-              "word": "Reşat Nuri Güntekin",
-              "forbiddens": [
-                "yazar",
-                "çalıkuşu",
+                "servet-i fünun",
                 "modern",
                 "türk",
                 "edebiyat"
@@ -6030,586 +7240,6 @@
               ]
             },
             {
-              "word": "Harf Devrimi",
-              "forbiddens": [
-                "1928",
-                "latin",
-                "eğitim",
-                "atatürk",
-                "modern"
-              ]
-            },
-            {
-              "word": "Soyadı Kanunu",
-              "forbiddens": [
-                "1934",
-                "isim",
-                "devrim",
-                "atatürk",
-                "modern"
-              ]
-            },
-            {
-              "word": "Şapka Kanunu",
-              "forbiddens": [
-                "1925",
-                "başlık",
-                "devrim",
-                "atatürk",
-                "modern"
-              ]
-            },
-            {
-              "word": "Tekke ve Zaviyelerin Kapatılması",
-              "forbiddens": [
-                "1925",
-                "tarikat",
-                "devrim",
-                "atatürk",
-                "dini"
-              ]
-            },
-            {
-              "word": "Saltanatın Kaldırılması",
-              "forbiddens": [
-                "1922",
-                "padişah",
-                "devrim",
-                "devlet",
-                "atatürk"
-              ]
-            },
-            {
-              "word": "Hilafetin Kaldırılması",
-              "forbiddens": [
-                "1924",
-                "dini",
-                "devrim",
-                "devlet",
-                "atatürk"
-              ]
-            },
-            {
-              "word": "Köy Enstitüleri",
-              "forbiddens": [
-                "1940",
-                "köy",
-                "eğitim",
-                "öğretmen",
-                "atatürk"
-              ]
-            },
-            {
-              "word": "Halk Evleri",
-              "forbiddens": [
-                "1932",
-                "halk",
-                "kültür",
-                "atatürk",
-                "kurum"
-              ]
-            },
-            {
-              "word": "Türk Tarih Kurumu",
-              "forbiddens": [
-                "1931",
-                "tarih",
-                "kurum",
-                "milli",
-                "atatürk"
-              ]
-            },
-            {
-              "word": "Türk Dil Kurumu",
-              "forbiddens": [
-                "1932",
-                "dil",
-                "kurum",
-                "milli",
-                "atatürk"
-              ]
-            },
-            {
-              "word": "Üniversite Reformu",
-              "forbiddens": [
-                "1933",
-                "istanbul",
-                "modern",
-                "atatürk",
-                "eğitim"
-              ]
-            },
-            {
-              "word": "Sivas Kongresi",
-              "forbiddens": [
-                "1919",
-                "milli",
-                "atatürk",
-                "kongre",
-                "kurtuluş"
-              ]
-            },
-            {
-              "word": "Erzurum Kongresi",
-              "forbiddens": [
-                "1919",
-                "milli",
-                "atatürk",
-                "kongre",
-                "kurtuluş"
-              ]
-            },
-            {
-              "word": "Amasya Genelgesi",
-              "forbiddens": [
-                "1919",
-                "milli",
-                "atatürk",
-                "milli mücadele",
-                "kurtuluş"
-              ]
-            },
-            {
-              "word": "Mudanya Mütarekesi",
-              "forbiddens": [
-                "1922",
-                "ateşkes",
-                "kurtuluş",
-                "yunan",
-                "atatürk"
-              ]
-            },
-            {
-              "word": "Sevr Antlaşması",
-              "forbiddens": [
-                "1920",
-                "osmanlı",
-                "yenilgi",
-                "padişah",
-                "antlaşma"
-              ]
-            },
-            {
-              "word": "Türkçülük",
-              "forbiddens": [
-                "milli",
-                "ziya gökalp",
-                "fikir",
-                "ideoloji",
-                "modern"
-              ]
-            },
-            {
-              "word": "İslamcılık",
-              "forbiddens": [
-                "fikir",
-                "ideoloji",
-                "modern",
-                "türk",
-                "mehmet akif"
-              ]
-            },
-            {
-              "word": "Batıcılık",
-              "forbiddens": [
-                "fikir",
-                "modern",
-                "türk",
-                "abdullah cevdet",
-                "etkili"
-              ]
-            },
-            {
-              "word": "Osmanlıcılık",
-              "forbiddens": [
-                "fikir",
-                "ittihad",
-                "namık kemal",
-                "modern",
-                "ideoloji"
-              ]
-            },
-            {
-              "word": "Yakup Kadri Karaosmanoğlu",
-              "forbiddens": [
-                "yazar",
-                "yaban",
-                "milli edebiyat",
-                "modern",
-                "türk"
-              ]
-            },
-            {
-              "word": "Falih Rıfkı Atay",
-              "forbiddens": [
-                "yazar",
-                "gazeteci",
-                "çankaya",
-                "modern",
-                "türk"
-              ]
-            },
-            {
-              "word": "Ömer Seyfettin",
-              "forbiddens": [
-                "yazar",
-                "öykü",
-                "milli edebiyat",
-                "modern",
-                "türk"
-              ]
-            },
-            {
-              "word": "Refik Halid Karay",
-              "forbiddens": [
-                "yazar",
-                "memleket hikayeleri",
-                "modern",
-                "türk",
-                "edebiyat"
-              ]
-            },
-            {
-              "word": "Birinci Ulusal Mimari",
-              "forbiddens": [
-                "mimar",
-                "osmanlı",
-                "ulusal",
-                "modern",
-                "türk"
-              ]
-            },
-            {
-              "word": "İkinci Ulusal Mimari",
-              "forbiddens": [
-                "mimar",
-                "modern",
-                "ulusal",
-                "türk",
-                "1940"
-              ]
-            },
-            {
-              "word": "Mimar Vedat Tek",
-              "forbiddens": [
-                "birinci ulusal",
-                "mimar",
-                "türk",
-                "modern",
-                "ankara"
-              ]
-            },
-            {
-              "word": "Mimar Kemaleddin",
-              "forbiddens": [
-                "birinci ulusal",
-                "mimar",
-                "osmanlı",
-                "modern",
-                "türk"
-              ]
-            },
-            {
-              "word": "Sedad Hakkı Eldem",
-              "forbiddens": [
-                "mimar",
-                "ulusal",
-                "modern",
-                "türk",
-                "türk evi"
-              ]
-            },
-            {
-              "word": "Çallı Kuşağı",
-              "forbiddens": [
-                "resim",
-                "modern",
-                "türk",
-                "atölye",
-                "sanat"
-              ]
-            },
-            {
-              "word": "D Grubu",
-              "forbiddens": [
-                "resim",
-                "sanat",
-                "modern",
-                "türk",
-                "akım"
-              ]
-            },
-            {
-              "word": "Bedri Rahmi Eyüboğlu",
-              "forbiddens": [
-                "ressam",
-                "şair",
-                "modern",
-                "türk",
-                "sanat"
-              ]
-            },
-            {
-              "word": "Devrim Heykeli",
-              "forbiddens": [
-                "atatürk",
-                "taksim",
-                "ankara",
-                "modern",
-                "sembol"
-              ]
-            },
-            {
-              "word": "Türk Beşleri",
-              "forbiddens": [
-                "bestekar",
-                "klasik",
-                "modern",
-                "türk",
-                "beş"
-              ]
-            },
-            {
-              "word": "Cemal Reşit Rey",
-              "forbiddens": [
-                "bestekar",
-                "modern",
-                "türk",
-                "klasik",
-                "opera"
-              ]
-            },
-            {
-              "word": "Ahmed Adnan Saygun",
-              "forbiddens": [
-                "bestekar",
-                "modern",
-                "türk",
-                "opera",
-                "sanat"
-              ]
-            },
-            {
-              "word": "Hâkimiyet-i Milliye Gazetesi",
-              "forbiddens": [
-                "atatürk dönemi",
-                "basın",
-                "milli",
-                "ankara",
-                "gazete"
-              ]
-            },
-            {
-              "word": "Ulus Meydanı",
-              "forbiddens": [
-                "ankara",
-                "milli",
-                "sembol",
-                "atatürk",
-                "klasik"
-              ]
-            },
-            {
-              "word": "Anıtkabir",
-              "forbiddens": [
-                "atatürk",
-                "mezar",
-                "ankara",
-                "anıt",
-                "modern"
-              ]
-            },
-            {
-              "word": "Çankaya Köşkü",
-              "forbiddens": [
-                "ankara",
-                "cumhurbaşkanı",
-                "atatürk",
-                "modern",
-                "klasik"
-              ]
-            },
-            {
-              "word": "Cumhuriyet Müzesi",
-              "forbiddens": [
-                "ankara",
-                "müze",
-                "milli",
-                "atatürk",
-                "cumhuriyet"
-              ]
-            },
-            {
-              "word": "Etnografya Müzesi",
-              "forbiddens": [
-                "ankara",
-                "müze",
-                "anıt",
-                "kültür",
-                "modern"
-              ]
-            },
-            {
-              "word": "Türk Ocakları",
-              "forbiddens": [
-                "milli",
-                "ziya gökalp",
-                "kültür",
-                "kurum",
-                "ocak"
-              ]
-            },
-            {
-              "word": "Halkın Sesi Radyosu",
-              "forbiddens": [
-                "radyo",
-                "milli",
-                "yayın",
-                "türk",
-                "modern"
-              ]
-            },
-            {
-              "word": "Devlet Tiyatroları",
-              "forbiddens": [
-                "sahne",
-                "devlet",
-                "modern",
-                "türk",
-                "sanat"
-              ]
-            },
-            {
-              "word": "Devlet Opera ve Balesi",
-              "forbiddens": [
-                "sahne",
-                "opera",
-                "modern",
-                "türk",
-                "klasik"
-              ]
-            },
-            {
-              "word": "İş Bankası",
-              "forbiddens": [
-                "atatürk",
-                "banka",
-                "modern",
-                "kurum",
-                "milli"
-              ]
-            },
-            {
-              "word": "Etibank",
-              "forbiddens": [
-                "maden",
-                "devlet",
-                "modern",
-                "kurum",
-                "milli"
-              ]
-            },
-            {
-              "word": "Sümerbank",
-              "forbiddens": [
-                "tekstil",
-                "devlet",
-                "modern",
-                "kurum",
-                "milli"
-              ]
-            },
-            {
-              "word": "Türkmen Halısı",
-              "forbiddens": [
-                "türkmen",
-                "halı",
-                "motif",
-                "geleneksel",
-                "anadolu"
-              ]
-            },
-            {
-              "word": "Hereke Halısı",
-              "forbiddens": [
-                "ipek",
-                "kocaeli",
-                "padişah",
-                "geleneksel",
-                "ünlü"
-              ]
-            },
-            {
-              "word": "Uşak Halısı",
-              "forbiddens": [
-                "geleneksel",
-                "halı",
-                "ünlü",
-                "motif",
-                "anadolu"
-              ]
-            },
-            {
-              "word": "Kayseri Halısı",
-              "forbiddens": [
-                "geleneksel",
-                "halı",
-                "anadolu",
-                "motif",
-                "ünlü"
-              ]
-            },
-            {
-              "word": "Bergama Halısı",
-              "forbiddens": [
-                "geleneksel",
-                "halı",
-                "ege",
-                "motif",
-                "klasik"
-              ]
-            },
-            {
-              "word": "Kütahya Çinisi",
-              "forbiddens": [
-                "porselen",
-                "motif",
-                "mavi",
-                "geleneksel",
-                "sanat"
-              ]
-            },
-            {
-              "word": "İznik Çinisi",
-              "forbiddens": [
-                "geleneksel",
-                "mavi",
-                "padişah",
-                "motif",
-                "eski"
-              ]
-            },
-            {
-              "word": "Hat Sanatı",
-              "forbiddens": [
-                "yazı",
-                "kaligrafi",
-                "geleneksel",
-                "türk",
-                "sanat"
-              ]
-            },
-            {
-              "word": "Ebru Sanatı",
-              "forbiddens": [
-                "kağıt",
-                "su",
-                "geleneksel",
-                "türk",
-                "motif"
-              ]
-            },
-            {
               "word": "Tezhip",
               "forbiddens": [
                 "süsleme",
@@ -6617,126 +7247,6 @@
                 "motif",
                 "sanat",
                 "türk"
-              ]
-            },
-            {
-              "word": "Minyatür",
-              "forbiddens": [
-                "geleneksel",
-                "küçük",
-                "padişah",
-                "sanat",
-                "türk"
-              ]
-            },
-            {
-              "word": "Cilt Sanatı",
-              "forbiddens": [
-                "kitap",
-                "deri",
-                "geleneksel",
-                "sanat",
-                "türk"
-              ]
-            },
-            {
-              "word": "Sedef Kakma",
-              "forbiddens": [
-                "geleneksel",
-                "ahşap",
-                "süsleme",
-                "sanat",
-                "türk"
-              ]
-            },
-            {
-              "word": "Bakırcılık",
-              "forbiddens": [
-                "bakır",
-                "geleneksel",
-                "esnaf",
-                "anadolu",
-                "gaziantep"
-              ]
-            },
-            {
-              "word": "Demircilik",
-              "forbiddens": [
-                "demir",
-                "geleneksel",
-                "esnaf",
-                "anadolu",
-                "alet"
-              ]
-            },
-            {
-              "word": "Çinicilik",
-              "forbiddens": [
-                "çini",
-                "geleneksel",
-                "esnaf",
-                "kütahya",
-                "sanat"
-              ]
-            },
-            {
-              "word": "Dokumacılık",
-              "forbiddens": [
-                "el",
-                "tezgah",
-                "geleneksel",
-                "anadolu",
-                "halk"
-              ]
-            },
-            {
-              "word": "Karadeniz Şivesi",
-              "forbiddens": [
-                "diyalekt",
-                "kuzey",
-                "türk",
-                "ağız",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Egeli Şivesi",
-              "forbiddens": [
-                "diyalekt",
-                "batı",
-                "türk",
-                "ağız",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "İç Anadolu Şivesi",
-              "forbiddens": [
-                "diyalekt",
-                "orta",
-                "türk",
-                "ağız",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Akdeniz Şivesi",
-              "forbiddens": [
-                "diyalekt",
-                "güney",
-                "türk",
-                "ağız",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Doğu Şivesi",
-              "forbiddens": [
-                "diyalekt",
-                "doğu",
-                "türk",
-                "ağız",
-                "geleneksel"
               ]
             },
             {
@@ -6750,343 +7260,13 @@
               ]
             },
             {
-              "word": "Bohça Sanatı",
+              "word": "Tuyug",
               "forbiddens": [
-                "gelin",
-                "çeyiz",
-                "geleneksel",
-                "kadın",
-                "motif"
-              ]
-            },
-            {
-              "word": "Şal Dokumacılığı",
-              "forbiddens": [
-                "örme",
-                "kadın",
-                "geleneksel",
-                "yün",
-                "kış"
-              ]
-            },
-            {
-              "word": "Battaniye Dokumacılığı",
-              "forbiddens": [
-                "yün",
-                "kalın",
-                "kış",
-                "geleneksel",
-                "anadolu"
-              ]
-            },
-            {
-              "word": "İğne Oyası",
-              "forbiddens": [
-                "geleneksel",
-                "kadın",
-                "ince",
-                "başörtü",
-                "motif"
-              ]
-            },
-            {
-              "word": "Mekik Oyası",
-              "forbiddens": [
-                "geleneksel",
-                "kadın",
-                "ince",
-                "motif",
-                "dantel"
-              ]
-            },
-            {
-              "word": "Çuha Sandığı",
-              "forbiddens": [
-                "gelin",
-                "eski",
-                "ahşap",
-                "geleneksel",
-                "çeyiz"
-              ]
-            },
-            {
-              "word": "Bakırcı Çarşısı",
-              "forbiddens": [
-                "esnaf",
-                "geleneksel",
-                "sokak",
-                "ürün",
-                "gaziantep"
-              ]
-            },
-            {
-              "word": "Kapalı Çarşı",
-              "forbiddens": [
-                "istanbul",
-                "alışveriş",
-                "geleneksel",
-                "padişah",
-                "ünlü"
-              ]
-            },
-            {
-              "word": "Mısır Çarşısı",
-              "forbiddens": [
-                "istanbul",
-                "baharat",
-                "eminönü",
-                "geleneksel",
-                "padişah"
-              ]
-            },
-            {
-              "word": "Hediyeci",
-              "forbiddens": [
-                "esnaf",
-                "dükkan",
-                "geleneksel",
-                "ürün",
-                "çeşit"
-              ]
-            },
-            {
-              "word": "Mumcu Esnafı",
-              "forbiddens": [
-                "mum",
-                "balmumu",
-                "dini",
-                "geleneksel",
-                "eski"
-              ]
-            },
-            {
-              "word": "Şıracı",
-              "forbiddens": [
-                "fermente",
-                "üzüm",
-                "geleneksel",
-                "içecek",
-                "esnaf"
-              ]
-            },
-            {
-              "word": "Tatlıcı",
-              "forbiddens": [
-                "esnaf",
-                "geleneksel",
-                "lokum",
-                "baklava",
-                "dükkan"
-              ]
-            },
-            {
-              "word": "Tıraşçı",
-              "forbiddens": [
-                "berber",
-                "geleneksel",
-                "esnaf",
-                "sünnet",
-                "eski"
-              ]
-            },
-            {
-              "word": "Hamamcı",
-              "forbiddens": [
-                "geleneksel",
-                "hamam",
-                "esnaf",
-                "dini",
-                "temizlik"
-              ]
-            },
-            {
-              "word": "Telli Saz",
-              "forbiddens": [
-                "bağlama",
-                "halk",
-                "geleneksel",
+                "divan",
                 "türk",
-                "akım"
-              ]
-            },
-            {
-              "word": "Ozan Geleneği",
-              "forbiddens": [
-                "saz",
-                "halk",
-                "gezgin",
-                "geleneksel",
-                "türk"
-              ]
-            },
-            {
-              "word": "Anadolu Türküleri",
-              "forbiddens": [
-                "halk",
-                "ezgi",
-                "türk",
-                "geleneksel",
-                "ağıt"
-              ]
-            },
-            {
-              "word": "Ağıt",
-              "forbiddens": [
-                "ölüm",
-                "kadın",
-                "halk",
-                "geleneksel",
-                "türk"
-              ]
-            },
-            {
-              "word": "Mâni",
-              "forbiddens": [
-                "dörtlük",
-                "halk",
-                "geleneksel",
-                "türk",
-                "ezgi"
-              ]
-            },
-            {
-              "word": "Atasözü",
-              "forbiddens": [
-                "bilgelik",
-                "halk",
-                "geleneksel",
-                "türk",
-                "deyim"
-              ]
-            },
-            {
-              "word": "Tekerleme",
-              "forbiddens": [
-                "çocuk",
-                "hızlı",
-                "oyun",
-                "geleneksel",
-                "türk"
-              ]
-            },
-            {
-              "word": "Bilmece",
-              "forbiddens": [
-                "soru",
-                "halk",
-                "geleneksel",
-                "türk",
-                "oyun"
-              ]
-            },
-            {
-              "word": "Türkü Yakmak",
-              "forbiddens": [
-                "beste",
-                "halk",
-                "geleneksel",
-                "ağıt",
-                "türk"
-              ]
-            },
-            {
-              "word": "Düğün Geleneği",
-              "forbiddens": [
-                "kına",
-                "gelin",
-                "davet",
-                "geleneksel",
-                "türk"
-              ]
-            },
-            {
-              "word": "Anadolu Sözlü Edebiyatı",
-              "forbiddens": [
-                "halk",
-                "geleneksel",
-                "türk",
-                "ozan",
-                "anlatı"
-              ]
-            },
-            {
-              "word": "Çırak-Kalfa-Usta Geleneği",
-              "forbiddens": [
-                "esnaf",
-                "öğrenci",
-                "öğretmen",
-                "ahi",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Bektaşilik",
-              "forbiddens": [
-                "tarikat",
-                "hacı bektaş",
-                "sufi",
-                "alevi",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Hacı Bektaş Veli",
-              "forbiddens": [
-                "bektaşi",
-                "anadolu",
-                "sufi",
-                "evliya",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Halvetilik",
-              "forbiddens": [
-                "tarikat",
-                "sufi",
-                "halvet",
-                "geleneksel",
-                "dini"
-              ]
-            },
-            {
-              "word": "Kadirilik",
-              "forbiddens": [
-                "tarikat",
-                "sufi",
-                "abdülkadir geylani",
-                "geleneksel",
-                "dini"
-              ]
-            },
-            {
-              "word": "Nakşibendilik",
-              "forbiddens": [
-                "tarikat",
-                "sufi",
-                "geleneksel",
-                "dini",
-                "hat"
-              ]
-            },
-            {
-              "word": "Rifailik",
-              "forbiddens": [
-                "tarikat",
-                "sufi",
-                "geleneksel",
-                "dini",
-                "eski"
-              ]
-            },
-            {
-              "word": "Tekke",
-              "forbiddens": [
-                "tarikat",
-                "sufi",
-                "mekan",
-                "eski",
-                "geleneksel"
+                "klasik",
+                "kıta",
+                "edebiyat"
               ]
             },
             {
@@ -7100,323 +7280,43 @@
               ]
             },
             {
-              "word": "Evliya Ziyareti",
+              "word": "Türk Beşleri",
               "forbiddens": [
-                "türbe",
-                "dini",
-                "geleneksel",
-                "dilek",
-                "kutsal"
-              ]
-            },
-            {
-              "word": "Yatır",
-              "forbiddens": [
-                "türbe",
-                "kutsal",
-                "evliya",
-                "dini",
-                "küçük"
-              ]
-            },
-            {
-              "word": "Nevruz",
-              "forbiddens": [
-                "bahar",
-                "kutlama",
-                "geleneksel",
-                "alevi",
-                "doğa"
-              ]
-            },
-            {
-              "word": "Hıdırellez",
-              "forbiddens": [
-                "bahar",
-                "dilek",
-                "geleneksel",
-                "6 mayıs",
-                "türk"
-              ]
-            },
-            {
-              "word": "Aşure Günü",
-              "forbiddens": [
-                "muharrem",
-                "dini",
-                "tatlı",
-                "dağıtmak",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Kandil Gecesi",
-              "forbiddens": [
-                "dini",
-                "gece",
-                "dua",
-                "geleneksel",
-                "türk"
-              ]
-            },
-            {
-              "word": "Mevlid Kandili",
-              "forbiddens": [
-                "dini",
-                "peygamber",
-                "doğum",
-                "geleneksel",
-                "kandil"
-              ]
-            },
-            {
-              "word": "Regaib Kandili",
-              "forbiddens": [
-                "dini",
-                "gece",
-                "geleneksel",
-                "dua",
-                "kandil"
-              ]
-            },
-            {
-              "word": "Berat Kandili",
-              "forbiddens": [
-                "dini",
-                "kurtuluş",
-                "gece",
-                "geleneksel",
-                "kandil"
-              ]
-            },
-            {
-              "word": "Miraç Kandili",
-              "forbiddens": [
-                "dini",
-                "peygamber",
-                "gökyüzü",
-                "geleneksel",
-                "kandil"
-              ]
-            },
-            {
-              "word": "Kadir Gecesi",
-              "forbiddens": [
-                "dini",
-                "ramazan",
-                "kutsal",
-                "geleneksel",
-                "gece"
-              ]
-            },
-            {
-              "word": "Şahmaran",
-              "forbiddens": [
-                "efsane",
-                "yarı yılan",
-                "anadolu",
-                "motif",
-                "kadın"
-              ]
-            },
-            {
-              "word": "Köroğlu Destanı",
-              "forbiddens": [
-                "kahraman",
-                "halk",
-                "türkü",
-                "anadolu",
-                "ozan"
-              ]
-            },
-            {
-              "word": "Battal Gazi",
-              "forbiddens": [
-                "kahraman",
-                "anadolu",
-                "eski",
-                "gazi",
-                "türk"
-              ]
-            },
-            {
-              "word": "Şirin ile Ferhat",
-              "forbiddens": [
-                "efsane",
-                "sevda",
-                "dağ",
-                "anadolu",
-                "klasik"
-              ]
-            },
-            {
-              "word": "Leyla ile Mecnun",
-              "forbiddens": [
-                "fuzuli",
-                "sevda",
+                "bestekar",
                 "klasik",
-                "divan",
-                "edebiyat"
-              ]
-            },
-            {
-              "word": "Aslı ile Kerem",
-              "forbiddens": [
-                "halk",
-                "sevda",
-                "ateş",
-                "türkü",
-                "anadolu"
-              ]
-            },
-            {
-              "word": "Tahir ile Zühre",
-              "forbiddens": [
-                "halk",
-                "sevda",
-                "klasik",
-                "anadolu",
-                "türkü"
-              ]
-            },
-            {
-              "word": "Hammam Kültürü",
-              "forbiddens": [
-                "geleneksel",
-                "dini",
+                "modern",
                 "türk",
-                "banyo",
-                "eski"
+                "beş"
               ]
             },
             {
-              "word": "Cağaloğlu Hamamı",
+              "word": "Türk Dil Kurumu",
               "forbiddens": [
-                "istanbul",
-                "eski",
-                "geleneksel",
-                "mahmut",
-                "hamam"
+                "1932",
+                "dil",
+                "kurum",
+                "milli",
+                "atatürk"
               ]
             },
             {
-              "word": "Çemberlitaş Hamamı",
+              "word": "Türk Ocakları",
               "forbiddens": [
-                "istanbul",
-                "mimar sinan",
-                "geleneksel",
-                "eski",
-                "hamam"
+                "milli",
+                "ziya gökalp",
+                "kültür",
+                "kurum",
+                "ocak"
               ]
             },
             {
-              "word": "Galatasaray Hamamı",
+              "word": "Türk Tarih Kurumu",
               "forbiddens": [
-                "istanbul",
-                "geleneksel",
-                "beyoğlu",
-                "eski",
-                "hamam"
-              ]
-            },
-            {
-              "word": "Cirit",
-              "forbiddens": [
-                "geleneksel",
-                "at",
-                "mızrak",
-                "anadolu",
-                "eski"
-              ]
-            },
-            {
-              "word": "Şalvar Güreşi",
-              "forbiddens": [
-                "geleneksel",
-                "türk",
-                "kıspet",
-                "ip",
-                "eski"
-              ]
-            },
-            {
-              "word": "Aba Güreşi",
-              "forbiddens": [
-                "gaziantep",
-                "geleneksel",
-                "türk",
-                "eski",
-                "güreş"
-              ]
-            },
-            {
-              "word": "Karakucak",
-              "forbiddens": [
-                "geleneksel",
-                "güreş",
-                "türk",
-                "kıspetsiz",
-                "eski"
-              ]
-            },
-            {
-              "word": "Horon",
-              "forbiddens": [
-                "karadeniz",
-                "halk",
-                "dans",
-                "hızlı",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Zeybek",
-              "forbiddens": [
-                "ege",
-                "halk",
-                "dans",
-                "yavaş",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Halay",
-              "forbiddens": [
-                "orta",
-                "halk",
-                "dans",
-                "geleneksel",
-                "sıralı"
-              ]
-            },
-            {
-              "word": "Bar",
-              "forbiddens": [
-                "doğu",
-                "halk",
-                "dans",
-                "geleneksel",
-                "erzurum"
-              ]
-            },
-            {
-              "word": "Karşılama",
-              "forbiddens": [
-                "trakya",
-                "halk",
-                "dans",
-                "çift",
-                "geleneksel"
-              ]
-            },
-            {
-              "word": "Çayda Çıra",
-              "forbiddens": [
-                "elazığ",
-                "halk",
-                "dans",
-                "mum",
-                "geleneksel"
+                "1931",
+                "tarih",
+                "kurum",
+                "milli",
+                "atatürk"
               ]
             },
             {
@@ -7430,43 +7330,333 @@
               ]
             },
             {
-              "word": "İlahi",
+              "word": "Türkmen Halısı",
               "forbiddens": [
-                "sufi",
-                "dini",
-                "klasik",
-                "türk",
-                "sözlü"
+                "türkmen",
+                "halı",
+                "motif",
+                "geleneksel",
+                "anadolu"
               ]
             },
             {
-              "word": "Naat",
+              "word": "Türkçülük",
               "forbiddens": [
-                "peygamber",
-                "sufi",
-                "klasik",
-                "türk",
-                "ezgi"
+                "milli",
+                "ziya gökalp",
+                "fikir",
+                "ideoloji",
+                "modern"
               ]
             },
             {
-              "word": "Münacat",
+              "word": "Türkü Yakmak",
               "forbiddens": [
-                "dua",
-                "sufi",
-                "klasik",
-                "türk",
-                "ezgi"
-              ]
-            },
-            {
-              "word": "Mersiye",
-              "forbiddens": [
+                "beste",
+                "halk",
+                "geleneksel",
                 "ağıt",
-                "kerbela",
-                "sufi",
+                "türk"
+              ]
+            },
+            {
+              "word": "Tımar",
+              "forbiddens": [
+                "osmanlı",
+                "sipahi",
+                "asker",
+                "toprak",
+                "gelir"
+              ]
+            },
+            {
+              "word": "Tıraşçı",
+              "forbiddens": [
+                "berber",
+                "geleneksel",
+                "esnaf",
+                "sünnet",
+                "eski"
+              ]
+            },
+            {
+              "word": "Ud",
+              "forbiddens": [
                 "klasik",
-                "alevi"
+                "türk",
+                "arap",
+                "geleneksel",
+                "çalgı"
+              ]
+            },
+            {
+              "word": "Ulus Meydanı",
+              "forbiddens": [
+                "ankara",
+                "milli",
+                "sembol",
+                "atatürk",
+                "klasik"
+              ]
+            },
+            {
+              "word": "Uyandırma Çağrısı",
+              "forbiddens": [
+                "Alarm",
+                "Sabah",
+                "Uyan",
+                "Fark",
+                "İşaret"
+              ]
+            },
+            {
+              "word": "Uşak Halısı",
+              "forbiddens": [
+                "geleneksel",
+                "halı",
+                "ünlü",
+                "motif",
+                "anadolu"
+              ]
+            },
+            {
+              "word": "Uşşak Makamı",
+              "forbiddens": [
+                "klasik",
+                "türk",
+                "müzik",
+                "makam",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Vahdet-i Vücud",
+              "forbiddens": [
+                "tasavvuf",
+                "varlık birliği",
+                "ibn arabi",
+                "sufi",
+                "felsefe"
+              ]
+            },
+            {
+              "word": "Vakıf",
+              "forbiddens": [
+                "osmanlı",
+                "kurum",
+                "hayır",
+                "mülk",
+                "dini"
+              ]
+            },
+            {
+              "word": "Yahya Kemal Beyatlı",
+              "forbiddens": [
+                "şair",
+                "klasik",
+                "modern",
+                "türk",
+                "istanbul"
+              ]
+            },
+            {
+              "word": "Yakup Kadri Karaosmanoğlu",
+              "forbiddens": [
+                "yazar",
+                "yaban",
+                "milli edebiyat",
+                "modern",
+                "türk"
+              ]
+            },
+            {
+              "word": "Yatır",
+              "forbiddens": [
+                "türbe",
+                "kutsal",
+                "evliya",
+                "dini",
+                "küçük"
+              ]
+            },
+            {
+              "word": "Yeniçeri",
+              "forbiddens": [
+                "osmanlı",
+                "asker",
+                "kapıkulu",
+                "devşirme",
+                "ocak"
+              ]
+            },
+            {
+              "word": "Yunus Emre",
+              "forbiddens": [
+                "halk",
+                "şair",
+                "tasavvuf",
+                "türkçe",
+                "anadolu"
+              ]
+            },
+            {
+              "word": "Zeybek",
+              "forbiddens": [
+                "ege",
+                "halk",
+                "dans",
+                "yavaş",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Ziya Gökalp",
+              "forbiddens": [
+                "sosyolog",
+                "türkçülük",
+                "modern",
+                "fikir",
+                "milli"
+              ]
+            },
+            {
+              "word": "Çallı Kuşağı",
+              "forbiddens": [
+                "resim",
+                "modern",
+                "türk",
+                "atölye",
+                "sanat"
+              ]
+            },
+            {
+              "word": "Çankaya Köşkü",
+              "forbiddens": [
+                "ankara",
+                "cumhurbaşkanı",
+                "atatürk",
+                "modern",
+                "klasik"
+              ]
+            },
+            {
+              "word": "Çayda Çıra",
+              "forbiddens": [
+                "elazığ",
+                "halk",
+                "dans",
+                "mum",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Çemberlitaş Hamamı",
+              "forbiddens": [
+                "istanbul",
+                "mimar sinan",
+                "geleneksel",
+                "eski",
+                "hamam"
+              ]
+            },
+            {
+              "word": "Çile-i Mevlevi",
+              "forbiddens": [
+                "1001 gün",
+                "sufi",
+                "eğitim",
+                "mevlevi",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Çinicilik",
+              "forbiddens": [
+                "çini",
+                "geleneksel",
+                "esnaf",
+                "kütahya",
+                "sanat"
+              ]
+            },
+            {
+              "word": "Çuha Sandığı",
+              "forbiddens": [
+                "gelin",
+                "eski",
+                "ahşap",
+                "geleneksel",
+                "çeyiz"
+              ]
+            },
+            {
+              "word": "Çıkar Çatışması",
+              "forbiddens": [
+                "Taraf",
+                "Kişisel",
+                "Etik",
+                "Bağlılık",
+                "Karar"
+              ]
+            },
+            {
+              "word": "Çırak-Kalfa-Usta Geleneği",
+              "forbiddens": [
+                "esnaf",
+                "öğrenci",
+                "öğretmen",
+                "ahi",
+                "geleneksel"
+              ]
+            },
+            {
+              "word": "Ömer Seyfettin",
+              "forbiddens": [
+                "yazar",
+                "öykü",
+                "milli edebiyat",
+                "modern",
+                "türk"
+              ]
+            },
+            {
+              "word": "Üniversite Reformu",
+              "forbiddens": [
+                "1933",
+                "istanbul",
+                "modern",
+                "atatürk",
+                "eğitim"
+              ]
+            },
+            {
+              "word": "Şahmaran",
+              "forbiddens": [
+                "efsane",
+                "yarı yılan",
+                "anadolu",
+                "motif",
+                "kadın"
+              ]
+            },
+            {
+              "word": "Şal Dokumacılığı",
+              "forbiddens": [
+                "örme",
+                "kadın",
+                "geleneksel",
+                "yün",
+                "kış"
+              ]
+            },
+            {
+              "word": "Şalvar Güreşi",
+              "forbiddens": [
+                "geleneksel",
+                "türk",
+                "kıspet",
+                "ip",
+                "eski"
               ]
             },
             {
@@ -7480,43 +7670,83 @@
               ]
             },
             {
-              "word": "Karadeniz Yöresi Müziği",
+              "word": "Şapka Kanunu",
               "forbiddens": [
-                "kemençe",
-                "horon",
-                "halk",
-                "geleneksel",
-                "türk"
+                "1925",
+                "başlık",
+                "devrim",
+                "atatürk",
+                "modern"
               ]
             },
             {
-              "word": "Ege Yöresi Müziği",
+              "word": "Şarkı",
               "forbiddens": [
-                "zeybek",
-                "halk",
-                "geleneksel",
+                "divan",
+                "beste",
+                "klasik",
                 "türk",
+                "edebiyat"
+              ]
+            },
+            {
+              "word": "Şeb-i Arus",
+              "forbiddens": [
+                "mevlana",
+                "ölüm",
+                "düğün",
+                "17 aralık",
+                "dini"
+              ]
+            },
+            {
+              "word": "Şehzâde",
+              "forbiddens": [
+                "osmanlı",
+                "prens",
+                "padişah oğlu",
+                "eğitim",
+                "valilik"
+              ]
+            },
+            {
+              "word": "Şeyh Galip",
+              "forbiddens": [
+                "divan",
+                "şair",
+                "hüsn ü aşk",
+                "mevlevi",
                 "klasik"
               ]
             },
             {
-              "word": "Doğu Anadolu Müziği",
+              "word": "Şeyhülislam",
               "forbiddens": [
-                "halk",
-                "bar",
-                "klasik",
-                "geleneksel",
-                "türk"
+                "osmanlı",
+                "dini",
+                "hukuk",
+                "başkan",
+                "ulema"
               ]
             },
             {
-              "word": "İç Anadolu Müziği",
+              "word": "Şirin ile Ferhat",
               "forbiddens": [
-                "halk",
-                "geleneksel",
-                "türk",
+                "efsane",
+                "sevda",
+                "dağ",
                 "anadolu",
                 "klasik"
+              ]
+            },
+            {
+              "word": "Şıracı",
+              "forbiddens": [
+                "fermente",
+                "üzüm",
+                "geleneksel",
+                "içecek",
+                "esnaf"
               ]
             }
           ]
@@ -15370,7 +15600,7 @@
                 "kazanan",
                 "ödül",
                 "şampiyon",
-                "ödül"
+                "kazan"
               ]
             },
             {
@@ -18943,7 +19173,7 @@
               "forbiddens": [
                 "son",
                 "şampiyonluk",
-                "son",
+                "kapanış",
                 "oyun",
                 "karar"
               ]
@@ -19463,9 +19693,9 @@
               "forbiddens": [
                 "hokey",
                 "hızlı",
-                "şak",
+                "sopa",
                 "disk",
-                "şak"
+                "vuruş"
               ]
             },
             {
@@ -20044,7 +20274,7 @@
                 "satranç",
                 "berabere",
                 "hamle yok",
-                "berabere",
+                "kıpırtısız",
                 "şah"
               ]
             },
@@ -23648,7 +23878,7 @@
             {
               "word": "Asi",
               "forbiddens": [
-                "asi",
+                "başkaldıran",
                 "demir",
                 "tuba büyüküstün",
                 "antakya",
@@ -32823,7 +33053,7 @@
                 "krem peynir",
                 "kabuk",
                 "tatlı",
-                "tatlı",
+                "meyveli",
                 "pişirmek"
               ]
             },
@@ -35599,7 +35829,7 @@
                 "tatlı",
                 "pasta",
                 "şekil",
-                "pasta"
+                "macun"
               ]
             },
             {
@@ -39010,11 +39240,11 @@
             {
               "word": "Domuz Yağı",
               "forbiddens": [
-                "domuz yağı",
+                "kavurma",
                 "eritilmiş",
                 "pişirmek",
                 "kızartmak",
-                "pasta"
+                "iç yağı"
               ]
             },
             {
