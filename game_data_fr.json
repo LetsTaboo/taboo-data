@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "data": [
     {
       "topic": "cultural",
@@ -103,20 +103,9 @@
               "word": "Boeuf Bourguignon",
               "forbiddens": [
                 "bœuf mijoté",
-                "vin rouge",
                 "Bourgogne",
                 "carottes oignons lardons",
                 "plat traditionnel hiver"
-              ]
-            },
-            {
-              "word": "Coq au Vin",
-              "forbiddens": [
-                "volaille mijotée",
-                "vin rouge",
-                "Bourgogne",
-                "lardons champignons",
-                "plat traditionnel"
               ]
             },
             {
@@ -175,8 +164,7 @@
                 "fromage fondu",
                 "Savoie montagne",
                 "caquelon",
-                "pain dés",
-                "vin blanc kirsch"
+                "pain dés"
               ]
             },
             {
@@ -185,8 +173,7 @@
                 "chou fermenté",
                 "Alsace",
                 "saucisses charcuterie",
-                "porc lard pommes terre",
-                "bière vin blanc"
+                "porc lard pommes terre"
               ]
             },
             {
@@ -300,19 +287,8 @@
               ]
             },
             {
-              "word": "Champagne",
-              "forbiddens": [
-                "Champagne région",
-                "bulles fines",
-                "Reims Épernay",
-                "cuvée brut millésimé",
-                "vin effervescent fête"
-              ]
-            },
-            {
               "word": "Bordeaux",
               "forbiddens": [
-                "vin rouge",
                 "Médoc Saint-Émilion Pomerol",
                 "cabernet sauvignon merlot",
                 "Gironde châteaux",
@@ -322,7 +298,6 @@
             {
               "word": "Beaujolais Nouveau",
               "forbiddens": [
-                "vin primeur",
                 "3e jeudi novembre",
                 "gamay raisin",
                 "fête débouchage",
@@ -534,7 +509,6 @@
               "forbiddens": [
                 "31 décembre 1er janvier",
                 "Réveillon Saint-Sylvestre",
-                "champagne minuit",
                 "vœux meilleurs",
                 "compte à rebours"
               ]
@@ -583,7 +557,6 @@
               "word": "Toussaint",
               "forbiddens": [
                 "1er novembre",
-                "tombe cimetière fleurs",
                 "chrysanthèmes",
                 "fête religieuse",
                 "défunts pommage"
@@ -665,7 +638,6 @@
                 "palais président France",
                 "Paris 8e Faubourg Saint-Honoré",
                 "résidence officielle chef État",
-                "Macron Hollande Sarkozy",
                 "salon Doré"
               ]
             },
@@ -675,8 +647,7 @@
                 "40 immortels",
                 "langue française gardiens",
                 "Quai Conti Paris",
-                "Richelieu fondation 1635",
-                "habits verts épée"
+                "Richelieu fondation 1635"
               ]
             },
             {
@@ -685,7 +656,6 @@
                 "Institut Études Politiques",
                 "Saint-Germain-des-Prés",
                 "haute formation politique",
-                "élite Macron Hollande",
                 "1872 fondation Boutmy"
               ]
             },
@@ -705,7 +675,6 @@
                 "École Nationale Administration",
                 "haute fonction publique",
                 "Strasbourg",
-                "Macron Hollande Chirac énarques",
                 "supprimée 2021 INSP"
               ]
             },
@@ -875,8 +844,7 @@
                 "restaurant tradition",
                 "service continu",
                 "Paris Lyon Strasbourg",
-                "choucroute moules frites",
-                "originaire Alsace bière"
+                "choucroute moules frites"
               ]
             },
             {
@@ -1085,7 +1053,6 @@
                 "Flaubert roman",
                 "Emma province Yonville",
                 "adultère bourgeoisie ennui",
-                "arsenic suicide",
                 "1856 procès Charles Bovary mari"
               ]
             },
@@ -1134,7 +1101,6 @@
               "forbiddens": [
                 "Albert Camus",
                 "Meursault Alger banal",
-                "tuer Arabe plage soleil",
                 "absurde indifférence",
                 "1942 maman aujourd'hui morte"
               ]
@@ -1685,7 +1651,6 @@
                 "moules marinières",
                 "frites",
                 "Nord Belgique cousin",
-                "vin blanc échalotes ail persil",
                 "plat populaire été braderie"
               ]
             },
@@ -1733,10 +1698,8 @@
               "word": "Saucisson sec",
               "forbiddens": [
                 "charcuterie séchée pendue",
-                "apéro tranches couteau",
                 "porc épices",
-                "Auvergne Lyon Savoie",
-                "couteau coupe"
+                "Auvergne Lyon Savoie"
               ]
             },
             {
@@ -1775,7 +1738,6 @@
                 "soupe oignons",
                 "fromage gruyère gratiné dessus",
                 "pain rassis croûton baguette",
-                "bouillon vin blanc",
                 "Halles Paris noctambules"
               ]
             },
@@ -2035,7 +1997,6 @@
                 "Pyrénées-Atlantiques",
                 "Côte basque",
                 "surf grandes vagues",
-                "Eugénie casino impératrice Napoléon III",
                 "phare hôtel du Palais"
               ]
             },
@@ -2132,7 +2093,6 @@
             {
               "word": "Mistral",
               "forbiddens": [
-                "vent froid sec violent",
                 "Provence vallée Rhône Camargue",
                 "ciel bleu après nettoie",
                 "Nord-Ouest direction descend",
@@ -2460,16 +2420,6 @@
               ]
             },
             {
-              "word": "Le Vin",
-              "forbiddens": [
-                "boisson alcoolisée raisin fermenté",
-                "rouge blanc rosé",
-                "AOC français terroir",
-                "verre bouteille bouchon liège",
-                "repas accompagnement millésime"
-              ]
-            },
-            {
               "word": "Cidre",
               "forbiddens": [
                 "boisson pommes fermentées",
@@ -2589,7 +2539,6 @@
               "forbiddens": [
                 "abats tripes mouton agneau",
                 "Cantal Aveyron Lozère",
-                "vin blanc mijoté long",
                 "petits paquets ficelés",
                 "petit-déjeuner traditionnel ancien"
               ]
@@ -2599,7 +2548,6 @@
               "forbiddens": [
                 "saucisse Savoie",
                 "porc fumé",
-                "vin blanc Apremont",
                 "polenta gratin accompagnement",
                 "montagne Maurienne Tarentaise"
               ]
@@ -2609,7 +2557,6 @@
               "forbiddens": [
                 "Camargue traditionnel",
                 "taureau viande noire",
-                "mijoté vin rouge long",
                 "olives noires riz Camargue",
                 "gardian cuisine festive"
               ]
@@ -2649,7 +2596,6 @@
               "forbiddens": [
                 "Marseille tripes plat",
                 "pieds mouton paquets ventre",
-                "tomate vin blanc mijoté long",
                 "Sud-Provence Marseillais",
                 "abats traditionnels"
               ]
@@ -2868,8 +2814,6 @@
               "word": "La Conciergerie",
               "forbiddens": [
                 "Paris Île Cité",
-                "Marie-Antoinette prison cellule",
-                "Révolution Terreur",
                 "Palais Justice ancien royal",
                 "Tour Horloge"
               ]
@@ -3350,15 +3294,13 @@
                 "chanteur engagé communiste",
                 "La Montagne Aragon",
                 "années 60-70 chanson texte",
-                "Ardèche Antraigues retraite",
-                "voix grave émotion gauche"
+                "Ardèche Antraigues retraite"
               ]
             },
             {
               "word": "Anne Sylvestre",
               "forbiddens": [
                 "Fabulettes enfants",
-                "Une Sorcière comme les Autres",
                 "féministe chansons",
                 "années 60-2000",
                 "duo Anne Anne Marie tournées"
@@ -3457,7 +3399,6 @@
             {
               "word": "Salvatore Adamo",
               "forbiddens": [
-                "Tombe la Neige",
                 "Vous Permettez Monsieur",
                 "italo-belge naturalisé",
                 "années 60 chansons romantiques",
@@ -3550,7 +3491,6 @@
                 "tennis années 80-90 spectacle",
                 "Coupe Davis 1991 sacre",
                 "finale Roland-Garros 1988",
-                "humour spectacle balle",
                 "consultant exhibition"
               ]
             },
@@ -3759,7 +3699,6 @@
               "forbiddens": [
                 "Savoie ville thermale",
                 "lac Bourget plus grand",
-                "casino bains romains",
                 "Belle Époque architecture",
                 "Lamartine poète séjours"
               ]
@@ -3770,7 +3709,6 @@
                 "Allier ville eau thermale",
                 "régime Pétain 1940-44 capitale",
                 "pastilles Vichy carrées",
-                "casino opéra parc",
                 "Auvergne station thermale"
               ]
             },
@@ -3780,7 +3718,6 @@
                 "Calvados Normandie chic",
                 "Festival cinéma américain septembre",
                 "plage planches parasols colorés",
-                "casino hippodrome polo",
                 "Lelouch Un Homme Une Femme tourné"
               ]
             },
@@ -3810,7 +3747,6 @@
                 "Dordogne bastide perchée",
                 "Périgord village",
                 "vues vallée Dordogne",
-                "Templiers prison murs gravures",
                 "Croquants révolte fortifié"
               ]
             },
@@ -3869,7 +3805,6 @@
               "forbiddens": [
                 "chaussures ballerines danseuses",
                 "Rose Repetto fondatrice",
-                "Cendrillon ballerine zizi enchaîné",
                 "Place Opéra Paris boutique",
                 "Sabaco semelle cousue"
               ]
@@ -3889,7 +3824,6 @@
               "forbiddens": [
                 "chaîne supermarchés urbains",
                 "centre-ville magasins",
-                "Casino groupe propriétaire",
                 "mode déco alimentation rayons",
                 "campagnes publicitaires créatives"
               ]
@@ -4017,7 +3951,6 @@
             {
               "word": "Bourgogne",
               "forbiddens": [
-                "vin région nord",
                 "Côte Nuit Côte Beaune",
                 "Pinot Noir Chardonnay cépages",
                 "Romanée Conti grands crus prestige",
@@ -4027,7 +3960,6 @@
             {
               "word": "Côtes du Rhône",
               "forbiddens": [
-                "vin AOC vallée Rhône",
                 "syrah grenache cépages",
                 "Châteauneuf-du-Pape pape pape avignon",
                 "Tavel rosé célèbre",
@@ -4037,7 +3969,6 @@
             {
               "word": "Sancerre",
               "forbiddens": [
-                "vin blanc Loire centre Cher",
                 "sauvignon blanc cépage",
                 "Cher commune Cher vignoble",
                 "minéral sec frais",
@@ -4047,7 +3978,6 @@
             {
               "word": "Chablis",
               "forbiddens": [
-                "vin blanc Bourgogne nord",
                 "chardonnay cépage exclusif",
                 "Yonne département",
                 "Grand cru Premier cru hiérarchie",
@@ -4057,7 +3987,6 @@
             {
               "word": "Muscadet",
               "forbiddens": [
-                "vin blanc Pays Nantais",
                 "Melon Bourgogne cépage",
                 "sec acidulé minéral",
                 "huîtres accompagnement classique",
@@ -4067,7 +3996,6 @@
             {
               "word": "Châteauneuf-du-Pape",
               "forbiddens": [
-                "vin rouge prestige Vaucluse",
                 "Pape Avignon résidence",
                 "13 cépages assemblage possible",
                 "galets roulés sol",
@@ -4077,10 +4005,8 @@
             {
               "word": "Crémant",
               "forbiddens": [
-                "vin effervescent méthode champenoise",
                 "Alsace Bourgogne Loire régions",
                 "bulles élégance pétillant",
-                "champagne pas appellation interdit",
                 "alternative économique"
               ]
             },
@@ -4090,7 +4016,6 @@
                 "eau-de-vie pommes",
                 "Normandie origine pommiers",
                 "trou normand repas",
-                "alcool fort distillation longue",
                 "Pays d'Auge AOC"
               ]
             },
@@ -4120,7 +4045,6 @@
                 "liqueur verte jaune deux",
                 "moines Chartreux Grenoble",
                 "130 plantes herbes secret",
-                "alcool digestif fort",
                 "Grande Chartreuse monastère"
               ]
             },
@@ -4179,7 +4103,6 @@
               "forbiddens": [
                 "gardien champion 98 2000",
                 "Marseille Manchester United",
-                "crâne chauve baiser Blanc",
                 "Lavardin Toulouse natif",
                 "rallye automobile passion"
               ]
@@ -4427,7 +4350,6 @@
             {
               "word": "Saint-Émilion",
               "forbiddens": [
-                "Gironde village vin AOC",
                 "Bordeaux appellation prestigieuse",
                 "macarons spécialité moines benedictins",
                 "monolithe église souterraine pierre",
@@ -4449,8 +4371,6 @@
               "forbiddens": [
                 "Pas-de-Calais Côte Opale",
                 "Paris-Plage station chic surnom",
-                "Macron Brigitte natale circonscription",
-                "casino plage 18 trous",
                 "front de mer marcher week-end"
               ]
             },
@@ -4918,7 +4838,6 @@
               "word": "Le Tour du Monde en 80 Jours",
               "forbiddens": [
                 "Jules Verne 1872 roman",
-                "Phileas Fogg pari Reform Club",
                 "Passepartout valet français",
                 "Aouda princesse indienne",
                 "tour planète défi"
@@ -4997,7 +4916,6 @@
             {
               "word": "Beaujolais Nouveau",
               "forbiddens": [
-                "vin",
                 "novembre",
                 "français",
                 "Beaujolais",
@@ -5103,7 +5021,6 @@
               "word": "Anatole France",
               "forbiddens": [
                 "Nobel Littérature 1921",
-                "Le Crime de Sylvestre Bonnard",
                 "Académie Française 1896",
                 "Île des Pingouins satire",
                 "Paris natif Quai Malaquais"
@@ -5155,7 +5072,6 @@
                 "Maine-et-Loire région",
                 "Angers château tapisserie Apocalypse",
                 "Loire ardoise tuffeau",
-                "vin Anjou Saumur",
                 "Plantagenêt dynastie médiévale"
               ]
             },
@@ -5194,7 +5110,6 @@
               "forbiddens": [
                 "aviateur Aéropostale écrivain",
                 "Le Petit Prince mondial bestseller",
-                "Vol Nuit Terre Hommes",
                 "Lyon natif famille aristocratique",
                 "disparu 31 juillet 1944 Méditerranée mission"
               ]
@@ -5205,8 +5120,7 @@
                 "théâtre cruauté manifeste",
                 "Le Théâtre et son Double",
                 "asile internement long Rodez",
-                "Mort par lui-même Van Gogh",
-                "Marseille natif folle souffrance"
+                "Mort par lui-même Van Gogh"
               ]
             },
             {
@@ -5237,16 +5151,6 @@
                 "Cartoucherie Vincennes lieu",
                 "tatouages costumes décor extravagant",
                 "Soulier Satin Mahabharata"
-              ]
-            },
-            {
-              "word": "Arme à Double Tranchant",
-              "forbiddens": [
-                "Avantage",
-                "Risque",
-                "Côté",
-                "Lame",
-                "Danger"
               ]
             },
             {
@@ -5305,8 +5209,7 @@
                 "expressionniste figuratif années 50-90",
                 "traits noirs anguleux marqué",
                 "Annabel femme muse",
-                "rapide prolifique controversé valeur baisse",
-                "suicide cancer Parkinson 1999"
+                "rapide prolifique controversé valeur baisse"
               ]
             },
             {
@@ -5314,7 +5217,6 @@
               "forbiddens": [
                 "Apostrophes Bouillon Culture animateur",
                 "Académie Goncourt président",
-                "Lyon natif vin Beaujolais amour",
                 "Dicos d'or orthographe",
                 "France 2 littérature TV"
               ]
@@ -5402,7 +5304,6 @@
             {
               "word": "Byrrh",
               "forbiddens": [
-                "apéritif vin quinquina",
                 "Thuir Pyrénées-Orientales caves grandes",
                 "Violet Frères fondateurs 1866",
                 "Pernod Ricard groupe",
@@ -5535,7 +5436,6 @@
                 "architecte Pritzker 1994",
                 "Cité Musique Philharmonie",
                 "Casablanca Tour CMA CGM",
-                "Casino Pont Coupole projet",
                 "Rabat ambassade France"
               ]
             },
@@ -5825,7 +5725,6 @@
                 "Bonjour Tristesse 18 ans 1954",
                 "Cécile Anne Cyril Cazalet",
                 "scandale jeune star riche",
-                "casino voitures luxe drogue jeux",
                 "Aimez-vous Brahms"
               ]
             },
@@ -5863,7 +5762,6 @@
               "word": "Georges Bernanos",
               "forbiddens": [
                 "catholique mystique romancier",
-                "Sous le Soleil de Satan Journal Curé Campagne",
                 "Dialogue Carmélites pièce",
                 "monarchiste polémiste",
                 "Pialat film adaptation Soleil"
@@ -5875,8 +5773,7 @@
                 "philosophe Anti-Œdipe rhizome",
                 "Guattari Félix duo",
                 "Différence Répétition",
-                "Mille Plateaux",
-                "suicide défenestration"
+                "Mille Plateaux"
               ]
             },
             {
@@ -5885,7 +5782,6 @@
                 "Symphonie Fantastique 1830",
                 "Romantisme idée fixe",
                 "Côte-Saint-André Isère natif",
-                "Damnation Faust Troyens",
                 "Critique passion désespérée Harriet Smithson"
               ]
             },
@@ -5934,7 +5830,6 @@
               "forbiddens": [
                 "romancier dramaturge Bestiaires Reine Morte",
                 "Académie Française élu",
-                "suicide cécité fin 1972",
                 "polémique politique collaboration accusations",
                 "Filles écrivain misogyne controversé"
               ]
@@ -6094,7 +5989,6 @@
               "forbiddens": [
                 "acteur années 70 80 populaire",
                 "Tony Berger Veber comédies",
-                "vin amour passion gourmet",
                 "Bourgueil natif Indre-et-Loire",
                 "Mort cancer 1994 Paris"
               ]
@@ -6103,7 +5997,6 @@
               "word": "Jean Cocteau",
               "forbiddens": [
                 "poète cinéaste dessinateur peintre",
-                "Belle et la Bête Orphée Sang Poète",
                 "Édith Piaf amis mort jour même",
                 "Académie Française élu",
                 "Maisons-Laffitte natif Étoile mer"
@@ -6115,16 +6008,13 @@
                 "Art Brut concept fondateur",
                 "Hourloupe série",
                 "Closerie Falbala",
-                "Le Havre natif vin marchand",
                 "Asilaire Art Brut Lausanne"
               ]
             },
             {
               "word": "Jean Genet",
               "forbiddens": [
-                "voleur écrivain",
                 "Notre-Dame Fleurs Querelle Brest",
-                "homosexualité prison enfance",
                 "Cocteau Sartre défenseurs",
                 "Bonnes Balcon théâtre"
               ]
@@ -6204,7 +6094,6 @@
               "forbiddens": [
                 "américaine FR adoptée",
                 "Saint-Louis Missouri origine",
-                "Revue Nègre Folies Bergère bananes ceinture",
                 "Résistance Seconde Guerre Légion Honneur",
                 "Panthéonisée 2021 première noir"
               ]
@@ -6340,16 +6229,6 @@
               ]
             },
             {
-              "word": "Le Bateau Ivre",
-              "forbiddens": [
-                "Rimbaud poème 1871",
-                "vers libres bateau libéré",
-                "voyage hallucinatoire fleuves mers",
-                "100 vers alexandrins",
-                "Verlaine impressionné premier"
-              ]
-            },
-            {
               "word": "Le Corbusier",
               "forbiddens": [
                 "architecte Suisse-FR moderne",
@@ -6395,8 +6274,7 @@
                 "Camus essai 1942",
                 "absurde philosophique",
                 "Sisyphe rocher éternel",
-                "il faut imaginer heureux",
-                "suicide philosophique question"
+                "il faut imaginer heureux"
               ]
             },
             {
@@ -6524,7 +6402,6 @@
               "forbiddens": [
                 "Blaise Pascal posthume 1670",
                 "fragments apologie chrétienne",
-                "Pari Pascal infini",
                 "Roseau pensant homme",
                 "Jansénisme Port-Royal"
               ]
@@ -6553,10 +6430,8 @@
               "word": "Liqueur de Cassis",
               "forbiddens": [
                 "Dijon Bourgogne spécialité",
-                "Kir blanc cassis cocktail",
                 "fruits noirs liqueur",
-                "Lejay Lagoute Védrenne marques",
-                "alcool fruité 16-20°"
+                "Lejay Lagoute Védrenne marques"
               ]
             },
             {
@@ -6625,8 +6500,7 @@
                 "moutardier Dijon historique 1747",
                 "moutarde Maille royale",
                 "Place Madeleine boutique",
-                "Unilever propriétaire actuel",
-                "fine grenade traditions"
+                "Unilever propriétaire actuel"
               ]
             },
             {
@@ -6792,7 +6666,6 @@
             {
               "word": "Michel Galabru",
               "forbiddens": [
-                "Le Juge et l'Assassin César Vacher tueur",
                 "Gendarmerie Saint-Tropez Cruchot brigadier",
                 "Safari Cruchot comique",
                 "Académie acteur prolifique cinéma",
@@ -6814,7 +6687,6 @@
               "forbiddens": [
                 "Lorraine eau-de-vie prune jaune",
                 "AOC Mirabelle Lorraine fruit",
-                "alcool fort transparent",
                 "septembre récolte",
                 "digestif goûter régional"
               ]
@@ -6823,7 +6695,6 @@
               "word": "Mistinguett",
               "forbiddens": [
                 "music-hall années 20 30 vedette",
-                "Casino Paris Folies Bergère",
                 "jambes assurées chères Lloyd's",
                 "Maurice Chevalier liaison",
                 "Mon Homme Reine Plumes"
@@ -6994,7 +6865,6 @@
               "forbiddens": [
                 "apéritif amer orange",
                 "années 1837 Gaétan Picon",
-                "bière Picon mélangé picon-bière",
                 "Diageo propriétaire",
                 "Algérie origine 19e siècle"
               ]
@@ -7004,7 +6874,6 @@
               "forbiddens": [
                 "animateur radio télé années 50-90",
                 "Histoires extraordinaires raconteur",
-                "voix grave conteur",
                 "C'est Mon Choix présentateur",
                 "Cinq millions Français Schedell co-créateur"
               ]
@@ -7015,8 +6884,7 @@
                 "nabis groupe couleurs vives",
                 "Marthe femme nu modèle obsession",
                 "Cannet Côte Azur fin vie",
-                "intérieurs paysages méditerranée",
-                "années 20 30 affichiste France-Champagne"
+                "intérieurs paysages méditerranée"
               ]
             },
             {
@@ -7103,7 +6971,6 @@
               "word": "Pierre Mendès France",
               "forbiddens": [
                 "Président Conseil 1954",
-                "verre lait combat alcool écoles",
                 "Indochine fin guerre Genève",
                 "modernisateur économique",
                 "radical-socialiste convictions juif"
@@ -7203,7 +7070,6 @@
               "word": "Quercy",
               "forbiddens": [
                 "Lot Tarn-et-Garonne",
-                "Cahors vin foie gras",
                 "Rocamadour Padirac",
                 "Lot rivière causses",
                 "blanc noir Quercy distinction"
@@ -7255,7 +7121,6 @@
                 "ballet Petit Roland chorégraphe danseur",
                 "Jeune Homme et la Mort 1946",
                 "Cocteau collaboration ballet",
-                "Zizi Jeanmaire épouse muse",
                 "Marseille Ballet National direction"
               ]
             },
@@ -7265,8 +7130,7 @@
                 "deux Goncourt deux pseudonymes Émile Ajar",
                 "Promesse Aube La Vie devant Soi",
                 "diplomate aviateur Guerre Lithuanie",
-                "Jean Seberg épouse actrice",
-                "suicide 1980 Paris Gauloise"
+                "Jean Seberg épouse actrice"
               ]
             },
             {
@@ -7292,7 +7156,6 @@
             {
               "word": "Sacha Distel",
               "forbiddens": [
-                "Toute la pluie tombe sur moi reprise",
                 "Brigitte Bardot ex compagnon",
                 "guitariste jazz formation",
                 "années 60 70 télé crooner",
@@ -7424,7 +7287,6 @@
               "forbiddens": [
                 "voyageur écrivain explorer",
                 "Dans Forêts Sibérie Médicis",
-                "chute toit accident grave 2014",
                 "alpiniste géographe philosophie",
                 "Panthère Neige Renaudot 2019"
               ]
@@ -7515,7 +7377,6 @@
                 "Arthur Rimbaud 1873",
                 "récit vers prose",
                 "adieu poésie 19 ans",
-                "Mauvais Sang Délires",
                 "Verlaine ami Bruxelles tir"
               ]
             },
@@ -7537,16 +7398,6 @@
                 "Le Grand Blond Cousteau musique",
                 "Diva bande originale",
                 "Reality bande Sophie Marceau"
-              ]
-            },
-            {
-              "word": "Vol de Nuit",
-              "forbiddens": [
-                "Saint-Exupéry roman 1931",
-                "aviation courrier Patagonie Argentine",
-                "Rivière chef Fabien pilote",
-                "André Gide préface",
-                "Femina prix 1931"
               ]
             },
             {
@@ -7724,7 +7575,6 @@
               "forbiddens": [
                 "Vendée île Atlantique",
                 "Port Joinville port principal",
-                "Pétain exilé mort prison",
                 "Côte sauvage Vieux Château",
                 "ferry Fromentine Île Yeu"
               ]
@@ -7795,7 +7645,6 @@
               "word": "Tennis",
               "forbiddens": [
                 "raquette",
-                "balle",
                 "court",
                 "service",
                 "filet"
@@ -7856,7 +7705,6 @@
               "forbiddens": [
                 "club",
                 "trou",
-                "balle",
                 "swing",
                 "vert"
               ]
@@ -7964,7 +7812,6 @@
             {
               "word": "Escrime",
               "forbiddens": [
-                "épée",
                 "duel",
                 "masque",
                 "fente",
@@ -8227,8 +8074,7 @@
                 "baseball",
                 "frapper",
                 "swing",
-                "bois",
-                "balle"
+                "bois"
               ]
             },
             {
@@ -8237,7 +8083,6 @@
                 "tennis",
                 "corde",
                 "frapper",
-                "balle",
                 "swing"
               ]
             },
@@ -8247,8 +8092,7 @@
                 "glace",
                 "lame",
                 "glisser",
-                "patinoire",
-                "roulette"
+                "patinoire"
               ]
             },
             {
@@ -8315,7 +8159,6 @@
               "word": "Lancer",
               "forbiddens": [
                 "jeter",
-                "balle",
                 "bras",
                 "attraper",
                 "propulser"
@@ -8325,7 +8168,6 @@
               "word": "Attraper",
               "forbiddens": [
                 "saisir",
-                "balle",
                 "lancer",
                 "main",
                 "recevoir"
@@ -8335,7 +8177,6 @@
               "word": "Coup de pied",
               "forbiddens": [
                 "pied",
-                "balle",
                 "soccer",
                 "frapper",
                 "jambe"
@@ -8365,7 +8206,6 @@
               "word": "Service",
               "forbiddens": [
                 "tennis",
-                "balle",
                 "frapper",
                 "commencer",
                 "lancer"
@@ -8386,7 +8226,6 @@
               "forbiddens": [
                 "lancer",
                 "baseball",
-                "balle",
                 "monticule",
                 "rapide"
               ]
@@ -8434,7 +8273,6 @@
             {
               "word": "Volée",
               "forbiddens": [
-                "balle",
                 "frapper",
                 "air",
                 "tennis",
@@ -8455,7 +8293,6 @@
               "word": "Lob",
               "forbiddens": [
                 "haut",
-                "balle",
                 "arc",
                 "par-dessus",
                 "tennis"
@@ -8747,7 +8584,6 @@
                 "lancer",
                 "baseball",
                 "monticule",
-                "balle",
                 "rapide"
               ]
             },
@@ -9046,7 +8882,6 @@
               "forbiddens": [
                 "lancer",
                 "lourd",
-                "balle",
                 "pousser",
                 "terrain"
               ]
@@ -9246,7 +9081,6 @@
               "forbiddens": [
                 "tirer",
                 "animal",
-                "fusil",
                 "sauvage",
                 "proie"
               ]
@@ -9276,7 +9110,6 @@
               "forbiddens": [
                 "cheval",
                 "maillet",
-                "balle",
                 "monter",
                 "terrain"
               ]
@@ -9285,7 +9118,6 @@
               "word": "Lacrosse",
               "forbiddens": [
                 "bâton",
-                "balle",
                 "filet",
                 "lancer",
                 "attraper"
@@ -9295,7 +9127,6 @@
               "word": "Cricket",
               "forbiddens": [
                 "batte",
-                "balle",
                 "guichet",
                 "terrain",
                 "angleterre"
@@ -9305,7 +9136,6 @@
               "word": "Handball",
               "forbiddens": [
                 "lancer",
-                "balle",
                 "but",
                 "main",
                 "court"
@@ -9315,7 +9145,6 @@
               "word": "Squash",
               "forbiddens": [
                 "raquette",
-                "balle",
                 "court",
                 "mur",
                 "frapper"
@@ -9326,7 +9155,6 @@
               "forbiddens": [
                 "ping-pong",
                 "raquette",
-                "balle",
                 "table",
                 "filet"
               ]
@@ -9336,7 +9164,6 @@
               "forbiddens": [
                 "poule",
                 "queue",
-                "balle",
                 "table",
                 "poche"
               ]
@@ -9355,7 +9182,6 @@
               "word": "Snooker",
               "forbiddens": [
                 "queue",
-                "balle",
                 "table",
                 "poche",
                 "empocher"
@@ -9396,7 +9222,6 @@
               "forbiddens": [
                 "ski",
                 "tirer",
-                "fusil",
                 "deux",
                 "hiver"
               ]
@@ -9436,7 +9261,6 @@
               "forbiddens": [
                 "piscine",
                 "nager",
-                "balle",
                 "but",
                 "lancer"
               ]
@@ -9705,7 +9529,6 @@
               "word": "Ping-pong",
               "forbiddens": [
                 "table",
-                "balle",
                 "raquette",
                 "petit",
                 "filet"
@@ -9739,16 +9562,6 @@
                 "attraper",
                 "parc",
                 "voler"
-              ]
-            },
-            {
-              "word": "Balle au prisonnier",
-              "forbiddens": [
-                "lancer",
-                "frapper",
-                "balle",
-                "esquiver",
-                "dehors"
               ]
             },
             {
@@ -9877,7 +9690,6 @@
                 "cheval",
                 "jockey",
                 "piste",
-                "parier",
                 "galoper"
               ]
             },
@@ -9914,7 +9726,6 @@
             {
               "word": "Kendo",
               "forbiddens": [
-                "épée",
                 "japon",
                 "bambou",
                 "martial",
@@ -9975,7 +9786,6 @@
               "word": "Softball",
               "forbiddens": [
                 "batte",
-                "balle",
                 "lancer",
                 "base",
                 "frapper"
@@ -9985,7 +9795,6 @@
               "word": "Pickleball",
               "forbiddens": [
                 "palette",
-                "balle",
                 "court",
                 "filet",
                 "service"
@@ -9995,7 +9804,6 @@
               "word": "Croquet",
               "forbiddens": [
                 "maillet",
-                "balle",
                 "guichet",
                 "pelouse",
                 "cerceau"
@@ -10652,7 +10460,6 @@
                 "baseball",
                 "deux",
                 "retraits",
-                "balle",
                 "terrain"
               ]
             },
@@ -10827,22 +10634,11 @@
               ]
             },
             {
-              "word": "Vol de base",
-              "forbiddens": [
-                "base",
-                "courir",
-                "baseball",
-                "faufiler",
-                "avancer"
-              ]
-            },
-            {
               "word": "Ballon-sacrifice",
               "forbiddens": [
                 "baseball",
                 "retrait",
                 "marquer",
-                "vol",
                 "courir"
               ]
             },
@@ -10884,36 +10680,6 @@
                 "droit",
                 "frapper",
                 "rapide"
-              ]
-            },
-            {
-              "word": "Fausse balle",
-              "forbiddens": [
-                "baseball",
-                "retrait",
-                "limite",
-                "frapper",
-                "prise"
-              ]
-            },
-            {
-              "word": "Balle courbe",
-              "forbiddens": [
-                "lancer",
-                "tourner",
-                "courber",
-                "baseball",
-                "courbe"
-              ]
-            },
-            {
-              "word": "Balle rapide",
-              "forbiddens": [
-                "lancer",
-                "vitesse",
-                "droit",
-                "baseball",
-                "mph"
               ]
             },
             {
@@ -10967,26 +10733,6 @@
               ]
             },
             {
-              "word": "Balle de match",
-              "forbiddens": [
-                "tennis",
-                "dernier",
-                "point",
-                "gagner",
-                "final"
-              ]
-            },
-            {
-              "word": "Balle de break",
-              "forbiddens": [
-                "tennis",
-                "service",
-                "adversaire",
-                "chance",
-                "gagner"
-              ]
-            },
-            {
               "word": "Zéro",
               "forbiddens": [
                 "tennis",
@@ -11031,7 +10777,6 @@
               "forbiddens": [
                 "rotation",
                 "avant",
-                "balle",
                 "tourner",
                 "rebondir"
               ]
@@ -11041,7 +10786,6 @@
               "forbiddens": [
                 "rotation",
                 "arrière",
-                "balle",
                 "tourner",
                 "coupé"
               ]
@@ -11212,7 +10956,6 @@
                 "soccer",
                 "exclu",
                 "faute",
-                "grave",
                 "arbitre"
               ]
             },
@@ -11242,8 +10985,7 @@
                 "coup franc",
                 "corner",
                 "planifié",
-                "jeu",
-                "balle arrêtée"
+                "jeu"
               ]
             },
             {
@@ -11880,7 +11622,6 @@
               "word": "Faute flagrante",
               "forbiddens": [
                 "basketball",
-                "violent",
                 "excessif",
                 "exclure",
                 "contact"
@@ -12024,16 +11765,6 @@
                 "attraper",
                 "panneau",
                 "ballon"
-              ]
-            },
-            {
-              "word": "Perte de balle",
-              "forbiddens": [
-                "perdre",
-                "ballon",
-                "possession",
-                "voler",
-                "erreur"
               ]
             },
             {
@@ -12352,8 +12083,7 @@
                 "bowling",
                 "toutes",
                 "quilles",
-                "première",
-                "balle"
+                "première"
               ]
             },
             {
@@ -12444,16 +12174,6 @@
                 "défense",
                 "dig",
                 "sans attaque"
-              ]
-            },
-            {
-              "word": "Kill",
-              "forbiddens": [
-                "volleyball",
-                "attaque",
-                "point",
-                "irrécupérable",
-                "smash"
               ]
             },
             {
@@ -13154,7 +12874,6 @@
             {
               "word": "Arbitrage",
               "forbiddens": [
-                "pari",
                 "cotes",
                 "profit",
                 "garanti",
@@ -13836,7 +13555,6 @@
               "forbiddens": [
                 "plaquette",
                 "plasma",
-                "sang",
                 "injecter",
                 "guérir"
               ]
@@ -13887,8 +13605,7 @@
                 "serré",
                 "manchon",
                 "pression",
-                "soutien",
-                "sang"
+                "soutien"
               ]
             },
             {
@@ -13934,7 +13651,6 @@
             {
               "word": "Lactatemètre",
               "forbiddens": [
-                "sang",
                 "acide",
                 "mesurer",
                 "seuil",
@@ -14005,7 +13721,6 @@
               "word": "EPO",
               "forbiddens": [
                 "érythropoïétine",
-                "sang",
                 "hormone",
                 "interdit",
                 "endurance"
@@ -14169,16 +13884,6 @@
                 "plus",
                 "combiné",
                 "statistique"
-              ]
-            },
-            {
-              "word": "True Shooting",
-              "forbiddens": [
-                "basketball",
-                "efficacité",
-                "pourcentage",
-                "lancer franc",
-                "trois"
               ]
             },
             {
@@ -14539,16 +14244,6 @@
                 "jambe d'appui",
                 "néerlandais",
                 "tourner"
-              ]
-            },
-            {
-              "word": "Roulette de Marseille",
-              "forbiddens": [
-                "tourner",
-                "roulette",
-                "zidane",
-                "semelle",
-                "traîner"
               ]
             },
             {
@@ -14949,16 +14644,6 @@
                 "pourcentage",
                 "finir",
                 "efficacité"
-              ]
-            },
-            {
-              "word": "Récupération de balle",
-              "forbiddens": [
-                "regagner",
-                "possession",
-                "plaquer",
-                "intercepter",
-                "presser"
               ]
             },
             {
@@ -15516,7 +15201,6 @@
               "forbiddens": [
                 "watts",
                 "cyclisme",
-                "pédale",
                 "mesurer",
                 "sortie"
               ]
@@ -15544,7 +15228,6 @@
             {
               "word": "Hématocrite",
               "forbiddens": [
-                "sang",
                 "globules rouges",
                 "pourcentage",
                 "dopage",
@@ -15554,7 +15237,6 @@
             {
               "word": "Passeport biologique",
               "forbiddens": [
-                "sang",
                 "profil",
                 "athlète",
                 "dopage",
@@ -15574,7 +15256,6 @@
             {
               "word": "Clenbutérol",
               "forbiddens": [
-                "drogue",
                 "interdit",
                 "poids",
                 "perte",
@@ -15595,7 +15276,6 @@
               "word": "Centrifugeuse",
               "forbiddens": [
                 "tourner",
-                "sang",
                 "séparer",
                 "labo",
                 "machine"
@@ -15737,7 +15417,6 @@
               "word": "Léon",
               "forbiddens": [
                 "Jean Reno",
-                "tueur à gages",
                 "Natalie Portman",
                 "Mathilda",
                 "plante"
@@ -15808,7 +15487,6 @@
               "forbiddens": [
                 "Afrique",
                 "petit",
-                "sorcière",
                 "Karaba",
                 "Ocelot"
               ]
@@ -15848,7 +15526,6 @@
               "forbiddens": [
                 "Omar Sy",
                 "Netflix",
-                "voleur",
                 "Assane",
                 "gentleman cambrioleur"
               ]
@@ -16068,7 +15745,6 @@
               "forbiddens": [
                 "Casser la voix",
                 "chanteur",
-                "poker",
                 "Une seule vie",
                 "années 90"
               ]
@@ -16337,7 +16013,6 @@
               "word": "Les Tuche",
               "forbiddens": [
                 "Jean-Paul Rouve",
-                "loto",
                 "Cathy",
                 "Monaco",
                 "comédie"
@@ -16387,7 +16062,6 @@
               "word": "Charlotte Gainsbourg",
               "forbiddens": [
                 "Serge",
-                "Antichrist",
                 "chanteuse",
                 "Birkin",
                 "Lars von Trier"
@@ -16517,7 +16191,6 @@
               "word": "Eva Green",
               "forbiddens": [
                 "James Bond",
-                "Casino Royale",
                 "Vesper",
                 "brune",
                 "Tim Burton"
@@ -16819,7 +16492,6 @@
                 "Truffaut",
                 "8 Femmes",
                 "élégante",
-                "voix grave",
                 "rouge"
               ]
             },
@@ -16849,7 +16521,6 @@
                 "humoriste",
                 "stand-up",
                 "court",
-                "Pédale Douce",
                 "calvitie"
               ]
             },
@@ -17006,7 +16677,6 @@
             {
               "word": "Marianne",
               "forbiddens": [
-                "sorcière",
                 "horreur",
                 "Bretagne",
                 "Netflix",
@@ -17016,7 +16686,6 @@
             {
               "word": "Family Business",
               "forbiddens": [
-                "cannabis",
                 "famille juive",
                 "Boucherie",
                 "Joseph",
@@ -17219,8 +16888,7 @@
                 "Clouzot",
                 "Simone Signoret",
                 "piscine",
-                "pensionnat",
-                "meurtre"
+                "pensionnat"
               ]
             },
             {
@@ -17269,8 +16937,7 @@
                 "Marcel Carné",
                 "Prévert",
                 "Arletty",
-                "pantomime",
-                "boulevard du crime"
+                "pantomime"
               ]
             },
             {
@@ -17329,8 +16996,7 @@
                 "Rocco et ses frères",
                 "Visconti",
                 "Mourir d'aimer",
-                "années 70",
-                "voix grave"
+                "années 70"
               ]
             },
             {
@@ -17389,7 +17055,6 @@
                 "Birkin",
                 "Melody Nelson",
                 "provocation",
-                "cigarette",
                 "Charlotte"
               ]
             },
@@ -17634,16 +17299,6 @@
               ]
             },
             {
-              "word": "L'Emmerdeur",
-              "forbiddens": [
-                "Veber",
-                "Lino Ventura",
-                "Jacques Brel",
-                "tueur à gages",
-                "balcon"
-              ]
-            },
-            {
               "word": "Les Compères",
               "forbiddens": [
                 "Veber",
@@ -17809,8 +17464,7 @@
                 "Resnais",
                 "Évelyne Bouix",
                 "scène",
-                "théâtre",
-                "Smoking No Smoking"
+                "théâtre"
               ]
             },
             {
@@ -17819,7 +17473,6 @@
                 "Un Prophète",
                 "imposant",
                 "Quai d'Orsay",
-                "voix grave",
                 "Jacques Audiard"
               ]
             },
@@ -18066,7 +17719,6 @@
             {
               "word": "Le Parrain",
               "forbiddens": [
-                "mafia",
                 "Coppola",
                 "Brando",
                 "Corleone",
@@ -18079,7 +17731,6 @@
                 "Tarantino",
                 "Travolta",
                 "Jackson",
-                "violence",
                 "valise"
               ]
             },
@@ -18277,7 +17928,6 @@
               "word": "Breaking Bad",
               "forbiddens": [
                 "Walter White",
-                "drogue",
                 "chimie",
                 "Heisenberg",
                 "cancer"
@@ -18423,7 +18073,6 @@
               "forbiddens": [
                 "Melville",
                 "Alain Delon",
-                "tueur à gages",
                 "imperméable",
                 "chapeau"
               ]
@@ -18453,7 +18102,6 @@
               "forbiddens": [
                 "Melville",
                 "Roger Duchesne",
-                "casino",
                 "Montmartre",
                 "Deauville"
               ]
@@ -18614,7 +18262,6 @@
                 "Henri Verneuil",
                 "Jean Gabin",
                 "Belmondo",
-                "alcool",
                 "Tigreville Normandie"
               ]
             },
@@ -18879,16 +18526,6 @@
               ]
             },
             {
-              "word": "Smoking / No Smoking",
-              "forbiddens": [
-                "Resnais",
-                "Azéma",
-                "Arditi",
-                "Ayckbourn",
-                "deux versions"
-              ]
-            },
-            {
               "word": "Mon Oncle d'Amérique",
               "forbiddens": [
                 "Resnais",
@@ -19003,7 +18640,6 @@
               "forbiddens": [
                 "Assayas",
                 "Édgar Ramírez",
-                "terroriste vénézuélien",
                 "OPEP",
                 "mini-série"
               ]
@@ -19066,16 +18702,6 @@
                 "Isabelle Huppert",
                 "passion sociale",
                 "voyou"
-              ]
-            },
-            {
-              "word": "Sous le Soleil de Satan",
-              "forbiddens": [
-                "Pialat",
-                "Depardieu",
-                "prêtre Donissan",
-                "Palme d'Or 1987",
-                "Bernanos"
               ]
             },
             {
@@ -19163,7 +18789,6 @@
               "forbiddens": [
                 "Robert Bresson",
                 "Martin LaSalle",
-                "Paris vol",
                 "métro",
                 "ascétique"
               ]
@@ -19182,7 +18807,6 @@
               "word": "Le Trou",
               "forbiddens": [
                 "Jacques Becker",
-                "prison Santé",
                 "évasion tunnel",
                 "Jean Keraudy",
                 "noir et blanc"
@@ -19342,7 +18966,6 @@
               "word": "Frantz",
               "forbiddens": [
                 "Ozon",
-                "Paula Beer",
                 "Pierre Niney",
                 "Première Guerre",
                 "noir et blanc Allemagne"
@@ -19403,7 +19026,6 @@
               "forbiddens": [
                 "Albert Dupontel",
                 "Virginie Efira",
-                "fonctionnaire suicidaire",
                 "tumeur incurable",
                 "recherche fils"
               ]
@@ -19784,8 +19406,7 @@
                 "Chabrol",
                 "Stéphane Audran",
                 "Jean Yanne",
-                "village Périgord",
-                "tueur"
+                "village Périgord"
               ]
             },
             {
@@ -19834,8 +19455,7 @@
                 "Éric Rohmer",
                 "Trintignant",
                 "Françoise Fabian",
-                "Clermont-Ferrand",
-                "Pascal pari"
+                "Clermont-Ferrand"
               ]
             },
             {
@@ -19953,7 +19573,6 @@
               "forbiddens": [
                 "Marchal",
                 "Gérard Lanvin",
-                "gang Lyonnais",
                 "années 70 grand banditisme",
                 "Edmond Vidal"
               ]
@@ -20214,8 +19833,7 @@
                 "Notre-Dame de Paris",
                 "québécois",
                 "Quasimodo",
-                "Seul",
-                "barbe voix grave"
+                "Seul"
               ]
             },
             {
@@ -20254,8 +19872,7 @@
                 "France 2",
                 "Hervé Hadmar",
                 "Marie Dompnier",
-                "polar nord",
-                "exhumation cimetière"
+                "polar nord"
               ]
             },
             {
@@ -20283,7 +19900,6 @@
               "forbiddens": [
                 "Costa-Gavras",
                 "Jessica Lange",
-                "nazi caché Hongrie",
                 "fille avocate",
                 "Oscar nomination"
               ]
@@ -20324,8 +19940,7 @@
                 "Olivier Marchal",
                 "Lannick Gautry",
                 "Jean Reno",
-                "Marseille gangs",
-                "BRI mafia"
+                "Marseille gangs"
               ]
             },
             {
@@ -20346,16 +19961,6 @@
                 "Marina Foïs",
                 "dîner couples",
                 "Patrick Bruel"
-              ]
-            },
-            {
-              "word": "Le Diable Probablement",
-              "forbiddens": [
-                "Bresson",
-                "Antoine Monnier",
-                "Charles désespoir",
-                "Paris années 70",
-                "écologie suicide"
               ]
             },
             {
@@ -20394,8 +19999,7 @@
                 "Chabrol",
                 "Bernadette Lafont",
                 "quatre vendeuses Paris",
-                "1960",
-                "tueur final"
+                "1960"
               ]
             },
             {
@@ -20691,8 +20295,6 @@
             {
               "word": "Clara Luciani",
               "forbiddens": [
-                "La Grenade",
-                "voix grave",
                 "Cœur album",
                 "Léo Ferré inspiration",
                 "années 30 esthétique"
@@ -20754,7 +20356,6 @@
                 "israélien-français",
                 "Largo Winch",
                 "stand-up",
-                "Balle perdue Netflix",
                 "héros action"
               ]
             },
@@ -20873,7 +20474,6 @@
               "forbiddens": [
                 "Delon",
                 "Belmondo",
-                "gangster",
                 "Marseille",
                 "chapeau"
               ]
@@ -20893,16 +20493,6 @@
         {
           "type": "hard",
           "words": [
-            {
-              "word": "La Maman et la Putain",
-              "forbiddens": [
-                "Jean Eustache",
-                "Jean-Pierre Léaud",
-                "Bernadette Lafont",
-                "Françoise Lebrun",
-                "3h40 noir et blanc"
-              ]
-            },
             {
               "word": "Mes Petites Amoureuses",
               "forbiddens": [
@@ -21099,7 +20689,6 @@
                 "Truffaut",
                 "François Truffaut acteur",
                 "Henry James adaptation",
-                "cimetière privé deuil",
                 "Nathalie Baye"
               ]
             },
@@ -21359,8 +20948,7 @@
                 "Pialat",
                 "Depardieu",
                 "Sophie Marceau",
-                "Tunisien dealer trafic",
-                "interrogatoire violent"
+                "Tunisien dealer trafic"
               ]
             },
             {
@@ -21389,8 +20977,7 @@
                 "Jean Renoir",
                 "Jean Gabin",
                 "Simone Simon",
-                "Émile Zola",
-                "cheminot pulsion meurtre"
+                "Émile Zola"
               ]
             },
             {
@@ -21409,8 +20996,7 @@
                 "Renoir",
                 "Michel Simon",
                 "comptable amoureux",
-                "prostituée Lulu",
-                "Montmartre meurtre passion"
+                "prostituée Lulu"
               ]
             },
             {
@@ -21429,7 +21015,6 @@
                 "Julien Duvivier",
                 "Jean Gabin",
                 "Casbah Alger",
-                "gangster cache",
                 "noir et blanc 1937"
               ]
             },
@@ -21439,8 +21024,7 @@
                 "Henri-Georges Clouzot",
                 "Louis Jouvet",
                 "Suzy Delair",
-                "police judiciaire 36",
-                "music-hall meurtre"
+                "police judiciaire 36"
               ]
             },
             {
@@ -21479,8 +21063,7 @@
                 "Becker",
                 "Roger Pigaut",
                 "Claire Mafféi",
-                "ouvriers parisiens 1947",
-                "billet loterie perdu"
+                "ouvriers parisiens 1947"
               ]
             },
             {
@@ -21499,7 +21082,6 @@
                 "Duvivier",
                 "Jean Gabin",
                 "Charles Vanel",
-                "chômeurs gain loterie",
                 "guinguette Marne"
               ]
             },
@@ -21519,7 +21101,6 @@
                 "Carné",
                 "Arletty",
                 "Jules Berry",
-                "moyen-âge diable trouvères",
                 "Prévert"
               ]
             },
@@ -21539,7 +21120,6 @@
                 "Carné",
                 "Simone Signoret",
                 "Raf Vallone",
-                "Lyon adultère meurtre",
                 "Zola adaptation"
               ]
             },
@@ -21549,7 +21129,6 @@
                 "Luis Buñuel",
                 "Catherine Deneuve",
                 "Pierre Clémenti",
-                "bordel après-midi",
                 "fantasme bourgeoise"
               ]
             },
@@ -21698,7 +21277,6 @@
               "forbiddens": [
                 "Marina de Van",
                 "réalisatrice actrice",
-                "automutilation",
                 "cadre exécutive",
                 "horreur intimiste 2002"
               ]
@@ -21799,8 +21377,7 @@
                 "Téchiné",
                 "Juliette Binoche",
                 "Mathieu Amalric",
-                "Paris violoniste",
-                "passé secret meurtre"
+                "Paris violoniste"
               ]
             },
             {
@@ -21859,8 +21436,7 @@
                 "Kassovitz",
                 "Jean Reno",
                 "Vincent Cassel",
-                "Université Guernon Alpes",
-                "thriller cadavre glacier"
+                "Université Guernon Alpes"
               ]
             },
             {
@@ -21959,8 +21535,7 @@
                 "Blier",
                 "Depardieu",
                 "Michel Blanc",
-                "Miou-Miou",
-                "trio cambriolage homosexuel"
+                "Miou-Miou"
               ]
             },
             {
@@ -21969,8 +21544,7 @@
                 "Blier",
                 "Depardieu",
                 "Bernard Blier père",
-                "Jean Carmet",
-                "absurde meurtre métro"
+                "Jean Carmet"
               ]
             },
             {
@@ -22058,7 +21632,6 @@
               "forbiddens": [
                 "Mocky",
                 "Bourvil",
-                "voleur églises troncs",
                 "satire religion",
                 "noir et blanc 1963"
               ]
@@ -22199,7 +21772,6 @@
                 "Téchiné",
                 "Deneuve",
                 "Kacey Mottet Klein",
-                "djihad petit-fils",
                 "Provence centre équestre"
               ]
             },
@@ -22459,8 +22031,7 @@
                 "Corneau",
                 "Yves Montand",
                 "Gérard Depardieu",
-                "Catherine Deneuve",
-                "ancien gangster paisible élevage"
+                "Catherine Deneuve"
               ]
             },
             {
@@ -22489,7 +22060,6 @@
                 "Stéphane Brizé",
                 "Vincent Lindon",
                 "Hélène Vincent",
-                "fils libéré prison mère malade",
                 "Suisse euthanasie"
               ]
             },
@@ -22659,7 +22229,6 @@
                 "Pinoteau",
                 "Lino Ventura",
                 "Léa Massari",
-                "tueur 7 cibles industriel",
                 "polar Paris 1984"
               ]
             },
@@ -22739,7 +22308,6 @@
                 "Rivette",
                 "Sandrine Bonnaire",
                 "Jeanne d'Arc 2 parties",
-                "Batailles Prison",
                 "Christine de Pisan"
               ]
             },
@@ -22759,7 +22327,6 @@
                 "Bresson",
                 "Dominique Sanda",
                 "Dostoïevski adaptation",
-                "prêteur sur gages suicide",
                 "première couleur Bresson"
               ]
             },
@@ -22811,16 +22378,6 @@
                 "Jean-Pierre Léaud",
                 "groupuscule maoïste appartement",
                 "été 1967"
-              ]
-            },
-            {
-              "word": "Sympathy for the Devil",
-              "forbiddens": [
-                "Godard",
-                "Rolling Stones studio",
-                "Black Panthers militantisme",
-                "couleur One Plus One",
-                "1968"
               ]
             },
             {
@@ -22899,8 +22456,7 @@
                 "Eugène Green",
                 "Natacha Régnier",
                 "Adrien Michaux",
-                "Paris baroque musique",
-                "amour suicide Pascal"
+                "Paris baroque musique"
               ]
             },
             {
@@ -22948,7 +22504,6 @@
               "forbiddens": [
                 "Annaud",
                 "Jude Law",
-                "Ed Harris",
                 "snipers russe allemand",
                 "Vassili Zaitsev 1942"
               ]
@@ -23028,9 +22583,7 @@
               "forbiddens": [
                 "Jan Kounen",
                 "Vincent Cassel",
-                "Monica Bellucci",
-                "gang Doberman braquage",
-                "violence ultra 1997"
+                "Monica Bellucci"
               ]
             },
             {
@@ -23087,7 +22640,6 @@
               "word": "Pickpocket",
               "forbiddens": [
                 "Bresson",
-                "voleur",
                 "Paris",
                 "français",
                 "Dostoïevski"
@@ -23141,16 +22693,6 @@
                 "adolescente",
                 "amours",
                 "famille"
-              ]
-            },
-            {
-              "word": "Sous le Soleil de Satan",
-              "forbiddens": [
-                "Pialat",
-                "Depardieu",
-                "prêtre",
-                "Bernanos",
-                "Palme"
               ]
             },
             {
@@ -23239,7 +22781,6 @@
                 "Antonioni",
                 "photographe",
                 "Londres",
-                "meurtre",
                 "années 60"
               ]
             },
@@ -23941,7 +23482,6 @@
                 "fruits de mer",
                 "coquillage",
                 "petit",
-                "cocktail",
                 "rose"
               ]
             },
@@ -24069,7 +23609,6 @@
               "word": "Raisin",
               "forbiddens": [
                 "vigne",
-                "vin",
                 "violet",
                 "fruit",
                 "sec"
@@ -25136,16 +24675,6 @@
               ]
             },
             {
-              "word": "Grenade",
-              "forbiddens": [
-                "rouge",
-                "graine",
-                "fruit",
-                "jus",
-                "acidulé"
-              ]
-            },
-            {
               "word": "Kiwi",
               "forbiddens": [
                 "vert",
@@ -25181,8 +24710,7 @@
                 "vert",
                 "agrume",
                 "acide",
-                "jus",
-                "cocktail"
+                "jus"
               ]
             },
             {
@@ -25276,49 +24804,8 @@
               ]
             },
             {
-              "word": "Bière",
-              "forbiddens": [
-                "alcool",
-                "brasser",
-                "houblon",
-                "malt",
-                "bar"
-              ]
-            },
-            {
-              "word": "Vin",
-              "forbiddens": [
-                "raisin",
-                "rouge",
-                "blanc",
-                "alcool",
-                "bouteille"
-              ]
-            },
-            {
-              "word": "Champagne",
-              "forbiddens": [
-                "bulles",
-                "fêter",
-                "france",
-                "trinquer",
-                "vin"
-              ]
-            },
-            {
-              "word": "Cocktail",
-              "forbiddens": [
-                "mélanger",
-                "alcool",
-                "boire",
-                "bar",
-                "soirée"
-              ]
-            },
-            {
               "word": "Margarita",
               "forbiddens": [
-                "tequila",
                 "sel",
                 "citron vert",
                 "mexicain",
@@ -25331,34 +24818,12 @@
                 "menthe",
                 "rhum",
                 "citron vert",
-                "cocktail",
                 "cubain"
-              ]
-            },
-            {
-              "word": "Whisky",
-              "forbiddens": [
-                "alcool",
-                "fût",
-                "écossais",
-                "bourbon",
-                "distiller"
-              ]
-            },
-            {
-              "word": "Vodka",
-              "forbiddens": [
-                "alcool",
-                "russie",
-                "clair",
-                "pomme de terre",
-                "spiritueux"
               ]
             },
             {
               "word": "Rhum",
               "forbiddens": [
-                "alcool",
                 "pirate",
                 "caraïbes",
                 "canne à sucre",
@@ -25366,31 +24831,10 @@
               ]
             },
             {
-              "word": "Tequila",
-              "forbiddens": [
-                "mexique",
-                "agave",
-                "shot",
-                "sel",
-                "citron vert"
-              ]
-            },
-            {
-              "word": "Gin",
-              "forbiddens": [
-                "tonic",
-                "genièvre",
-                "alcool",
-                "londres",
-                "botanique"
-              ]
-            },
-            {
               "word": "Saké",
               "forbiddens": [
                 "japon",
                 "riz",
-                "alcool",
                 "chaud",
                 "fermenter"
               ]
@@ -25763,16 +25207,6 @@
                 "mexicain",
                 "vapeur",
                 "garniture"
-              ]
-            },
-            {
-              "word": "Chili con carne",
-              "forbiddens": [
-                "haricot",
-                "viande",
-                "épicé",
-                "ragoût",
-                "tomate"
               ]
             },
             {
@@ -26256,16 +25690,6 @@
               ]
             },
             {
-              "word": "Sauce cocktail",
-              "forbiddens": [
-                "crevette",
-                "raifort",
-                "rouge",
-                "ketchup",
-                "fruits de mer"
-              ]
-            },
-            {
               "word": "Teriyaki",
               "forbiddens": [
                 "japonais",
@@ -26706,7 +26130,6 @@
                 "couper",
                 "fin",
                 "bâtonnet",
-                "couteau",
                 "allumette"
               ]
             },
@@ -26746,8 +26169,7 @@
                 "poêle",
                 "liquide",
                 "gratter",
-                "sucs",
-                "vin"
+                "sucs"
               ]
             },
             {
@@ -27025,7 +26447,6 @@
               "forbiddens": [
                 "japonais",
                 "sucré",
-                "vin de riz",
                 "cuisson",
                 "assaisonnement"
               ]
@@ -27851,16 +27272,6 @@
               ]
             },
             {
-              "word": "Coq au vin",
-              "forbiddens": [
-                "français",
-                "poulet",
-                "vin",
-                "ragoût",
-                "braiser"
-              ]
-            },
-            {
               "word": "Bouillabaisse",
               "forbiddens": [
                 "français",
@@ -28083,7 +27494,6 @@
             {
               "word": "Marsala",
               "forbiddens": [
-                "vin",
                 "sauce",
                 "sicile",
                 "champignon",
@@ -28215,7 +27625,6 @@
               "forbiddens": [
                 "œuf",
                 "sucre",
-                "vin",
                 "italien",
                 "crème"
               ]
@@ -28574,7 +27983,6 @@
               "word": "Flamber",
               "forbiddens": [
                 "feu",
-                "alcool",
                 "flamme",
                 "enflammer",
                 "dramatique"
@@ -28774,7 +28182,6 @@
               "word": "Beurre blanc",
               "forbiddens": [
                 "beurre",
-                "vin blanc",
                 "sauce",
                 "français",
                 "échalote"
@@ -29213,7 +28620,6 @@
             {
               "word": "Vermouth",
               "forbiddens": [
-                "vin",
                 "fortifié",
                 "herbe",
                 "martini",
@@ -29293,7 +28699,6 @@
             {
               "word": "Porto",
               "forbiddens": [
-                "vin",
                 "fortifié",
                 "portugal",
                 "sucré",
@@ -29303,7 +28708,6 @@
             {
               "word": "Xérès",
               "forbiddens": [
-                "vin",
                 "fortifié",
                 "espagnol",
                 "sec",
@@ -29313,7 +28717,6 @@
             {
               "word": "Madère",
               "forbiddens": [
-                "vin",
                 "fortifié",
                 "portugais",
                 "île",
@@ -29324,10 +28727,8 @@
               "word": "Hydromel",
               "forbiddens": [
                 "miel",
-                "vin",
                 "fermenter",
-                "ancien",
-                "alcool"
+                "ancien"
               ]
             },
             {
@@ -29335,7 +28736,6 @@
               "forbiddens": [
                 "pétillant",
                 "italien",
-                "vin",
                 "bulle",
                 "léger"
               ]
@@ -29345,7 +28745,6 @@
               "forbiddens": [
                 "pétillant",
                 "espagnol",
-                "vin",
                 "bulle",
                 "sec"
               ]
@@ -29354,7 +28753,6 @@
               "word": "Rosé",
               "forbiddens": [
                 "rose",
-                "vin",
                 "léger",
                 "été",
                 "raisin"
@@ -29363,7 +28761,6 @@
             {
               "word": "Riesling",
               "forbiddens": [
-                "vin",
                 "allemand",
                 "blanc",
                 "sucré",
@@ -29373,7 +28770,6 @@
             {
               "word": "Pinot Noir",
               "forbiddens": [
-                "vin",
                 "rouge",
                 "léger",
                 "bourgogne",
@@ -29383,7 +28779,6 @@
             {
               "word": "Cabernet",
               "forbiddens": [
-                "vin",
                 "rouge",
                 "puissant",
                 "tanin",
@@ -29393,7 +28788,6 @@
             {
               "word": "Merlot",
               "forbiddens": [
-                "vin",
                 "rouge",
                 "souple",
                 "prune",
@@ -29403,7 +28797,6 @@
             {
               "word": "Chardonnay",
               "forbiddens": [
-                "vin",
                 "blanc",
                 "chêne",
                 "beurre",
@@ -29413,7 +28806,6 @@
             {
               "word": "Sauvignon Blanc",
               "forbiddens": [
-                "vin",
                 "blanc",
                 "vif",
                 "herbe",
@@ -29423,7 +28815,6 @@
             {
               "word": "Beaujolais",
               "forbiddens": [
-                "vin",
                 "rouge",
                 "léger",
                 "français",
@@ -29433,7 +28824,6 @@
             {
               "word": "Chianti",
               "forbiddens": [
-                "vin",
                 "italien",
                 "rouge",
                 "toscan",
@@ -29443,7 +28833,6 @@
             {
               "word": "Barolo",
               "forbiddens": [
-                "vin",
                 "italien",
                 "rouge",
                 "nebbiolo",
@@ -29453,7 +28842,6 @@
             {
               "word": "Rioja",
               "forbiddens": [
-                "vin",
                 "espagnol",
                 "rouge",
                 "tempranillo",
@@ -29463,7 +28851,6 @@
             {
               "word": "Malbec",
               "forbiddens": [
-                "vin",
                 "rouge",
                 "argentin",
                 "puissant",
@@ -29489,7 +28876,6 @@
               "word": "Terroir",
               "forbiddens": [
                 "terre",
-                "vin",
                 "sol",
                 "climat",
                 "caractère"
@@ -29990,7 +29376,6 @@
               "forbiddens": [
                 "jaune d'œuf",
                 "sucre",
-                "vin",
                 "fouetter",
                 "chaud"
               ]
@@ -30250,7 +29635,6 @@
               "forbiddens": [
                 "désignation",
                 "origine",
-                "vin",
                 "région",
                 "contrôlée"
               ]
@@ -30260,7 +29644,6 @@
               "forbiddens": [
                 "vignoble",
                 "croissance",
-                "vin",
                 "classification",
                 "français"
               ]
@@ -30268,7 +29651,6 @@
             {
               "word": "Sommelier",
               "forbiddens": [
-                "vin",
                 "expert",
                 "servir",
                 "restaurant",
@@ -30279,7 +29661,6 @@
               "word": "Décantation",
               "forbiddens": [
                 "verser",
-                "vin",
                 "sédiment",
                 "respirer",
                 "récipient"
@@ -30288,7 +29669,6 @@
             {
               "word": "Fermentation malolactique",
               "forbiddens": [
-                "vin",
                 "bactérie",
                 "acide",
                 "adoucir",
@@ -30298,7 +29678,6 @@
             {
               "word": "Tanin",
               "forbiddens": [
-                "vin",
                 "astringent",
                 "raisin",
                 "amer",
@@ -30308,7 +29687,6 @@
             {
               "word": "Bouquet",
               "forbiddens": [
-                "vin",
                 "arôme",
                 "vieilli",
                 "complexe",
@@ -30318,11 +29696,9 @@
             {
               "word": "Larmes",
               "forbiddens": [
-                "vin",
                 "verre",
                 "couler",
-                "viscosité",
-                "alcool"
+                "viscosité"
               ]
             },
             {
@@ -30341,7 +29717,6 @@
                 "raisin",
                 "jus",
                 "non fermenté",
-                "vin",
                 "presse"
               ]
             },
@@ -30349,7 +29724,6 @@
               "word": "Lies",
               "forbiddens": [
                 "sédiment",
-                "vin",
                 "levure",
                 "morte",
                 "fond"
@@ -30359,7 +29733,6 @@
               "word": "Soutirage",
               "forbiddens": [
                 "transférer",
-                "vin",
                 "clarifier",
                 "sédiment",
                 "fût"
@@ -30369,7 +29742,6 @@
               "word": "Collage",
               "forbiddens": [
                 "clarifier",
-                "vin",
                 "retirer",
                 "protéine",
                 "clair"
@@ -30380,7 +29752,6 @@
               "forbiddens": [
                 "remuer",
                 "lies",
-                "vin",
                 "fût",
                 "saveur"
               ]
@@ -30389,7 +29760,6 @@
               "word": "Assemblage",
               "forbiddens": [
                 "mélange",
-                "vin",
                 "combiner",
                 "lot",
                 "final"
@@ -30399,7 +29769,6 @@
               "word": "Cuvée",
               "forbiddens": [
                 "assemblage",
-                "vin",
                 "lot",
                 "spécial",
                 "cuve"
@@ -30409,7 +29778,6 @@
               "word": "Dosage",
               "forbiddens": [
                 "sucre",
-                "champagne",
                 "ajouter",
                 "douceur",
                 "final"
@@ -30418,7 +29786,6 @@
             {
               "word": "Remuage",
               "forbiddens": [
-                "champagne",
                 "bouteille",
                 "sédiment",
                 "tourner",
@@ -30428,7 +29795,6 @@
             {
               "word": "Dégorgement",
               "forbiddens": [
-                "champagne",
                 "retirer",
                 "sédiment",
                 "geler",
@@ -30491,7 +29857,6 @@
                 "levure",
                 "ajouter",
                 "fermenter",
-                "bière",
                 "brasser"
               ]
             },
@@ -30511,8 +29876,7 @@
                 "beurre",
                 "saveur",
                 "défaut",
-                "fermenter",
-                "bière"
+                "fermenter"
               ]
             },
             {
@@ -30521,8 +29885,7 @@
                 "clou de girofle",
                 "fumée",
                 "saveur",
-                "levure",
-                "bière"
+                "levure"
               ]
             },
             {
@@ -30541,8 +29904,7 @@
                 "dry hop",
                 "enzyme",
                 "fermenter",
-                "redémarrer",
-                "bière"
+                "redémarrer"
               ]
             },
             {
@@ -30551,8 +29913,7 @@
                 "lactobacille",
                 "moût",
                 "acide",
-                "rapide",
-                "bière"
+                "rapide"
               ]
             },
             {
@@ -30581,8 +29942,7 @@
                 "mousse",
                 "fermenter",
                 "dessus",
-                "actif",
-                "bière"
+                "actif"
               ]
             },
             {
@@ -30609,7 +29969,6 @@
               "word": "SRM",
               "forbiddens": [
                 "couleur",
-                "bière",
                 "mesurer",
                 "standard",
                 "référence"
@@ -30680,7 +30039,6 @@
               "forbiddens": [
                 "film",
                 "surface",
-                "bière acide",
                 "protection",
                 "oxygène"
               ]
@@ -30691,8 +30049,7 @@
                 "levure",
                 "agglomérer",
                 "déposer",
-                "clarifier",
-                "bière"
+                "clarifier"
               ]
             },
             {
@@ -30701,7 +30058,6 @@
                 "refroidir",
                 "clarifier",
                 "déposer",
-                "bière",
                 "froid"
               ]
             },
@@ -30739,7 +30095,6 @@
               "word": "Parti-gyle",
               "forbiddens": [
                 "multiple",
-                "bière",
                 "soutirages",
                 "différent",
                 "force"
@@ -30751,7 +30106,6 @@
                 "allemand",
                 "pureté",
                 "loi",
-                "bière",
                 "ingrédient"
               ]
             },
@@ -32508,21 +31862,10 @@
               ]
             },
             {
-              "word": "Sang",
-              "forbiddens": [
-                "rouge",
-                "veine",
-                "corps",
-                "cœur",
-                "cellule"
-              ]
-            },
-            {
               "word": "Cœur",
               "forbiddens": [
                 "battre",
                 "pomper",
-                "sang",
                 "organe",
                 "amour"
               ]
@@ -32983,7 +32326,6 @@
                 "feu",
                 "gris",
                 "air",
-                "cigarette",
                 "inhaler"
               ]
             },
@@ -33203,7 +32545,6 @@
                 "chasser",
                 "proie",
                 "animal",
-                "tuer",
                 "nourriture"
               ]
             },
@@ -33662,7 +33003,6 @@
               "forbiddens": [
                 "glace",
                 "orage",
-                "balle",
                 "ciel",
                 "pluie"
               ]
@@ -33893,8 +33233,7 @@
                 "cœur",
                 "battre",
                 "poignet",
-                "rythme",
-                "sang"
+                "rythme"
               ]
             },
             {
@@ -34866,7 +34205,6 @@
               "word": "Fermentation",
               "forbiddens": [
                 "levure",
-                "alcool",
                 "pain",
                 "sucre",
                 "bactérie"
@@ -34878,7 +34216,6 @@
                 "chaleur",
                 "lait",
                 "bactérie",
-                "tuer",
                 "louis"
               ]
             },
@@ -35328,8 +34665,7 @@
                 "immunité",
                 "protéine",
                 "combattre",
-                "maladie",
-                "sang"
+                "maladie"
               ]
             },
             {
@@ -35345,7 +34681,6 @@
             {
               "word": "Plaquette",
               "forbiddens": [
-                "sang",
                 "coaguler",
                 "cellule",
                 "blessure",
@@ -35355,7 +34690,6 @@
             {
               "word": "Hémoglobine",
               "forbiddens": [
-                "sang",
                 "rouge",
                 "oxygène",
                 "fer",
@@ -35365,7 +34699,6 @@
             {
               "word": "Plasma",
               "forbiddens": [
-                "sang",
                 "liquide",
                 "état",
                 "gaz",
@@ -35407,7 +34740,6 @@
               "forbiddens": [
                 "os",
                 "intérieur",
-                "sang",
                 "cellule",
                 "souche"
               ]
@@ -35535,7 +34867,6 @@
             {
               "word": "Capillaire",
               "forbiddens": [
-                "sang",
                 "petit",
                 "vaisseau",
                 "minuscule",
@@ -35545,7 +34876,6 @@
             {
               "word": "Artère",
               "forbiddens": [
-                "sang",
                 "cœur",
                 "vaisseau",
                 "pouls",
@@ -35555,7 +34885,6 @@
             {
               "word": "Veine",
               "forbiddens": [
-                "sang",
                 "vaisseau",
                 "bleu",
                 "cœur",
@@ -35567,7 +34896,6 @@
               "forbiddens": [
                 "artère",
                 "cœur",
-                "sang",
                 "grande",
                 "vaisseau"
               ]
@@ -35625,7 +34953,6 @@
             {
               "word": "Système circulatoire",
               "forbiddens": [
-                "sang",
                 "cœur",
                 "vaisseau",
                 "corps",
@@ -36468,7 +35795,6 @@
                 "tourner",
                 "séparer",
                 "rapide",
-                "sang",
                 "machine"
               ]
             },
@@ -36840,16 +36166,6 @@
                 "chemin",
                 "somme",
                 "énergie"
-              ]
-            },
-            {
-              "word": "Loi de Beer-Lambert",
-              "forbiddens": [
-                "absorbance",
-                "concentration",
-                "lumière",
-                "chemin",
-                "solution"
               ]
             },
             {
@@ -38373,7 +37689,6 @@
                 "cellule",
                 "mort",
                 "programmée",
-                "suicide",
                 "contrôlée"
               ]
             },
@@ -38513,8 +37828,7 @@
                 "allèle",
                 "deux",
                 "exprimer",
-                "trait",
-                "sang"
+                "trait"
               ]
             },
             {
@@ -39774,7 +39088,6 @@
               "forbiddens": [
                 "1789-1799",
                 "Bastille États généraux Déclaration Droits",
-                "Terreur Robespierre 1793-94",
                 "République Première proclamation 1792",
                 "guillotine Marie-Antoinette Louis XVI"
               ]
@@ -39793,10 +39106,8 @@
               "word": "Maximilien Robespierre",
               "forbiddens": [
                 "L'Incorruptible surnom Arras natif",
-                "Terreur 1793-94 Comité Salut Public",
                 "guillotiné 9 Thermidor 28 juillet 1794",
-                "Jacobins club leader",
-                "Vertu Terreur discours"
+                "Jacobins club leader"
               ]
             },
             {
@@ -39935,8 +39246,7 @@
                 "Louis-Napoléon Bonaparte président",
                 "anniversaire sacre oncle Austerlitz",
                 "Second Empire prélude",
-                "Victor Hugo opposition Petit Napoléon",
-                "Histoire d'un crime Hugo"
+                "Victor Hugo opposition Petit Napoléon"
               ]
             },
             {
@@ -40034,7 +39344,6 @@
               "forbiddens": [
                 "capitaine Alfred Dreyfus juif accusé trahison",
                 "Émile Zola J'accuse 1898 lettre Aurore",
-                "Île Diable Guyane bagne déporté",
                 "antisémitisme dreyfusards anti-dreyfusards",
                 "réhabilité 1906 général"
               ]
@@ -40225,7 +39534,6 @@
                 "Vainqueur Verdun 1916",
                 "Vichy chef État 1940-44",
                 "Travail Famille Patrie devise",
-                "Île Yeu prison perpétuité",
                 "centenaire mort 1951 dégradation honneur"
               ]
             },
@@ -40422,7 +39730,6 @@
             {
               "word": "Saint-Barthélemy",
               "forbiddens": [
-                "24 août 1572 massacre",
                 "huguenots protestants tués Paris",
                 "Catherine de Médicis Charles IX commande",
                 "Coligny amiral tué premier",
@@ -40534,7 +39841,6 @@
               "forbiddens": [
                 "Encyclopédie directeur 1751-72",
                 "Lumières philosophe",
-                "Langres natif Champagne",
                 "Catherine II Russie correspondant",
                 "matérialisme athéisme philosophie"
               ]
@@ -40685,7 +39991,6 @@
                 "Les Misérables Notre-Dame de Paris",
                 "exil Guernesey 19 ans Napoléon III",
                 "Académie Française jeune élu",
-                "1885 funérailles nationales",
                 "Père Lachaise Panthéon enterrement"
               ]
             },
@@ -40745,7 +40050,6 @@
                 "connétable Charles V",
                 "Guerre Cent Ans reconquête",
                 "Bretagne Dol natif",
-                "rançon poids argent Trastamare",
                 "tombeau Saint-Denis rois"
               ]
             },
@@ -40793,7 +40097,6 @@
               "word": "Madame Royale",
               "forbiddens": [
                 "fille aînée Louis XVI Marie-Antoinette",
-                "seule survivante Temple prison",
                 "Duchesse d'Angoulême épouse cousin",
                 "Restauration retour France",
                 "Frohsdorf Autriche exil mort"
@@ -40815,8 +40118,7 @@
                 "général Boulanger 1886-89",
                 "Revanche revanchiste populaire",
                 "République menace coup d'État rate",
-                "élections plébiscite victoires",
-                "suicide tombe maîtresse Bruxelles 1891"
+                "élections plébiscite victoires"
               ]
             },
             {
@@ -40925,7 +40227,6 @@
                 "aérostat ballon air chaud 1783",
                 "Joseph Étienne Annonay Ardèche",
                 "Versailles démonstration roi Louis XVI",
-                "Pilâtre de Rozier premier vol homme",
                 "papetiers métier origine"
               ]
             },
@@ -41074,7 +40375,6 @@
               "forbiddens": [
                 "1933-34 escroquerie financière",
                 "Sacha Stavisky aventurier russe",
-                "suicide ou assassinat Chamonix janvier 1934",
                 "6 février 1934 émeutes ligues",
                 "République parlementaire crise"
               ]
@@ -41153,7 +40453,6 @@
               "word": "Mort de François Mitterrand",
               "forbiddens": [
                 "cancer prostate longue maladie",
-                "Funérailles Notre-Dame Cathédrale",
                 "Jarnac Cathédrale enterrement",
                 "Mitterrand Yann son père Christine fille deux familles",
                 "Renaud chanson hommage Mitterrand"
@@ -41345,7 +40644,6 @@
                 "roi Anglais Plantagenêts",
                 "Aliénor d'Aquitaine épouse",
                 "France grand territoire vassal",
-                "Thomas Becket assassin Cantorbéry 1170",
                 "Richard Cœur Lion fils"
               ]
             },
@@ -41382,7 +40680,6 @@
             {
               "word": "Édouard Daladier",
               "forbiddens": [
-                "Premier ministre 1938 Munich Hitler",
                 "radical-socialiste",
                 "Vichy déporté Allemagne survit",
                 "Carpentras natif Vaucluse",
@@ -41395,7 +40692,6 @@
                 "radical-socialiste Lyon maire 1905-57 demi-siècle",
                 "Président Conseil multiples",
                 "Académie Française élu président",
-                "Cartel Gauches 1924",
                 "diplomate culturel ami URSS"
               ]
             },
@@ -41564,7 +40860,6 @@
               "forbiddens": [
                 "1209-29 croisade Sud catharisme",
                 "Simon de Montfort chef croisés",
-                "Béziers massacre 1209 ville",
                 "Toulouse Comtes catholiques victorieux",
                 "Languedoc rattachement France"
               ]
@@ -41585,8 +40880,7 @@
                 "tribunal Église médiéval contre hérésie",
                 "Cathares cible origine 1233",
                 "dominicains ordre charge",
-                "Templiers utilisation 1307 procès",
-                "torture méthodes recommandation"
+                "Templiers utilisation 1307 procès"
               ]
             },
             {
@@ -41624,7 +40918,6 @@
               "forbiddens": [
                 "régime républicain cinq Directeurs 1795-99",
                 "Constitution An III",
-                "fin Convention Terreur après",
                 "18 Brumaire coup Napoléon fin",
                 "Barras Sieyès directeurs"
               ]
@@ -41653,7 +40946,6 @@
               "word": "Les Cent-Jours",
               "forbiddens": [
                 "Napoléon retour Île Elbe 1er mars 1815",
-                "vol Aigle Grenoble Paris",
                 "Waterloo 18 juin défaite finale",
                 "Louis XVIII fuite Gand",
                 "Sainte-Hélène exil définitif"
@@ -41845,8 +41137,7 @@
                 "Président Conseil 1895-96",
                 "Solidarisme doctrine sociale",
                 "Société Nations Nobel Paix 1920",
-                "radical-socialiste",
-                "Châlons-en-Champagne natif Marne"
+                "radical-socialiste"
               ]
             },
             {
@@ -42035,7 +41326,6 @@
                 "juillet-août 1945 Haute Cour Justice",
                 "peine mort commuée perpétuité",
                 "Reynaud Daladier témoins",
-                "Île Yeu prison perpétuité",
                 "indignité nationale dégradation"
               ]
             },
@@ -42044,7 +41334,6 @@
               "forbiddens": [
                 "milicien Vichy collaboration",
                 "premier français crimes humanité",
-                "Rillieux 1944 massacre juifs sept",
                 "Pierre Péan livre révélateur",
                 "Pape Jean Paul II grâce 1971 polémique"
               ]
@@ -42065,18 +41354,7 @@
                 "manifestation FLN pacifique Paris",
                 "Maurice Papon préfet Police répression sanglante",
                 "Algériens jetés Seine morts",
-                "couvre-feu défier rassemblement",
-                "Hollande 2012 reconnaissance crime État"
-              ]
-            },
-            {
-              "word": "Massacre de Charonne",
-              "forbiddens": [
-                "station métro 8 février 1962 8 morts répression",
-                "manifestation OAS contre",
-                "Maurice Papon préfet Police",
-                "Algérie fin guerre tension",
-                "Communistes manifestants écrasés escaliers"
+                "couvre-feu défier rassemblement"
               ]
             },
             {
@@ -42137,16 +41415,6 @@
                 "fête commerciale moderne",
                 "lettres première chevalier français Charles d'Orléans 1415",
                 "Capet capitale amour"
-              ]
-            },
-            {
-              "word": "Adolf Hitler",
-              "forbiddens": [
-                "nazi",
-                "Allemagne",
-                "Seconde Guerre mondiale",
-                "Shoah",
-                "Führer"
               ]
             },
             {
@@ -42314,7 +41582,6 @@
               "forbiddens": [
                 "Inde",
                 "indépendance",
-                "non-violence",
                 "anglais",
                 "marche du sel"
               ]
@@ -42332,7 +41599,6 @@
             {
               "word": "Hiroshima",
               "forbiddens": [
-                "bombe atomique",
                 "Japon",
                 "1945",
                 "États-Unis",
@@ -42444,7 +41710,6 @@
               "forbiddens": [
                 "Afrique du Sud",
                 "apartheid",
-                "prison",
                 "président",
                 "noir"
               ]
@@ -42720,7 +41985,6 @@
                 "roi 1350-1364 Valois",
                 "Poitiers prisonnier 1356 captivité",
                 "fils Charles V régent puis roi",
-                "Édouard III rançon",
                 "Anglais retenu Londres mort"
               ]
             },
@@ -42750,8 +42014,7 @@
                 "régente Charles VIII minorité",
                 "fille aînée Louis XI",
                 "Beaujeu mariée Pierre",
-                "Plessis lez Tours mort",
-                "Guerres Folle Bretagne contre Louis Orléans"
+                "Plessis lez Tours mort"
               ]
             },
             {
@@ -42790,7 +42053,6 @@
                 "amiral protestant chef huguenots",
                 "Saint-Barthélemy 24 août 1572 premier tué",
                 "Catherine Médicis Charles IX ordres",
-                "Champagne Châtillon natif",
                 "Henri Navarre ami protecteur"
               ]
             },
@@ -42900,8 +42162,7 @@
                 "italien favori Marie Médicis",
                 "Galigaï Léonora épouse Italienne",
                 "assassiné 1617 ordres Louis XIII",
-                "Maréchal Ancre titre",
-                "Pont-Neuf cadavre suspendu"
+                "Maréchal Ancre titre"
               ]
             },
             {
@@ -43119,7 +42380,6 @@
               "forbiddens": [
                 "Gil Blas Santillane 1715",
                 "picaresque français",
-                "Le Diable Boiteux",
                 "Boulogne-sur-Mer natif",
                 "Crispin rival son maître théâtre"
               ]
@@ -43148,10 +42408,8 @@
               "word": "Condorcet",
               "forbiddens": [
                 "mathématicien philosophe Lumières",
-                "Esquisse Tableau Historique 1795 prison",
                 "Constituante puis Convention député",
-                "Probabilité jury Calcul",
-                "suicide prison Bourg-la-Reine 1794"
+                "Probabilité jury Calcul"
               ]
             },
             {
@@ -43240,8 +42498,7 @@
                 "général ami intime Bonaparte",
                 "Portugal Junot duc Abrantès titre",
                 "ambassadeur Portugal puis général",
-                "Laure Junot épouse Mémoires duchesse",
-                "suicide démence Montbard 1813"
+                "Laure Junot épouse Mémoires duchesse"
               ]
             },
             {
@@ -43368,7 +42625,6 @@
               "word": "Pierre-Joseph Proudhon",
               "forbiddens": [
                 "socialiste libertaire anarchiste",
-                "Propriété c'est le vol citation 1840",
                 "Besançon Doubs natif typographe autodidacte",
                 "Marx polémique rivale Misère Philosophie 1847",
                 "Mutualisme doctrine"
@@ -43378,7 +42634,6 @@
               "word": "Auguste Blanqui",
               "forbiddens": [
                 "révolutionnaire socialiste insurrectionnel",
-                "Enfermé surnom 37 années prison",
                 "blanquisme doctrine avant-garde armée",
                 "tentatives insurrection 1839 1870-71",
                 "Puget-Théniers Alpes-Maritimes natif"
@@ -43408,7 +42663,6 @@
               "word": "Armand Fallières",
               "forbiddens": [
                 "président 1906-1913 République",
-                "vin Buzet natif région Sud-Ouest",
                 "Loi 1905 application République radicale Combes succession",
                 "Mézin Lot-et-Garonne natif",
                 "centenaire 1929 mort"
@@ -43470,8 +42724,7 @@
                 "leader révolte esclaves Haïti",
                 "Saint-Domingue ancienne colonie",
                 "Bonaparte arrestation 1802 Fort Joux exil",
-                "Mort Fort Joux Jura 1803 prisonnier",
-                "ancien esclave général"
+                "Mort Fort Joux Jura 1803 prisonnier"
               ]
             },
             {
@@ -43507,7 +42760,6 @@
             {
               "word": "Accords de Munich",
               "forbiddens": [
-                "Daladier Chamberlain Hitler Mussolini 29 sept 1938",
                 "Sudètes annexion Tchécoslovaquie",
                 "Paix avec déshonneur Churchill",
                 "appui ennemi Allemagne",
@@ -43558,7 +42810,6 @@
               "word": "Pierre Brossolette",
               "forbiddens": [
                 "Résistance Comité Action France",
-                "Avenue Foch saut suicide 22 mars 1944 torture Gestapo",
                 "Normalien philosophe agrégé histoire",
                 "Panthéon 2015 transféré",
                 "BCRA Londres BBC discours fameux"
@@ -43600,8 +42851,7 @@
                 "soldats Afrique noire armée française coloniaux",
                 "Faidherbe création 1857",
                 "Grandes Guerres 200000 1914-18",
-                "Front populaire défense",
-                "Thiaroye massacre 1944 Sénégal"
+                "Front populaire défense"
               ]
             },
             {
@@ -43797,7 +43047,6 @@
             {
               "word": "Saint-Just",
               "forbiddens": [
-                "Robespierre ami fidèle ange Terreur",
                 "Convention député le Bel",
                 "9 Thermidor 1794 guillotiné 26 ans",
                 "Discours fulgurants Convention",
@@ -43927,7 +43176,6 @@
             {
               "word": "Comité de Salut Public",
               "forbiddens": [
-                "1793-94 organe Terreur Robespierre",
                 "Saint-Just Couthon membres",
                 "guerre extérieure mobilisation totale",
                 "Levée masse armée révolutionnaire",
@@ -43937,11 +43185,9 @@
             {
               "word": "Loi des suspects",
               "forbiddens": [
-                "17 sept 1793 Terreur loi répressive",
                 "ennemis Révolution arrestation systématique",
                 "Tribunal révolutionnaire jugement",
-                "Marie-Antoinette arrêtée vertu",
-                "milliers prison guillotine"
+                "Marie-Antoinette arrêtée vertu"
               ]
             },
             {
@@ -44067,7 +43313,6 @@
             {
               "word": "Chateaubriand",
               "forbiddens": [
-                "René Atala Mémoires Outre-Tombe",
                 "Saint-Malo natif Bretagne aristocratique",
                 "Génie Christianisme romantisme catholique",
                 "Restauration ambassadeur ministre",
@@ -44110,7 +43355,6 @@
                 "Premier ministre Charles X dernier",
                 "Ordonnances Saint-Cloud 1830",
                 "Trois Glorieuses cause",
-                "exil Ham prison condamné",
                 "Polignac famille ultraroyaliste"
               ]
             },
@@ -44169,7 +43413,6 @@
               "forbiddens": [
                 "empereur Mexique 1864-67 Habsbourg",
                 "Napoléon III installe",
-                "Charlotte épouse folle",
                 "Querétaro fusillé 1867",
                 "Cerro Campanas montagne exécution"
               ]
@@ -44178,7 +43421,6 @@
               "word": "Charles Mangin",
               "forbiddens": [
                 "général Première Guerre Mondiale",
-                "Verdun Champagne offensives sanglantes",
                 "Boucher surnom Hommes",
                 "Sarrebrück mort 1925",
                 "Tirailleurs sénégalais création promoteur"
@@ -44359,7 +43601,6 @@
               "forbiddens": [
                 "sociologie fondateur français Académie",
                 "De la division du travail social 1893",
-                "Suicide étude statistique 1897",
                 "Épinal natif Vosges juif",
                 "Bordeaux Sorbonne professeur"
               ]
@@ -44390,7 +43631,6 @@
                 "psychologie foules La Psychologie des Foules 1895",
                 "Nogent-le-Rotrou Eure-et-Loir natif",
                 "médecin sociologue polyvalent",
-                "Hitler Mussolini influence revendiquée",
                 "individu foule perte conscience"
               ]
             },
@@ -44430,8 +43670,7 @@
                 "juillet-août 1945 Allemagne Brandebourg",
                 "Truman Churchill Attlee Staline",
                 "France absente même",
-                "Allemagne division 4 zones",
-                "Hiroshima bombe atomique annonce"
+                "Allemagne division 4 zones"
               ]
             },
             {
@@ -44538,7 +43777,6 @@
               "word": "Concorde (avion)",
               "forbiddens": [
                 "supersonique anglo-français Mach 2",
-                "1969 premier vol Toulouse",
                 "1976 commercial Paris-New York",
                 "Gonesse crash 25 juillet 2000 Charles de Gaulle",
                 "Retiré 2003 service"
@@ -44562,16 +43800,6 @@
                 "Ariane 1-5 versions générations",
                 "CNES Centre Spatial développement",
                 "Ariane 6 successeur en cours"
-              ]
-            },
-            {
-              "word": "Bombe H française (1968)",
-              "forbiddens": [
-                "essai nucléaire thermonucléaire France 1968",
-                "Pacifique Mururoa Polynésie",
-                "24 août 1968 premier essai",
-                "Force frappe française dissuasion nucléaire",
-                "Charles de Gaulle programme indépendant"
               ]
             },
             {
@@ -44867,7 +44095,6 @@
             {
               "word": "Pacte germano-soviétique",
               "forbiddens": [
-                "Hitler",
                 "Staline",
                 "1939",
                 "non-agression",
@@ -44878,7 +44105,6 @@
               "word": "Anschluss",
               "forbiddens": [
                 "Autriche",
-                "Hitler",
                 "annexion",
                 "1938",
                 "Allemagne"
@@ -45015,16 +44241,6 @@
               ]
             },
             {
-              "word": "Génocide rwandais",
-              "forbiddens": [
-                "Tutsi",
-                "Hutu",
-                "1994",
-                "Afrique",
-                "massacre"
-              ]
-            },
-            {
               "word": "Apartheid",
               "forbiddens": [
                 "Afrique du Sud",
@@ -45119,7 +44335,6 @@
               "forbiddens": [
                 "1572",
                 "huguenot",
-                "massacre",
                 "Catherine de Médicis",
                 "religion"
               ]
@@ -45255,7 +44470,6 @@
                 "chanson geste 11e siècle première",
                 "Roncevaux mort 778 col Pyrénées",
                 "Charlemagne neveu paladin",
-                "olifant cor Durandal épée",
                 "Tournée Espagne défaite"
               ]
             },
@@ -45355,18 +44569,7 @@
                 "protestants tentative enlever François II 1560 mars",
                 "huguenots ligue contre Guise",
                 "Renaudie chef",
-                "Amboise château massacre exécutions",
                 "Guerres religion début"
-              ]
-            },
-            {
-              "word": "Massacre de Wassy",
-              "forbiddens": [
-                "mars 1562 protestants tués Champagne",
-                "Guise duc François responsable",
-                "Premières Guerres Religion début",
-                "huguenots culte interdit Wassy",
-                "Haute-Marne actuelle"
               ]
             },
             {
@@ -45375,28 +44578,16 @@
                 "janvier 1562 culte protestant autorise",
                 "Catherine de Médicis tentative apaisement",
                 "Édit Saint-Germain premier",
-                "Wassy massacre rupture rapide",
                 "Religion tolérance limitée"
               ]
             },
             {
               "word": "Jacques Clément",
               "forbiddens": [
-                "dominicain assassin Henri III 1589",
                 "Saint-Cloud chambre roi blesse",
                 "fanatisme catholique Ligue",
                 "ligueurs tuent ange envoyé Dieu déclaré",
                 "Henri III meurt lendemain blessure"
-              ]
-            },
-            {
-              "word": "Ravaillac",
-              "forbiddens": [
-                "assassin Henri IV 14 mai 1610",
-                "Rue Ferronnerie couteau",
-                "Angoulême natif Charente",
-                "écartelé Place Grève torture",
-                "fanatique catholique convoqué visions"
               ]
             },
             {
@@ -45525,8 +44716,7 @@
                 "maréchal chef état-major Napoléon majeur",
                 "Versailles natif",
                 "Wagram bataille héros",
-                "duc Neuchâtel Wagram titre",
-                "défenestration suicide 1815 Bamberg"
+                "duc Neuchâtel Wagram titre"
               ]
             },
             {
@@ -45594,7 +44784,6 @@
               "forbiddens": [
                 "21 octobre 1805 défaite navale française espagnole",
                 "Nelson tué amiral britannique",
-                "Villeneuve amiral français suicide après",
                 "Cadix Cap Trafalgar",
                 "abandon projet invasion Angleterre"
               ]
@@ -45673,7 +44862,6 @@
               "word": "Arthur de Gobineau",
               "forbiddens": [
                 "Essai inégalité races humaines 1853-55",
-                "raciste théoricien",
                 "diplomate carrière",
                 "Bordeaux natif",
                 "Wagner ami Bayreuth fréquent"
@@ -45825,8 +45013,7 @@
                 "Voyage Bout Nuit 1932 chef d'œuvre",
                 "Mort Crédit",
                 "antisémite pamphlets années 30 40",
-                "Meudon refuge fin vie 1961 mort",
-                "Bagatelles pour Massacre 1937"
+                "Meudon refuge fin vie 1961 mort"
               ]
             },
             {
@@ -45984,7 +45171,6 @@
               "forbiddens": [
                 "girondin ministre Intérieur 1792-93",
                 "épouse Manon Madame Roland influent",
-                "suicide après mort épouse 1793 novembre",
                 "Lyon natif manufacturier connaisseur économie",
                 "Convention Roi Procès opposition"
               ]
@@ -46005,8 +45191,7 @@
                 "féministe Révolution Liégeoise née",
                 "salon politique Marie de Roland comparable",
                 "interpellée Versailles octobre 1789",
-                "fouettée publiquement Tuileries 1793 par Marat ennemis",
-                "mort folle asile Salpêtrière 1817"
+                "fouettée publiquement Tuileries 1793 par Marat ennemis"
               ]
             },
             {
@@ -46085,7 +45270,6 @@
                 "potier émailleur 16e",
                 "rustiques figulines céramique reptiles",
                 "Henri II Catherine Médicis protégé",
-                "Bastille mort 1590 prison hérésie protestant",
                 "Tuileries jardin atelier installé"
               ]
             },
@@ -46204,7 +45388,6 @@
               "forbiddens": [
                 "astronome scientifique Convention député",
                 "premier maire Paris 1789-91",
-                "Champ Mars fusillade 17 juillet 1791 ordre",
                 "guillotiné 1793 Champ Mars symbolique",
                 "Académie Française élu Académie Sciences"
               ]
@@ -46245,7 +45428,6 @@
                 "Notre-Dame Thermidor Thérésa Cabarrus surnom",
                 "Tallien Convention député épouse aide chute Robespierre",
                 "Princesse de Chimay vie tardive Belgique",
-                "Carmel prison sauvée 9 Thermidor mari",
                 "salon politique Directoire chic"
               ]
             },
@@ -46323,7 +45505,6 @@
               "word": "Colonel Henry",
               "forbiddens": [
                 "faux Henry Affaire Dreyfus créé accusations",
-                "suicide cellule Mont-Valérien 1898",
                 "Marie-Charles père tailleur paysan",
                 "Picquart contre adversaire",
                 "République 60000 souscription veuve antisémite"
@@ -46354,7 +45535,6 @@
               "forbiddens": [
                 "femme Alfred soutien fidèle",
                 "Paris natif famille Hadamard",
-                "Île Diable visite refusée époque",
                 "Pierre Suzanne enfants",
                 "longue vie 1869-1945"
               ]
@@ -47085,8 +46265,7 @@
                 "mutualiste agriculteurs banque",
                 "Caisse régionale principe 1885",
                 "Bleu vert logo",
-                "Bilan trillion euros",
-                "Champagne Ardenne natif idée"
+                "Bilan trillion euros"
               ]
             },
             {
@@ -47123,7 +46302,6 @@
               "word": "Nationalisation de Renault (1945)",
               "forbiddens": [
                 "Janvier 1945 Louis Renault nationalisation collaboration",
-                "Louis Renault mort prison sans procès",
                 "Régie nationale usines Renault",
                 "Pierre Lefaucheux administrateur premier",
                 "Boulogne-Billancourt île Seguin"
@@ -47224,7 +46402,6 @@
               "forbiddens": [
                 "philosophe sociologue libéral",
                 "Sartre adversaire intellectuel rival",
-                "L'Opium des intellectuels 1955",
                 "Académie Française pas élu Sciences morales oui",
                 "Le Figaro éditorialiste long"
               ]
@@ -47314,7 +46491,6 @@
               "forbiddens": [
                 "compositeur français 20e néoclassique",
                 "Bordeaux natif Gironde",
-                "Ballets Russes Diaghilev La Chatte 1927",
                 "Académie Beaux-Arts élu",
                 "Boulanger Nadia élève"
               ]
@@ -47695,8 +46871,7 @@
                 "poète surréaliste résistant",
                 "Terezin déporté mort 1945 retour",
                 "Paris natif",
-                "Corps et biens 1930 recueil",
-                "Cette mort que je n'arrête de mourir poème prison"
+                "Corps et biens 1930 recueil"
               ]
             },
             {
@@ -47873,7 +47048,6 @@
               "word": "Accords de Munich",
               "forbiddens": [
                 "1938",
-                "Hitler",
                 "Tchécoslovaquie",
                 "Chamberlain",
                 "apaisement"
@@ -48062,7 +47236,6 @@
             {
               "word": "Discours de Dakar",
               "forbiddens": [
-                "Sarkozy",
                 "Afrique",
                 "2007",
                 "polémique",

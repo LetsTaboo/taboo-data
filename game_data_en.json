@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "data": [
     {
       "topic": "cultural",
@@ -597,16 +597,6 @@
                 "jungle",
                 "animal",
                 "wild"
-              ]
-            },
-            {
-              "word": "Knife",
-              "forbiddens": [
-                "cut",
-                "sharp",
-                "blade",
-                "kitchen",
-                "fork"
               ]
             },
             {
@@ -2045,8 +2035,7 @@
                 "flower",
                 "blow",
                 "wish",
-                "yellow",
-                "weed"
+                "yellow"
               ]
             },
             {
@@ -3300,7 +3289,6 @@
                 "justice",
                 "law",
                 "hero",
-                "crime",
                 "punish"
               ]
             },
@@ -3310,7 +3298,6 @@
                 "water",
                 "spin",
                 "circle",
-                "suck",
                 "ocean"
               ]
             },
@@ -3565,16 +3552,6 @@
               ]
             },
             {
-              "word": "Roulette",
-              "forbiddens": [
-                "casino",
-                "spin",
-                "wheel",
-                "bet",
-                "ball"
-              ]
-            },
-            {
               "word": "Tambourine",
               "forbiddens": [
                 "instrument",
@@ -3642,16 +3619,6 @@
                 "spontaneous",
                 "plan",
                 "wing"
-              ]
-            },
-            {
-              "word": "Jackpot",
-              "forbiddens": [
-                "win",
-                "money",
-                "lottery",
-                "big",
-                "prize"
               ]
             },
             {
@@ -3740,8 +3707,7 @@
                 "blade",
                 "head",
                 "french",
-                "cut",
-                "execution"
+                "cut"
               ]
             },
             {
@@ -3877,7 +3843,6 @@
             {
               "word": "Kleptomania",
               "forbiddens": [
-                "steal",
                 "compulsive",
                 "take",
                 "disorder",
@@ -3908,7 +3873,6 @@
               "word": "Ricochet",
               "forbiddens": [
                 "bounce",
-                "bullet",
                 "surface",
                 "angle",
                 "hit"
@@ -3979,7 +3943,6 @@
               "forbiddens": [
                 "forgive",
                 "pardon",
-                "crime",
                 "political",
                 "free"
               ]
@@ -4010,7 +3973,6 @@
                 "run",
                 "law",
                 "escape",
-                "criminal",
                 "hide"
               ]
             },
@@ -4358,7 +4320,6 @@
               "word": "Alibi",
               "forbiddens": [
                 "proof",
-                "crime",
                 "excuse",
                 "elsewhere",
                 "innocent"
@@ -4438,7 +4399,6 @@
               "word": "Plagiarism",
               "forbiddens": [
                 "copy",
-                "steal",
                 "write",
                 "original",
                 "credit"
@@ -4497,7 +4457,6 @@
             {
               "word": "Sommelier",
               "forbiddens": [
-                "wine",
                 "taste",
                 "restaurant",
                 "expert",
@@ -4797,7 +4756,6 @@
             {
               "word": "Mausoleum",
               "forbiddens": [
-                "tomb",
                 "dead",
                 "burial",
                 "building",
@@ -4840,7 +4798,6 @@
                 "launch",
                 "throw",
                 "siege",
-                "weapon",
                 "medieval"
               ]
             },
@@ -5042,7 +4999,6 @@
             {
               "word": "Ad Hominem",
               "forbiddens": [
-                "attack",
                 "person",
                 "argument",
                 "insult",
@@ -5395,8 +5351,7 @@
                 "trick",
                 "deception",
                 "dishonest",
-                "scheme",
-                "fraud"
+                "scheme"
               ]
             },
             {
@@ -5590,16 +5545,6 @@
               ]
             },
             {
-              "word": "Devil's Advocate",
-              "forbiddens": [
-                "argue",
-                "opposite",
-                "debate",
-                "sake",
-                "position"
-              ]
-            },
-            {
               "word": "Dialectics",
               "forbiddens": [
                 "thesis",
@@ -5647,16 +5592,6 @@
                 "opinion",
                 "authority",
                 "question"
-              ]
-            },
-            {
-              "word": "Double Edged Sword",
-              "forbiddens": [
-                "Benefit",
-                "Harm",
-                "Sides",
-                "Risk",
-                "Cut"
               ]
             },
             {
@@ -6212,7 +6147,6 @@
             {
               "word": "Kleptocracy",
               "forbiddens": [
-                "steal",
                 "government",
                 "corrupt",
                 "ruler",
@@ -6435,7 +6369,6 @@
                 "method",
                 "way",
                 "operate",
-                "criminal",
                 "procedure"
               ]
             },
@@ -6455,7 +6388,6 @@
                 "wicked",
                 "evil",
                 "villainous",
-                "criminal",
                 "sinister"
               ]
             },
@@ -6682,7 +6614,6 @@
             {
               "word": "Panopticon",
               "forbiddens": [
-                "prison",
                 "watch",
                 "surveillance",
                 "all",
@@ -7042,9 +6973,7 @@
             {
               "word": "Recidivism",
               "forbiddens": [
-                "crime",
                 "repeat",
-                "prison",
                 "offend",
                 "return"
               ]
@@ -7305,7 +7234,6 @@
                 "hostage",
                 "captor",
                 "bond",
-                "kidnap",
                 "sympathy"
               ]
             },
@@ -7325,8 +7253,7 @@
                 "argument",
                 "false",
                 "misrepresent",
-                "weak",
-                "attack"
+                "weak"
               ]
             },
             {
@@ -7767,8 +7694,7 @@
                 "hoop",
                 "dribble",
                 "court",
-                "nba",
-                "shoot"
+                "nba"
               ]
             },
             {
@@ -7787,8 +7713,7 @@
                 "score",
                 "net",
                 "point",
-                "soccer",
-                "shoot"
+                "soccer"
               ]
             },
             {
@@ -7927,7 +7852,6 @@
                 "bow",
                 "arrow",
                 "target",
-                "shoot",
                 "aim"
               ]
             },
@@ -7964,7 +7888,6 @@
             {
               "word": "Fencing",
               "forbiddens": [
-                "sword",
                 "duel",
                 "mask",
                 "lunge",
@@ -8716,9 +8639,7 @@
               "forbiddens": [
                 "goal",
                 "forward",
-                "shoot",
-                "soccer",
-                "attack"
+                "soccer"
               ]
             },
             {
@@ -8897,7 +8818,6 @@
                 "basketball",
                 "foul",
                 "line",
-                "shoot",
                 "point"
               ]
             },
@@ -9244,9 +9164,7 @@
             {
               "word": "Hunting",
               "forbiddens": [
-                "shoot",
                 "animal",
-                "gun",
                 "wild",
                 "prey"
               ]
@@ -9395,8 +9313,6 @@
               "word": "Biathlon",
               "forbiddens": [
                 "ski",
-                "shoot",
-                "rifle",
                 "two",
                 "winter"
               ]
@@ -9407,8 +9323,7 @@
                 "five",
                 "events",
                 "swim",
-                "run",
-                "shoot"
+                "run"
               ]
             },
             {
@@ -9877,7 +9792,6 @@
                 "horse",
                 "jockey",
                 "track",
-                "bet",
                 "gallop"
               ]
             },
@@ -9914,7 +9828,6 @@
             {
               "word": "Kendo",
               "forbiddens": [
-                "sword",
                 "japan",
                 "bamboo",
                 "martial",
@@ -10019,16 +9932,6 @@
                 "ring",
                 "pit",
                 "metal"
-              ]
-            },
-            {
-              "word": "Cornhole",
-              "forbiddens": [
-                "bag",
-                "board",
-                "throw",
-                "hole",
-                "toss"
               ]
             },
             {
@@ -10237,7 +10140,6 @@
                 "basketball",
                 "ring",
                 "net",
-                "shoot",
                 "rim"
               ]
             },
@@ -10364,10 +10266,8 @@
             {
               "word": "Offense",
               "forbiddens": [
-                "attack",
                 "score",
                 "forward",
-                "shoot",
                 "goal"
               ]
             },
@@ -10506,7 +10406,6 @@
               "forbiddens": [
                 "strong",
                 "force",
-                "explosive",
                 "energy",
                 "might"
               ]
@@ -10602,8 +10501,7 @@
                 "foul",
                 "soccer",
                 "spot",
-                "twelve",
-                "shoot"
+                "twelve"
               ]
             },
             {
@@ -10824,16 +10722,6 @@
                 "bat",
                 "soft",
                 "hit"
-              ]
-            },
-            {
-              "word": "Steal",
-              "forbiddens": [
-                "base",
-                "run",
-                "baseball",
-                "sneak",
-                "advance"
               ]
             },
             {
@@ -11230,7 +11118,6 @@
               "word": "Counterattack",
               "forbiddens": [
                 "quick",
-                "attack",
                 "defense",
                 "transition",
                 "fast"
@@ -11352,7 +11239,6 @@
                 "foul",
                 "direct",
                 "wall",
-                "shoot",
                 "dead"
               ]
             },
@@ -11880,7 +11766,6 @@
               "word": "Flagrant Foul",
               "forbiddens": [
                 "basketball",
-                "violent",
                 "excessive",
                 "eject",
                 "contact"
@@ -11892,7 +11777,6 @@
                 "basketball",
                 "time",
                 "seconds",
-                "shoot",
                 "limit"
               ]
             },
@@ -12032,7 +11916,6 @@
                 "lose",
                 "ball",
                 "possession",
-                "steal",
                 "mistake"
               ]
             },
@@ -12084,16 +11967,6 @@
                 "one",
                 "pass",
                 "leader"
-              ]
-            },
-            {
-              "word": "Shooting Guard",
-              "forbiddens": [
-                "basketball",
-                "position",
-                "two",
-                "score",
-                "outside"
               ]
             },
             {
@@ -12442,18 +12315,7 @@
                 "volleyball",
                 "back",
                 "defense",
-                "dig",
-                "no attack"
-              ]
-            },
-            {
-              "word": "Kill",
-              "forbiddens": [
-                "volleyball",
-                "attack",
-                "point",
-                "unreturnable",
-                "spike"
+                "dig"
               ]
             },
             {
@@ -13144,7 +13006,6 @@
             {
               "word": "Doping",
               "forbiddens": [
-                "drugs",
                 "banned",
                 "performance",
                 "cheat",
@@ -13154,7 +13015,6 @@
             {
               "word": "Arbitrage",
               "forbiddens": [
-                "betting",
                 "odds",
                 "profit",
                 "guaranteed",
@@ -13215,7 +13075,6 @@
               "word": "Plyometrics",
               "forbiddens": [
                 "jump",
-                "explosive",
                 "power",
                 "training",
                 "muscle"
@@ -13836,7 +13695,6 @@
               "forbiddens": [
                 "platelet",
                 "plasma",
-                "blood",
                 "inject",
                 "heal"
               ]
@@ -13887,8 +13745,7 @@
                 "tight",
                 "sleeve",
                 "pressure",
-                "support",
-                "blood"
+                "support"
               ]
             },
             {
@@ -13934,7 +13791,6 @@
             {
               "word": "Lactate Meter",
               "forbiddens": [
-                "blood",
                 "acid",
                 "measure",
                 "threshold",
@@ -13977,7 +13833,6 @@
                 "high",
                 "mountain",
                 "oxygen",
-                "red blood",
                 "thin air"
               ]
             },
@@ -13992,20 +13847,9 @@
               ]
             },
             {
-              "word": "Blood Doping",
-              "forbiddens": [
-                "transfusion",
-                "red cells",
-                "epo",
-                "cheat",
-                "oxygen"
-              ]
-            },
-            {
               "word": "EPO",
               "forbiddens": [
                 "erythropoietin",
-                "blood",
                 "hormone",
                 "banned",
                 "endurance"
@@ -14172,16 +14016,6 @@
               ]
             },
             {
-              "word": "True Shooting",
-              "forbiddens": [
-                "basketball",
-                "efficiency",
-                "percentage",
-                "free throw",
-                "three"
-              ]
-            },
-            {
               "word": "Plus Minus",
               "forbiddens": [
                 "on court",
@@ -14305,7 +14139,6 @@
               "word": "Wing Back",
               "forbiddens": [
                 "defender",
-                "attack",
                 "wide",
                 "up",
                 "down"
@@ -14405,7 +14238,6 @@
               "word": "Transition",
               "forbiddens": [
                 "switch",
-                "attack",
                 "defense",
                 "change",
                 "possession"
@@ -14545,7 +14377,6 @@
               "word": "Marseille Turn",
               "forbiddens": [
                 "spin",
-                "roulette",
                 "zidane",
                 "sole",
                 "drag"
@@ -14617,7 +14448,6 @@
                 "intentional",
                 "tactical",
                 "stop",
-                "attack",
                 "card"
               ]
             },
@@ -14876,7 +14706,6 @@
               "forbiddens": [
                 "intentional",
                 "stop",
-                "attack",
                 "strategic",
                 "break"
               ]
@@ -15147,8 +14976,7 @@
                 "catch",
                 "defense",
                 "turnover",
-                "pass",
-                "steal"
+                "pass"
               ]
             },
             {
@@ -15544,7 +15372,6 @@
             {
               "word": "Hematocrit",
               "forbiddens": [
-                "blood",
                 "red cells",
                 "percentage",
                 "doping",
@@ -15554,7 +15381,6 @@
             {
               "word": "Biological Passport",
               "forbiddens": [
-                "blood",
                 "profile",
                 "athlete",
                 "doping",
@@ -15574,7 +15400,6 @@
             {
               "word": "Clenbuterol",
               "forbiddens": [
-                "drug",
                 "banned",
                 "weight",
                 "loss",
@@ -15587,15 +15412,13 @@
                 "muscle",
                 "banned",
                 "testosterone",
-                "build",
-                "drugs"
+                "build"
               ]
             },
             {
               "word": "Centrifuge",
               "forbiddens": [
                 "spin",
-                "blood",
                 "separate",
                 "lab",
                 "machine"
@@ -15739,8 +15562,7 @@
                 "photo",
                 "film",
                 "lens",
-                "picture",
-                "shoot"
+                "picture"
               ]
             },
             {
@@ -15859,7 +15681,6 @@
                 "western",
                 "horse",
                 "hat",
-                "gun",
                 "ranch"
               ]
             },
@@ -15908,7 +15729,6 @@
               "forbiddens": [
                 "cowboy",
                 "horse",
-                "gun",
                 "desert",
                 "saloon"
               ]
@@ -16056,7 +15876,6 @@
             {
               "word": "Vampire",
               "forbiddens": [
-                "blood",
                 "bite",
                 "night",
                 "fangs",
@@ -16099,7 +15918,6 @@
                 "clue",
                 "solve",
                 "mystery",
-                "crime",
                 "investigate"
               ]
             },
@@ -16367,7 +16185,6 @@
               "word": "Knight",
               "forbiddens": [
                 "armor",
-                "sword",
                 "horse",
                 "castle",
                 "medieval"
@@ -16378,7 +16195,6 @@
               "forbiddens": [
                 "japan",
                 "fight",
-                "sword",
                 "stealth",
                 "warrior"
               ]
@@ -16389,7 +16205,6 @@
                 "rome",
                 "fight",
                 "arena",
-                "sword",
                 "russell"
               ]
             },
@@ -16506,7 +16321,6 @@
             {
               "word": "Godfather",
               "forbiddens": [
-                "mafia",
                 "corleone",
                 "family",
                 "italian",
@@ -16617,7 +16431,6 @@
               "word": "Breaking Bad",
               "forbiddens": [
                 "walter",
-                "meth",
                 "chemistry",
                 "heisenberg",
                 "white"
@@ -16661,16 +16474,6 @@
                 "pirate",
                 "find",
                 "map"
-              ]
-            },
-            {
-              "word": "Sword",
-              "forbiddens": [
-                "blade",
-                "fight",
-                "sharp",
-                "weapon",
-                "knight"
               ]
             },
             {
@@ -16757,7 +16560,6 @@
               "word": "Ransom",
               "forbiddens": [
                 "money",
-                "kidnap",
                 "pay",
                 "demand",
                 "hostage"
@@ -16768,7 +16570,6 @@
               "forbiddens": [
                 "run",
                 "free",
-                "prison",
                 "leave",
                 "flee"
               ]
@@ -16781,16 +16582,6 @@
                 "groom",
                 "ring",
                 "ceremony"
-              ]
-            },
-            {
-              "word": "Funeral",
-              "forbiddens": [
-                "death",
-                "coffin",
-                "sad",
-                "cemetery",
-                "burial"
               ]
             },
             {
@@ -16978,7 +16769,6 @@
               "forbiddens": [
                 "egypt",
                 "bandage",
-                "tomb",
                 "wrap",
                 "ancient"
               ]
@@ -17679,8 +17469,7 @@
                 "dark",
                 "detective",
                 "black",
-                "mystery",
-                "crime"
+                "mystery"
               ]
             },
             {
@@ -17699,8 +17488,7 @@
                 "solve",
                 "clue",
                 "detective",
-                "unknown",
-                "crime"
+                "unknown"
               ]
             },
             {
@@ -17711,16 +17499,6 @@
                 "fight",
                 "army",
                 "military"
-              ]
-            },
-            {
-              "word": "Heist",
-              "forbiddens": [
-                "steal",
-                "rob",
-                "bank",
-                "plan",
-                "money"
               ]
             },
             {
@@ -17761,16 +17539,6 @@
                 "once upon",
                 "story",
                 "enchant"
-              ]
-            },
-            {
-              "word": "Gangster",
-              "forbiddens": [
-                "crime",
-                "mafia",
-                "gun",
-                "boss",
-                "mob"
               ]
             },
             {
@@ -17860,16 +17628,6 @@
                 "brave",
                 "good",
                 "strong",
-                "protagonist"
-              ]
-            },
-            {
-              "word": "Heroine",
-              "forbiddens": [
-                "female",
-                "hero",
-                "brave",
-                "woman",
                 "protagonist"
               ]
             },
@@ -18277,7 +18035,6 @@
               "word": "Samurai",
               "forbiddens": [
                 "japan",
-                "sword",
                 "warrior",
                 "honor",
                 "blade"
@@ -19169,16 +18926,6 @@
               ]
             },
             {
-              "word": "Night Shoot",
-              "forbiddens": [
-                "dark",
-                "film",
-                "evening",
-                "artificial",
-                "light"
-              ]
-            },
-            {
               "word": "Location Scout",
               "forbiddens": [
                 "find",
@@ -19341,9 +19088,7 @@
             {
               "word": "Squib",
               "forbiddens": [
-                "blood",
                 "burst",
-                "bullet",
                 "effect",
                 "fake"
               ]
@@ -19591,8 +19336,6 @@
             {
               "word": "Armorer",
               "forbiddens": [
-                "weapon",
-                "gun",
                 "prop",
                 "safe",
                 "firearms"
@@ -20519,21 +20262,10 @@
               ]
             },
             {
-              "word": "Slasher",
-              "forbiddens": [
-                "horror",
-                "killer",
-                "murder",
-                "knife",
-                "teen"
-              ]
-            },
-            {
               "word": "Film Noir",
               "forbiddens": [
                 "dark",
                 "detective",
-                "crime",
                 "shadow",
                 "black"
               ]
@@ -20543,7 +20275,6 @@
               "forbiddens": [
                 "modern",
                 "dark",
-                "crime",
                 "update",
                 "noir"
               ]
@@ -20554,8 +20285,7 @@
                 "italian",
                 "cowboy",
                 "leone",
-                "desert",
-                "gun"
+                "desert"
               ]
             },
             {
@@ -20564,7 +20294,6 @@
                 "chinese",
                 "martial",
                 "arts",
-                "sword",
                 "hero"
               ]
             },
@@ -20594,7 +20323,6 @@
                 "italian",
                 "horror",
                 "mystery",
-                "murder",
                 "stylish"
               ]
             },
@@ -21477,7 +21205,6 @@
               "word": "Panopticon",
               "forbiddens": [
                 "surveillance",
-                "prison",
                 "foucault",
                 "watch",
                 "power"
@@ -22329,8 +22056,7 @@
                 "filter",
                 "dark",
                 "simulate",
-                "daytime",
-                "shoot"
+                "daytime"
               ]
             },
             {
@@ -22339,8 +22065,7 @@
                 "bright",
                 "artificial",
                 "simulate",
-                "nighttime",
-                "shoot"
+                "nighttime"
               ]
             },
             {
@@ -22391,16 +22116,6 @@
                 "background",
                 "perspective",
                 "distort"
-              ]
-            },
-            {
-              "word": "Bullet Time",
-              "forbiddens": [
-                "matrix",
-                "slow",
-                "rotate",
-                "camera",
-                "frozen"
               ]
             },
             {
@@ -23941,7 +23656,6 @@
                 "seafood",
                 "shellfish",
                 "small",
-                "cocktail",
                 "pink"
               ]
             },
@@ -24069,7 +23783,6 @@
               "word": "Grape",
               "forbiddens": [
                 "vine",
-                "wine",
                 "purple",
                 "fruit",
                 "raisin"
@@ -25181,8 +24894,7 @@
                 "green",
                 "citrus",
                 "sour",
-                "juice",
-                "cocktail"
+                "juice"
               ]
             },
             {
@@ -25276,49 +24988,8 @@
               ]
             },
             {
-              "word": "Beer",
-              "forbiddens": [
-                "alcohol",
-                "brew",
-                "hops",
-                "malt",
-                "bar"
-              ]
-            },
-            {
-              "word": "Wine",
-              "forbiddens": [
-                "grape",
-                "red",
-                "white",
-                "alcohol",
-                "bottle"
-              ]
-            },
-            {
-              "word": "Champagne",
-              "forbiddens": [
-                "bubble",
-                "celebrate",
-                "france",
-                "toast",
-                "wine"
-              ]
-            },
-            {
-              "word": "Cocktail",
-              "forbiddens": [
-                "mix",
-                "alcohol",
-                "drink",
-                "bar",
-                "party"
-              ]
-            },
-            {
               "word": "Margarita",
               "forbiddens": [
-                "tequila",
                 "salt",
                 "lime",
                 "mexican",
@@ -25329,60 +25000,8 @@
               "word": "Mojito",
               "forbiddens": [
                 "mint",
-                "rum",
                 "lime",
-                "cocktail",
                 "cuban"
-              ]
-            },
-            {
-              "word": "Whiskey",
-              "forbiddens": [
-                "alcohol",
-                "barrel",
-                "scotch",
-                "bourbon",
-                "distill"
-              ]
-            },
-            {
-              "word": "Vodka",
-              "forbiddens": [
-                "alcohol",
-                "russia",
-                "clear",
-                "potato",
-                "spirit"
-              ]
-            },
-            {
-              "word": "Rum",
-              "forbiddens": [
-                "alcohol",
-                "pirate",
-                "caribbean",
-                "sugar cane",
-                "dark"
-              ]
-            },
-            {
-              "word": "Tequila",
-              "forbiddens": [
-                "mexico",
-                "agave",
-                "shot",
-                "salt",
-                "lime"
-              ]
-            },
-            {
-              "word": "Gin",
-              "forbiddens": [
-                "tonic",
-                "juniper",
-                "alcohol",
-                "london",
-                "botanical"
               ]
             },
             {
@@ -25390,7 +25009,6 @@
               "forbiddens": [
                 "japan",
                 "rice",
-                "alcohol",
                 "warm",
                 "ferment"
               ]
@@ -26256,16 +25874,6 @@
               ]
             },
             {
-              "word": "Cocktail Sauce",
-              "forbiddens": [
-                "shrimp",
-                "horseradish",
-                "red",
-                "ketchup",
-                "seafood"
-              ]
-            },
-            {
               "word": "Teriyaki",
               "forbiddens": [
                 "japanese",
@@ -26706,7 +26314,6 @@
                 "cut",
                 "thin",
                 "strip",
-                "knife",
                 "matchstick"
               ]
             },
@@ -26746,8 +26353,7 @@
                 "pan",
                 "liquid",
                 "scrape",
-                "fond",
-                "wine"
+                "fond"
               ]
             },
             {
@@ -27025,7 +26631,6 @@
               "forbiddens": [
                 "japanese",
                 "sweet",
-                "rice wine",
                 "cooking",
                 "seasoning"
               ]
@@ -27851,16 +27456,6 @@
               ]
             },
             {
-              "word": "Coq au Vin",
-              "forbiddens": [
-                "french",
-                "chicken",
-                "wine",
-                "stew",
-                "braised"
-              ]
-            },
-            {
               "word": "Bouillabaisse",
               "forbiddens": [
                 "french",
@@ -28083,7 +27678,6 @@
             {
               "word": "Marsala",
               "forbiddens": [
-                "wine",
                 "sauce",
                 "sicily",
                 "mushroom",
@@ -28215,7 +27809,6 @@
               "forbiddens": [
                 "egg",
                 "sugar",
-                "wine",
                 "italian",
                 "custard"
               ]
@@ -28574,7 +28167,6 @@
               "word": "Flambé",
               "forbiddens": [
                 "fire",
-                "alcohol",
                 "flame",
                 "ignite",
                 "dramatic"
@@ -28774,7 +28366,6 @@
               "word": "Beurre Blanc",
               "forbiddens": [
                 "butter",
-                "white wine",
                 "sauce",
                 "french",
                 "shallot"
@@ -29213,7 +28804,6 @@
             {
               "word": "Vermouth",
               "forbiddens": [
-                "wine",
                 "fortified",
                 "herb",
                 "martini",
@@ -29264,7 +28854,6 @@
               "word": "Calvados",
               "forbiddens": [
                 "apple",
-                "brandy",
                 "french",
                 "normandy",
                 "distill"
@@ -29273,7 +28862,6 @@
             {
               "word": "Armagnac",
               "forbiddens": [
-                "brandy",
                 "french",
                 "grape",
                 "aged",
@@ -29283,7 +28871,6 @@
             {
               "word": "Cognac",
               "forbiddens": [
-                "brandy",
                 "french",
                 "grape",
                 "aged",
@@ -29293,7 +28880,6 @@
             {
               "word": "Port",
               "forbiddens": [
-                "wine",
                 "fortified",
                 "portugal",
                 "sweet",
@@ -29303,7 +28889,6 @@
             {
               "word": "Sherry",
               "forbiddens": [
-                "wine",
                 "fortified",
                 "spanish",
                 "dry",
@@ -29313,7 +28898,6 @@
             {
               "word": "Madeira",
               "forbiddens": [
-                "wine",
                 "fortified",
                 "portuguese",
                 "island",
@@ -29324,10 +28908,8 @@
               "word": "Mead",
               "forbiddens": [
                 "honey",
-                "wine",
                 "ferment",
-                "ancient",
-                "alcohol"
+                "ancient"
               ]
             },
             {
@@ -29335,7 +28917,6 @@
               "forbiddens": [
                 "sparkling",
                 "italian",
-                "wine",
                 "bubble",
                 "light"
               ]
@@ -29345,7 +28926,6 @@
               "forbiddens": [
                 "sparkling",
                 "spanish",
-                "wine",
                 "bubble",
                 "dry"
               ]
@@ -29354,7 +28934,6 @@
               "word": "Rosé",
               "forbiddens": [
                 "pink",
-                "wine",
                 "light",
                 "summer",
                 "grape"
@@ -29363,7 +28942,6 @@
             {
               "word": "Riesling",
               "forbiddens": [
-                "wine",
                 "german",
                 "white",
                 "sweet",
@@ -29373,7 +28951,6 @@
             {
               "word": "Pinot Noir",
               "forbiddens": [
-                "wine",
                 "red",
                 "light",
                 "burgundy",
@@ -29383,7 +28960,6 @@
             {
               "word": "Cabernet",
               "forbiddens": [
-                "wine",
                 "red",
                 "bold",
                 "tannin",
@@ -29393,7 +28969,6 @@
             {
               "word": "Merlot",
               "forbiddens": [
-                "wine",
                 "red",
                 "soft",
                 "plum",
@@ -29403,7 +28978,6 @@
             {
               "word": "Chardonnay",
               "forbiddens": [
-                "wine",
                 "white",
                 "oak",
                 "butter",
@@ -29413,7 +28987,6 @@
             {
               "word": "Sauvignon Blanc",
               "forbiddens": [
-                "wine",
                 "white",
                 "crisp",
                 "grass",
@@ -29423,7 +28996,6 @@
             {
               "word": "Beaujolais",
               "forbiddens": [
-                "wine",
                 "red",
                 "light",
                 "french",
@@ -29433,7 +29005,6 @@
             {
               "word": "Chianti",
               "forbiddens": [
-                "wine",
                 "italian",
                 "red",
                 "tuscan",
@@ -29443,7 +29014,6 @@
             {
               "word": "Barolo",
               "forbiddens": [
-                "wine",
                 "italian",
                 "red",
                 "nebbiolo",
@@ -29453,7 +29023,6 @@
             {
               "word": "Rioja",
               "forbiddens": [
-                "wine",
                 "spanish",
                 "red",
                 "tempranillo",
@@ -29463,7 +29032,6 @@
             {
               "word": "Malbec",
               "forbiddens": [
-                "wine",
                 "red",
                 "argentine",
                 "bold",
@@ -29489,7 +29057,6 @@
               "word": "Terroir",
               "forbiddens": [
                 "land",
-                "wine",
                 "soil",
                 "climate",
                 "character"
@@ -29990,7 +29557,6 @@
               "forbiddens": [
                 "egg yolk",
                 "sugar",
-                "wine",
                 "whisk",
                 "warm"
               ]
@@ -30250,7 +29816,6 @@
               "forbiddens": [
                 "designation",
                 "origin",
-                "wine",
                 "region",
                 "controlled"
               ]
@@ -30260,7 +29825,6 @@
               "forbiddens": [
                 "vineyard",
                 "growth",
-                "wine",
                 "classification",
                 "french"
               ]
@@ -30268,7 +29832,6 @@
             {
               "word": "Sommelier",
               "forbiddens": [
-                "wine",
                 "expert",
                 "serve",
                 "restaurant",
@@ -30279,7 +29842,6 @@
               "word": "Decanting",
               "forbiddens": [
                 "pour",
-                "wine",
                 "sediment",
                 "breathe",
                 "vessel"
@@ -30288,7 +29850,6 @@
             {
               "word": "Malolactic Fermentation",
               "forbiddens": [
-                "wine",
                 "bacteria",
                 "acid",
                 "soften",
@@ -30298,7 +29859,6 @@
             {
               "word": "Tannin",
               "forbiddens": [
-                "wine",
                 "astringent",
                 "grape",
                 "bitter",
@@ -30308,7 +29868,6 @@
             {
               "word": "Bouquet",
               "forbiddens": [
-                "wine",
                 "aroma",
                 "aged",
                 "complex",
@@ -30318,11 +29877,9 @@
             {
               "word": "Legs",
               "forbiddens": [
-                "wine",
                 "glass",
                 "tear",
-                "viscosity",
-                "alcohol"
+                "viscosity"
               ]
             },
             {
@@ -30341,7 +29898,6 @@
                 "grape",
                 "juice",
                 "unfermented",
-                "wine",
                 "press"
               ]
             },
@@ -30349,7 +29905,6 @@
               "word": "Lees",
               "forbiddens": [
                 "sediment",
-                "wine",
                 "yeast",
                 "dead",
                 "bottom"
@@ -30359,7 +29914,6 @@
               "word": "Racking",
               "forbiddens": [
                 "transfer",
-                "wine",
                 "clarify",
                 "sediment",
                 "barrel"
@@ -30369,7 +29923,6 @@
               "word": "Fining",
               "forbiddens": [
                 "clarify",
-                "wine",
                 "remove",
                 "protein",
                 "clear"
@@ -30380,7 +29933,6 @@
               "forbiddens": [
                 "stir",
                 "lees",
-                "wine",
                 "barrel",
                 "flavor"
               ]
@@ -30389,7 +29941,6 @@
               "word": "Assemblage",
               "forbiddens": [
                 "blend",
-                "wine",
                 "combine",
                 "lot",
                 "final"
@@ -30399,7 +29950,6 @@
               "word": "Cuvée",
               "forbiddens": [
                 "blend",
-                "wine",
                 "batch",
                 "special",
                 "tank"
@@ -30409,7 +29959,6 @@
               "word": "Dosage",
               "forbiddens": [
                 "sugar",
-                "champagne",
                 "add",
                 "sweetness",
                 "final"
@@ -30418,7 +29967,6 @@
             {
               "word": "Riddling",
               "forbiddens": [
-                "champagne",
                 "bottle",
                 "sediment",
                 "turn",
@@ -30428,7 +29976,6 @@
             {
               "word": "Disgorgement",
               "forbiddens": [
-                "champagne",
                 "remove",
                 "sediment",
                 "freeze",
@@ -30491,7 +30038,6 @@
                 "yeast",
                 "add",
                 "ferment",
-                "beer",
                 "brew"
               ]
             },
@@ -30511,8 +30057,7 @@
                 "butter",
                 "flavor",
                 "off",
-                "ferment",
-                "beer"
+                "ferment"
               ]
             },
             {
@@ -30521,8 +30066,7 @@
                 "clove",
                 "smoke",
                 "flavor",
-                "yeast",
-                "beer"
+                "yeast"
               ]
             },
             {
@@ -30541,8 +30085,7 @@
                 "dry hop",
                 "enzyme",
                 "ferment",
-                "restart",
-                "beer"
+                "restart"
               ]
             },
             {
@@ -30551,8 +30094,7 @@
                 "lactobacillus",
                 "wort",
                 "acid",
-                "quick",
-                "beer"
+                "quick"
               ]
             },
             {
@@ -30581,8 +30123,7 @@
                 "foam",
                 "ferment",
                 "top",
-                "active",
-                "beer"
+                "active"
               ]
             },
             {
@@ -30609,7 +30150,6 @@
               "word": "SRM",
               "forbiddens": [
                 "color",
-                "beer",
                 "measure",
                 "standard",
                 "reference"
@@ -30680,7 +30220,6 @@
               "forbiddens": [
                 "film",
                 "surface",
-                "sour beer",
                 "protection",
                 "oxygen"
               ]
@@ -30691,8 +30230,7 @@
                 "yeast",
                 "clump",
                 "settle",
-                "clear",
-                "beer"
+                "clear"
               ]
             },
             {
@@ -30701,7 +30239,6 @@
                 "chill",
                 "clear",
                 "settle",
-                "beer",
                 "cold"
               ]
             },
@@ -30739,7 +30276,6 @@
               "word": "Parti-Gyle",
               "forbiddens": [
                 "multiple",
-                "beer",
                 "runnings",
                 "different",
                 "strength"
@@ -30751,7 +30287,6 @@
                 "german",
                 "purity",
                 "law",
-                "beer",
                 "ingredient"
               ]
             },
@@ -31726,16 +31261,6 @@
               ]
             },
             {
-              "word": "Smoking Point",
-              "forbiddens": [
-                "oil",
-                "temperature",
-                "burn",
-                "heat",
-                "maximum"
-              ]
-            },
-            {
               "word": "Cold Press",
               "forbiddens": [
                 "oil",
@@ -32508,21 +32033,10 @@
               ]
             },
             {
-              "word": "Blood",
-              "forbiddens": [
-                "red",
-                "vein",
-                "body",
-                "heart",
-                "cell"
-              ]
-            },
-            {
               "word": "Heart",
               "forbiddens": [
                 "beat",
                 "pump",
-                "blood",
                 "organ",
                 "love"
               ]
@@ -32983,7 +32497,6 @@
                 "fire",
                 "gray",
                 "air",
-                "cigarette",
                 "inhale"
               ]
             },
@@ -33203,7 +32716,6 @@
                 "hunt",
                 "prey",
                 "animal",
-                "kill",
                 "food"
               ]
             },
@@ -33381,7 +32893,6 @@
               "word": "Meteor",
               "forbiddens": [
                 "space",
-                "shooting",
                 "star",
                 "rock",
                 "sky"
@@ -33893,8 +33404,7 @@
                 "heart",
                 "beat",
                 "wrist",
-                "rate",
-                "blood"
+                "rate"
               ]
             },
             {
@@ -34807,7 +34317,6 @@
               "forbiddens": [
                 "cell",
                 "divide",
-                "sex",
                 "chromosome",
                 "gamete"
               ]
@@ -34826,7 +34335,6 @@
               "word": "Antibiotic Resistance",
               "forbiddens": [
                 "bacteria",
-                "drug",
                 "evolve",
                 "immune",
                 "superbug"
@@ -34866,7 +34374,6 @@
               "word": "Fermentation",
               "forbiddens": [
                 "yeast",
-                "alcohol",
                 "bread",
                 "sugar",
                 "bacteria"
@@ -34878,7 +34385,6 @@
                 "heat",
                 "milk",
                 "bacteria",
-                "kill",
                 "louis"
               ]
             },
@@ -35328,8 +34834,7 @@
                 "immune",
                 "protein",
                 "fight",
-                "disease",
-                "blood"
+                "disease"
               ]
             },
             {
@@ -35345,7 +34850,6 @@
             {
               "word": "Platelet",
               "forbiddens": [
-                "blood",
                 "clot",
                 "cell",
                 "wound",
@@ -35355,7 +34859,6 @@
             {
               "word": "Hemoglobin",
               "forbiddens": [
-                "blood",
                 "red",
                 "oxygen",
                 "iron",
@@ -35365,7 +34868,6 @@
             {
               "word": "Plasma",
               "forbiddens": [
-                "blood",
                 "liquid",
                 "state",
                 "gas",
@@ -35407,7 +34909,6 @@
               "forbiddens": [
                 "bone",
                 "inside",
-                "blood",
                 "cell",
                 "stem"
               ]
@@ -35535,7 +35036,6 @@
             {
               "word": "Capillary",
               "forbiddens": [
-                "blood",
                 "small",
                 "vessel",
                 "tiny",
@@ -35545,7 +35045,6 @@
             {
               "word": "Artery",
               "forbiddens": [
-                "blood",
                 "heart",
                 "vessel",
                 "pulse",
@@ -35555,7 +35054,6 @@
             {
               "word": "Vein",
               "forbiddens": [
-                "blood",
                 "vessel",
                 "blue",
                 "heart",
@@ -35567,7 +35065,6 @@
               "forbiddens": [
                 "artery",
                 "heart",
-                "blood",
                 "large",
                 "vessel"
               ]
@@ -35625,7 +35122,6 @@
             {
               "word": "Circulatory System",
               "forbiddens": [
-                "blood",
                 "heart",
                 "vessel",
                 "body",
@@ -36468,7 +35964,6 @@
                 "spin",
                 "separate",
                 "fast",
-                "blood",
                 "machine"
               ]
             },
@@ -36840,16 +36335,6 @@
                 "path",
                 "sum",
                 "energy"
-              ]
-            },
-            {
-              "word": "Beer-Lambert Law",
-              "forbiddens": [
-                "absorbance",
-                "concentration",
-                "light",
-                "path",
-                "solution"
               ]
             },
             {
@@ -38373,7 +37858,6 @@
                 "cell",
                 "death",
                 "programmed",
-                "suicide",
                 "controlled"
               ]
             },
@@ -38513,8 +37997,7 @@
                 "allele",
                 "both",
                 "express",
-                "trait",
-                "blood"
+                "trait"
               ]
             },
             {
@@ -39583,7 +39066,6 @@
               "word": "Knight",
               "forbiddens": [
                 "armor",
-                "sword",
                 "horse",
                 "medieval",
                 "shield"
@@ -39600,16 +39082,6 @@
               ]
             },
             {
-              "word": "Sword",
-              "forbiddens": [
-                "blade",
-                "weapon",
-                "fight",
-                "sharp",
-                "knight"
-              ]
-            },
-            {
               "word": "Shield",
               "forbiddens": [
                 "protect",
@@ -39623,10 +39095,8 @@
               "word": "Arrow",
               "forbiddens": [
                 "bow",
-                "shoot",
                 "point",
-                "target",
-                "weapon"
+                "target"
               ]
             },
             {
@@ -39645,8 +39115,7 @@
                 "army",
                 "war",
                 "fight",
-                "uniform",
-                "gun"
+                "uniform"
               ]
             },
             {
@@ -39655,8 +39124,7 @@
                 "war",
                 "fight",
                 "army",
-                "soldiers",
-                "attack"
+                "soldiers"
               ]
             },
             {
@@ -39713,7 +39181,6 @@
               "word": "Cannon",
               "forbiddens": [
                 "fire",
-                "weapon",
                 "ball",
                 "war",
                 "boom"
@@ -39757,26 +39224,6 @@
                 "head",
                 "boss",
                 "native"
-              ]
-            },
-            {
-              "word": "Slave",
-              "forbiddens": [
-                "free",
-                "chain",
-                "master",
-                "work",
-                "servant"
-              ]
-            },
-            {
-              "word": "Prison",
-              "forbiddens": [
-                "jail",
-                "cell",
-                "criminal",
-                "lock",
-                "guard"
               ]
             },
             {
@@ -39862,7 +39309,6 @@
             {
               "word": "Spear",
               "forbiddens": [
-                "weapon",
                 "sharp",
                 "throw",
                 "point",
@@ -39873,8 +39319,6 @@
               "word": "Bow",
               "forbiddens": [
                 "arrow",
-                "shoot",
-                "weapon",
                 "string",
                 "hunt"
               ]
@@ -39965,7 +39409,6 @@
                 "rome",
                 "fight",
                 "arena",
-                "sword",
                 "ancient"
               ]
             },
@@ -39973,7 +39416,6 @@
               "word": "Samurai",
               "forbiddens": [
                 "japan",
-                "sword",
                 "warrior",
                 "honor",
                 "armor"
@@ -39985,7 +39427,6 @@
                 "japan",
                 "stealth",
                 "black",
-                "assassin",
                 "martial"
               ]
             },
@@ -40037,16 +39478,6 @@
                 "religion",
                 "bishop",
                 "gothic"
-              ]
-            },
-            {
-              "word": "Tomb",
-              "forbiddens": [
-                "dead",
-                "burial",
-                "grave",
-                "body",
-                "stone"
               ]
             },
             {
@@ -40134,7 +39565,6 @@
               "forbiddens": [
                 "throw",
                 "rock",
-                "weapon",
                 "siege",
                 "launch"
               ]
@@ -40142,7 +39572,6 @@
             {
               "word": "Siege",
               "forbiddens": [
-                "attack",
                 "castle",
                 "surround",
                 "war",
@@ -40152,7 +39581,6 @@
             {
               "word": "Invasion",
               "forbiddens": [
-                "attack",
                 "army",
                 "enter",
                 "country",
@@ -40194,19 +39622,8 @@
               "forbiddens": [
                 "betray",
                 "country",
-                "crime",
                 "traitor",
                 "king"
-              ]
-            },
-            {
-              "word": "Execution",
-              "forbiddens": [
-                "kill",
-                "death",
-                "punishment",
-                "head",
-                "crime"
               ]
             },
             {
@@ -40215,14 +39632,12 @@
                 "head",
                 "france",
                 "blade",
-                "cut",
-                "execution"
+                "cut"
               ]
             },
             {
               "word": "Dungeon",
               "forbiddens": [
-                "prison",
                 "dark",
                 "castle",
                 "underground",
@@ -40384,7 +39799,6 @@
               "forbiddens": [
                 "explode",
                 "china",
-                "weapon",
                 "fire",
                 "powder"
               ]
@@ -40522,7 +39936,6 @@
             {
               "word": "Serf",
               "forbiddens": [
-                "slave",
                 "land",
                 "lord",
                 "work",
@@ -40700,26 +40113,6 @@
               ]
             },
             {
-              "word": "Rifle",
-              "forbiddens": [
-                "gun",
-                "shoot",
-                "bullet",
-                "weapon",
-                "soldier"
-              ]
-            },
-            {
-              "word": "Musket",
-              "forbiddens": [
-                "gun",
-                "old",
-                "shoot",
-                "soldier",
-                "weapon"
-              ]
-            },
-            {
               "word": "Cavalry",
               "forbiddens": [
                 "horse",
@@ -40755,18 +40148,7 @@
                 "war",
                 "vehicle",
                 "armor",
-                "military",
-                "gun"
-              ]
-            },
-            {
-              "word": "Bomb",
-              "forbiddens": [
-                "explode",
-                "war",
-                "drop",
-                "destroy",
-                "weapon"
+                "military"
               ]
             },
             {
@@ -40930,19 +40312,8 @@
               ]
             },
             {
-              "word": "Slavery",
-              "forbiddens": [
-                "slave",
-                "chain",
-                "free",
-                "work",
-                "master"
-              ]
-            },
-            {
               "word": "Abolition",
               "forbiddens": [
-                "slavery",
                 "end",
                 "free",
                 "movement",
@@ -41013,7 +40384,6 @@
               "word": "Plantation",
               "forbiddens": [
                 "farm",
-                "slave",
                 "crop",
                 "south",
                 "cotton"
@@ -41027,16 +40397,6 @@
                 "white",
                 "soft",
                 "south"
-              ]
-            },
-            {
-              "word": "Tobacco",
-              "forbiddens": [
-                "smoke",
-                "plant",
-                "leaf",
-                "cigarette",
-                "crop"
               ]
             },
             {
@@ -41342,9 +40702,7 @@
             {
               "word": "Assassination",
               "forbiddens": [
-                "kill",
                 "leader",
-                "murder",
                 "political",
                 "target"
               ]
@@ -41372,7 +40730,6 @@
             {
               "word": "Riot",
               "forbiddens": [
-                "violent",
                 "crowd",
                 "angry",
                 "street",
@@ -41597,16 +40954,6 @@
                 "good",
                 "church",
                 "miracle"
-              ]
-            },
-            {
-              "word": "Heresy",
-              "forbiddens": [
-                "religion",
-                "wrong",
-                "belief",
-                "church",
-                "punish"
               ]
             },
             {
@@ -41923,9 +41270,7 @@
               "word": "Hunting",
               "forbiddens": [
                 "animal",
-                "kill",
                 "food",
-                "weapon",
                 "wild"
               ]
             },
@@ -42244,7 +41589,6 @@
               "forbiddens": [
                 "give",
                 "god",
-                "kill",
                 "offering",
                 "religion"
               ]
@@ -42535,7 +41879,6 @@
                 "english",
                 "arrow",
                 "tall",
-                "weapon",
                 "war"
               ]
             },
@@ -42543,8 +41886,6 @@
               "word": "Crossbow",
               "forbiddens": [
                 "arrow",
-                "weapon",
-                "shoot",
                 "trigger",
                 "bolt"
               ]
@@ -42555,7 +41896,6 @@
                 "throw",
                 "stone",
                 "siege",
-                "weapon",
                 "medieval"
               ]
             },
@@ -42570,19 +41910,8 @@
               ]
             },
             {
-              "word": "Dagger",
-              "forbiddens": [
-                "knife",
-                "short",
-                "blade",
-                "stab",
-                "weapon"
-              ]
-            },
-            {
               "word": "Mace",
               "forbiddens": [
-                "weapon",
                 "heavy",
                 "head",
                 "metal",
@@ -42595,14 +41924,12 @@
                 "knight",
                 "horse",
                 "long",
-                "weapon",
                 "joust"
               ]
             },
             {
               "word": "Halberd",
               "forbiddens": [
-                "weapon",
                 "axe",
                 "spear",
                 "pole",
@@ -42775,16 +42102,6 @@
               ]
             },
             {
-              "word": "Fascism",
-              "forbiddens": [
-                "dictator",
-                "state",
-                "italy",
-                "extreme",
-                "nationalist"
-              ]
-            },
-            {
               "word": "Socialism",
               "forbiddens": [
                 "equal",
@@ -42889,7 +42206,6 @@
               "forbiddens": [
                 "peace",
                 "give",
-                "hitler",
                 "avoid",
                 "concession"
               ]
@@ -42899,29 +42215,8 @@
               "forbiddens": [
                 "german",
                 "fast",
-                "attack",
                 "war",
                 "lightning"
-              ]
-            },
-            {
-              "word": "Holocaust",
-              "forbiddens": [
-                "jewish",
-                "nazi",
-                "kill",
-                "camp",
-                "genocide"
-              ]
-            },
-            {
-              "word": "Genocide",
-              "forbiddens": [
-                "kill",
-                "group",
-                "people",
-                "mass",
-                "exterminate"
               ]
             },
             {
@@ -42958,7 +42253,6 @@
               "word": "Emancipation",
               "forbiddens": [
                 "free",
-                "slave",
                 "lincoln",
                 "proclamation",
                 "liberty"
@@ -42967,7 +42261,6 @@
             {
               "word": "Abolitionism",
               "forbiddens": [
-                "slavery",
                 "end",
                 "movement",
                 "free",
@@ -42977,7 +42270,6 @@
             {
               "word": "Prohibition",
               "forbiddens": [
-                "alcohol",
                 "ban",
                 "law",
                 "drink",
@@ -43035,21 +42327,9 @@
               ]
             },
             {
-              "word": "Cuban Missile Crisis",
-              "forbiddens": [
-                "nuclear",
-                "kennedy",
-                "soviet",
-                "cuba",
-                "cold war"
-              ]
-            },
-            {
               "word": "Pearl Harbor",
               "forbiddens": [
                 "japan",
-                "attack",
-                "bomb",
                 "hawaii",
                 "war"
               ]
@@ -43067,7 +42347,6 @@
             {
               "word": "Hiroshima",
               "forbiddens": [
-                "bomb",
                 "nuclear",
                 "japan",
                 "atomic",
@@ -43077,7 +42356,6 @@
             {
               "word": "Nagasaki",
               "forbiddens": [
-                "bomb",
                 "nuclear",
                 "japan",
                 "atomic",
@@ -43087,9 +42365,7 @@
             {
               "word": "Nuremberg Trials",
               "forbiddens": [
-                "nazi",
                 "war",
-                "crime",
                 "trial",
                 "judge"
               ]
@@ -43148,7 +42424,6 @@
               "word": "Manhattan Project",
               "forbiddens": [
                 "nuclear",
-                "bomb",
                 "atomic",
                 "secret",
                 "scientist"
@@ -43195,23 +42470,11 @@
               ]
             },
             {
-              "word": "Terrorism",
-              "forbiddens": [
-                "attack",
-                "fear",
-                "bomb",
-                "violence",
-                "group"
-              ]
-            },
-            {
               "word": "September 11",
               "forbiddens": [
-                "attack",
                 "tower",
                 "plane",
-                "new york",
-                "terrorist"
+                "new york"
               ]
             },
             {
@@ -43268,7 +42531,6 @@
               "word": "Emancipation Proclamation",
               "forbiddens": [
                 "lincoln",
-                "slave",
                 "free",
                 "civil war",
                 "document"
@@ -43337,7 +42599,6 @@
             {
               "word": "Underground Railroad",
               "forbiddens": [
-                "slave",
                 "escape",
                 "freedom",
                 "north",
@@ -43439,7 +42700,6 @@
               "forbiddens": [
                 "north",
                 "south",
-                "slavery",
                 "america",
                 "union"
               ]
@@ -43452,16 +42712,6 @@
                 "europe",
                 "1914",
                 "alliance"
-              ]
-            },
-            {
-              "word": "World War II",
-              "forbiddens": [
-                "hitler",
-                "nazi",
-                "1939",
-                "bomb",
-                "allied"
               ]
             },
             {
@@ -43497,7 +42747,6 @@
             {
               "word": "Haitian Revolution",
               "forbiddens": [
-                "slave",
                 "revolt",
                 "toussaint",
                 "caribbean",
@@ -43522,16 +42771,6 @@
                 "modern",
                 "samurai",
                 "reform"
-              ]
-            },
-            {
-              "word": "Opium Wars",
-              "forbiddens": [
-                "china",
-                "british",
-                "drug",
-                "trade",
-                "treaty"
               ]
             },
             {
@@ -43608,9 +42847,7 @@
               "word": "Spanish Inquisition",
               "forbiddens": [
                 "spain",
-                "heresy",
                 "church",
-                "torture",
                 "catholic"
               ]
             },
@@ -43969,7 +43206,6 @@
               "forbiddens": [
                 "metal",
                 "tool",
-                "weapon",
                 "period",
                 "bronze"
               ]
@@ -44210,8 +43446,7 @@
                 "china",
                 "clay",
                 "soldier",
-                "emperor",
-                "tomb"
+                "emperor"
               ]
             },
             {
@@ -44259,7 +43494,6 @@
               "forbiddens": [
                 "rome",
                 "emperor",
-                "stab",
                 "senate",
                 "dictator"
               ]
@@ -44438,7 +43672,6 @@
               "word": "Abraham Lincoln",
               "forbiddens": [
                 "president",
-                "slavery",
                 "civil war",
                 "honest",
                 "assassinate"
@@ -44478,7 +43711,6 @@
               "word": "Nelson Mandela",
               "forbiddens": [
                 "south africa",
-                "prison",
                 "apartheid",
                 "freedom",
                 "president"
@@ -44500,18 +43732,7 @@
                 "britain",
                 "war",
                 "prime minister",
-                "speech",
-                "cigar"
-              ]
-            },
-            {
-              "word": "Adolf Hitler",
-              "forbiddens": [
-                "nazi",
-                "germany",
-                "war",
-                "dictator",
-                "holocaust"
+                "speech"
               ]
             },
             {
@@ -44540,7 +43761,6 @@
                 "cuba",
                 "revolution",
                 "communist",
-                "cigar",
                 "dictator"
               ]
             },
@@ -44589,7 +43809,6 @@
               "forbiddens": [
                 "underground",
                 "railroad",
-                "slave",
                 "escape",
                 "free"
               ]
@@ -44597,7 +43816,6 @@
             {
               "word": "Frederick Douglass",
               "forbiddens": [
-                "slave",
                 "abolitionist",
                 "writer",
                 "speak",
@@ -44640,7 +43858,6 @@
                 "diary",
                 "jewish",
                 "hide",
-                "nazi",
                 "girl"
               ]
             },
@@ -44959,7 +44176,6 @@
               "forbiddens": [
                 "egypt",
                 "pharaoh",
-                "tomb",
                 "boy",
                 "gold"
               ]
@@ -45068,7 +44284,6 @@
               "word": "Robespierre",
               "forbiddens": [
                 "french revolution",
-                "terror",
                 "guillotine",
                 "radical",
                 "reign"
@@ -45080,8 +44295,7 @@
                 "germany",
                 "unify",
                 "iron",
-                "chancellor",
-                "blood"
+                "chancellor"
               ]
             },
             {
@@ -45108,7 +44322,6 @@
               "word": "Toussaint Louverture",
               "forbiddens": [
                 "haiti",
-                "slave",
                 "revolution",
                 "leader",
                 "free"
@@ -45148,7 +44361,6 @@
               "word": "Benito Mussolini",
               "forbiddens": [
                 "italy",
-                "fascist",
                 "dictator",
                 "duce",
                 "world war"
@@ -45160,7 +44372,6 @@
                 "spain",
                 "dictator",
                 "civil war",
-                "fascist",
                 "general"
               ]
             },
@@ -45169,9 +44380,7 @@
               "forbiddens": [
                 "cambodia",
                 "khmer rouge",
-                "genocide",
-                "communist",
-                "killing"
+                "communist"
               ]
             },
             {
@@ -45385,7 +44594,6 @@
                 "austria",
                 "germany",
                 "annex",
-                "hitler",
                 "union"
               ]
             },
@@ -45505,8 +44713,7 @@
                 "french",
                 "radical",
                 "revolution",
-                "republic",
-                "terror"
+                "republic"
               ]
             },
             {
@@ -45535,8 +44742,7 @@
                 "supply",
                 "war",
                 "britain",
-                "america",
-                "weapon"
+                "america"
               ]
             },
             {
@@ -45572,7 +44778,6 @@
             {
               "word": "Missouri Compromise",
               "forbiddens": [
-                "slave",
                 "free",
                 "state",
                 "line",
@@ -45582,7 +44787,6 @@
             {
               "word": "Molotov-Ribbentrop Pact",
               "forbiddens": [
-                "nazi",
                 "soviet",
                 "nonaggression",
                 "secret",
@@ -45593,7 +44797,6 @@
               "word": "Munich Agreement",
               "forbiddens": [
                 "appeasement",
-                "hitler",
                 "czechoslovakia",
                 "chamberlain",
                 "peace"
@@ -45675,7 +44878,6 @@
                 "traitor",
                 "norway",
                 "collaborate",
-                "nazi",
                 "puppet"
               ]
             },
@@ -45695,7 +44897,6 @@
                 "german",
                 "parliament",
                 "burn",
-                "hitler",
                 "1933"
               ]
             },
@@ -45855,7 +45056,6 @@
                 "french",
                 "revolution",
                 "end",
-                "terror",
                 "reaction"
               ]
             },
@@ -45872,7 +45072,6 @@
             {
               "word": "Triangular Trade",
               "forbiddens": [
-                "slave",
                 "atlantic",
                 "goods",
                 "africa",
@@ -45902,7 +45101,6 @@
             {
               "word": "Vichy France",
               "forbiddens": [
-                "nazi",
                 "puppet",
                 "collaborate",
                 "petain",
@@ -46163,9 +45361,7 @@
               "word": "Transubstantiation",
               "forbiddens": [
                 "bread",
-                "wine",
                 "body",
-                "blood",
                 "catholic"
               ]
             },
@@ -46395,14 +45591,12 @@
                 "ottoman",
                 "soldier",
                 "elite",
-                "slave",
                 "christian"
               ]
             },
             {
               "word": "Mamluk",
               "forbiddens": [
-                "slave",
                 "soldier",
                 "egypt",
                 "warrior",
@@ -46600,16 +45794,6 @@
               ]
             },
             {
-              "word": "Peterloo Massacre",
-              "forbiddens": [
-                "manchester",
-                "protest",
-                "cavalry",
-                "reform",
-                "killed"
-              ]
-            },
-            {
               "word": "Corn Laws",
               "forbiddens": [
                 "grain",
@@ -46632,17 +45816,14 @@
             {
               "word": "Bleeding Kansas",
               "forbiddens": [
-                "slave",
                 "free",
                 "territory",
-                "violence",
                 "border"
               ]
             },
             {
               "word": "Dred Scott Decision",
               "forbiddens": [
-                "slave",
                 "citizen",
                 "court",
                 "supreme",
@@ -46667,16 +45848,6 @@
                 "republican",
                 "reconstruction",
                 "traitor"
-              ]
-            },
-            {
-              "word": "Robber Baron",
-              "forbiddens": [
-                "rich",
-                "industry",
-                "exploit",
-                "monopoly",
-                "gilded"
               ]
             },
             {
@@ -46752,7 +45923,6 @@
             {
               "word": "Temperance Movement",
               "forbiddens": [
-                "alcohol",
                 "ban",
                 "drink",
                 "reform",
@@ -46984,19 +46154,7 @@
               "forbiddens": [
                 "cambodia",
                 "pol pot",
-                "genocide",
-                "communist",
-                "killing"
-              ]
-            },
-            {
-              "word": "Rwandan Genocide",
-              "forbiddens": [
-                "africa",
-                "tutsi",
-                "hutu",
-                "kill",
-                "1994"
+                "communist"
               ]
             },
             {
@@ -47123,7 +46281,6 @@
               "word": "Nuclear Non-Proliferation Treaty",
               "forbiddens": [
                 "nuclear",
-                "weapon",
                 "spread",
                 "prevent",
                 "treaty"
@@ -47153,7 +46310,6 @@
               "word": "War Crimes Tribunal",
               "forbiddens": [
                 "judge",
-                "crime",
                 "international",
                 "punish",
                 "court"
@@ -47204,7 +46360,6 @@
               "forbiddens": [
                 "preemptive",
                 "strike",
-                "terrorism",
                 "war",
                 "iraq"
               ]
@@ -47390,16 +46545,6 @@
               ]
             },
             {
-              "word": "Witchcraft Trials",
-              "forbiddens": [
-                "witch",
-                "accuse",
-                "burn",
-                "salem",
-                "superstition"
-              ]
-            },
-            {
               "word": "Scientific Revolution",
               "forbiddens": [
                 "science",
@@ -47430,19 +46575,8 @@
               ]
             },
             {
-              "word": "Atlantic Slave Trade",
-              "forbiddens": [
-                "africa",
-                "ship",
-                "slave",
-                "middle passage",
-                "plantation"
-              ]
-            },
-            {
               "word": "Middle Passage",
               "forbiddens": [
-                "slave",
                 "ship",
                 "atlantic",
                 "africa",
@@ -47465,7 +46599,6 @@
                 "force",
                 "navy",
                 "sailor",
-                "kidnap",
                 "british"
               ]
             },
@@ -47475,7 +46608,6 @@
                 "pirate",
                 "license",
                 "ship",
-                "attack",
                 "government"
               ]
             },
@@ -47484,7 +46616,6 @@
               "forbiddens": [
                 "privateer",
                 "license",
-                "attack",
                 "ship",
                 "government"
               ]
@@ -47582,7 +46713,6 @@
             {
               "word": "Compromise of 1850",
               "forbiddens": [
-                "slave",
                 "free",
                 "california",
                 "fugitive",
@@ -47593,7 +46723,6 @@
               "word": "Kansas-Nebraska Act",
               "forbiddens": [
                 "territory",
-                "slave",
                 "popular",
                 "sovereignty",
                 "repeal"
@@ -47823,7 +46952,6 @@
               "word": "Gulag",
               "forbiddens": [
                 "soviet",
-                "prison",
                 "labor",
                 "camp",
                 "siberia"
@@ -47833,8 +46961,6 @@
               "word": "Pogrom",
               "forbiddens": [
                 "jewish",
-                "attack",
-                "violence",
                 "russia",
                 "mob"
               ]
@@ -47844,9 +46970,7 @@
               "forbiddens": [
                 "jewish",
                 "glass",
-                "nazi",
-                "night",
-                "attack"
+                "night"
               ]
             },
             {
@@ -47954,7 +47078,6 @@
               "forbiddens": [
                 "franco",
                 "republic",
-                "fascist",
                 "1936",
                 "guernica"
               ]
@@ -47964,7 +47087,6 @@
               "forbiddens": [
                 "china",
                 "british",
-                "opium",
                 "hong kong",
                 "unequal"
               ]

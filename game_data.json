@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 8,
   "data": [
     {
       "topic": "cultural",
@@ -597,16 +597,6 @@
                 "jungle",
                 "animal",
                 "wild"
-              ]
-            },
-            {
-              "word": "Knife",
-              "forbiddens": [
-                "cut",
-                "sharp",
-                "blade",
-                "kitchen",
-                "fork"
               ]
             },
             {
@@ -2045,8 +2035,7 @@
                 "flower",
                 "blow",
                 "wish",
-                "yellow",
-                "weed"
+                "yellow"
               ]
             },
             {
@@ -3300,7 +3289,6 @@
                 "justice",
                 "law",
                 "hero",
-                "crime",
                 "punish"
               ]
             },
@@ -3310,7 +3298,6 @@
                 "water",
                 "spin",
                 "circle",
-                "suck",
                 "ocean"
               ]
             },
@@ -3565,16 +3552,6 @@
               ]
             },
             {
-              "word": "Roulette",
-              "forbiddens": [
-                "casino",
-                "spin",
-                "wheel",
-                "bet",
-                "ball"
-              ]
-            },
-            {
               "word": "Tambourine",
               "forbiddens": [
                 "instrument",
@@ -3642,16 +3619,6 @@
                 "spontaneous",
                 "plan",
                 "wing"
-              ]
-            },
-            {
-              "word": "Jackpot",
-              "forbiddens": [
-                "win",
-                "money",
-                "lottery",
-                "big",
-                "prize"
               ]
             },
             {
@@ -3740,8 +3707,7 @@
                 "blade",
                 "head",
                 "french",
-                "cut",
-                "execution"
+                "cut"
               ]
             },
             {
@@ -3877,7 +3843,6 @@
             {
               "word": "Kleptomania",
               "forbiddens": [
-                "steal",
                 "compulsive",
                 "take",
                 "disorder",
@@ -3908,7 +3873,6 @@
               "word": "Ricochet",
               "forbiddens": [
                 "bounce",
-                "bullet",
                 "surface",
                 "angle",
                 "hit"
@@ -3979,7 +3943,6 @@
               "forbiddens": [
                 "forgive",
                 "pardon",
-                "crime",
                 "political",
                 "free"
               ]
@@ -4010,7 +3973,6 @@
                 "run",
                 "law",
                 "escape",
-                "criminal",
                 "hide"
               ]
             },
@@ -4358,7 +4320,6 @@
               "word": "Alibi",
               "forbiddens": [
                 "proof",
-                "crime",
                 "excuse",
                 "elsewhere",
                 "innocent"
@@ -4438,7 +4399,6 @@
               "word": "Plagiarism",
               "forbiddens": [
                 "copy",
-                "steal",
                 "write",
                 "original",
                 "credit"
@@ -4497,7 +4457,6 @@
             {
               "word": "Sommelier",
               "forbiddens": [
-                "wine",
                 "taste",
                 "restaurant",
                 "expert",
@@ -4797,7 +4756,6 @@
             {
               "word": "Mausoleum",
               "forbiddens": [
-                "tomb",
                 "dead",
                 "burial",
                 "building",
@@ -4840,7 +4798,6 @@
                 "launch",
                 "throw",
                 "siege",
-                "weapon",
                 "medieval"
               ]
             },
@@ -5010,1333 +4967,13 @@
           "type": "hard",
           "words": [
             {
-              "word": "Photosynthesis",
-              "forbiddens": [
-                "plants",
-                "sunlight",
-                "oxygen",
-                "carbon",
-                "chlorophyll"
-              ]
-            },
-            {
-              "word": "Democracy",
-              "forbiddens": [
-                "vote",
-                "government",
-                "people",
-                "election",
-                "politics"
-              ]
-            },
-            {
-              "word": "Cryptocurrency",
-              "forbiddens": [
-                "bitcoin",
-                "blockchain",
-                "digital",
-                "mining",
-                "wallet"
-              ]
-            },
-            {
-              "word": "Philosophy",
-              "forbiddens": [
-                "think",
-                "wisdom",
-                "socrates",
-                "life",
-                "meaning"
-              ]
-            },
-            {
-              "word": "Serendipity",
-              "forbiddens": [
-                "luck",
-                "accident",
-                "discover",
-                "happy",
-                "chance"
-              ]
-            },
-            {
-              "word": "Existentialism",
-              "forbiddens": [
-                "meaning",
-                "life",
-                "philosophy",
-                "freedom",
-                "exist"
-              ]
-            },
-            {
-              "word": "Onomatopoeia",
-              "forbiddens": [
-                "sound",
-                "word",
-                "bang",
-                "buzz",
-                "imitate"
-              ]
-            },
-            {
-              "word": "Procrastination",
-              "forbiddens": [
-                "delay",
-                "later",
-                "postpone",
-                "avoid",
-                "lazy"
-              ]
-            },
-            {
-              "word": "Metamorphosis",
-              "forbiddens": [
-                "change",
-                "transform",
-                "butterfly",
-                "caterpillar",
-                "form"
-              ]
-            },
-            {
-              "word": "Philanthropy",
-              "forbiddens": [
-                "charity",
-                "donate",
-                "help",
-                "rich",
-                "give"
-              ]
-            },
-            {
-              "word": "Ambidextrous",
-              "forbiddens": [
-                "hand",
-                "both",
-                "left",
-                "right",
-                "write"
-              ]
-            },
-            {
-              "word": "Gerrymandering",
-              "forbiddens": [
-                "vote",
-                "district",
-                "politics",
-                "map",
-                "boundary"
-              ]
-            },
-            {
-              "word": "Biodegradable",
-              "forbiddens": [
-                "nature",
-                "decompose",
-                "waste",
-                "organic",
-                "environment"
-              ]
-            },
-            {
-              "word": "Quintessential",
-              "forbiddens": [
-                "perfect",
-                "example",
-                "typical",
-                "essence",
-                "ideal"
-              ]
-            },
-            {
-              "word": "Soliloquy",
-              "forbiddens": [
-                "alone",
-                "speak",
-                "theater",
-                "monologue",
-                "audience"
-              ]
-            },
-            {
-              "word": "Juxtaposition",
-              "forbiddens": [
-                "side",
-                "compare",
-                "contrast",
-                "next",
-                "together"
-              ]
-            },
-            {
-              "word": "Synesthesia",
-              "forbiddens": [
-                "senses",
-                "color",
-                "sound",
-                "mix",
-                "see"
-              ]
-            },
-            {
-              "word": "Schadenfreude",
-              "forbiddens": [
-                "pleasure",
-                "pain",
-                "others",
-                "german",
-                "enjoy"
-              ]
-            },
-            {
-              "word": "Epistemology",
-              "forbiddens": [
-                "knowledge",
-                "philosophy",
-                "study",
-                "truth",
-                "believe"
-              ]
-            },
-            {
-              "word": "Pseudoscience",
-              "forbiddens": [
-                "fake",
-                "science",
-                "false",
-                "belief",
-                "evidence"
-              ]
-            },
-            {
-              "word": "Machiavellian",
-              "forbiddens": [
-                "cunning",
-                "power",
-                "politics",
-                "manipulate",
-                "prince"
-              ]
-            },
-            {
-              "word": "Zeitgeist",
-              "forbiddens": [
-                "spirit",
-                "time",
-                "era",
-                "culture",
-                "trend"
-              ]
-            },
-            {
-              "word": "Anthropomorphism",
-              "forbiddens": [
-                "human",
-                "animal",
-                "traits",
-                "character",
-                "personify"
-              ]
-            },
-            {
-              "word": "Cognitive Dissonance",
-              "forbiddens": [
-                "belief",
-                "conflict",
-                "mind",
-                "contradiction",
-                "psychology"
-              ]
-            },
-            {
-              "word": "Sustainability",
-              "forbiddens": [
-                "environment",
-                "future",
-                "green",
-                "resource",
-                "maintain"
-              ]
-            },
-            {
-              "word": "Totalitarianism",
-              "forbiddens": [
-                "dictator",
-                "control",
-                "government",
-                "power",
-                "absolute"
-              ]
-            },
-            {
-              "word": "Bioluminescence",
-              "forbiddens": [
-                "light",
-                "glow",
-                "ocean",
-                "organism",
-                "dark"
-              ]
-            },
-            {
-              "word": "Compartmentalize",
-              "forbiddens": [
-                "separate",
-                "organize",
-                "emotion",
-                "section",
-                "divide"
-              ]
-            },
-            {
-              "word": "Counterintuitive",
-              "forbiddens": [
-                "opposite",
-                "expect",
-                "surprising",
-                "logic",
-                "against"
-              ]
-            },
-            {
-              "word": "Ethnocentrism",
-              "forbiddens": [
-                "culture",
-                "superior",
-                "own",
-                "judge",
-                "bias"
-              ]
-            },
-            {
-              "word": "Foreshadowing",
-              "forbiddens": [
-                "hint",
-                "future",
-                "story",
-                "clue",
-                "predict"
-              ]
-            },
-            {
-              "word": "Gentrification",
-              "forbiddens": [
-                "neighborhood",
-                "rich",
-                "change",
-                "expensive",
-                "displace"
-              ]
-            },
-            {
-              "word": "Imperialism",
-              "forbiddens": [
-                "empire",
-                "colony",
-                "power",
-                "country",
-                "rule"
-              ]
-            },
-            {
-              "word": "Kleptocracy",
-              "forbiddens": [
-                "steal",
-                "government",
-                "corrupt",
-                "ruler",
-                "money"
-              ]
-            },
-            {
-              "word": "Laissez-faire",
-              "forbiddens": [
-                "free",
-                "market",
-                "government",
-                "economy",
-                "hands-off"
-              ]
-            },
-            {
-              "word": "Microaggression",
-              "forbiddens": [
-                "subtle",
-                "offense",
-                "comment",
-                "discriminate",
-                "small"
-              ]
-            },
-            {
-              "word": "Nonchalant",
-              "forbiddens": [
-                "casual",
-                "calm",
-                "care",
-                "relaxed",
-                "cool"
-              ]
-            },
-            {
-              "word": "Oligarchy",
-              "forbiddens": [
-                "few",
-                "rule",
-                "power",
-                "rich",
-                "government"
-              ]
-            },
-            {
-              "word": "Quid Pro Quo",
-              "forbiddens": [
-                "exchange",
-                "favor",
-                "return",
-                "something",
-                "deal"
-              ]
-            },
-            {
-              "word": "Recidivism",
-              "forbiddens": [
-                "crime",
-                "repeat",
-                "prison",
-                "offend",
-                "return"
-              ]
-            },
-            {
-              "word": "Transcendentalism",
-              "forbiddens": [
-                "nature",
-                "spirit",
-                "beyond",
-                "emerson",
-                "philosophy"
-              ]
-            },
-            {
-              "word": "Understatement",
-              "forbiddens": [
-                "less",
-                "downplay",
-                "minimize",
-                "exaggerate",
-                "mild"
-              ]
-            },
-            {
-              "word": "Verisimilitude",
-              "forbiddens": [
-                "truth",
-                "realistic",
-                "appearance",
-                "believable",
-                "fiction"
-              ]
-            },
-            {
-              "word": "Whistleblower",
-              "forbiddens": [
-                "expose",
-                "secret",
-                "wrong",
-                "report",
-                "company"
-              ]
-            },
-            {
-              "word": "Anachronism",
-              "forbiddens": [
-                "time",
-                "wrong",
-                "period",
-                "out",
-                "historical"
-              ]
-            },
-            {
-              "word": "Bibliophile",
-              "forbiddens": [
-                "book",
-                "love",
-                "read",
-                "collect",
-                "library"
-              ]
-            },
-            {
-              "word": "Cosmopolitan",
-              "forbiddens": [
-                "world",
-                "city",
-                "diverse",
-                "sophisticated",
-                "global"
-              ]
-            },
-            {
-              "word": "Defenestration",
-              "forbiddens": [
-                "window",
-                "throw",
-                "out",
-                "building",
-                "prague"
-              ]
-            },
-            {
-              "word": "Egalitarian",
-              "forbiddens": [
-                "equal",
-                "rights",
-                "fair",
-                "everyone",
-                "same"
-              ]
-            },
-            {
-              "word": "Flabbergasted",
-              "forbiddens": [
-                "shocked",
-                "surprised",
-                "amazed",
-                "stunned",
-                "speechless"
-              ]
-            },
-            {
-              "word": "Gaslighting",
-              "forbiddens": [
-                "manipulate",
-                "crazy",
-                "doubt",
-                "reality",
-                "lie"
-              ]
-            },
-            {
-              "word": "Hegemony",
-              "forbiddens": [
-                "dominant",
-                "power",
-                "control",
-                "influence",
-                "leader"
-              ]
-            },
-            {
-              "word": "Idiosyncrasy",
-              "forbiddens": [
-                "quirk",
-                "peculiar",
-                "habit",
-                "unique",
-                "behavior"
-              ]
-            },
-            {
-              "word": "Kafkaesque",
-              "forbiddens": [
-                "absurd",
-                "bureaucratic",
-                "nightmare",
-                "surreal",
-                "kafka"
-              ]
-            },
-            {
-              "word": "Loquacious",
-              "forbiddens": [
-                "talk",
-                "chatty",
-                "verbose",
-                "wordy",
-                "speak"
-              ]
-            },
-            {
-              "word": "Misanthrope",
-              "forbiddens": [
-                "hate",
-                "people",
-                "antisocial",
-                "dislike",
-                "humanity"
-              ]
-            },
-            {
-              "word": "Nihilism",
-              "forbiddens": [
-                "nothing",
-                "meaning",
-                "belief",
-                "reject",
-                "value"
-              ]
-            },
-            {
-              "word": "Obfuscate",
-              "forbiddens": [
-                "confuse",
-                "obscure",
-                "unclear",
-                "hide",
-                "muddy"
-              ]
-            },
-            {
-              "word": "Plutocracy",
-              "forbiddens": [
-                "rich",
-                "rule",
-                "wealth",
-                "power",
-                "money"
-              ]
-            },
-            {
-              "word": "Quixotic",
-              "forbiddens": [
-                "idealistic",
-                "impractical",
-                "romantic",
-                "unrealistic",
-                "knight"
-              ]
-            },
-            {
-              "word": "Sycophant",
-              "forbiddens": [
-                "flatter",
-                "praise",
-                "fake",
-                "boss",
-                "please"
-              ]
-            },
-            {
-              "word": "Tautology",
-              "forbiddens": [
-                "repeat",
-                "redundant",
-                "same",
-                "word",
-                "logic"
-              ]
-            },
-            {
-              "word": "Usurp",
-              "forbiddens": [
-                "seize",
-                "power",
-                "throne",
-                "take",
-                "overthrow"
-              ]
-            },
-            {
-              "word": "Vicarious",
-              "forbiddens": [
-                "experience",
-                "through",
-                "others",
-                "indirect",
-                "feel"
-              ]
-            },
-            {
-              "word": "Antithesis",
-              "forbiddens": [
-                "opposite",
-                "contrast",
-                "against",
-                "thesis",
-                "contrary"
-              ]
-            },
-            {
-              "word": "Bourgeoisie",
-              "forbiddens": [
-                "middle",
-                "class",
-                "wealthy",
-                "marx",
-                "society"
-              ]
-            },
-            {
-              "word": "Catharsis",
-              "forbiddens": [
-                "release",
-                "emotion",
-                "purge",
-                "relief",
-                "theater"
-              ]
-            },
-            {
-              "word": "Dichotomy",
-              "forbiddens": [
-                "two",
-                "divide",
-                "opposite",
-                "split",
-                "contrast"
-              ]
-            },
-            {
-              "word": "Euphemism",
-              "forbiddens": [
-                "mild",
-                "word",
-                "polite",
-                "replace",
-                "indirect"
-              ]
-            },
-            {
-              "word": "Facetious",
-              "forbiddens": [
-                "joke",
-                "serious",
-                "humor",
-                "sarcastic",
-                "playful"
-              ]
-            },
-            {
-              "word": "Gregarious",
-              "forbiddens": [
-                "social",
-                "friendly",
-                "outgoing",
-                "people",
-                "group"
-              ]
-            },
-            {
-              "word": "Hubris",
-              "forbiddens": [
-                "pride",
-                "arrogant",
-                "excessive",
-                "fall",
-                "greek"
-              ]
-            },
-            {
-              "word": "Iconoclast",
-              "forbiddens": [
-                "rebel",
-                "tradition",
-                "break",
-                "convention",
-                "challenge"
-              ]
-            },
-            {
-              "word": "Jingoism",
-              "forbiddens": [
-                "patriotism",
-                "extreme",
-                "aggressive",
-                "country",
-                "war"
-              ]
-            },
-            {
-              "word": "Luddite",
-              "forbiddens": [
-                "technology",
-                "against",
-                "machine",
-                "progress",
-                "resist"
-              ]
-            },
-            {
-              "word": "Magnanimous",
-              "forbiddens": [
-                "generous",
-                "forgiving",
-                "noble",
-                "big",
-                "kind"
-              ]
-            },
-            {
-              "word": "Nepotism",
-              "forbiddens": [
-                "family",
-                "hire",
-                "favor",
-                "relative",
-                "job"
-              ]
-            },
-            {
-              "word": "Omniscient",
-              "forbiddens": [
-                "all-knowing",
-                "god",
-                "everything",
-                "narrator",
-                "wise"
-              ]
-            },
-            {
-              "word": "Pragmatic",
-              "forbiddens": [
-                "practical",
-                "realistic",
-                "sensible",
-                "logical",
-                "useful"
-              ]
-            },
-            {
-              "word": "Recalcitrant",
-              "forbiddens": [
-                "stubborn",
-                "resist",
-                "obey",
-                "defiant",
-                "uncooperative"
-              ]
-            },
-            {
-              "word": "Stoicism",
-              "forbiddens": [
-                "emotion",
-                "endure",
-                "philosophy",
-                "calm",
-                "suffer"
-              ]
-            },
-            {
-              "word": "Ubiquitous",
-              "forbiddens": [
-                "everywhere",
-                "common",
-                "present",
-                "all",
-                "found"
-              ]
-            },
-            {
-              "word": "Vindictive",
-              "forbiddens": [
-                "revenge",
-                "spite",
-                "grudge",
-                "harm",
-                "payback"
-              ]
-            },
-            {
-              "word": "Zealot",
-              "forbiddens": [
-                "fanatic",
-                "extreme",
-                "belief",
-                "passionate",
-                "radical"
-              ]
-            },
-            {
-              "word": "Cacophony",
-              "forbiddens": [
-                "noise",
-                "harsh",
-                "sound",
-                "unpleasant",
-                "loud"
-              ]
-            },
-            {
-              "word": "Epiphany",
-              "forbiddens": [
-                "realization",
-                "sudden",
-                "insight",
-                "moment",
-                "understand"
-              ]
-            },
-            {
-              "word": "Harbinger",
-              "forbiddens": [
-                "sign",
-                "warning",
-                "future",
-                "omen",
-                "herald"
-              ]
-            },
-            {
-              "word": "Inscrutable",
-              "forbiddens": [
-                "mysterious",
-                "understand",
-                "expression",
-                "impossible",
-                "read"
-              ]
-            },
-            {
-              "word": "Laconic",
-              "forbiddens": [
-                "brief",
-                "few",
-                "words",
-                "concise",
-                "short"
-              ]
-            },
-            {
-              "word": "Mellifluous",
-              "forbiddens": [
-                "sweet",
-                "smooth",
-                "sound",
-                "pleasant",
-                "voice"
-              ]
-            },
-            {
-              "word": "Perfunctory",
-              "forbiddens": [
-                "careless",
-                "routine",
-                "minimal",
-                "effort",
-                "halfhearted"
-              ]
-            },
-            {
-              "word": "Sagacious",
-              "forbiddens": [
-                "wise",
-                "shrewd",
-                "intelligent",
-                "judgment",
-                "perceptive"
-              ]
-            },
-            {
-              "word": "Truculent",
-              "forbiddens": [
-                "aggressive",
-                "hostile",
-                "defiant",
-                "fierce",
-                "combative"
-              ]
-            },
-            {
-              "word": "Peripatetic",
-              "forbiddens": [
-                "travel",
-                "wander",
-                "move",
-                "place",
-                "walking"
-              ]
-            },
-            {
-              "word": "Sesquipedalian",
-              "forbiddens": [
-                "long",
-                "word",
-                "syllable",
-                "verbose",
-                "big"
-              ]
-            },
-            {
-              "word": "Pusillanimous",
-              "forbiddens": [
-                "cowardly",
-                "timid",
-                "weak",
-                "spineless",
-                "fearful"
-              ]
-            },
-            {
-              "word": "Supercilious",
-              "forbiddens": [
-                "arrogant",
-                "superior",
-                "contemptuous",
-                "snobbish",
-                "haughty"
-              ]
-            },
-            {
-              "word": "Panopticon",
-              "forbiddens": [
-                "prison",
-                "watch",
-                "surveillance",
-                "all",
-                "see"
-              ]
-            },
-            {
-              "word": "Solipsism",
-              "forbiddens": [
-                "self",
-                "only",
-                "exist",
-                "mind",
-                "reality"
-              ]
-            },
-            {
-              "word": "Sisyphean",
-              "forbiddens": [
-                "endless",
-                "futile",
-                "task",
-                "boulder",
-                "greek"
-              ]
-            },
-            {
-              "word": "Pyrrhic Victory",
-              "forbiddens": [
-                "win",
-                "cost",
-                "loss",
-                "price",
-                "hollow"
-              ]
-            },
-            {
-              "word": "Malapropism",
-              "forbiddens": [
-                "word",
-                "wrong",
-                "similar",
-                "mistake",
-                "funny"
-              ]
-            },
-            {
-              "word": "Bildungsroman",
-              "forbiddens": [
-                "coming",
-                "age",
-                "novel",
-                "growth",
-                "story"
-              ]
-            },
-            {
-              "word": "Denouement",
-              "forbiddens": [
-                "ending",
-                "resolution",
-                "story",
-                "climax",
-                "final"
-              ]
-            },
-            {
-              "word": "Magnum Opus",
-              "forbiddens": [
-                "masterpiece",
-                "great",
-                "work",
-                "best",
-                "artist"
-              ]
-            },
-            {
-              "word": "Non Sequitur",
-              "forbiddens": [
-                "logic",
-                "follow",
-                "unrelated",
-                "conclusion",
-                "random"
-              ]
-            },
-            {
-              "word": "Status Quo",
-              "forbiddens": [
-                "current",
-                "state",
-                "existing",
-                "unchanged",
-                "situation"
-              ]
-            },
-            {
-              "word": "Tabula Rasa",
-              "forbiddens": [
-                "blank",
-                "slate",
-                "mind",
-                "clean",
-                "birth"
-              ]
-            },
-            {
-              "word": "Carte Blanche",
-              "forbiddens": [
-                "freedom",
-                "complete",
-                "authority",
-                "blank",
-                "french"
-              ]
-            },
-            {
-              "word": "Fait Accompli",
-              "forbiddens": [
-                "done",
-                "irreversible",
-                "fact",
-                "accomplished",
-                "decision"
-              ]
-            },
-            {
-              "word": "Modus Operandi",
-              "forbiddens": [
-                "method",
-                "way",
-                "operate",
-                "criminal",
-                "procedure"
-              ]
-            },
-            {
-              "word": "Caveat Emptor",
-              "forbiddens": [
-                "buyer",
-                "beware",
-                "warning",
-                "purchase",
-                "risk"
-              ]
-            },
-            {
-              "word": "Demagoguery",
-              "forbiddens": [
-                "leader",
-                "populist",
-                "emotion",
-                "manipulate",
-                "crowd"
-              ]
-            },
-            {
-              "word": "Filigree",
-              "forbiddens": [
-                "delicate",
-                "metal",
-                "ornament",
-                "fine",
-                "wire"
-              ]
-            },
-            {
-              "word": "Jejune",
-              "forbiddens": [
-                "naive",
-                "simplistic",
-                "dull",
-                "childish",
-                "boring"
-              ]
-            },
-            {
-              "word": "Obstreperous",
-              "forbiddens": [
-                "noisy",
-                "unruly",
-                "difficult",
-                "loud",
-                "disruptive"
-              ]
-            },
-            {
-              "word": "Recondite",
-              "forbiddens": [
-                "obscure",
-                "difficult",
-                "understand",
-                "arcane",
-                "esoteric"
-              ]
-            },
-            {
-              "word": "Unconscionable",
-              "forbiddens": [
-                "unreasonable",
-                "immoral",
-                "outrageous",
-                "excessive",
-                "unfair"
-              ]
-            },
-            {
-              "word": "Perspicacious",
-              "forbiddens": [
-                "perceptive",
-                "sharp",
-                "keen",
-                "astute",
-                "insightful"
-              ]
-            },
-            {
-              "word": "Tergiversation",
-              "forbiddens": [
-                "evasion",
-                "change",
-                "side",
-                "abandon",
-                "equivocate"
-              ]
-            },
-            {
-              "word": "Weltanschauung",
-              "forbiddens": [
-                "worldview",
-                "philosophy",
-                "outlook",
-                "german",
-                "perspective"
-              ]
-            },
-            {
-              "word": "Persona Non Grata",
-              "forbiddens": [
-                "unwelcome",
-                "person",
-                "banned",
-                "diplomat",
-                "reject"
-              ]
-            },
-            {
-              "word": "Raison d'Etre",
-              "forbiddens": [
-                "reason",
-                "exist",
-                "purpose",
-                "french",
-                "being"
-              ]
-            },
-            {
-              "word": "Paradigm Shift",
-              "forbiddens": [
-                "change",
-                "fundamental",
-                "thinking",
-                "new",
-                "model"
-              ]
-            },
-            {
-              "word": "Cognitive Bias",
-              "forbiddens": [
-                "thinking",
-                "error",
-                "judgment",
-                "brain",
-                "systematic"
-              ]
-            },
-            {
-              "word": "Dunning-Kruger",
-              "forbiddens": [
-                "incompetent",
-                "overestimate",
-                "skill",
-                "confidence",
-                "ability"
-              ]
-            },
-            {
-              "word": "Occam's Razor",
-              "forbiddens": [
-                "simple",
-                "explanation",
-                "principle",
-                "fewest",
-                "assumptions"
-              ]
-            },
-            {
-              "word": "Stockholm Syndrome",
-              "forbiddens": [
-                "hostage",
-                "captor",
-                "bond",
-                "kidnap",
-                "sympathy"
-              ]
-            },
-            {
-              "word": "Schrodinger's Cat",
-              "forbiddens": [
-                "quantum",
-                "alive",
-                "dead",
-                "box",
-                "physics"
-              ]
-            },
-            {
-              "word": "Butterfly Effect",
-              "forbiddens": [
-                "small",
-                "change",
-                "chaos",
-                "consequence",
-                "ripple"
-              ]
-            },
-            {
-              "word": "Prisoner's Dilemma",
-              "forbiddens": [
-                "game",
-                "theory",
-                "cooperate",
-                "betray",
-                "choice"
-              ]
-            },
-            {
-              "word": "Trojan Horse",
-              "forbiddens": [
-                "greek",
-                "war",
-                "trick",
-                "inside",
-                "wooden"
-              ]
-            },
-            {
-              "word": "Pandora's Box",
-              "forbiddens": [
-                "open",
-                "evil",
-                "greek",
-                "myth",
-                "unleash"
+              "word": "Absurdism",
+              "forbiddens": [
+                "meaningless",
+                "camus",
+                "universe",
+                "search",
+                "accept"
               ]
             },
             {
@@ -6350,253 +4987,22 @@
               ]
             },
             {
-              "word": "Devil's Advocate",
+              "word": "Acrimonious",
               "forbiddens": [
-                "argue",
-                "opposite",
-                "debate",
-                "sake",
-                "position"
-              ]
-            },
-            {
-              "word": "Hobson's Choice",
-              "forbiddens": [
-                "no",
-                "option",
-                "take",
-                "leave",
-                "false"
-              ]
-            },
-            {
-              "word": "Catch-22",
-              "forbiddens": [
-                "paradox",
-                "situation",
-                "impossible",
-                "rule",
-                "trapped"
-              ]
-            },
-            {
-              "word": "Red Herring",
-              "forbiddens": [
-                "distraction",
-                "misleading",
-                "clue",
-                "false",
-                "mystery"
-              ]
-            },
-            {
-              "word": "Straw Man",
-              "forbiddens": [
-                "argument",
-                "false",
-                "misrepresent",
-                "weak",
-                "attack"
-              ]
-            },
-            {
-              "word": "Slippery Slope",
-              "forbiddens": [
-                "argument",
-                "lead",
-                "worse",
-                "chain",
-                "fallacy"
+                "bitter",
+                "angry",
+                "hostile",
+                "resentful",
+                "harsh"
               ]
             },
             {
               "word": "Ad Hominem",
               "forbiddens": [
-                "attack",
                 "person",
                 "argument",
                 "insult",
                 "fallacy"
-              ]
-            },
-            {
-              "word": "Reductio Ad Absurdum",
-              "forbiddens": [
-                "logic",
-                "absurd",
-                "argument",
-                "extreme",
-                "disprove"
-              ]
-            },
-            {
-              "word": "Occultism",
-              "forbiddens": [
-                "hidden",
-                "supernatural",
-                "magic",
-                "secret",
-                "mystical"
-              ]
-            },
-            {
-              "word": "Hermeneutics",
-              "forbiddens": [
-                "interpretation",
-                "text",
-                "meaning",
-                "bible",
-                "theory"
-              ]
-            },
-            {
-              "word": "Teleology",
-              "forbiddens": [
-                "purpose",
-                "end",
-                "goal",
-                "design",
-                "philosophy"
-              ]
-            },
-            {
-              "word": "Ontology",
-              "forbiddens": [
-                "being",
-                "existence",
-                "reality",
-                "philosophy",
-                "nature"
-              ]
-            },
-            {
-              "word": "Phenomenology",
-              "forbiddens": [
-                "experience",
-                "consciousness",
-                "philosophy",
-                "perception",
-                "subjective"
-              ]
-            },
-            {
-              "word": "Dialectics",
-              "forbiddens": [
-                "thesis",
-                "antithesis",
-                "synthesis",
-                "argument",
-                "hegel"
-              ]
-            },
-            {
-              "word": "Determinism",
-              "forbiddens": [
-                "fate",
-                "cause",
-                "free",
-                "will",
-                "predetermined"
-              ]
-            },
-            {
-              "word": "Utilitarianism",
-              "forbiddens": [
-                "greatest",
-                "good",
-                "happiness",
-                "moral",
-                "consequence"
-              ]
-            },
-            {
-              "word": "Deontology",
-              "forbiddens": [
-                "duty",
-                "moral",
-                "rule",
-                "kant",
-                "right"
-              ]
-            },
-            {
-              "word": "Empiricism",
-              "forbiddens": [
-                "experience",
-                "senses",
-                "knowledge",
-                "observation",
-                "evidence"
-              ]
-            },
-            {
-              "word": "Rationalism",
-              "forbiddens": [
-                "reason",
-                "logic",
-                "knowledge",
-                "mind",
-                "thinking"
-              ]
-            },
-            {
-              "word": "Nihilistic",
-              "forbiddens": [
-                "meaningless",
-                "nothing",
-                "value",
-                "existence",
-                "pointless"
-              ]
-            },
-            {
-              "word": "Absurdism",
-              "forbiddens": [
-                "meaningless",
-                "camus",
-                "universe",
-                "search",
-                "accept"
-              ]
-            },
-            {
-              "word": "Hedonism",
-              "forbiddens": [
-                "pleasure",
-                "pursuit",
-                "enjoy",
-                "pain",
-                "happiness"
-              ]
-            },
-            {
-              "word": "Asceticism",
-              "forbiddens": [
-                "deny",
-                "pleasure",
-                "simple",
-                "spiritual",
-                "discipline"
-              ]
-            },
-            {
-              "word": "Relativism",
-              "forbiddens": [
-                "relative",
-                "truth",
-                "perspective",
-                "culture",
-                "absolute"
-              ]
-            },
-            {
-              "word": "Dogmatism",
-              "forbiddens": [
-                "rigid",
-                "belief",
-                "opinion",
-                "authority",
-                "question"
               ]
             },
             {
@@ -6610,73 +5016,23 @@
               ]
             },
             {
-              "word": "Pantheism",
+              "word": "Ambidextrous",
               "forbiddens": [
-                "god",
-                "nature",
-                "everything",
-                "divine",
-                "universe"
+                "hand",
+                "both",
+                "left",
+                "right",
+                "write"
               ]
             },
             {
-              "word": "Polyglot",
+              "word": "Anachronism",
               "forbiddens": [
-                "language",
-                "many",
-                "speak",
-                "fluent",
-                "multiple"
-              ]
-            },
-            {
-              "word": "Autodidact",
-              "forbiddens": [
-                "self",
-                "taught",
-                "learn",
-                "education",
-                "alone"
-              ]
-            },
-            {
-              "word": "Curmudgeon",
-              "forbiddens": [
-                "grumpy",
-                "old",
-                "complain",
-                "cranky",
-                "irritable"
-              ]
-            },
-            {
-              "word": "Dilettante",
-              "forbiddens": [
-                "amateur",
-                "dabble",
-                "superficial",
-                "hobby",
-                "casual"
-              ]
-            },
-            {
-              "word": "Ennui",
-              "forbiddens": [
-                "boredom",
-                "weary",
-                "listless",
-                "french",
-                "tedium"
-              ]
-            },
-            {
-              "word": "Juxtapose",
-              "forbiddens": [
-                "side",
-                "compare",
-                "contrast",
-                "place",
-                "together"
+                "time",
+                "wrong",
+                "period",
+                "out",
+                "historical"
               ]
             },
             {
@@ -6690,326 +5046,6 @@
               ]
             },
             {
-              "word": "Behemoth",
-              "forbiddens": [
-                "huge",
-                "monster",
-                "massive",
-                "giant",
-                "beast"
-              ]
-            },
-            {
-              "word": "Chicanery",
-              "forbiddens": [
-                "trick",
-                "deception",
-                "dishonest",
-                "scheme",
-                "fraud"
-              ]
-            },
-            {
-              "word": "Duplicity",
-              "forbiddens": [
-                "deceit",
-                "double",
-                "dishonest",
-                "two-faced",
-                "lie"
-              ]
-            },
-            {
-              "word": "Equivocate",
-              "forbiddens": [
-                "vague",
-                "ambiguous",
-                "avoid",
-                "unclear",
-                "hedge"
-              ]
-            },
-            {
-              "word": "Finagle",
-              "forbiddens": [
-                "trick",
-                "manipulate",
-                "scheme",
-                "obtain",
-                "cunning"
-              ]
-            },
-            {
-              "word": "Grandiloquent",
-              "forbiddens": [
-                "pompous",
-                "speech",
-                "extravagant",
-                "flowery",
-                "bombastic"
-              ]
-            },
-            {
-              "word": "Harangue",
-              "forbiddens": [
-                "lecture",
-                "angry",
-                "speech",
-                "rant",
-                "criticize"
-              ]
-            },
-            {
-              "word": "Incorrigible",
-              "forbiddens": [
-                "hopeless",
-                "change",
-                "reform",
-                "bad",
-                "beyond"
-              ]
-            },
-            {
-              "word": "Legerdemain",
-              "forbiddens": [
-                "trick",
-                "magic",
-                "sleight",
-                "hand",
-                "deception"
-              ]
-            },
-            {
-              "word": "Machination",
-              "forbiddens": [
-                "plot",
-                "scheme",
-                "plan",
-                "evil",
-                "conspire"
-              ]
-            },
-            {
-              "word": "Nefarious",
-              "forbiddens": [
-                "wicked",
-                "evil",
-                "villainous",
-                "criminal",
-                "sinister"
-              ]
-            },
-            {
-              "word": "Obsequious",
-              "forbiddens": [
-                "servile",
-                "flattering",
-                "submissive",
-                "fawning",
-                "compliant"
-              ]
-            },
-            {
-              "word": "Pernicious",
-              "forbiddens": [
-                "harmful",
-                "destructive",
-                "deadly",
-                "subtle",
-                "dangerous"
-              ]
-            },
-            {
-              "word": "Recalcitrance",
-              "forbiddens": [
-                "stubborn",
-                "resist",
-                "defy",
-                "obstinate",
-                "refuse"
-              ]
-            },
-            {
-              "word": "Sanctimonious",
-              "forbiddens": [
-                "self-righteous",
-                "moral",
-                "superior",
-                "preachy",
-                "hypocrite"
-              ]
-            },
-            {
-              "word": "Trepidation",
-              "forbiddens": [
-                "fear",
-                "anxiety",
-                "nervous",
-                "apprehension",
-                "dread"
-              ]
-            },
-            {
-              "word": "Vituperative",
-              "forbiddens": [
-                "abusive",
-                "harsh",
-                "criticism",
-                "bitter",
-                "scathing"
-              ]
-            },
-            {
-              "word": "Acrimonious",
-              "forbiddens": [
-                "bitter",
-                "angry",
-                "hostile",
-                "resentful",
-                "harsh"
-              ]
-            },
-            {
-              "word": "Bellicose",
-              "forbiddens": [
-                "aggressive",
-                "warlike",
-                "hostile",
-                "combative",
-                "fight"
-              ]
-            },
-            {
-              "word": "Capricious",
-              "forbiddens": [
-                "unpredictable",
-                "changeable",
-                "whimsical",
-                "fickle",
-                "mood"
-              ]
-            },
-            {
-              "word": "Deleterious",
-              "forbiddens": [
-                "harmful",
-                "damaging",
-                "detrimental",
-                "negative",
-                "injurious"
-              ]
-            },
-            {
-              "word": "Ebullient",
-              "forbiddens": [
-                "enthusiastic",
-                "cheerful",
-                "energetic",
-                "bubbly",
-                "lively"
-              ]
-            },
-            {
-              "word": "Fallacious",
-              "forbiddens": [
-                "false",
-                "misleading",
-                "wrong",
-                "deceptive",
-                "erroneous"
-              ]
-            },
-            {
-              "word": "Garrulous",
-              "forbiddens": [
-                "talkative",
-                "chatty",
-                "rambling",
-                "wordy",
-                "verbose"
-              ]
-            },
-            {
-              "word": "Hegemonic",
-              "forbiddens": [
-                "dominant",
-                "ruling",
-                "supreme",
-                "authority",
-                "power"
-              ]
-            },
-            {
-              "word": "Ignominious",
-              "forbiddens": [
-                "shameful",
-                "disgraceful",
-                "humiliating",
-                "embarrassing",
-                "dishonorable"
-              ]
-            },
-            {
-              "word": "Kapellmeister",
-              "forbiddens": [
-                "music",
-                "director",
-                "orchestra",
-                "conductor",
-                "german"
-              ]
-            },
-            {
-              "word": "Litigious",
-              "forbiddens": [
-                "lawsuit",
-                "sue",
-                "legal",
-                "court",
-                "dispute"
-              ]
-            },
-            {
-              "word": "Mordant",
-              "forbiddens": [
-                "biting",
-                "sarcastic",
-                "sharp",
-                "caustic",
-                "wit"
-              ]
-            },
-            {
-              "word": "Nugatory",
-              "forbiddens": [
-                "worthless",
-                "futile",
-                "useless",
-                "trivial",
-                "insignificant"
-              ]
-            },
-            {
-              "word": "Opprobrium",
-              "forbiddens": [
-                "disgrace",
-                "shame",
-                "criticism",
-                "contempt",
-                "scorn"
-              ]
-            },
-            {
-              "word": "Perfidious",
-              "forbiddens": [
-                "treacherous",
-                "disloyal",
-                "betrayal",
-                "deceitful",
-                "unfaithful"
-              ]
-            },
-            {
               "word": "Antediluvian",
               "forbiddens": [
                 "ancient",
@@ -7020,73 +5056,33 @@
               ]
             },
             {
-              "word": "Palimpsest",
+              "word": "Anthropomorphism",
               "forbiddens": [
-                "manuscript",
-                "erase",
-                "write",
-                "layer",
-                "reuse"
+                "human",
+                "animal",
+                "traits",
+                "character",
+                "personify"
               ]
             },
             {
-              "word": "Synecdoche",
+              "word": "Antinomy",
               "forbiddens": [
-                "part",
-                "whole",
-                "figure",
-                "speech",
-                "represent"
+                "contradiction",
+                "law",
+                "paradox",
+                "reason",
+                "conflict"
               ]
             },
             {
-              "word": "Oneirology",
+              "word": "Antithesis",
               "forbiddens": [
-                "dream",
-                "study",
-                "sleep",
-                "science",
-                "mind"
-              ]
-            },
-            {
-              "word": "Vellichor",
-              "forbiddens": [
-                "bookstore",
-                "old",
-                "smell",
-                "nostalgia",
-                "feeling"
-              ]
-            },
-            {
-              "word": "Saudade",
-              "forbiddens": [
-                "longing",
-                "portuguese",
-                "melancholy",
-                "miss",
-                "absence"
-              ]
-            },
-            {
-              "word": "Petrichor",
-              "forbiddens": [
-                "rain",
-                "smell",
-                "earth",
-                "wet",
-                "ground"
-              ]
-            },
-            {
-              "word": "Liminal",
-              "forbiddens": [
-                "threshold",
-                "between",
-                "transition",
-                "boundary",
-                "space"
+                "opposite",
+                "contrast",
+                "against",
+                "thesis",
+                "contrary"
               ]
             },
             {
@@ -7100,13 +5096,23 @@
               ]
             },
             {
-              "word": "Sonder",
+              "word": "Aporia",
               "forbiddens": [
-                "stranger",
-                "life",
-                "complex",
-                "realize",
-                "everyone"
+                "puzzle",
+                "doubt",
+                "philosophy",
+                "impasse",
+                "contradiction"
+              ]
+            },
+            {
+              "word": "Apothegm",
+              "forbiddens": [
+                "saying",
+                "short",
+                "witty",
+                "maxim",
+                "concise"
               ]
             },
             {
@@ -7120,43 +5126,123 @@
               ]
             },
             {
-              "word": "Hiraeth",
+              "word": "Asceticism",
               "forbiddens": [
-                "home",
-                "longing",
-                "welsh",
-                "nostalgia",
-                "past"
+                "deny",
+                "pleasure",
+                "simple",
+                "spiritual",
+                "discipline"
               ]
             },
             {
-              "word": "Tsundoku",
+              "word": "Aufheben",
+              "forbiddens": [
+                "sublate",
+                "hegel",
+                "cancel",
+                "preserve",
+                "elevate"
+              ]
+            },
+            {
+              "word": "Autodidact",
+              "forbiddens": [
+                "self",
+                "taught",
+                "learn",
+                "education",
+                "alone"
+              ]
+            },
+            {
+              "word": "Axiological",
+              "forbiddens": [
+                "value",
+                "philosophy",
+                "ethics",
+                "worth",
+                "study"
+              ]
+            },
+            {
+              "word": "Behemoth",
+              "forbiddens": [
+                "huge",
+                "monster",
+                "massive",
+                "giant",
+                "beast"
+              ]
+            },
+            {
+              "word": "Bellicose",
+              "forbiddens": [
+                "aggressive",
+                "warlike",
+                "hostile",
+                "combative",
+                "fight"
+              ]
+            },
+            {
+              "word": "Bibliophile",
               "forbiddens": [
                 "book",
-                "pile",
-                "unread",
-                "buy",
-                "japanese"
-              ]
-            },
-            {
-              "word": "Meraki",
-              "forbiddens": [
-                "soul",
-                "creative",
                 "love",
-                "greek",
-                "passion"
+                "read",
+                "collect",
+                "library"
               ]
             },
             {
-              "word": "Wabi-Sabi",
+              "word": "Bildungsroman",
               "forbiddens": [
-                "imperfect",
-                "beauty",
-                "japanese",
+                "coming",
+                "age",
+                "novel",
+                "growth",
+                "story"
+              ]
+            },
+            {
+              "word": "Biodegradable",
+              "forbiddens": [
                 "nature",
-                "transient"
+                "decompose",
+                "waste",
+                "organic",
+                "environment"
+              ]
+            },
+            {
+              "word": "Bioethics",
+              "forbiddens": [
+                "moral",
+                "medicine",
+                "life",
+                "ethics",
+                "science"
+              ]
+            },
+            {
+              "word": "Bioluminescence",
+              "forbiddens": [
+                "light",
+                "glow",
+                "ocean",
+                "organism",
+                "dark"
+              ]
+            },
+            {
+              "word": "Bourgeoisie",
+              "forbiddens": [
+                "middle",
+                "class",
+                "wealthy",
+                "marx",
+                "society"
               ]
             },
             {
@@ -7170,93 +5256,482 @@
               ]
             },
             {
-              "word": "Lacuna",
+              "word": "Butterfly Effect",
               "forbiddens": [
-                "gap",
-                "missing",
-                "space",
-                "text",
-                "blank"
+                "small",
+                "change",
+                "chaos",
+                "consequence",
+                "ripple"
               ]
             },
             {
-              "word": "Simulacrum",
+              "word": "Cacophony",
               "forbiddens": [
-                "copy",
-                "image",
-                "real",
-                "representation",
-                "imitation"
+                "noise",
+                "harsh",
+                "sound",
+                "unpleasant",
+                "loud"
               ]
             },
             {
-              "word": "Heterodox",
+              "word": "Capricious",
               "forbiddens": [
-                "unorthodox",
-                "different",
-                "opinion",
+                "unpredictable",
+                "changeable",
+                "whimsical",
+                "fickle",
+                "mood"
+              ]
+            },
+            {
+              "word": "Carte Blanche",
+              "forbiddens": [
+                "freedom",
+                "complete",
+                "authority",
+                "blank",
+                "french"
+              ]
+            },
+            {
+              "word": "Catch-22",
+              "forbiddens": [
+                "paradox",
+                "situation",
+                "impossible",
+                "rule",
+                "trapped"
+              ]
+            },
+            {
+              "word": "Catharsis",
+              "forbiddens": [
+                "release",
+                "emotion",
+                "purge",
+                "relief",
+                "theater"
+              ]
+            },
+            {
+              "word": "Cathexis",
+              "forbiddens": [
+                "energy",
+                "psychic",
+                "freud",
+                "invest",
+                "mental"
+              ]
+            },
+            {
+              "word": "Caveat Emptor",
+              "forbiddens": [
+                "buyer",
+                "beware",
+                "warning",
+                "purchase",
+                "risk"
+              ]
+            },
+            {
+              "word": "Change Of Heart",
+              "forbiddens": [
+                "Decision",
+                "Mind",
+                "Reverse",
+                "Feeling",
+                "Switch"
+              ]
+            },
+            {
+              "word": "Chicanery",
+              "forbiddens": [
+                "trick",
+                "deception",
+                "dishonest",
+                "scheme"
+              ]
+            },
+            {
+              "word": "Clerisy",
+              "forbiddens": [
+                "intellectual",
+                "educated",
+                "class",
+                "elite",
+                "learned"
+              ]
+            },
+            {
+              "word": "Clinamen",
+              "forbiddens": [
+                "swerve",
+                "atom",
+                "epicurus",
+                "deviation",
+                "random"
+              ]
+            },
+            {
+              "word": "Cognitive Bias",
+              "forbiddens": [
+                "thinking",
+                "error",
+                "judgment",
+                "brain",
+                "systematic"
+              ]
+            },
+            {
+              "word": "Cognitive Dissonance",
+              "forbiddens": [
                 "belief",
-                "standard"
+                "conflict",
+                "mind",
+                "contradiction",
+                "psychology"
               ]
             },
             {
-              "word": "Prolegomenon",
+              "word": "Compartmentalize",
               "forbiddens": [
-                "introduction",
-                "preface",
-                "book",
-                "critical",
-                "essay"
+                "separate",
+                "organize",
+                "emotion",
+                "section",
+                "divide"
               ]
             },
             {
-              "word": "Haecceity",
+              "word": "Conflict Of Interest",
               "forbiddens": [
-                "thisness",
-                "individual",
-                "unique",
-                "quality",
-                "particular"
+                "Bias",
+                "Personal",
+                "Decision",
+                "Ethics",
+                "Loyalty"
               ]
             },
             {
-              "word": "Noumenon",
+              "word": "Cosmopolitan",
               "forbiddens": [
-                "thing",
-                "itself",
+                "world",
+                "city",
+                "diverse",
+                "sophisticated",
+                "global"
+              ]
+            },
+            {
+              "word": "Counterintuitive",
+              "forbiddens": [
+                "opposite",
+                "expect",
+                "surprising",
+                "logic",
+                "against"
+              ]
+            },
+            {
+              "word": "Cryptocurrency",
+              "forbiddens": [
+                "bitcoin",
+                "blockchain",
+                "digital",
+                "mining",
+                "wallet"
+              ]
+            },
+            {
+              "word": "Cryptozoology",
+              "forbiddens": [
+                "hidden",
+                "animal",
+                "study",
+                "creature",
+                "myth"
+              ]
+            },
+            {
+              "word": "Curmudgeon",
+              "forbiddens": [
+                "grumpy",
+                "old",
+                "complain",
+                "cranky",
+                "irritable"
+              ]
+            },
+            {
+              "word": "Dasein",
+              "forbiddens": [
+                "being",
+                "heidegger",
+                "existence",
+                "there",
+                "german"
+              ]
+            },
+            {
+              "word": "Defenestration",
+              "forbiddens": [
+                "window",
+                "throw",
+                "out",
+                "building",
+                "prague"
+              ]
+            },
+            {
+              "word": "Deleterious",
+              "forbiddens": [
+                "harmful",
+                "damaging",
+                "detrimental",
+                "negative",
+                "injurious"
+              ]
+            },
+            {
+              "word": "Demagoguery",
+              "forbiddens": [
+                "leader",
+                "populist",
+                "emotion",
+                "manipulate",
+                "crowd"
+              ]
+            },
+            {
+              "word": "Democracy",
+              "forbiddens": [
+                "vote",
+                "government",
+                "people",
+                "election",
+                "politics"
+              ]
+            },
+            {
+              "word": "Denouement",
+              "forbiddens": [
+                "ending",
+                "resolution",
+                "story",
+                "climax",
+                "final"
+              ]
+            },
+            {
+              "word": "Deontology",
+              "forbiddens": [
+                "duty",
+                "moral",
+                "rule",
                 "kant",
-                "beyond",
-                "perception"
+                "right"
               ]
             },
             {
-              "word": "Aporia",
+              "word": "Determinism",
               "forbiddens": [
-                "puzzle",
-                "doubt",
-                "philosophy",
-                "impasse",
-                "contradiction"
+                "fate",
+                "cause",
+                "free",
+                "will",
+                "predetermined"
               ]
             },
             {
-              "word": "Qualia",
+              "word": "Dialectics",
+              "forbiddens": [
+                "thesis",
+                "antithesis",
+                "synthesis",
+                "argument",
+                "hegel"
+              ]
+            },
+            {
+              "word": "Dichotomy",
+              "forbiddens": [
+                "two",
+                "divide",
+                "opposite",
+                "split",
+                "contrast"
+              ]
+            },
+            {
+              "word": "Différance",
+              "forbiddens": [
+                "derrida",
+                "differ",
+                "defer",
+                "meaning",
+                "language"
+              ]
+            },
+            {
+              "word": "Dilettante",
+              "forbiddens": [
+                "amateur",
+                "dabble",
+                "superficial",
+                "hobby",
+                "casual"
+              ]
+            },
+            {
+              "word": "Dogmatism",
+              "forbiddens": [
+                "rigid",
+                "belief",
+                "opinion",
+                "authority",
+                "question"
+              ]
+            },
+            {
+              "word": "Dunning Kruger Effect",
+              "forbiddens": [
+                "Confident",
+                "Skill",
+                "Bias",
+                "Aware",
+                "Expert"
+              ]
+            },
+            {
+              "word": "Dunning-Kruger",
+              "forbiddens": [
+                "incompetent",
+                "overestimate",
+                "skill",
+                "confidence",
+                "ability"
+              ]
+            },
+            {
+              "word": "Duplicity",
+              "forbiddens": [
+                "deceit",
+                "double",
+                "dishonest",
+                "two-faced",
+                "lie"
+              ]
+            },
+            {
+              "word": "Ebullient",
+              "forbiddens": [
+                "enthusiastic",
+                "cheerful",
+                "energetic",
+                "bubbly",
+                "lively"
+              ]
+            },
+            {
+              "word": "Egalitarian",
+              "forbiddens": [
+                "equal",
+                "rights",
+                "fair",
+                "everyone",
+                "same"
+              ]
+            },
+            {
+              "word": "Elephant In Room",
+              "forbiddens": [
+                "Avoid",
+                "Topic",
+                "Obvious",
+                "Silence",
+                "Discuss"
+              ]
+            },
+            {
+              "word": "Empiricism",
               "forbiddens": [
                 "experience",
-                "subjective",
-                "conscious",
-                "feel",
-                "sensation"
+                "senses",
+                "knowledge",
+                "observation",
+                "evidence"
               ]
             },
             {
-              "word": "Phronesis",
+              "word": "Ennui",
               "forbiddens": [
-                "wisdom",
-                "practical",
+                "boredom",
+                "weary",
+                "listless",
+                "french",
+                "tedium"
+              ]
+            },
+            {
+              "word": "Entelechy",
+              "forbiddens": [
+                "potential",
+                "actual",
                 "aristotle",
-                "virtue",
-                "judgment"
+                "soul",
+                "purpose"
+              ]
+            },
+            {
+              "word": "Epiphany",
+              "forbiddens": [
+                "realization",
+                "sudden",
+                "insight",
+                "moment",
+                "understand"
+              ]
+            },
+            {
+              "word": "Epistemology",
+              "forbiddens": [
+                "knowledge",
+                "philosophy",
+                "study",
+                "truth",
+                "believe"
+              ]
+            },
+            {
+              "word": "Epoché",
+              "forbiddens": [
+                "suspend",
+                "judgment",
+                "husserl",
+                "bracket",
+                "doubt"
+              ]
+            },
+            {
+              "word": "Equivocate",
+              "forbiddens": [
+                "vague",
+                "ambiguous",
+                "avoid",
+                "unclear",
+                "hedge"
+              ]
+            },
+            {
+              "word": "Ethnocentrism",
+              "forbiddens": [
+                "culture",
+                "superior",
+                "own",
+                "judge",
+                "bias"
               ]
             },
             {
@@ -7270,12 +5745,392 @@
               ]
             },
             {
-              "word": "Dasein",
+              "word": "Euphemism",
               "forbiddens": [
-                "being",
-                "heidegger",
-                "existence",
-                "there",
+                "mild",
+                "word",
+                "polite",
+                "replace",
+                "indirect"
+              ]
+            },
+            {
+              "word": "Existentialism",
+              "forbiddens": [
+                "meaning",
+                "life",
+                "philosophy",
+                "freedom",
+                "exist"
+              ]
+            },
+            {
+              "word": "Facetious",
+              "forbiddens": [
+                "joke",
+                "serious",
+                "humor",
+                "sarcastic",
+                "playful"
+              ]
+            },
+            {
+              "word": "Fait Accompli",
+              "forbiddens": [
+                "done",
+                "irreversible",
+                "fact",
+                "accomplished",
+                "decision"
+              ]
+            },
+            {
+              "word": "Fallacious",
+              "forbiddens": [
+                "false",
+                "misleading",
+                "wrong",
+                "deceptive",
+                "erroneous"
+              ]
+            },
+            {
+              "word": "Filigree",
+              "forbiddens": [
+                "delicate",
+                "metal",
+                "ornament",
+                "fine",
+                "wire"
+              ]
+            },
+            {
+              "word": "Finagle",
+              "forbiddens": [
+                "trick",
+                "manipulate",
+                "scheme",
+                "obtain",
+                "cunning"
+              ]
+            },
+            {
+              "word": "Flabbergasted",
+              "forbiddens": [
+                "shocked",
+                "surprised",
+                "amazed",
+                "stunned",
+                "speechless"
+              ]
+            },
+            {
+              "word": "Foreshadowing",
+              "forbiddens": [
+                "hint",
+                "future",
+                "story",
+                "clue",
+                "predict"
+              ]
+            },
+            {
+              "word": "Garrulous",
+              "forbiddens": [
+                "talkative",
+                "chatty",
+                "rambling",
+                "wordy",
+                "verbose"
+              ]
+            },
+            {
+              "word": "Gaslighting",
+              "forbiddens": [
+                "manipulate",
+                "crazy",
+                "doubt",
+                "reality",
+                "lie"
+              ]
+            },
+            {
+              "word": "Gentrification",
+              "forbiddens": [
+                "neighborhood",
+                "rich",
+                "change",
+                "expensive",
+                "displace"
+              ]
+            },
+            {
+              "word": "Gerrymandering",
+              "forbiddens": [
+                "vote",
+                "district",
+                "politics",
+                "map",
+                "boundary"
+              ]
+            },
+            {
+              "word": "Grandiloquent",
+              "forbiddens": [
+                "pompous",
+                "speech",
+                "extravagant",
+                "flowery",
+                "bombastic"
+              ]
+            },
+            {
+              "word": "Gregarious",
+              "forbiddens": [
+                "social",
+                "friendly",
+                "outgoing",
+                "people",
+                "group"
+              ]
+            },
+            {
+              "word": "Haecceity",
+              "forbiddens": [
+                "thisness",
+                "individual",
+                "unique",
+                "quality",
+                "particular"
+              ]
+            },
+            {
+              "word": "Harangue",
+              "forbiddens": [
+                "lecture",
+                "angry",
+                "speech",
+                "rant",
+                "criticize"
+              ]
+            },
+            {
+              "word": "Harbinger",
+              "forbiddens": [
+                "sign",
+                "warning",
+                "future",
+                "omen",
+                "herald"
+              ]
+            },
+            {
+              "word": "Hedonism",
+              "forbiddens": [
+                "pleasure",
+                "pursuit",
+                "enjoy",
+                "pain",
+                "happiness"
+              ]
+            },
+            {
+              "word": "Hegemonic",
+              "forbiddens": [
+                "dominant",
+                "ruling",
+                "supreme",
+                "authority",
+                "power"
+              ]
+            },
+            {
+              "word": "Hegemony",
+              "forbiddens": [
+                "dominant",
+                "power",
+                "control",
+                "influence",
+                "leader"
+              ]
+            },
+            {
+              "word": "Hermeneutics",
+              "forbiddens": [
+                "interpretation",
+                "text",
+                "meaning",
+                "bible",
+                "theory"
+              ]
+            },
+            {
+              "word": "Heterodox",
+              "forbiddens": [
+                "unorthodox",
+                "different",
+                "opinion",
+                "belief",
+                "standard"
+              ]
+            },
+            {
+              "word": "Hiraeth",
+              "forbiddens": [
+                "home",
+                "longing",
+                "welsh",
+                "nostalgia",
+                "past"
+              ]
+            },
+            {
+              "word": "Hobson's Choice",
+              "forbiddens": [
+                "no",
+                "option",
+                "take",
+                "leave",
+                "false"
+              ]
+            },
+            {
+              "word": "Hubris",
+              "forbiddens": [
+                "pride",
+                "arrogant",
+                "excessive",
+                "fall",
+                "greek"
+              ]
+            },
+            {
+              "word": "Hyperreality",
+              "forbiddens": [
+                "real",
+                "simulation",
+                "baudrillard",
+                "fake",
+                "media"
+              ]
+            },
+            {
+              "word": "Iconoclast",
+              "forbiddens": [
+                "rebel",
+                "tradition",
+                "break",
+                "convention",
+                "challenge"
+              ]
+            },
+            {
+              "word": "Idiosyncrasy",
+              "forbiddens": [
+                "quirk",
+                "peculiar",
+                "habit",
+                "unique",
+                "behavior"
+              ]
+            },
+            {
+              "word": "Ignominious",
+              "forbiddens": [
+                "shameful",
+                "disgraceful",
+                "humiliating",
+                "embarrassing",
+                "dishonorable"
+              ]
+            },
+            {
+              "word": "Imperialism",
+              "forbiddens": [
+                "empire",
+                "colony",
+                "power",
+                "country",
+                "rule"
+              ]
+            },
+            {
+              "word": "Incorrigible",
+              "forbiddens": [
+                "hopeless",
+                "change",
+                "reform",
+                "bad",
+                "beyond"
+              ]
+            },
+            {
+              "word": "Inscrutable",
+              "forbiddens": [
+                "mysterious",
+                "understand",
+                "expression",
+                "impossible",
+                "read"
+              ]
+            },
+            {
+              "word": "Jejune",
+              "forbiddens": [
+                "naive",
+                "simplistic",
+                "dull",
+                "childish",
+                "boring"
+              ]
+            },
+            {
+              "word": "Jingoism",
+              "forbiddens": [
+                "patriotism",
+                "extreme",
+                "aggressive",
+                "country",
+                "war"
+              ]
+            },
+            {
+              "word": "Juxtapose",
+              "forbiddens": [
+                "side",
+                "compare",
+                "contrast",
+                "place",
+                "together"
+              ]
+            },
+            {
+              "word": "Juxtaposition",
+              "forbiddens": [
+                "side",
+                "compare",
+                "contrast",
+                "next",
+                "together"
+              ]
+            },
+            {
+              "word": "Kafkaesque",
+              "forbiddens": [
+                "absurd",
+                "bureaucratic",
+                "nightmare",
+                "surreal",
+                "kafka"
+              ]
+            },
+            {
+              "word": "Kapellmeister",
+              "forbiddens": [
+                "music",
+                "director",
+                "orchestra",
+                "conductor",
                 "german"
               ]
             },
@@ -7290,53 +6145,182 @@
               ]
             },
             {
-              "word": "Praxis",
+              "word": "Kleptocracy",
               "forbiddens": [
-                "practice",
-                "theory",
-                "action",
-                "apply",
-                "do"
+                "government",
+                "corrupt",
+                "ruler",
+                "money"
               ]
             },
             {
-              "word": "Apothegm",
+              "word": "Laconic",
               "forbiddens": [
-                "saying",
-                "short",
-                "witty",
-                "maxim",
-                "concise"
+                "brief",
+                "few",
+                "words",
+                "concise",
+                "short"
               ]
             },
             {
-              "word": "Clerisy",
+              "word": "Lacuna",
               "forbiddens": [
-                "intellectual",
-                "educated",
-                "class",
-                "elite",
-                "learned"
+                "gap",
+                "missing",
+                "space",
+                "text",
+                "blank"
               ]
             },
             {
-              "word": "Cathexis",
+              "word": "Laissez-faire",
               "forbiddens": [
-                "energy",
-                "psychic",
-                "freud",
-                "invest",
-                "mental"
+                "free",
+                "market",
+                "government",
+                "economy",
+                "hands-off"
               ]
             },
             {
-              "word": "Antinomy",
+              "word": "Leap Of Faith",
               "forbiddens": [
-                "contradiction",
-                "law",
-                "paradox",
-                "reason",
-                "conflict"
+                "Trust",
+                "Jump",
+                "Believe",
+                "Risk",
+                "Unknown"
+              ]
+            },
+            {
+              "word": "Legerdemain",
+              "forbiddens": [
+                "trick",
+                "magic",
+                "sleight",
+                "hand",
+                "deception"
+              ]
+            },
+            {
+              "word": "Level Playing Field",
+              "forbiddens": [
+                "Fair",
+                "Equal",
+                "Game",
+                "Chance",
+                "Compete"
+              ]
+            },
+            {
+              "word": "Liminal",
+              "forbiddens": [
+                "threshold",
+                "between",
+                "transition",
+                "boundary",
+                "space"
+              ]
+            },
+            {
+              "word": "Litigious",
+              "forbiddens": [
+                "lawsuit",
+                "sue",
+                "legal",
+                "court",
+                "dispute"
+              ]
+            },
+            {
+              "word": "Loquacious",
+              "forbiddens": [
+                "talk",
+                "chatty",
+                "verbose",
+                "wordy",
+                "speak"
+              ]
+            },
+            {
+              "word": "Luddite",
+              "forbiddens": [
+                "technology",
+                "against",
+                "machine",
+                "progress",
+                "resist"
+              ]
+            },
+            {
+              "word": "Machiavellian",
+              "forbiddens": [
+                "cunning",
+                "power",
+                "politics",
+                "manipulate",
+                "prince"
+              ]
+            },
+            {
+              "word": "Machination",
+              "forbiddens": [
+                "plot",
+                "scheme",
+                "plan",
+                "evil",
+                "conspire"
+              ]
+            },
+            {
+              "word": "Magnanimous",
+              "forbiddens": [
+                "generous",
+                "forgiving",
+                "noble",
+                "big",
+                "kind"
+              ]
+            },
+            {
+              "word": "Magnum Opus",
+              "forbiddens": [
+                "masterpiece",
+                "great",
+                "work",
+                "best",
+                "artist"
+              ]
+            },
+            {
+              "word": "Malapropism",
+              "forbiddens": [
+                "word",
+                "wrong",
+                "similar",
+                "mistake",
+                "funny"
+              ]
+            },
+            {
+              "word": "Mellifluous",
+              "forbiddens": [
+                "sweet",
+                "smooth",
+                "sound",
+                "pleasant",
+                "voice"
+              ]
+            },
+            {
+              "word": "Meraki",
+              "forbiddens": [
+                "soul",
+                "creative",
+                "love",
+                "greek",
+                "passion"
               ]
             },
             {
@@ -7350,103 +6334,251 @@
               ]
             },
             {
-              "word": "Stochastic",
+              "word": "Metamorphosis",
               "forbiddens": [
-                "random",
-                "probability",
-                "process",
-                "variable",
-                "predict"
+                "change",
+                "transform",
+                "butterfly",
+                "caterpillar",
+                "form"
               ]
             },
             {
-              "word": "Aufheben",
+              "word": "Microaggression",
               "forbiddens": [
-                "sublate",
-                "hegel",
-                "cancel",
-                "preserve",
-                "elevate"
+                "subtle",
+                "offense",
+                "comment",
+                "discriminate",
+                "small"
               ]
             },
             {
-              "word": "Paralogism",
+              "word": "Misanthrope",
               "forbiddens": [
-                "fallacy",
+                "hate",
+                "people",
+                "antisocial",
+                "dislike",
+                "humanity"
+              ]
+            },
+            {
+              "word": "Modus Operandi",
+              "forbiddens": [
+                "method",
+                "way",
+                "operate",
+                "procedure"
+              ]
+            },
+            {
+              "word": "Mordant",
+              "forbiddens": [
+                "biting",
+                "sarcastic",
+                "sharp",
+                "caustic",
+                "wit"
+              ]
+            },
+            {
+              "word": "Nefarious",
+              "forbiddens": [
+                "wicked",
+                "evil",
+                "villainous",
+                "sinister"
+              ]
+            },
+            {
+              "word": "Nepotism",
+              "forbiddens": [
+                "family",
+                "hire",
+                "favor",
+                "relative",
+                "job"
+              ]
+            },
+            {
+              "word": "Nihilism",
+              "forbiddens": [
+                "nothing",
+                "meaning",
+                "belief",
+                "reject",
+                "value"
+              ]
+            },
+            {
+              "word": "Nihilistic",
+              "forbiddens": [
+                "meaningless",
+                "nothing",
+                "value",
+                "existence",
+                "pointless"
+              ]
+            },
+            {
+              "word": "Non Sequitur",
+              "forbiddens": [
                 "logic",
-                "reason",
-                "false",
-                "argument"
-              ]
-            },
-            {
-              "word": "Entelechy",
-              "forbiddens": [
-                "potential",
-                "actual",
-                "aristotle",
-                "soul",
-                "purpose"
-              ]
-            },
-            {
-              "word": "Clinamen",
-              "forbiddens": [
-                "swerve",
-                "atom",
-                "epicurus",
-                "deviation",
+                "follow",
+                "unrelated",
+                "conclusion",
                 "random"
               ]
             },
             {
-              "word": "Différance",
+              "word": "Nonchalant",
               "forbiddens": [
-                "derrida",
-                "differ",
-                "defer",
-                "meaning",
-                "language"
+                "casual",
+                "calm",
+                "care",
+                "relaxed",
+                "cool"
               ]
             },
             {
-              "word": "Bioethics",
+              "word": "Noumenon",
               "forbiddens": [
-                "moral",
-                "medicine",
-                "life",
-                "ethics",
-                "science"
+                "thing",
+                "itself",
+                "kant",
+                "beyond",
+                "perception"
               ]
             },
             {
-              "word": "Technocracy",
+              "word": "Nugatory",
               "forbiddens": [
-                "expert",
-                "govern",
-                "technology",
+                "worthless",
+                "futile",
+                "useless",
+                "trivial",
+                "insignificant"
+              ]
+            },
+            {
+              "word": "Obfuscate",
+              "forbiddens": [
+                "confuse",
+                "obscure",
+                "unclear",
+                "hide",
+                "muddy"
+              ]
+            },
+            {
+              "word": "Obsequious",
+              "forbiddens": [
+                "servile",
+                "flattering",
+                "submissive",
+                "fawning",
+                "compliant"
+              ]
+            },
+            {
+              "word": "Obstreperous",
+              "forbiddens": [
+                "noisy",
+                "unruly",
+                "difficult",
+                "loud",
+                "disruptive"
+              ]
+            },
+            {
+              "word": "Occam's Razor",
+              "forbiddens": [
+                "simple",
+                "explanation",
+                "principle",
+                "fewest",
+                "assumptions"
+              ]
+            },
+            {
+              "word": "Occultism",
+              "forbiddens": [
+                "hidden",
+                "supernatural",
+                "magic",
+                "secret",
+                "mystical"
+              ]
+            },
+            {
+              "word": "Oligarchy",
+              "forbiddens": [
+                "few",
                 "rule",
-                "elite"
+                "power",
+                "rich",
+                "government"
               ]
             },
             {
-              "word": "Hyperreality",
+              "word": "Omniscient",
               "forbiddens": [
-                "real",
-                "simulation",
-                "baudrillard",
-                "fake",
-                "media"
+                "all-knowing",
+                "god",
+                "everything",
+                "narrator",
+                "wise"
               ]
             },
             {
-              "word": "Rhizome",
+              "word": "Oneirology",
               "forbiddens": [
-                "root",
-                "network",
-                "deleuze",
-                "connect",
-                "structure"
+                "dream",
+                "study",
+                "sleep",
+                "science",
+                "mind"
+              ]
+            },
+            {
+              "word": "Onomatopoeia",
+              "forbiddens": [
+                "sound",
+                "word",
+                "bang",
+                "buzz",
+                "imitate"
+              ]
+            },
+            {
+              "word": "Ontology",
+              "forbiddens": [
+                "being",
+                "existence",
+                "reality",
+                "philosophy",
+                "nature"
+              ]
+            },
+            {
+              "word": "Opprobrium",
+              "forbiddens": [
+                "disgrace",
+                "shame",
+                "criticism",
+                "contempt",
+                "scorn"
+              ]
+            },
+            {
+              "word": "Out Of Proportion",
+              "forbiddens": [
+                "Overreact",
+                "Scale",
+                "Exaggerate",
+                "Reality",
+                "Distort"
               ]
             },
             {
@@ -7460,13 +6592,610 @@
               ]
             },
             {
-              "word": "Epoché",
+              "word": "Palimpsest",
               "forbiddens": [
-                "suspend",
+                "manuscript",
+                "erase",
+                "write",
+                "layer",
+                "reuse"
+              ]
+            },
+            {
+              "word": "Pandora's Box",
+              "forbiddens": [
+                "open",
+                "evil",
+                "greek",
+                "myth",
+                "unleash"
+              ]
+            },
+            {
+              "word": "Panopticon",
+              "forbiddens": [
+                "watch",
+                "surveillance",
+                "all",
+                "see"
+              ]
+            },
+            {
+              "word": "Pantheism",
+              "forbiddens": [
+                "god",
+                "nature",
+                "everything",
+                "divine",
+                "universe"
+              ]
+            },
+            {
+              "word": "Paradigm Shift",
+              "forbiddens": [
+                "change",
+                "fundamental",
+                "thinking",
+                "new",
+                "model"
+              ]
+            },
+            {
+              "word": "Paralogism",
+              "forbiddens": [
+                "fallacy",
+                "logic",
+                "reason",
+                "false",
+                "argument"
+              ]
+            },
+            {
+              "word": "Perfidious",
+              "forbiddens": [
+                "treacherous",
+                "disloyal",
+                "betrayal",
+                "deceitful",
+                "unfaithful"
+              ]
+            },
+            {
+              "word": "Perfunctory",
+              "forbiddens": [
+                "careless",
+                "routine",
+                "minimal",
+                "effort",
+                "halfhearted"
+              ]
+            },
+            {
+              "word": "Peripatetic",
+              "forbiddens": [
+                "travel",
+                "wander",
+                "move",
+                "place",
+                "walking"
+              ]
+            },
+            {
+              "word": "Pernicious",
+              "forbiddens": [
+                "harmful",
+                "destructive",
+                "deadly",
+                "subtle",
+                "dangerous"
+              ]
+            },
+            {
+              "word": "Persona Non Grata",
+              "forbiddens": [
+                "unwelcome",
+                "person",
+                "banned",
+                "diplomat",
+                "reject"
+              ]
+            },
+            {
+              "word": "Perspicacious",
+              "forbiddens": [
+                "perceptive",
+                "sharp",
+                "keen",
+                "astute",
+                "insightful"
+              ]
+            },
+            {
+              "word": "Petrichor",
+              "forbiddens": [
+                "rain",
+                "smell",
+                "earth",
+                "wet",
+                "ground"
+              ]
+            },
+            {
+              "word": "Phenomenology",
+              "forbiddens": [
+                "experience",
+                "consciousness",
+                "philosophy",
+                "perception",
+                "subjective"
+              ]
+            },
+            {
+              "word": "Philanthropy",
+              "forbiddens": [
+                "charity",
+                "donate",
+                "help",
+                "rich",
+                "give"
+              ]
+            },
+            {
+              "word": "Philosophy",
+              "forbiddens": [
+                "think",
+                "wisdom",
+                "socrates",
+                "life",
+                "meaning"
+              ]
+            },
+            {
+              "word": "Photosynthesis",
+              "forbiddens": [
+                "plants",
+                "sunlight",
+                "oxygen",
+                "carbon",
+                "chlorophyll"
+              ]
+            },
+            {
+              "word": "Phronesis",
+              "forbiddens": [
+                "wisdom",
+                "practical",
+                "aristotle",
+                "virtue",
+                "judgment"
+              ]
+            },
+            {
+              "word": "Plutocracy",
+              "forbiddens": [
+                "rich",
+                "rule",
+                "wealth",
+                "power",
+                "money"
+              ]
+            },
+            {
+              "word": "Point Of No Return",
+              "forbiddens": [
+                "Threshold",
+                "Commit",
+                "Forward",
+                "Past",
+                "Decision"
+              ]
+            },
+            {
+              "word": "Polyglot",
+              "forbiddens": [
+                "language",
+                "many",
+                "speak",
+                "fluent",
+                "multiple"
+              ]
+            },
+            {
+              "word": "Pragmatic",
+              "forbiddens": [
+                "practical",
+                "realistic",
+                "sensible",
+                "logical",
+                "useful"
+              ]
+            },
+            {
+              "word": "Praxis",
+              "forbiddens": [
+                "practice",
+                "theory",
+                "action",
+                "apply",
+                "do"
+              ]
+            },
+            {
+              "word": "Prisoner's Dilemma",
+              "forbiddens": [
+                "game",
+                "theory",
+                "cooperate",
+                "betray",
+                "choice"
+              ]
+            },
+            {
+              "word": "Procrastination",
+              "forbiddens": [
+                "delay",
+                "later",
+                "postpone",
+                "avoid",
+                "lazy"
+              ]
+            },
+            {
+              "word": "Prolegomenon",
+              "forbiddens": [
+                "introduction",
+                "preface",
+                "book",
+                "critical",
+                "essay"
+              ]
+            },
+            {
+              "word": "Pseudoscience",
+              "forbiddens": [
+                "fake",
+                "science",
+                "false",
+                "belief",
+                "evidence"
+              ]
+            },
+            {
+              "word": "Pusillanimous",
+              "forbiddens": [
+                "cowardly",
+                "timid",
+                "weak",
+                "spineless",
+                "fearful"
+              ]
+            },
+            {
+              "word": "Pyrrhic Victory",
+              "forbiddens": [
+                "win",
+                "cost",
+                "loss",
+                "price",
+                "hollow"
+              ]
+            },
+            {
+              "word": "Qualia",
+              "forbiddens": [
+                "experience",
+                "subjective",
+                "conscious",
+                "feel",
+                "sensation"
+              ]
+            },
+            {
+              "word": "Quid Pro Quo",
+              "forbiddens": [
+                "exchange",
+                "favor",
+                "return",
+                "something",
+                "deal"
+              ]
+            },
+            {
+              "word": "Quintessential",
+              "forbiddens": [
+                "perfect",
+                "example",
+                "typical",
+                "essence",
+                "ideal"
+              ]
+            },
+            {
+              "word": "Quixotic",
+              "forbiddens": [
+                "idealistic",
+                "impractical",
+                "romantic",
+                "unrealistic",
+                "knight"
+              ]
+            },
+            {
+              "word": "Race To Bottom",
+              "forbiddens": [
+                "Compete",
+                "Lower",
+                "Quality",
+                "Price",
+                "Standard"
+              ]
+            },
+            {
+              "word": "Raison d'Etre",
+              "forbiddens": [
+                "reason",
+                "exist",
+                "purpose",
+                "french",
+                "being"
+              ]
+            },
+            {
+              "word": "Rationalism",
+              "forbiddens": [
+                "reason",
+                "logic",
+                "knowledge",
+                "mind",
+                "thinking"
+              ]
+            },
+            {
+              "word": "Recalcitrance",
+              "forbiddens": [
+                "stubborn",
+                "resist",
+                "defy",
+                "obstinate",
+                "refuse"
+              ]
+            },
+            {
+              "word": "Recalcitrant",
+              "forbiddens": [
+                "stubborn",
+                "resist",
+                "obey",
+                "defiant",
+                "uncooperative"
+              ]
+            },
+            {
+              "word": "Recidivism",
+              "forbiddens": [
+                "repeat",
+                "offend",
+                "return"
+              ]
+            },
+            {
+              "word": "Recondite",
+              "forbiddens": [
+                "obscure",
+                "difficult",
+                "understand",
+                "arcane",
+                "esoteric"
+              ]
+            },
+            {
+              "word": "Red Herring",
+              "forbiddens": [
+                "distraction",
+                "misleading",
+                "clue",
+                "false",
+                "mystery"
+              ]
+            },
+            {
+              "word": "Reductio Ad Absurdum",
+              "forbiddens": [
+                "logic",
+                "absurd",
+                "argument",
+                "extreme",
+                "disprove"
+              ]
+            },
+            {
+              "word": "Relativism",
+              "forbiddens": [
+                "relative",
+                "truth",
+                "perspective",
+                "culture",
+                "absolute"
+              ]
+            },
+            {
+              "word": "Rhizome",
+              "forbiddens": [
+                "root",
+                "network",
+                "deleuze",
+                "connect",
+                "structure"
+              ]
+            },
+            {
+              "word": "Rite Of Passage",
+              "forbiddens": [
+                "Tradition",
+                "Ceremony",
+                "Become",
+                "Adult",
+                "Cross"
+              ]
+            },
+            {
+              "word": "Sagacious",
+              "forbiddens": [
+                "wise",
+                "shrewd",
+                "intelligent",
                 "judgment",
-                "husserl",
-                "bracket",
-                "doubt"
+                "perceptive"
+              ]
+            },
+            {
+              "word": "Sanctimonious",
+              "forbiddens": [
+                "self-righteous",
+                "moral",
+                "superior",
+                "preachy",
+                "hypocrite"
+              ]
+            },
+            {
+              "word": "Saudade",
+              "forbiddens": [
+                "longing",
+                "portuguese",
+                "melancholy",
+                "miss",
+                "absence"
+              ]
+            },
+            {
+              "word": "Schadenfreude",
+              "forbiddens": [
+                "pleasure",
+                "pain",
+                "others",
+                "german",
+                "enjoy"
+              ]
+            },
+            {
+              "word": "Schrodinger's Cat",
+              "forbiddens": [
+                "quantum",
+                "alive",
+                "dead",
+                "box",
+                "physics"
+              ]
+            },
+            {
+              "word": "Self Fulfilling Prophecy",
+              "forbiddens": [
+                "Belief",
+                "Outcome",
+                "Predict",
+                "Cause",
+                "Become"
+              ]
+            },
+            {
+              "word": "Sense Of Belonging",
+              "forbiddens": [
+                "Group",
+                "Accept",
+                "Fit",
+                "Feel",
+                "Home"
+              ]
+            },
+            {
+              "word": "Sense Of Purpose",
+              "forbiddens": [
+                "Meaning",
+                "Goal",
+                "Mission",
+                "Why",
+                "Drive"
+              ]
+            },
+            {
+              "word": "Serendipity",
+              "forbiddens": [
+                "luck",
+                "accident",
+                "discover",
+                "happy",
+                "chance"
+              ]
+            },
+            {
+              "word": "Sesquipedalian",
+              "forbiddens": [
+                "long",
+                "word",
+                "syllable",
+                "verbose",
+                "big"
+              ]
+            },
+            {
+              "word": "Simulacrum",
+              "forbiddens": [
+                "copy",
+                "image",
+                "real",
+                "representation",
+                "imitation"
+              ]
+            },
+            {
+              "word": "Sisyphean",
+              "forbiddens": [
+                "endless",
+                "futile",
+                "task",
+                "boulder",
+                "greek"
+              ]
+            },
+            {
+              "word": "Slippery Slope",
+              "forbiddens": [
+                "argument",
+                "lead",
+                "worse",
+                "chain",
+                "fallacy"
+              ]
+            },
+            {
+              "word": "Soliloquy",
+              "forbiddens": [
+                "alone",
+                "speak",
+                "theater",
+                "monologue",
+                "audience"
+              ]
+            },
+            {
+              "word": "Solipsism",
+              "forbiddens": [
+                "self",
+                "only",
+                "exist",
+                "mind",
+                "reality"
+              ]
+            },
+            {
+              "word": "Sonder",
+              "forbiddens": [
+                "stranger",
+                "life",
+                "complex",
+                "realize",
+                "everyone"
               ]
             },
             {
@@ -7480,13 +7209,171 @@
               ]
             },
             {
-              "word": "Axiological",
+              "word": "Status Quo",
               "forbiddens": [
-                "value",
+                "current",
+                "state",
+                "existing",
+                "unchanged",
+                "situation"
+              ]
+            },
+            {
+              "word": "Stochastic",
+              "forbiddens": [
+                "random",
+                "probability",
+                "process",
+                "variable",
+                "predict"
+              ]
+            },
+            {
+              "word": "Stockholm Syndrome",
+              "forbiddens": [
+                "hostage",
+                "captor",
+                "bond",
+                "sympathy"
+              ]
+            },
+            {
+              "word": "Stoicism",
+              "forbiddens": [
+                "emotion",
+                "endure",
                 "philosophy",
-                "ethics",
-                "worth",
-                "study"
+                "calm",
+                "suffer"
+              ]
+            },
+            {
+              "word": "Straw Man",
+              "forbiddens": [
+                "argument",
+                "false",
+                "misrepresent",
+                "weak"
+              ]
+            },
+            {
+              "word": "Sunk Cost Fallacy",
+              "forbiddens": [
+                "Quit",
+                "Invest",
+                "Loss",
+                "Continue",
+                "Reason"
+              ]
+            },
+            {
+              "word": "Supercilious",
+              "forbiddens": [
+                "arrogant",
+                "superior",
+                "contemptuous",
+                "snobbish",
+                "haughty"
+              ]
+            },
+            {
+              "word": "Sustainability",
+              "forbiddens": [
+                "environment",
+                "future",
+                "green",
+                "resource",
+                "maintain"
+              ]
+            },
+            {
+              "word": "Sycophant",
+              "forbiddens": [
+                "flatter",
+                "praise",
+                "fake",
+                "boss",
+                "please"
+              ]
+            },
+            {
+              "word": "Synecdoche",
+              "forbiddens": [
+                "part",
+                "whole",
+                "figure",
+                "speech",
+                "represent"
+              ]
+            },
+            {
+              "word": "Synesthesia",
+              "forbiddens": [
+                "senses",
+                "color",
+                "sound",
+                "mix",
+                "see"
+              ]
+            },
+            {
+              "word": "Tabula Rasa",
+              "forbiddens": [
+                "blank",
+                "slate",
+                "mind",
+                "clean",
+                "birth"
+              ]
+            },
+            {
+              "word": "Taken For Granted",
+              "forbiddens": [
+                "Appreciate",
+                "Notice",
+                "Assume",
+                "Ignore",
+                "Routine"
+              ]
+            },
+            {
+              "word": "Tautology",
+              "forbiddens": [
+                "repeat",
+                "redundant",
+                "same",
+                "word",
+                "logic"
+              ]
+            },
+            {
+              "word": "Technocracy",
+              "forbiddens": [
+                "expert",
+                "govern",
+                "technology",
+                "rule",
+                "elite"
+              ]
+            },
+            {
+              "word": "Teleology",
+              "forbiddens": [
+                "purpose",
+                "end",
+                "goal",
+                "design",
+                "philosophy"
+              ]
+            },
+            {
+              "word": "Tergiversation",
+              "forbiddens": [
+                "evasion",
+                "change",
+                "side",
+                "abandon",
+                "equivocate"
               ]
             },
             {
@@ -7500,13 +7387,283 @@
               ]
             },
             {
-              "word": "Cryptozoology",
+              "word": "Tip Of Iceberg",
               "forbiddens": [
-                "hidden",
-                "animal",
-                "study",
-                "creature",
-                "myth"
+                "Surface",
+                "Bigger",
+                "Hidden",
+                "Visible",
+                "Underneath"
+              ]
+            },
+            {
+              "word": "Totalitarianism",
+              "forbiddens": [
+                "dictator",
+                "control",
+                "government",
+                "power",
+                "absolute"
+              ]
+            },
+            {
+              "word": "Tragedy Of Commons",
+              "forbiddens": [
+                "Share",
+                "Resource",
+                "Selfish",
+                "Public",
+                "Deplete"
+              ]
+            },
+            {
+              "word": "Transcendentalism",
+              "forbiddens": [
+                "nature",
+                "spirit",
+                "beyond",
+                "emerson",
+                "philosophy"
+              ]
+            },
+            {
+              "word": "Trepidation",
+              "forbiddens": [
+                "fear",
+                "anxiety",
+                "nervous",
+                "apprehension",
+                "dread"
+              ]
+            },
+            {
+              "word": "Trial And Error",
+              "forbiddens": [
+                "Attempt",
+                "Mistake",
+                "Learn",
+                "Iterate",
+                "Experiment"
+              ]
+            },
+            {
+              "word": "Trojan Horse",
+              "forbiddens": [
+                "greek",
+                "war",
+                "trick",
+                "inside",
+                "wooden"
+              ]
+            },
+            {
+              "word": "Truculent",
+              "forbiddens": [
+                "aggressive",
+                "hostile",
+                "defiant",
+                "fierce",
+                "combative"
+              ]
+            },
+            {
+              "word": "Tsundoku",
+              "forbiddens": [
+                "book",
+                "pile",
+                "unread",
+                "buy",
+                "japanese"
+              ]
+            },
+            {
+              "word": "Ubiquitous",
+              "forbiddens": [
+                "everywhere",
+                "common",
+                "present",
+                "all",
+                "found"
+              ]
+            },
+            {
+              "word": "Unconscionable",
+              "forbiddens": [
+                "unreasonable",
+                "immoral",
+                "outrageous",
+                "excessive",
+                "unfair"
+              ]
+            },
+            {
+              "word": "Understatement",
+              "forbiddens": [
+                "less",
+                "downplay",
+                "minimize",
+                "exaggerate",
+                "mild"
+              ]
+            },
+            {
+              "word": "Usurp",
+              "forbiddens": [
+                "seize",
+                "power",
+                "throne",
+                "take",
+                "overthrow"
+              ]
+            },
+            {
+              "word": "Utilitarianism",
+              "forbiddens": [
+                "greatest",
+                "good",
+                "happiness",
+                "moral",
+                "consequence"
+              ]
+            },
+            {
+              "word": "Vellichor",
+              "forbiddens": [
+                "bookstore",
+                "old",
+                "smell",
+                "nostalgia",
+                "feeling"
+              ]
+            },
+            {
+              "word": "Verisimilitude",
+              "forbiddens": [
+                "truth",
+                "realistic",
+                "appearance",
+                "believable",
+                "fiction"
+              ]
+            },
+            {
+              "word": "Vicarious",
+              "forbiddens": [
+                "experience",
+                "through",
+                "others",
+                "indirect",
+                "feel"
+              ]
+            },
+            {
+              "word": "Vindictive",
+              "forbiddens": [
+                "revenge",
+                "spite",
+                "grudge",
+                "harm",
+                "payback"
+              ]
+            },
+            {
+              "word": "Vituperative",
+              "forbiddens": [
+                "abusive",
+                "harsh",
+                "criticism",
+                "bitter",
+                "scathing"
+              ]
+            },
+            {
+              "word": "Wabi-Sabi",
+              "forbiddens": [
+                "imperfect",
+                "beauty",
+                "japanese",
+                "nature",
+                "transient"
+              ]
+            },
+            {
+              "word": "Wake Up Call",
+              "forbiddens": [
+                "Alarm",
+                "Morning",
+                "Realize",
+                "Warning",
+                "Signal"
+              ]
+            },
+            {
+              "word": "Weltanschauung",
+              "forbiddens": [
+                "worldview",
+                "philosophy",
+                "outlook",
+                "german",
+                "perspective"
+              ]
+            },
+            {
+              "word": "Whistleblower",
+              "forbiddens": [
+                "expose",
+                "secret",
+                "wrong",
+                "report",
+                "company"
+              ]
+            },
+            {
+              "word": "Win Win Situation",
+              "forbiddens": [
+                "Both",
+                "Benefit",
+                "Agree",
+                "Outcome",
+                "Gain"
+              ]
+            },
+            {
+              "word": "Work Life Balance",
+              "forbiddens": [
+                "Job",
+                "Family",
+                "Time",
+                "Stress",
+                "Hobby"
+              ]
+            },
+            {
+              "word": "Zealot",
+              "forbiddens": [
+                "fanatic",
+                "extreme",
+                "belief",
+                "passionate",
+                "radical"
+              ]
+            },
+            {
+              "word": "Zeitgeist",
+              "forbiddens": [
+                "spirit",
+                "time",
+                "era",
+                "culture",
+                "trend"
+              ]
+            },
+            {
+              "word": "Zero Sum Game",
+              "forbiddens": [
+                "Win",
+                "Lose",
+                "Gain",
+                "Other",
+                "Balance"
               ]
             }
           ]
@@ -7537,8 +7694,7 @@
                 "hoop",
                 "dribble",
                 "court",
-                "nba",
-                "shoot"
+                "nba"
               ]
             },
             {
@@ -7557,8 +7713,7 @@
                 "score",
                 "net",
                 "point",
-                "soccer",
-                "shoot"
+                "soccer"
               ]
             },
             {
@@ -7697,7 +7852,6 @@
                 "bow",
                 "arrow",
                 "target",
-                "shoot",
                 "aim"
               ]
             },
@@ -7734,7 +7888,6 @@
             {
               "word": "Fencing",
               "forbiddens": [
-                "sword",
                 "duel",
                 "mask",
                 "lunge",
@@ -8486,9 +8639,7 @@
               "forbiddens": [
                 "goal",
                 "forward",
-                "shoot",
-                "soccer",
-                "attack"
+                "soccer"
               ]
             },
             {
@@ -8667,7 +8818,6 @@
                 "basketball",
                 "foul",
                 "line",
-                "shoot",
                 "point"
               ]
             },
@@ -9014,9 +9164,7 @@
             {
               "word": "Hunting",
               "forbiddens": [
-                "shoot",
                 "animal",
-                "gun",
                 "wild",
                 "prey"
               ]
@@ -9165,8 +9313,6 @@
               "word": "Biathlon",
               "forbiddens": [
                 "ski",
-                "shoot",
-                "rifle",
                 "two",
                 "winter"
               ]
@@ -9177,8 +9323,7 @@
                 "five",
                 "events",
                 "swim",
-                "run",
-                "shoot"
+                "run"
               ]
             },
             {
@@ -9647,7 +9792,6 @@
                 "horse",
                 "jockey",
                 "track",
-                "bet",
                 "gallop"
               ]
             },
@@ -9684,7 +9828,6 @@
             {
               "word": "Kendo",
               "forbiddens": [
-                "sword",
                 "japan",
                 "bamboo",
                 "martial",
@@ -9789,16 +9932,6 @@
                 "ring",
                 "pit",
                 "metal"
-              ]
-            },
-            {
-              "word": "Cornhole",
-              "forbiddens": [
-                "bag",
-                "board",
-                "throw",
-                "hole",
-                "toss"
               ]
             },
             {
@@ -10007,7 +10140,6 @@
                 "basketball",
                 "ring",
                 "net",
-                "shoot",
                 "rim"
               ]
             },
@@ -10134,10 +10266,8 @@
             {
               "word": "Offense",
               "forbiddens": [
-                "attack",
                 "score",
                 "forward",
-                "shoot",
                 "goal"
               ]
             },
@@ -10276,7 +10406,6 @@
               "forbiddens": [
                 "strong",
                 "force",
-                "explosive",
                 "energy",
                 "might"
               ]
@@ -10372,8 +10501,7 @@
                 "foul",
                 "soccer",
                 "spot",
-                "twelve",
-                "shoot"
+                "twelve"
               ]
             },
             {
@@ -10594,16 +10722,6 @@
                 "bat",
                 "soft",
                 "hit"
-              ]
-            },
-            {
-              "word": "Steal",
-              "forbiddens": [
-                "base",
-                "run",
-                "baseball",
-                "sneak",
-                "advance"
               ]
             },
             {
@@ -11000,7 +11118,6 @@
               "word": "Counterattack",
               "forbiddens": [
                 "quick",
-                "attack",
                 "defense",
                 "transition",
                 "fast"
@@ -11122,7 +11239,6 @@
                 "foul",
                 "direct",
                 "wall",
-                "shoot",
                 "dead"
               ]
             },
@@ -11650,7 +11766,6 @@
               "word": "Flagrant Foul",
               "forbiddens": [
                 "basketball",
-                "violent",
                 "excessive",
                 "eject",
                 "contact"
@@ -11662,7 +11777,6 @@
                 "basketball",
                 "time",
                 "seconds",
-                "shoot",
                 "limit"
               ]
             },
@@ -11802,7 +11916,6 @@
                 "lose",
                 "ball",
                 "possession",
-                "steal",
                 "mistake"
               ]
             },
@@ -11854,16 +11967,6 @@
                 "one",
                 "pass",
                 "leader"
-              ]
-            },
-            {
-              "word": "Shooting Guard",
-              "forbiddens": [
-                "basketball",
-                "position",
-                "two",
-                "score",
-                "outside"
               ]
             },
             {
@@ -12212,18 +12315,7 @@
                 "volleyball",
                 "back",
                 "defense",
-                "dig",
-                "no attack"
-              ]
-            },
-            {
-              "word": "Kill",
-              "forbiddens": [
-                "volleyball",
-                "attack",
-                "point",
-                "unreturnable",
-                "spike"
+                "dig"
               ]
             },
             {
@@ -12914,7 +13006,6 @@
             {
               "word": "Doping",
               "forbiddens": [
-                "drugs",
                 "banned",
                 "performance",
                 "cheat",
@@ -12924,7 +13015,6 @@
             {
               "word": "Arbitrage",
               "forbiddens": [
-                "betting",
                 "odds",
                 "profit",
                 "guaranteed",
@@ -12985,7 +13075,6 @@
               "word": "Plyometrics",
               "forbiddens": [
                 "jump",
-                "explosive",
                 "power",
                 "training",
                 "muscle"
@@ -13606,7 +13695,6 @@
               "forbiddens": [
                 "platelet",
                 "plasma",
-                "blood",
                 "inject",
                 "heal"
               ]
@@ -13657,8 +13745,7 @@
                 "tight",
                 "sleeve",
                 "pressure",
-                "support",
-                "blood"
+                "support"
               ]
             },
             {
@@ -13704,7 +13791,6 @@
             {
               "word": "Lactate Meter",
               "forbiddens": [
-                "blood",
                 "acid",
                 "measure",
                 "threshold",
@@ -13747,7 +13833,6 @@
                 "high",
                 "mountain",
                 "oxygen",
-                "red blood",
                 "thin air"
               ]
             },
@@ -13762,20 +13847,9 @@
               ]
             },
             {
-              "word": "Blood Doping",
-              "forbiddens": [
-                "transfusion",
-                "red cells",
-                "epo",
-                "cheat",
-                "oxygen"
-              ]
-            },
-            {
               "word": "EPO",
               "forbiddens": [
                 "erythropoietin",
-                "blood",
                 "hormone",
                 "banned",
                 "endurance"
@@ -13942,16 +14016,6 @@
               ]
             },
             {
-              "word": "True Shooting",
-              "forbiddens": [
-                "basketball",
-                "efficiency",
-                "percentage",
-                "free throw",
-                "three"
-              ]
-            },
-            {
               "word": "Plus Minus",
               "forbiddens": [
                 "on court",
@@ -14075,7 +14139,6 @@
               "word": "Wing Back",
               "forbiddens": [
                 "defender",
-                "attack",
                 "wide",
                 "up",
                 "down"
@@ -14175,7 +14238,6 @@
               "word": "Transition",
               "forbiddens": [
                 "switch",
-                "attack",
                 "defense",
                 "change",
                 "possession"
@@ -14315,7 +14377,6 @@
               "word": "Marseille Turn",
               "forbiddens": [
                 "spin",
-                "roulette",
                 "zidane",
                 "sole",
                 "drag"
@@ -14387,7 +14448,6 @@
                 "intentional",
                 "tactical",
                 "stop",
-                "attack",
                 "card"
               ]
             },
@@ -14646,7 +14706,6 @@
               "forbiddens": [
                 "intentional",
                 "stop",
-                "attack",
                 "strategic",
                 "break"
               ]
@@ -14917,8 +14976,7 @@
                 "catch",
                 "defense",
                 "turnover",
-                "pass",
-                "steal"
+                "pass"
               ]
             },
             {
@@ -15314,7 +15372,6 @@
             {
               "word": "Hematocrit",
               "forbiddens": [
-                "blood",
                 "red cells",
                 "percentage",
                 "doping",
@@ -15324,7 +15381,6 @@
             {
               "word": "Biological Passport",
               "forbiddens": [
-                "blood",
                 "profile",
                 "athlete",
                 "doping",
@@ -15344,7 +15400,6 @@
             {
               "word": "Clenbuterol",
               "forbiddens": [
-                "drug",
                 "banned",
                 "weight",
                 "loss",
@@ -15357,15 +15412,13 @@
                 "muscle",
                 "banned",
                 "testosterone",
-                "build",
-                "drugs"
+                "build"
               ]
             },
             {
               "word": "Centrifuge",
               "forbiddens": [
                 "spin",
-                "blood",
                 "separate",
                 "lab",
                 "machine"
@@ -15509,8 +15562,7 @@
                 "photo",
                 "film",
                 "lens",
-                "picture",
-                "shoot"
+                "picture"
               ]
             },
             {
@@ -15629,7 +15681,6 @@
                 "western",
                 "horse",
                 "hat",
-                "gun",
                 "ranch"
               ]
             },
@@ -15678,7 +15729,6 @@
               "forbiddens": [
                 "cowboy",
                 "horse",
-                "gun",
                 "desert",
                 "saloon"
               ]
@@ -15826,7 +15876,6 @@
             {
               "word": "Vampire",
               "forbiddens": [
-                "blood",
                 "bite",
                 "night",
                 "fangs",
@@ -15869,7 +15918,6 @@
                 "clue",
                 "solve",
                 "mystery",
-                "crime",
                 "investigate"
               ]
             },
@@ -16137,7 +16185,6 @@
               "word": "Knight",
               "forbiddens": [
                 "armor",
-                "sword",
                 "horse",
                 "castle",
                 "medieval"
@@ -16148,7 +16195,6 @@
               "forbiddens": [
                 "japan",
                 "fight",
-                "sword",
                 "stealth",
                 "warrior"
               ]
@@ -16159,7 +16205,6 @@
                 "rome",
                 "fight",
                 "arena",
-                "sword",
                 "russell"
               ]
             },
@@ -16276,7 +16321,6 @@
             {
               "word": "Godfather",
               "forbiddens": [
-                "mafia",
                 "corleone",
                 "family",
                 "italian",
@@ -16387,7 +16431,6 @@
               "word": "Breaking Bad",
               "forbiddens": [
                 "walter",
-                "meth",
                 "chemistry",
                 "heisenberg",
                 "white"
@@ -16431,16 +16474,6 @@
                 "pirate",
                 "find",
                 "map"
-              ]
-            },
-            {
-              "word": "Sword",
-              "forbiddens": [
-                "blade",
-                "fight",
-                "sharp",
-                "weapon",
-                "knight"
               ]
             },
             {
@@ -16527,7 +16560,6 @@
               "word": "Ransom",
               "forbiddens": [
                 "money",
-                "kidnap",
                 "pay",
                 "demand",
                 "hostage"
@@ -16538,7 +16570,6 @@
               "forbiddens": [
                 "run",
                 "free",
-                "prison",
                 "leave",
                 "flee"
               ]
@@ -16551,16 +16582,6 @@
                 "groom",
                 "ring",
                 "ceremony"
-              ]
-            },
-            {
-              "word": "Funeral",
-              "forbiddens": [
-                "death",
-                "coffin",
-                "sad",
-                "cemetery",
-                "burial"
               ]
             },
             {
@@ -16748,7 +16769,6 @@
               "forbiddens": [
                 "egypt",
                 "bandage",
-                "tomb",
                 "wrap",
                 "ancient"
               ]
@@ -17449,8 +17469,7 @@
                 "dark",
                 "detective",
                 "black",
-                "mystery",
-                "crime"
+                "mystery"
               ]
             },
             {
@@ -17469,8 +17488,7 @@
                 "solve",
                 "clue",
                 "detective",
-                "unknown",
-                "crime"
+                "unknown"
               ]
             },
             {
@@ -17481,16 +17499,6 @@
                 "fight",
                 "army",
                 "military"
-              ]
-            },
-            {
-              "word": "Heist",
-              "forbiddens": [
-                "steal",
-                "rob",
-                "bank",
-                "plan",
-                "money"
               ]
             },
             {
@@ -17531,16 +17539,6 @@
                 "once upon",
                 "story",
                 "enchant"
-              ]
-            },
-            {
-              "word": "Gangster",
-              "forbiddens": [
-                "crime",
-                "mafia",
-                "gun",
-                "boss",
-                "mob"
               ]
             },
             {
@@ -17630,16 +17628,6 @@
                 "brave",
                 "good",
                 "strong",
-                "protagonist"
-              ]
-            },
-            {
-              "word": "Heroine",
-              "forbiddens": [
-                "female",
-                "hero",
-                "brave",
-                "woman",
                 "protagonist"
               ]
             },
@@ -18047,7 +18035,6 @@
               "word": "Samurai",
               "forbiddens": [
                 "japan",
-                "sword",
                 "warrior",
                 "honor",
                 "blade"
@@ -18939,16 +18926,6 @@
               ]
             },
             {
-              "word": "Night Shoot",
-              "forbiddens": [
-                "dark",
-                "film",
-                "evening",
-                "artificial",
-                "light"
-              ]
-            },
-            {
               "word": "Location Scout",
               "forbiddens": [
                 "find",
@@ -19111,9 +19088,7 @@
             {
               "word": "Squib",
               "forbiddens": [
-                "blood",
                 "burst",
-                "bullet",
                 "effect",
                 "fake"
               ]
@@ -19361,8 +19336,6 @@
             {
               "word": "Armorer",
               "forbiddens": [
-                "weapon",
-                "gun",
                 "prop",
                 "safe",
                 "firearms"
@@ -20289,21 +20262,10 @@
               ]
             },
             {
-              "word": "Slasher",
-              "forbiddens": [
-                "horror",
-                "killer",
-                "murder",
-                "knife",
-                "teen"
-              ]
-            },
-            {
               "word": "Film Noir",
               "forbiddens": [
                 "dark",
                 "detective",
-                "crime",
                 "shadow",
                 "black"
               ]
@@ -20313,7 +20275,6 @@
               "forbiddens": [
                 "modern",
                 "dark",
-                "crime",
                 "update",
                 "noir"
               ]
@@ -20324,8 +20285,7 @@
                 "italian",
                 "cowboy",
                 "leone",
-                "desert",
-                "gun"
+                "desert"
               ]
             },
             {
@@ -20334,7 +20294,6 @@
                 "chinese",
                 "martial",
                 "arts",
-                "sword",
                 "hero"
               ]
             },
@@ -20364,7 +20323,6 @@
                 "italian",
                 "horror",
                 "mystery",
-                "murder",
                 "stylish"
               ]
             },
@@ -21247,7 +21205,6 @@
               "word": "Panopticon",
               "forbiddens": [
                 "surveillance",
-                "prison",
                 "foucault",
                 "watch",
                 "power"
@@ -22099,8 +22056,7 @@
                 "filter",
                 "dark",
                 "simulate",
-                "daytime",
-                "shoot"
+                "daytime"
               ]
             },
             {
@@ -22109,8 +22065,7 @@
                 "bright",
                 "artificial",
                 "simulate",
-                "nighttime",
-                "shoot"
+                "nighttime"
               ]
             },
             {
@@ -22161,16 +22116,6 @@
                 "background",
                 "perspective",
                 "distort"
-              ]
-            },
-            {
-              "word": "Bullet Time",
-              "forbiddens": [
-                "matrix",
-                "slow",
-                "rotate",
-                "camera",
-                "frozen"
               ]
             },
             {
@@ -23711,7 +23656,6 @@
                 "seafood",
                 "shellfish",
                 "small",
-                "cocktail",
                 "pink"
               ]
             },
@@ -23839,7 +23783,6 @@
               "word": "Grape",
               "forbiddens": [
                 "vine",
-                "wine",
                 "purple",
                 "fruit",
                 "raisin"
@@ -24951,8 +24894,7 @@
                 "green",
                 "citrus",
                 "sour",
-                "juice",
-                "cocktail"
+                "juice"
               ]
             },
             {
@@ -25046,49 +24988,8 @@
               ]
             },
             {
-              "word": "Beer",
-              "forbiddens": [
-                "alcohol",
-                "brew",
-                "hops",
-                "malt",
-                "bar"
-              ]
-            },
-            {
-              "word": "Wine",
-              "forbiddens": [
-                "grape",
-                "red",
-                "white",
-                "alcohol",
-                "bottle"
-              ]
-            },
-            {
-              "word": "Champagne",
-              "forbiddens": [
-                "bubble",
-                "celebrate",
-                "france",
-                "toast",
-                "wine"
-              ]
-            },
-            {
-              "word": "Cocktail",
-              "forbiddens": [
-                "mix",
-                "alcohol",
-                "drink",
-                "bar",
-                "party"
-              ]
-            },
-            {
               "word": "Margarita",
               "forbiddens": [
-                "tequila",
                 "salt",
                 "lime",
                 "mexican",
@@ -25099,60 +25000,8 @@
               "word": "Mojito",
               "forbiddens": [
                 "mint",
-                "rum",
                 "lime",
-                "cocktail",
                 "cuban"
-              ]
-            },
-            {
-              "word": "Whiskey",
-              "forbiddens": [
-                "alcohol",
-                "barrel",
-                "scotch",
-                "bourbon",
-                "distill"
-              ]
-            },
-            {
-              "word": "Vodka",
-              "forbiddens": [
-                "alcohol",
-                "russia",
-                "clear",
-                "potato",
-                "spirit"
-              ]
-            },
-            {
-              "word": "Rum",
-              "forbiddens": [
-                "alcohol",
-                "pirate",
-                "caribbean",
-                "sugar cane",
-                "dark"
-              ]
-            },
-            {
-              "word": "Tequila",
-              "forbiddens": [
-                "mexico",
-                "agave",
-                "shot",
-                "salt",
-                "lime"
-              ]
-            },
-            {
-              "word": "Gin",
-              "forbiddens": [
-                "tonic",
-                "juniper",
-                "alcohol",
-                "london",
-                "botanical"
               ]
             },
             {
@@ -25160,7 +25009,6 @@
               "forbiddens": [
                 "japan",
                 "rice",
-                "alcohol",
                 "warm",
                 "ferment"
               ]
@@ -26026,16 +25874,6 @@
               ]
             },
             {
-              "word": "Cocktail Sauce",
-              "forbiddens": [
-                "shrimp",
-                "horseradish",
-                "red",
-                "ketchup",
-                "seafood"
-              ]
-            },
-            {
               "word": "Teriyaki",
               "forbiddens": [
                 "japanese",
@@ -26476,7 +26314,6 @@
                 "cut",
                 "thin",
                 "strip",
-                "knife",
                 "matchstick"
               ]
             },
@@ -26516,8 +26353,7 @@
                 "pan",
                 "liquid",
                 "scrape",
-                "fond",
-                "wine"
+                "fond"
               ]
             },
             {
@@ -26795,7 +26631,6 @@
               "forbiddens": [
                 "japanese",
                 "sweet",
-                "rice wine",
                 "cooking",
                 "seasoning"
               ]
@@ -27621,16 +27456,6 @@
               ]
             },
             {
-              "word": "Coq au Vin",
-              "forbiddens": [
-                "french",
-                "chicken",
-                "wine",
-                "stew",
-                "braised"
-              ]
-            },
-            {
               "word": "Bouillabaisse",
               "forbiddens": [
                 "french",
@@ -27853,7 +27678,6 @@
             {
               "word": "Marsala",
               "forbiddens": [
-                "wine",
                 "sauce",
                 "sicily",
                 "mushroom",
@@ -27985,7 +27809,6 @@
               "forbiddens": [
                 "egg",
                 "sugar",
-                "wine",
                 "italian",
                 "custard"
               ]
@@ -28344,7 +28167,6 @@
               "word": "Flambé",
               "forbiddens": [
                 "fire",
-                "alcohol",
                 "flame",
                 "ignite",
                 "dramatic"
@@ -28544,7 +28366,6 @@
               "word": "Beurre Blanc",
               "forbiddens": [
                 "butter",
-                "white wine",
                 "sauce",
                 "french",
                 "shallot"
@@ -28983,7 +28804,6 @@
             {
               "word": "Vermouth",
               "forbiddens": [
-                "wine",
                 "fortified",
                 "herb",
                 "martini",
@@ -29034,7 +28854,6 @@
               "word": "Calvados",
               "forbiddens": [
                 "apple",
-                "brandy",
                 "french",
                 "normandy",
                 "distill"
@@ -29043,7 +28862,6 @@
             {
               "word": "Armagnac",
               "forbiddens": [
-                "brandy",
                 "french",
                 "grape",
                 "aged",
@@ -29053,7 +28871,6 @@
             {
               "word": "Cognac",
               "forbiddens": [
-                "brandy",
                 "french",
                 "grape",
                 "aged",
@@ -29063,7 +28880,6 @@
             {
               "word": "Port",
               "forbiddens": [
-                "wine",
                 "fortified",
                 "portugal",
                 "sweet",
@@ -29073,7 +28889,6 @@
             {
               "word": "Sherry",
               "forbiddens": [
-                "wine",
                 "fortified",
                 "spanish",
                 "dry",
@@ -29083,7 +28898,6 @@
             {
               "word": "Madeira",
               "forbiddens": [
-                "wine",
                 "fortified",
                 "portuguese",
                 "island",
@@ -29094,10 +28908,8 @@
               "word": "Mead",
               "forbiddens": [
                 "honey",
-                "wine",
                 "ferment",
-                "ancient",
-                "alcohol"
+                "ancient"
               ]
             },
             {
@@ -29105,7 +28917,6 @@
               "forbiddens": [
                 "sparkling",
                 "italian",
-                "wine",
                 "bubble",
                 "light"
               ]
@@ -29115,7 +28926,6 @@
               "forbiddens": [
                 "sparkling",
                 "spanish",
-                "wine",
                 "bubble",
                 "dry"
               ]
@@ -29124,7 +28934,6 @@
               "word": "Rosé",
               "forbiddens": [
                 "pink",
-                "wine",
                 "light",
                 "summer",
                 "grape"
@@ -29133,7 +28942,6 @@
             {
               "word": "Riesling",
               "forbiddens": [
-                "wine",
                 "german",
                 "white",
                 "sweet",
@@ -29143,7 +28951,6 @@
             {
               "word": "Pinot Noir",
               "forbiddens": [
-                "wine",
                 "red",
                 "light",
                 "burgundy",
@@ -29153,7 +28960,6 @@
             {
               "word": "Cabernet",
               "forbiddens": [
-                "wine",
                 "red",
                 "bold",
                 "tannin",
@@ -29163,7 +28969,6 @@
             {
               "word": "Merlot",
               "forbiddens": [
-                "wine",
                 "red",
                 "soft",
                 "plum",
@@ -29173,7 +28978,6 @@
             {
               "word": "Chardonnay",
               "forbiddens": [
-                "wine",
                 "white",
                 "oak",
                 "butter",
@@ -29183,7 +28987,6 @@
             {
               "word": "Sauvignon Blanc",
               "forbiddens": [
-                "wine",
                 "white",
                 "crisp",
                 "grass",
@@ -29193,7 +28996,6 @@
             {
               "word": "Beaujolais",
               "forbiddens": [
-                "wine",
                 "red",
                 "light",
                 "french",
@@ -29203,7 +29005,6 @@
             {
               "word": "Chianti",
               "forbiddens": [
-                "wine",
                 "italian",
                 "red",
                 "tuscan",
@@ -29213,7 +29014,6 @@
             {
               "word": "Barolo",
               "forbiddens": [
-                "wine",
                 "italian",
                 "red",
                 "nebbiolo",
@@ -29223,7 +29023,6 @@
             {
               "word": "Rioja",
               "forbiddens": [
-                "wine",
                 "spanish",
                 "red",
                 "tempranillo",
@@ -29233,7 +29032,6 @@
             {
               "word": "Malbec",
               "forbiddens": [
-                "wine",
                 "red",
                 "argentine",
                 "bold",
@@ -29259,7 +29057,6 @@
               "word": "Terroir",
               "forbiddens": [
                 "land",
-                "wine",
                 "soil",
                 "climate",
                 "character"
@@ -29760,7 +29557,6 @@
               "forbiddens": [
                 "egg yolk",
                 "sugar",
-                "wine",
                 "whisk",
                 "warm"
               ]
@@ -30020,7 +29816,6 @@
               "forbiddens": [
                 "designation",
                 "origin",
-                "wine",
                 "region",
                 "controlled"
               ]
@@ -30030,7 +29825,6 @@
               "forbiddens": [
                 "vineyard",
                 "growth",
-                "wine",
                 "classification",
                 "french"
               ]
@@ -30038,7 +29832,6 @@
             {
               "word": "Sommelier",
               "forbiddens": [
-                "wine",
                 "expert",
                 "serve",
                 "restaurant",
@@ -30049,7 +29842,6 @@
               "word": "Decanting",
               "forbiddens": [
                 "pour",
-                "wine",
                 "sediment",
                 "breathe",
                 "vessel"
@@ -30058,7 +29850,6 @@
             {
               "word": "Malolactic Fermentation",
               "forbiddens": [
-                "wine",
                 "bacteria",
                 "acid",
                 "soften",
@@ -30068,7 +29859,6 @@
             {
               "word": "Tannin",
               "forbiddens": [
-                "wine",
                 "astringent",
                 "grape",
                 "bitter",
@@ -30078,7 +29868,6 @@
             {
               "word": "Bouquet",
               "forbiddens": [
-                "wine",
                 "aroma",
                 "aged",
                 "complex",
@@ -30088,11 +29877,9 @@
             {
               "word": "Legs",
               "forbiddens": [
-                "wine",
                 "glass",
                 "tear",
-                "viscosity",
-                "alcohol"
+                "viscosity"
               ]
             },
             {
@@ -30111,7 +29898,6 @@
                 "grape",
                 "juice",
                 "unfermented",
-                "wine",
                 "press"
               ]
             },
@@ -30119,7 +29905,6 @@
               "word": "Lees",
               "forbiddens": [
                 "sediment",
-                "wine",
                 "yeast",
                 "dead",
                 "bottom"
@@ -30129,7 +29914,6 @@
               "word": "Racking",
               "forbiddens": [
                 "transfer",
-                "wine",
                 "clarify",
                 "sediment",
                 "barrel"
@@ -30139,7 +29923,6 @@
               "word": "Fining",
               "forbiddens": [
                 "clarify",
-                "wine",
                 "remove",
                 "protein",
                 "clear"
@@ -30150,7 +29933,6 @@
               "forbiddens": [
                 "stir",
                 "lees",
-                "wine",
                 "barrel",
                 "flavor"
               ]
@@ -30159,7 +29941,6 @@
               "word": "Assemblage",
               "forbiddens": [
                 "blend",
-                "wine",
                 "combine",
                 "lot",
                 "final"
@@ -30169,7 +29950,6 @@
               "word": "Cuvée",
               "forbiddens": [
                 "blend",
-                "wine",
                 "batch",
                 "special",
                 "tank"
@@ -30179,7 +29959,6 @@
               "word": "Dosage",
               "forbiddens": [
                 "sugar",
-                "champagne",
                 "add",
                 "sweetness",
                 "final"
@@ -30188,7 +29967,6 @@
             {
               "word": "Riddling",
               "forbiddens": [
-                "champagne",
                 "bottle",
                 "sediment",
                 "turn",
@@ -30198,7 +29976,6 @@
             {
               "word": "Disgorgement",
               "forbiddens": [
-                "champagne",
                 "remove",
                 "sediment",
                 "freeze",
@@ -30261,7 +30038,6 @@
                 "yeast",
                 "add",
                 "ferment",
-                "beer",
                 "brew"
               ]
             },
@@ -30281,8 +30057,7 @@
                 "butter",
                 "flavor",
                 "off",
-                "ferment",
-                "beer"
+                "ferment"
               ]
             },
             {
@@ -30291,8 +30066,7 @@
                 "clove",
                 "smoke",
                 "flavor",
-                "yeast",
-                "beer"
+                "yeast"
               ]
             },
             {
@@ -30311,8 +30085,7 @@
                 "dry hop",
                 "enzyme",
                 "ferment",
-                "restart",
-                "beer"
+                "restart"
               ]
             },
             {
@@ -30321,8 +30094,7 @@
                 "lactobacillus",
                 "wort",
                 "acid",
-                "quick",
-                "beer"
+                "quick"
               ]
             },
             {
@@ -30351,8 +30123,7 @@
                 "foam",
                 "ferment",
                 "top",
-                "active",
-                "beer"
+                "active"
               ]
             },
             {
@@ -30379,7 +30150,6 @@
               "word": "SRM",
               "forbiddens": [
                 "color",
-                "beer",
                 "measure",
                 "standard",
                 "reference"
@@ -30450,7 +30220,6 @@
               "forbiddens": [
                 "film",
                 "surface",
-                "sour beer",
                 "protection",
                 "oxygen"
               ]
@@ -30461,8 +30230,7 @@
                 "yeast",
                 "clump",
                 "settle",
-                "clear",
-                "beer"
+                "clear"
               ]
             },
             {
@@ -30471,7 +30239,6 @@
                 "chill",
                 "clear",
                 "settle",
-                "beer",
                 "cold"
               ]
             },
@@ -30509,7 +30276,6 @@
               "word": "Parti-Gyle",
               "forbiddens": [
                 "multiple",
-                "beer",
                 "runnings",
                 "different",
                 "strength"
@@ -30521,7 +30287,6 @@
                 "german",
                 "purity",
                 "law",
-                "beer",
                 "ingredient"
               ]
             },
@@ -31496,16 +31261,6 @@
               ]
             },
             {
-              "word": "Smoking Point",
-              "forbiddens": [
-                "oil",
-                "temperature",
-                "burn",
-                "heat",
-                "maximum"
-              ]
-            },
-            {
               "word": "Cold Press",
               "forbiddens": [
                 "oil",
@@ -32278,21 +32033,10 @@
               ]
             },
             {
-              "word": "Blood",
-              "forbiddens": [
-                "red",
-                "vein",
-                "body",
-                "heart",
-                "cell"
-              ]
-            },
-            {
               "word": "Heart",
               "forbiddens": [
                 "beat",
                 "pump",
-                "blood",
                 "organ",
                 "love"
               ]
@@ -32753,7 +32497,6 @@
                 "fire",
                 "gray",
                 "air",
-                "cigarette",
                 "inhale"
               ]
             },
@@ -32973,7 +32716,6 @@
                 "hunt",
                 "prey",
                 "animal",
-                "kill",
                 "food"
               ]
             },
@@ -33151,7 +32893,6 @@
               "word": "Meteor",
               "forbiddens": [
                 "space",
-                "shooting",
                 "star",
                 "rock",
                 "sky"
@@ -33663,8 +33404,7 @@
                 "heart",
                 "beat",
                 "wrist",
-                "rate",
-                "blood"
+                "rate"
               ]
             },
             {
@@ -34577,7 +34317,6 @@
               "forbiddens": [
                 "cell",
                 "divide",
-                "sex",
                 "chromosome",
                 "gamete"
               ]
@@ -34596,7 +34335,6 @@
               "word": "Antibiotic Resistance",
               "forbiddens": [
                 "bacteria",
-                "drug",
                 "evolve",
                 "immune",
                 "superbug"
@@ -34636,7 +34374,6 @@
               "word": "Fermentation",
               "forbiddens": [
                 "yeast",
-                "alcohol",
                 "bread",
                 "sugar",
                 "bacteria"
@@ -34648,7 +34385,6 @@
                 "heat",
                 "milk",
                 "bacteria",
-                "kill",
                 "louis"
               ]
             },
@@ -35098,8 +34834,7 @@
                 "immune",
                 "protein",
                 "fight",
-                "disease",
-                "blood"
+                "disease"
               ]
             },
             {
@@ -35115,7 +34850,6 @@
             {
               "word": "Platelet",
               "forbiddens": [
-                "blood",
                 "clot",
                 "cell",
                 "wound",
@@ -35125,7 +34859,6 @@
             {
               "word": "Hemoglobin",
               "forbiddens": [
-                "blood",
                 "red",
                 "oxygen",
                 "iron",
@@ -35135,7 +34868,6 @@
             {
               "word": "Plasma",
               "forbiddens": [
-                "blood",
                 "liquid",
                 "state",
                 "gas",
@@ -35177,7 +34909,6 @@
               "forbiddens": [
                 "bone",
                 "inside",
-                "blood",
                 "cell",
                 "stem"
               ]
@@ -35305,7 +35036,6 @@
             {
               "word": "Capillary",
               "forbiddens": [
-                "blood",
                 "small",
                 "vessel",
                 "tiny",
@@ -35315,7 +35045,6 @@
             {
               "word": "Artery",
               "forbiddens": [
-                "blood",
                 "heart",
                 "vessel",
                 "pulse",
@@ -35325,7 +35054,6 @@
             {
               "word": "Vein",
               "forbiddens": [
-                "blood",
                 "vessel",
                 "blue",
                 "heart",
@@ -35337,7 +35065,6 @@
               "forbiddens": [
                 "artery",
                 "heart",
-                "blood",
                 "large",
                 "vessel"
               ]
@@ -35395,7 +35122,6 @@
             {
               "word": "Circulatory System",
               "forbiddens": [
-                "blood",
                 "heart",
                 "vessel",
                 "body",
@@ -36238,7 +35964,6 @@
                 "spin",
                 "separate",
                 "fast",
-                "blood",
                 "machine"
               ]
             },
@@ -36610,16 +36335,6 @@
                 "path",
                 "sum",
                 "energy"
-              ]
-            },
-            {
-              "word": "Beer-Lambert Law",
-              "forbiddens": [
-                "absorbance",
-                "concentration",
-                "light",
-                "path",
-                "solution"
               ]
             },
             {
@@ -38143,7 +37858,6 @@
                 "cell",
                 "death",
                 "programmed",
-                "suicide",
                 "controlled"
               ]
             },
@@ -38283,8 +37997,7 @@
                 "allele",
                 "both",
                 "express",
-                "trait",
-                "blood"
+                "trait"
               ]
             },
             {
@@ -39353,7 +39066,6 @@
               "word": "Knight",
               "forbiddens": [
                 "armor",
-                "sword",
                 "horse",
                 "medieval",
                 "shield"
@@ -39370,16 +39082,6 @@
               ]
             },
             {
-              "word": "Sword",
-              "forbiddens": [
-                "blade",
-                "weapon",
-                "fight",
-                "sharp",
-                "knight"
-              ]
-            },
-            {
               "word": "Shield",
               "forbiddens": [
                 "protect",
@@ -39393,10 +39095,8 @@
               "word": "Arrow",
               "forbiddens": [
                 "bow",
-                "shoot",
                 "point",
-                "target",
-                "weapon"
+                "target"
               ]
             },
             {
@@ -39415,8 +39115,7 @@
                 "army",
                 "war",
                 "fight",
-                "uniform",
-                "gun"
+                "uniform"
               ]
             },
             {
@@ -39425,8 +39124,7 @@
                 "war",
                 "fight",
                 "army",
-                "soldiers",
-                "attack"
+                "soldiers"
               ]
             },
             {
@@ -39483,7 +39181,6 @@
               "word": "Cannon",
               "forbiddens": [
                 "fire",
-                "weapon",
                 "ball",
                 "war",
                 "boom"
@@ -39527,26 +39224,6 @@
                 "head",
                 "boss",
                 "native"
-              ]
-            },
-            {
-              "word": "Slave",
-              "forbiddens": [
-                "free",
-                "chain",
-                "master",
-                "work",
-                "servant"
-              ]
-            },
-            {
-              "word": "Prison",
-              "forbiddens": [
-                "jail",
-                "cell",
-                "criminal",
-                "lock",
-                "guard"
               ]
             },
             {
@@ -39632,7 +39309,6 @@
             {
               "word": "Spear",
               "forbiddens": [
-                "weapon",
                 "sharp",
                 "throw",
                 "point",
@@ -39643,8 +39319,6 @@
               "word": "Bow",
               "forbiddens": [
                 "arrow",
-                "shoot",
-                "weapon",
                 "string",
                 "hunt"
               ]
@@ -39735,7 +39409,6 @@
                 "rome",
                 "fight",
                 "arena",
-                "sword",
                 "ancient"
               ]
             },
@@ -39743,7 +39416,6 @@
               "word": "Samurai",
               "forbiddens": [
                 "japan",
-                "sword",
                 "warrior",
                 "honor",
                 "armor"
@@ -39755,7 +39427,6 @@
                 "japan",
                 "stealth",
                 "black",
-                "assassin",
                 "martial"
               ]
             },
@@ -39807,16 +39478,6 @@
                 "religion",
                 "bishop",
                 "gothic"
-              ]
-            },
-            {
-              "word": "Tomb",
-              "forbiddens": [
-                "dead",
-                "burial",
-                "grave",
-                "body",
-                "stone"
               ]
             },
             {
@@ -39904,7 +39565,6 @@
               "forbiddens": [
                 "throw",
                 "rock",
-                "weapon",
                 "siege",
                 "launch"
               ]
@@ -39912,7 +39572,6 @@
             {
               "word": "Siege",
               "forbiddens": [
-                "attack",
                 "castle",
                 "surround",
                 "war",
@@ -39922,7 +39581,6 @@
             {
               "word": "Invasion",
               "forbiddens": [
-                "attack",
                 "army",
                 "enter",
                 "country",
@@ -39964,19 +39622,8 @@
               "forbiddens": [
                 "betray",
                 "country",
-                "crime",
                 "traitor",
                 "king"
-              ]
-            },
-            {
-              "word": "Execution",
-              "forbiddens": [
-                "kill",
-                "death",
-                "punishment",
-                "head",
-                "crime"
               ]
             },
             {
@@ -39985,14 +39632,12 @@
                 "head",
                 "france",
                 "blade",
-                "cut",
-                "execution"
+                "cut"
               ]
             },
             {
               "word": "Dungeon",
               "forbiddens": [
-                "prison",
                 "dark",
                 "castle",
                 "underground",
@@ -40154,7 +39799,6 @@
               "forbiddens": [
                 "explode",
                 "china",
-                "weapon",
                 "fire",
                 "powder"
               ]
@@ -40292,7 +39936,6 @@
             {
               "word": "Serf",
               "forbiddens": [
-                "slave",
                 "land",
                 "lord",
                 "work",
@@ -40470,26 +40113,6 @@
               ]
             },
             {
-              "word": "Rifle",
-              "forbiddens": [
-                "gun",
-                "shoot",
-                "bullet",
-                "weapon",
-                "soldier"
-              ]
-            },
-            {
-              "word": "Musket",
-              "forbiddens": [
-                "gun",
-                "old",
-                "shoot",
-                "soldier",
-                "weapon"
-              ]
-            },
-            {
               "word": "Cavalry",
               "forbiddens": [
                 "horse",
@@ -40525,18 +40148,7 @@
                 "war",
                 "vehicle",
                 "armor",
-                "military",
-                "gun"
-              ]
-            },
-            {
-              "word": "Bomb",
-              "forbiddens": [
-                "explode",
-                "war",
-                "drop",
-                "destroy",
-                "weapon"
+                "military"
               ]
             },
             {
@@ -40700,19 +40312,8 @@
               ]
             },
             {
-              "word": "Slavery",
-              "forbiddens": [
-                "slave",
-                "chain",
-                "free",
-                "work",
-                "master"
-              ]
-            },
-            {
               "word": "Abolition",
               "forbiddens": [
-                "slavery",
                 "end",
                 "free",
                 "movement",
@@ -40783,7 +40384,6 @@
               "word": "Plantation",
               "forbiddens": [
                 "farm",
-                "slave",
                 "crop",
                 "south",
                 "cotton"
@@ -40797,16 +40397,6 @@
                 "white",
                 "soft",
                 "south"
-              ]
-            },
-            {
-              "word": "Tobacco",
-              "forbiddens": [
-                "smoke",
-                "plant",
-                "leaf",
-                "cigarette",
-                "crop"
               ]
             },
             {
@@ -41112,9 +40702,7 @@
             {
               "word": "Assassination",
               "forbiddens": [
-                "kill",
                 "leader",
-                "murder",
                 "political",
                 "target"
               ]
@@ -41142,7 +40730,6 @@
             {
               "word": "Riot",
               "forbiddens": [
-                "violent",
                 "crowd",
                 "angry",
                 "street",
@@ -41367,16 +40954,6 @@
                 "good",
                 "church",
                 "miracle"
-              ]
-            },
-            {
-              "word": "Heresy",
-              "forbiddens": [
-                "religion",
-                "wrong",
-                "belief",
-                "church",
-                "punish"
               ]
             },
             {
@@ -41693,9 +41270,7 @@
               "word": "Hunting",
               "forbiddens": [
                 "animal",
-                "kill",
                 "food",
-                "weapon",
                 "wild"
               ]
             },
@@ -42014,7 +41589,6 @@
               "forbiddens": [
                 "give",
                 "god",
-                "kill",
                 "offering",
                 "religion"
               ]
@@ -42305,7 +41879,6 @@
                 "english",
                 "arrow",
                 "tall",
-                "weapon",
                 "war"
               ]
             },
@@ -42313,8 +41886,6 @@
               "word": "Crossbow",
               "forbiddens": [
                 "arrow",
-                "weapon",
-                "shoot",
                 "trigger",
                 "bolt"
               ]
@@ -42325,7 +41896,6 @@
                 "throw",
                 "stone",
                 "siege",
-                "weapon",
                 "medieval"
               ]
             },
@@ -42340,19 +41910,8 @@
               ]
             },
             {
-              "word": "Dagger",
-              "forbiddens": [
-                "knife",
-                "short",
-                "blade",
-                "stab",
-                "weapon"
-              ]
-            },
-            {
               "word": "Mace",
               "forbiddens": [
-                "weapon",
                 "heavy",
                 "head",
                 "metal",
@@ -42365,14 +41924,12 @@
                 "knight",
                 "horse",
                 "long",
-                "weapon",
                 "joust"
               ]
             },
             {
               "word": "Halberd",
               "forbiddens": [
-                "weapon",
                 "axe",
                 "spear",
                 "pole",
@@ -42545,16 +42102,6 @@
               ]
             },
             {
-              "word": "Fascism",
-              "forbiddens": [
-                "dictator",
-                "state",
-                "italy",
-                "extreme",
-                "nationalist"
-              ]
-            },
-            {
               "word": "Socialism",
               "forbiddens": [
                 "equal",
@@ -42659,7 +42206,6 @@
               "forbiddens": [
                 "peace",
                 "give",
-                "hitler",
                 "avoid",
                 "concession"
               ]
@@ -42669,29 +42215,8 @@
               "forbiddens": [
                 "german",
                 "fast",
-                "attack",
                 "war",
                 "lightning"
-              ]
-            },
-            {
-              "word": "Holocaust",
-              "forbiddens": [
-                "jewish",
-                "nazi",
-                "kill",
-                "camp",
-                "genocide"
-              ]
-            },
-            {
-              "word": "Genocide",
-              "forbiddens": [
-                "kill",
-                "group",
-                "people",
-                "mass",
-                "exterminate"
               ]
             },
             {
@@ -42728,7 +42253,6 @@
               "word": "Emancipation",
               "forbiddens": [
                 "free",
-                "slave",
                 "lincoln",
                 "proclamation",
                 "liberty"
@@ -42737,7 +42261,6 @@
             {
               "word": "Abolitionism",
               "forbiddens": [
-                "slavery",
                 "end",
                 "movement",
                 "free",
@@ -42747,7 +42270,6 @@
             {
               "word": "Prohibition",
               "forbiddens": [
-                "alcohol",
                 "ban",
                 "law",
                 "drink",
@@ -42805,21 +42327,9 @@
               ]
             },
             {
-              "word": "Cuban Missile Crisis",
-              "forbiddens": [
-                "nuclear",
-                "kennedy",
-                "soviet",
-                "cuba",
-                "cold war"
-              ]
-            },
-            {
               "word": "Pearl Harbor",
               "forbiddens": [
                 "japan",
-                "attack",
-                "bomb",
                 "hawaii",
                 "war"
               ]
@@ -42837,7 +42347,6 @@
             {
               "word": "Hiroshima",
               "forbiddens": [
-                "bomb",
                 "nuclear",
                 "japan",
                 "atomic",
@@ -42847,7 +42356,6 @@
             {
               "word": "Nagasaki",
               "forbiddens": [
-                "bomb",
                 "nuclear",
                 "japan",
                 "atomic",
@@ -42857,9 +42365,7 @@
             {
               "word": "Nuremberg Trials",
               "forbiddens": [
-                "nazi",
                 "war",
-                "crime",
                 "trial",
                 "judge"
               ]
@@ -42918,7 +42424,6 @@
               "word": "Manhattan Project",
               "forbiddens": [
                 "nuclear",
-                "bomb",
                 "atomic",
                 "secret",
                 "scientist"
@@ -42965,23 +42470,11 @@
               ]
             },
             {
-              "word": "Terrorism",
-              "forbiddens": [
-                "attack",
-                "fear",
-                "bomb",
-                "violence",
-                "group"
-              ]
-            },
-            {
               "word": "September 11",
               "forbiddens": [
-                "attack",
                 "tower",
                 "plane",
-                "new york",
-                "terrorist"
+                "new york"
               ]
             },
             {
@@ -43038,7 +42531,6 @@
               "word": "Emancipation Proclamation",
               "forbiddens": [
                 "lincoln",
-                "slave",
                 "free",
                 "civil war",
                 "document"
@@ -43107,7 +42599,6 @@
             {
               "word": "Underground Railroad",
               "forbiddens": [
-                "slave",
                 "escape",
                 "freedom",
                 "north",
@@ -43209,7 +42700,6 @@
               "forbiddens": [
                 "north",
                 "south",
-                "slavery",
                 "america",
                 "union"
               ]
@@ -43222,16 +42712,6 @@
                 "europe",
                 "1914",
                 "alliance"
-              ]
-            },
-            {
-              "word": "World War II",
-              "forbiddens": [
-                "hitler",
-                "nazi",
-                "1939",
-                "bomb",
-                "allied"
               ]
             },
             {
@@ -43267,7 +42747,6 @@
             {
               "word": "Haitian Revolution",
               "forbiddens": [
-                "slave",
                 "revolt",
                 "toussaint",
                 "caribbean",
@@ -43292,16 +42771,6 @@
                 "modern",
                 "samurai",
                 "reform"
-              ]
-            },
-            {
-              "word": "Opium Wars",
-              "forbiddens": [
-                "china",
-                "british",
-                "drug",
-                "trade",
-                "treaty"
               ]
             },
             {
@@ -43378,9 +42847,7 @@
               "word": "Spanish Inquisition",
               "forbiddens": [
                 "spain",
-                "heresy",
                 "church",
-                "torture",
                 "catholic"
               ]
             },
@@ -43739,7 +43206,6 @@
               "forbiddens": [
                 "metal",
                 "tool",
-                "weapon",
                 "period",
                 "bronze"
               ]
@@ -43980,8 +43446,7 @@
                 "china",
                 "clay",
                 "soldier",
-                "emperor",
-                "tomb"
+                "emperor"
               ]
             },
             {
@@ -44029,7 +43494,6 @@
               "forbiddens": [
                 "rome",
                 "emperor",
-                "stab",
                 "senate",
                 "dictator"
               ]
@@ -44208,7 +43672,6 @@
               "word": "Abraham Lincoln",
               "forbiddens": [
                 "president",
-                "slavery",
                 "civil war",
                 "honest",
                 "assassinate"
@@ -44248,7 +43711,6 @@
               "word": "Nelson Mandela",
               "forbiddens": [
                 "south africa",
-                "prison",
                 "apartheid",
                 "freedom",
                 "president"
@@ -44270,18 +43732,7 @@
                 "britain",
                 "war",
                 "prime minister",
-                "speech",
-                "cigar"
-              ]
-            },
-            {
-              "word": "Adolf Hitler",
-              "forbiddens": [
-                "nazi",
-                "germany",
-                "war",
-                "dictator",
-                "holocaust"
+                "speech"
               ]
             },
             {
@@ -44310,7 +43761,6 @@
                 "cuba",
                 "revolution",
                 "communist",
-                "cigar",
                 "dictator"
               ]
             },
@@ -44359,7 +43809,6 @@
               "forbiddens": [
                 "underground",
                 "railroad",
-                "slave",
                 "escape",
                 "free"
               ]
@@ -44367,7 +43816,6 @@
             {
               "word": "Frederick Douglass",
               "forbiddens": [
-                "slave",
                 "abolitionist",
                 "writer",
                 "speak",
@@ -44410,7 +43858,6 @@
                 "diary",
                 "jewish",
                 "hide",
-                "nazi",
                 "girl"
               ]
             },
@@ -44729,7 +44176,6 @@
               "forbiddens": [
                 "egypt",
                 "pharaoh",
-                "tomb",
                 "boy",
                 "gold"
               ]
@@ -44838,7 +44284,6 @@
               "word": "Robespierre",
               "forbiddens": [
                 "french revolution",
-                "terror",
                 "guillotine",
                 "radical",
                 "reign"
@@ -44850,8 +44295,7 @@
                 "germany",
                 "unify",
                 "iron",
-                "chancellor",
-                "blood"
+                "chancellor"
               ]
             },
             {
@@ -44878,7 +44322,6 @@
               "word": "Toussaint Louverture",
               "forbiddens": [
                 "haiti",
-                "slave",
                 "revolution",
                 "leader",
                 "free"
@@ -44918,7 +44361,6 @@
               "word": "Benito Mussolini",
               "forbiddens": [
                 "italy",
-                "fascist",
                 "dictator",
                 "duce",
                 "world war"
@@ -44930,7 +44372,6 @@
                 "spain",
                 "dictator",
                 "civil war",
-                "fascist",
                 "general"
               ]
             },
@@ -44939,9 +44380,7 @@
               "forbiddens": [
                 "cambodia",
                 "khmer rouge",
-                "genocide",
-                "communist",
-                "killing"
+                "communist"
               ]
             },
             {
@@ -45155,7 +44594,6 @@
                 "austria",
                 "germany",
                 "annex",
-                "hitler",
                 "union"
               ]
             },
@@ -45275,8 +44713,7 @@
                 "french",
                 "radical",
                 "revolution",
-                "republic",
-                "terror"
+                "republic"
               ]
             },
             {
@@ -45305,8 +44742,7 @@
                 "supply",
                 "war",
                 "britain",
-                "america",
-                "weapon"
+                "america"
               ]
             },
             {
@@ -45342,7 +44778,6 @@
             {
               "word": "Missouri Compromise",
               "forbiddens": [
-                "slave",
                 "free",
                 "state",
                 "line",
@@ -45352,7 +44787,6 @@
             {
               "word": "Molotov-Ribbentrop Pact",
               "forbiddens": [
-                "nazi",
                 "soviet",
                 "nonaggression",
                 "secret",
@@ -45363,7 +44797,6 @@
               "word": "Munich Agreement",
               "forbiddens": [
                 "appeasement",
-                "hitler",
                 "czechoslovakia",
                 "chamberlain",
                 "peace"
@@ -45445,7 +44878,6 @@
                 "traitor",
                 "norway",
                 "collaborate",
-                "nazi",
                 "puppet"
               ]
             },
@@ -45465,7 +44897,6 @@
                 "german",
                 "parliament",
                 "burn",
-                "hitler",
                 "1933"
               ]
             },
@@ -45625,7 +45056,6 @@
                 "french",
                 "revolution",
                 "end",
-                "terror",
                 "reaction"
               ]
             },
@@ -45642,7 +45072,6 @@
             {
               "word": "Triangular Trade",
               "forbiddens": [
-                "slave",
                 "atlantic",
                 "goods",
                 "africa",
@@ -45672,7 +45101,6 @@
             {
               "word": "Vichy France",
               "forbiddens": [
-                "nazi",
                 "puppet",
                 "collaborate",
                 "petain",
@@ -45933,9 +45361,7 @@
               "word": "Transubstantiation",
               "forbiddens": [
                 "bread",
-                "wine",
                 "body",
-                "blood",
                 "catholic"
               ]
             },
@@ -46165,14 +45591,12 @@
                 "ottoman",
                 "soldier",
                 "elite",
-                "slave",
                 "christian"
               ]
             },
             {
               "word": "Mamluk",
               "forbiddens": [
-                "slave",
                 "soldier",
                 "egypt",
                 "warrior",
@@ -46370,16 +45794,6 @@
               ]
             },
             {
-              "word": "Peterloo Massacre",
-              "forbiddens": [
-                "manchester",
-                "protest",
-                "cavalry",
-                "reform",
-                "killed"
-              ]
-            },
-            {
               "word": "Corn Laws",
               "forbiddens": [
                 "grain",
@@ -46402,17 +45816,14 @@
             {
               "word": "Bleeding Kansas",
               "forbiddens": [
-                "slave",
                 "free",
                 "territory",
-                "violence",
                 "border"
               ]
             },
             {
               "word": "Dred Scott Decision",
               "forbiddens": [
-                "slave",
                 "citizen",
                 "court",
                 "supreme",
@@ -46437,16 +45848,6 @@
                 "republican",
                 "reconstruction",
                 "traitor"
-              ]
-            },
-            {
-              "word": "Robber Baron",
-              "forbiddens": [
-                "rich",
-                "industry",
-                "exploit",
-                "monopoly",
-                "gilded"
               ]
             },
             {
@@ -46522,7 +45923,6 @@
             {
               "word": "Temperance Movement",
               "forbiddens": [
-                "alcohol",
                 "ban",
                 "drink",
                 "reform",
@@ -46754,19 +46154,7 @@
               "forbiddens": [
                 "cambodia",
                 "pol pot",
-                "genocide",
-                "communist",
-                "killing"
-              ]
-            },
-            {
-              "word": "Rwandan Genocide",
-              "forbiddens": [
-                "africa",
-                "tutsi",
-                "hutu",
-                "kill",
-                "1994"
+                "communist"
               ]
             },
             {
@@ -46893,7 +46281,6 @@
               "word": "Nuclear Non-Proliferation Treaty",
               "forbiddens": [
                 "nuclear",
-                "weapon",
                 "spread",
                 "prevent",
                 "treaty"
@@ -46923,7 +46310,6 @@
               "word": "War Crimes Tribunal",
               "forbiddens": [
                 "judge",
-                "crime",
                 "international",
                 "punish",
                 "court"
@@ -46974,7 +46360,6 @@
               "forbiddens": [
                 "preemptive",
                 "strike",
-                "terrorism",
                 "war",
                 "iraq"
               ]
@@ -47160,16 +46545,6 @@
               ]
             },
             {
-              "word": "Witchcraft Trials",
-              "forbiddens": [
-                "witch",
-                "accuse",
-                "burn",
-                "salem",
-                "superstition"
-              ]
-            },
-            {
               "word": "Scientific Revolution",
               "forbiddens": [
                 "science",
@@ -47200,19 +46575,8 @@
               ]
             },
             {
-              "word": "Atlantic Slave Trade",
-              "forbiddens": [
-                "africa",
-                "ship",
-                "slave",
-                "middle passage",
-                "plantation"
-              ]
-            },
-            {
               "word": "Middle Passage",
               "forbiddens": [
-                "slave",
                 "ship",
                 "atlantic",
                 "africa",
@@ -47235,7 +46599,6 @@
                 "force",
                 "navy",
                 "sailor",
-                "kidnap",
                 "british"
               ]
             },
@@ -47245,7 +46608,6 @@
                 "pirate",
                 "license",
                 "ship",
-                "attack",
                 "government"
               ]
             },
@@ -47254,7 +46616,6 @@
               "forbiddens": [
                 "privateer",
                 "license",
-                "attack",
                 "ship",
                 "government"
               ]
@@ -47352,7 +46713,6 @@
             {
               "word": "Compromise of 1850",
               "forbiddens": [
-                "slave",
                 "free",
                 "california",
                 "fugitive",
@@ -47363,7 +46723,6 @@
               "word": "Kansas-Nebraska Act",
               "forbiddens": [
                 "territory",
-                "slave",
                 "popular",
                 "sovereignty",
                 "repeal"
@@ -47593,7 +46952,6 @@
               "word": "Gulag",
               "forbiddens": [
                 "soviet",
-                "prison",
                 "labor",
                 "camp",
                 "siberia"
@@ -47603,8 +46961,6 @@
               "word": "Pogrom",
               "forbiddens": [
                 "jewish",
-                "attack",
-                "violence",
                 "russia",
                 "mob"
               ]
@@ -47614,9 +46970,7 @@
               "forbiddens": [
                 "jewish",
                 "glass",
-                "nazi",
-                "night",
-                "attack"
+                "night"
               ]
             },
             {
@@ -47724,7 +47078,6 @@
               "forbiddens": [
                 "franco",
                 "republic",
-                "fascist",
                 "1936",
                 "guernica"
               ]
@@ -47734,7 +47087,6 @@
               "forbiddens": [
                 "china",
                 "british",
-                "opium",
                 "hong kong",
                 "unequal"
               ]
