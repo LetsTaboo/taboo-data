@@ -9,21 +9,29 @@ Remote game data repository for the Taboo iOS app (`LetsTaboo/taboo-data`).
 | `game_data.json` | All topics, difficulty levels, and word cards |
 | `version.json` | Current data version number `{"version": N}` |
 
-## IMPORTANT: game_data.json Must Always Stay in Sync
+## 🔴 This repo may only serve decks the apps already ship (deck-parity, required check)
 
-`game_data.json` exists in **two repos** that must always be identical and committed/pushed together:
+iOS reads `version.json` from this repo's `main` and downloads `game_data_<locale>.json` for any locale
+whose version is newer. So anything served here reaches iPhones. The `deck-parity` GitHub Action
+(`.github/scripts/check_decks.py`) runs on every push and PR to `main`, and `main` is protected: the check
+is required, direct pushes are refused, and that includes admins. It fails when:
+- any `*.json` other than `version.json` is not in `app_decks.md5` or differs from it by md5;
+- `version.json` advertises a locale with no verified deck, or a version different from that deck's own
+  `version` field, or a top-level `version` different from the English deck's.
 
-| Repo | Path |
-|------|------|
-| `LetsTaboo/taboo-data` | `game_data.json` |
-| `yasinkbas/Taboo-ios` | `Taboo/Resources/Data/game_data.json` |
+**`app_decks.md5` is the source of truth**, and it has ONE update path: Server regenerates it from the iOS
+release branch that ships the decks, and commits it in the same PR as the deck change here:
 
-**Whenever `game_data.json` is modified:**
-1. Write the same content to both paths
-2. Commit and push `taboo-data` (branch: main)
-3. Commit and push `Taboo-ios` (branch: current release branch)
+```bash
+tools/regen_app_decks_md5.sh <path-to-forbidden-ios> origin/release/<version>
+```
 
-Never push one without the other.
+Do not edit it by hand. Android's bundled decks are kept byte-identical to iOS by the apps' own md5 parity
+test. `game_data.json` is the legacy (v2.0.0) alias of the English deck.
+
+**To publish a deck update:** ship it in the app bundle first (iOS `Taboo/Resources/Data/`, plus Android),
+regenerate `app_decks.md5` from that release branch, then open a PR here with the deck(s), the new
+`app_decks.md5` and the bumped `version.json`. The check must be green before the merge.
 
 ## Data Structure
 

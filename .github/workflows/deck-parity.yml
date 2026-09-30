@@ -1,0 +1,13 @@
+name: deck-parity
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  deck-parity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Served decks must equal the app-bundled decks
+        run: python3 .github/scripts/check_decks.py .
