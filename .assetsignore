@@ -1,0 +1,5 @@
+# Allow-list: nothing in this repository is served except the manifest and the decks.
+*
+!version.json
+!game_data.json
+!game_data_*.json

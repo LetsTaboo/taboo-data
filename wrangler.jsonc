@@ -1,0 +1,8 @@
+{
+  // Serves the deck files of this repository at data.iocar.app: static files only, no code.
+  // One deploy uploads every file and switches to them together, so version.json is never newer than a deck beside it.
+  // What is served is the allow-list in .assetsignore. The name must stay the Worker's name in Cloudflare.
+  "name": "taboo-data",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "." }
+}
