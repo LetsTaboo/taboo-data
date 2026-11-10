@@ -26,6 +26,13 @@ release branch that ships the decks, and commits it in the same PR as the deck c
 tools/regen_app_decks_md5.sh <path-to-forbidden-ios> origin/release/<version>
 ```
 
+**Two served paths (contract `Forbidden/contracts/topic_rotation.md` section 8).** The root is what apps up to
+2.13.0 (and Android before Geography) read: its decks may only carry the six older topics, and the check fails on
+any other topic. Apps that ship Geography read `topics7/` (`topics7/version.json`, `topics7/game_data_<lang>.json`),
+checked by the same rules against the `topics7/` lines of `app_decks.md5`. Regenerate the topics7 lines with
+`tools/regen_app_decks_md5.sh <ios> <ref> topics7`; the root lines without the third argument (it refuses a deck
+with a seventh topic).
+
 Do not edit it by hand. Android's bundled decks are kept byte-identical to iOS by the apps' own md5 parity
 test. `game_data.json` is the legacy (v2.0.0) alias of the English deck.
 

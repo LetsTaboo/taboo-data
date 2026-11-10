@@ -4,5 +4,8 @@
   // What is served is the allow-list in .assetsignore. The name must stay the Worker's name in Cloudflare.
   "name": "taboo-data",
   "compatibility_date": "2026-10-01",
-  "assets": { "directory": "." }
+  "assets": { "directory": "." },
+  // Workers Builds runs `wrangler preview` for a non-main branch (a PR), and wrangler 4.158 refuses a config without
+  // this block. Empty is enough: the preview serves the same assets. Production (main) deploys do not read it.
+  "previews": {}
 }

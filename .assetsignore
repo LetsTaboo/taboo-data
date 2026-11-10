@@ -3,3 +3,7 @@
 !version.json
 !game_data.json
 !game_data_*.json
+# The apps that ship Geography read topics7/ (contract topic_rotation.md section 8).
+!topics7/
+!topics7/version.json
+!topics7/game_data_*.json
