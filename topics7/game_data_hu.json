@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 18,
  "data": [
   {
    "topic": "cultural",
@@ -93782,6 +93782,196 @@
         "atlanti-óceán",
         "egyesült királyság"
        ]
+      },
+      {
+       "word": "Madrid",
+       "forbiddens": [
+        "spanyolország",
+        "főváros",
+        "prado",
+        "retiro",
+        "királyi palota"
+       ]
+      },
+      {
+       "word": "Alaszka",
+       "forbiddens": [
+        "jég",
+        "medve",
+        "hideg",
+        "usa",
+        "aranyláz"
+       ]
+      },
+      {
+       "word": "Magyarország",
+       "forbiddens": [
+        "budapest",
+        "balaton",
+        "duna",
+        "tisza",
+        "puszta"
+       ]
+      },
+      {
+       "word": "Szárazföld",
+       "forbiddens": [
+        "kontinens",
+        "tenger",
+        "sziget",
+        "part",
+        "víz"
+       ]
+      },
+      {
+       "word": "Sziklafal",
+       "forbiddens": [
+        "meredek",
+        "hegymászás",
+        "függőleges",
+        "magas",
+        "kő"
+       ]
+      },
+      {
+       "word": "Szigetország",
+       "forbiddens": [
+        "tenger",
+        "japán",
+        "fülöp-szigetek",
+        "indonézia",
+        "málta"
+       ]
+      },
+      {
+       "word": "Nagyváros",
+       "forbiddens": [
+        "millió",
+        "felhőkarcoló",
+        "forgalom",
+        "metró",
+        "lakosság"
+       ]
+      },
+      {
+       "word": "Mount Everest",
+       "forbiddens": [
+        "himalája",
+        "legmagasabb",
+        "csúcs",
+        "hó",
+        "mászó"
+       ]
+      },
+      {
+       "word": "Északi-sark",
+       "forbiddens": [
+        "jég",
+        "jegesmedve",
+        "hideg",
+        "mikulás",
+        "tél"
+       ]
+      },
+      {
+       "word": "Európa",
+       "forbiddens": [
+        "kontinens",
+        "ural",
+        "magyarország",
+        "ázsia",
+        "atlanti-óceán"
+       ]
+      },
+      {
+       "word": "Ázsia",
+       "forbiddens": [
+        "kontinens",
+        "kína",
+        "india",
+        "legnagyobb",
+        "európa"
+       ]
+      },
+      {
+       "word": "Észak-Amerika",
+       "forbiddens": [
+        "kontinens",
+        "kanada",
+        "usa",
+        "mexikó",
+        "sziklás-hegység"
+       ]
+      },
+      {
+       "word": "Dél-Amerika",
+       "forbiddens": [
+        "kontinens",
+        "brazília",
+        "amazonas",
+        "andok",
+        "argentína"
+       ]
+      },
+      {
+       "word": "Hollandia",
+       "forbiddens": [
+        "amszterdam",
+        "tulipán",
+        "szélmalom",
+        "kerékpár",
+        "tenger"
+       ]
+      },
+      {
+       "word": "Belgium",
+       "forbiddens": [
+        "brüsszel",
+        "csokoládé",
+        "gofri",
+        "brugge",
+        "antwerpen"
+       ]
+      },
+      {
+       "word": "Portugália",
+       "forbiddens": [
+        "lisszabon",
+        "atlanti-óceán",
+        "fado",
+        "porto",
+        "ibériai-félsziget"
+       ]
+      },
+      {
+       "word": "Dánia",
+       "forbiddens": [
+        "koppenhága",
+        "viking",
+        "andersen",
+        "sziget",
+        "skandinávia"
+       ]
+      },
+      {
+       "word": "Egyesült Államok",
+       "forbiddens": [
+        "amerika",
+        "washington",
+        "new york",
+        "dollár",
+        "kalifornia"
+       ]
+      },
+      {
+       "word": "Domborzat",
+       "forbiddens": [
+        "hegy",
+        "völgy",
+        "felszín",
+        "magasság",
+        "térkép"
+       ]
       }
      ]
     },
@@ -96787,6 +96977,3256 @@
         "narancsfa",
         "guadalquivir"
        ]
+      },
+      {
+       "word": "Delhi",
+       "forbiddens": [
+        "india",
+        "zsúfolt",
+        "jamuna",
+        "vörös erőd",
+        "nagyváros"
+       ]
+      },
+      {
+       "word": "Balatonföldvár",
+       "forbiddens": [
+        "kikötő",
+        "déli part",
+        "strand",
+        "vitorlás",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Révfülöp",
+       "forbiddens": [
+        "balaton",
+        "északi part",
+        "kikötő",
+        "strand",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Zánka",
+       "forbiddens": [
+        "balaton",
+        "északi part",
+        "tábor",
+        "strand",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Gárdony",
+       "forbiddens": [
+        "velencei-tó",
+        "agárd",
+        "fejér",
+        "strand",
+        "nád"
+       ]
+      },
+      {
+       "word": "Agárd",
+       "forbiddens": [
+        "velencei-tó",
+        "gárdony",
+        "fejér",
+        "strand",
+        "fürdő"
+       ]
+      },
+      {
+       "word": "Tiszafüred",
+       "forbiddens": [
+        "strand",
+        "vitorlás",
+        "madarak",
+        "hajózás",
+        "tó"
+       ]
+      },
+      {
+       "word": "Gyöngyös",
+       "forbiddens": [
+        "mátra",
+        "heves",
+        "kékes",
+        "hegység",
+        "város"
+       ]
+      },
+      {
+       "word": "Tokaj",
+       "forbiddens": [
+        "hegyalja",
+        "tisza",
+        "bodrog",
+        "zemplén",
+        "világörökség"
+       ]
+      },
+      {
+       "word": "Cegléd",
+       "forbiddens": [
+        "pest megye",
+        "alföld",
+        "kecskemét",
+        "vasút",
+        "város"
+       ]
+      },
+      {
+       "word": "Orosháza",
+       "forbiddens": [
+        "békés megye",
+        "alföld",
+        "gyógyfürdő",
+        "békéscsaba",
+        "hódmezővásárhely"
+       ]
+      },
+      {
+       "word": "Nagykanizsa",
+       "forbiddens": [
+        "zala megye",
+        "olaj",
+        "zalaegerszeg",
+        "balaton",
+        "dél"
+       ]
+      },
+      {
+       "word": "Vác",
+       "forbiddens": [
+        "duna",
+        "dunakanyar",
+        "pest",
+        "kőkapu",
+        "sétány"
+       ]
+      },
+      {
+       "word": "Érd",
+       "forbiddens": [
+        "pest megye",
+        "budapest",
+        "agglomeráció",
+        "duna",
+        "nagy"
+       ]
+      },
+      {
+       "word": "Paks",
+       "forbiddens": [
+        "duna",
+        "atomerőmű",
+        "tolna",
+        "halászlé",
+        "energia"
+       ]
+      },
+      {
+       "word": "Reykjavík",
+       "forbiddens": [
+        "izland",
+        "főváros",
+        "gejzír",
+        "északi",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Korzika",
+       "forbiddens": [
+        "földközi-tenger",
+        "szardínia",
+        "hegyes",
+        "tengerpart",
+        "ajaccio"
+       ]
+      },
+      {
+       "word": "Bulgária",
+       "forbiddens": [
+        "szófia",
+        "rózsa",
+        "fekete-tenger",
+        "balkán",
+        "várna"
+       ]
+      },
+      {
+       "word": "Innsbruck",
+       "forbiddens": [
+        "tirol",
+        "alpok",
+        "síelés",
+        "olimpia",
+        "aranytető"
+       ]
+      },
+      {
+       "word": "Litvánia",
+       "forbiddens": [
+        "vilnius",
+        "balti-tenger",
+        "kaunas",
+        "borostyán",
+        "baltikum"
+       ]
+      },
+      {
+       "word": "Őrség",
+       "forbiddens": [
+        "nyugat",
+        "nemzeti park",
+        "erdők",
+        "szeres",
+        "hegyhát"
+       ]
+      },
+      {
+       "word": "Siena",
+       "forbiddens": [
+        "toszkána",
+        "campo",
+        "palio",
+        "középkori",
+        "olaszország"
+       ]
+      },
+      {
+       "word": "Uluru",
+       "forbiddens": [
+        "ausztrália",
+        "vörös",
+        "szikla",
+        "sivatag",
+        "outback"
+       ]
+      },
+      {
+       "word": "Baleár-szigetek",
+       "forbiddens": [
+        "mallorca",
+        "ibiza",
+        "menorca",
+        "formentera",
+        "spanyolország"
+       ]
+      },
+      {
+       "word": "Lettország",
+       "forbiddens": [
+        "riga",
+        "balti-tenger",
+        "baltikum",
+        "daugava",
+        "erdő"
+       ]
+      },
+      {
+       "word": "Kiskunság",
+       "forbiddens": [
+        "alföld",
+        "bugac",
+        "puszta",
+        "nemzeti park",
+        "kecskemét"
+       ]
+      },
+      {
+       "word": "Córdoba",
+       "forbiddens": [
+        "andalúzia",
+        "spanyolország",
+        "guadalquivir",
+        "mecset",
+        "mór"
+       ]
+      },
+      {
+       "word": "Grönland",
+       "forbiddens": [
+        "jég",
+        "sarkvidék",
+        "inuit",
+        "legnagyobb",
+        "hideg"
+       ]
+      },
+      {
+       "word": "Észtország",
+       "forbiddens": [
+        "tallinn",
+        "baltikum",
+        "finn-öböl",
+        "saaremaa",
+        "balti-tenger"
+       ]
+      },
+      {
+       "word": "Kárpát-medence",
+       "forbiddens": [
+        "hegykoszorú",
+        "alföld",
+        "duna",
+        "tisza",
+        "síkság"
+       ]
+      },
+      {
+       "word": "Trieszt",
+       "forbiddens": [
+        "olaszország",
+        "adriai-tenger",
+        "kikötő",
+        "miramare",
+        "karszt"
+       ]
+      },
+      {
+       "word": "Hamburg",
+       "forbiddens": [
+        "elba",
+        "kikötő",
+        "alster",
+        "németország",
+        "hanza"
+       ]
+      },
+      {
+       "word": "Szuezi-csatorna",
+       "forbiddens": [
+        "egyiptom",
+        "vörös-tenger",
+        "földközi-tenger",
+        "hajók",
+        "mesterséges"
+       ]
+      },
+      {
+       "word": "Albánia",
+       "forbiddens": [
+        "tirana",
+        "balkán",
+        "adriai-tenger",
+        "hegyvidék",
+        "ión-tenger"
+       ]
+      },
+      {
+       "word": "Balaton-felvidék",
+       "forbiddens": [
+        "tihany",
+        "badacsony",
+        "tapolca",
+        "hegyek",
+        "vulkáni"
+       ]
+      },
+      {
+       "word": "Zermatt",
+       "forbiddens": [
+        "matterhorn",
+        "svájc",
+        "síelés",
+        "alpok",
+        "autómentes"
+       ]
+      },
+      {
+       "word": "Genova",
+       "forbiddens": [
+        "ligúria",
+        "kikötő",
+        "kolumbusz",
+        "olaszország",
+        "pesto"
+       ]
+      },
+      {
+       "word": "Boszporusz",
+       "forbiddens": [
+        "isztambul",
+        "szoros",
+        "híd",
+        "fekete-tenger",
+        "marmara-tenger"
+       ]
+      },
+      {
+       "word": "Montenegró",
+       "forbiddens": [
+        "podgorica",
+        "kotori-öböl",
+        "balkán",
+        "adriai-tenger",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Pilis",
+       "forbiddens": [
+        "dobogókő",
+        "hegység",
+        "erdő",
+        "visegrád",
+        "túraútvonal"
+       ]
+      },
+      {
+       "word": "Strasbourg",
+       "forbiddens": [
+        "elzász",
+        "rajna",
+        "franciaország",
+        "katedrális",
+        "gólya"
+       ]
+      },
+      {
+       "word": "Neuschwanstein",
+       "forbiddens": [
+        "bajorország",
+        "kastély",
+        "mesebeli",
+        "alpok",
+        "füssen"
+       ]
+      },
+      {
+       "word": "Kaszpi-tenger",
+       "forbiddens": [
+        "legnagyobb",
+        "tó",
+        "sós",
+        "kaviár",
+        "ázsia"
+       ]
+      },
+      {
+       "word": "Észak-Macedónia",
+       "forbiddens": [
+        "szkopje",
+        "ohridi-tó",
+        "balkán",
+        "vardar",
+        "hegyvidék"
+       ]
+      },
+      {
+       "word": "Dráva",
+       "forbiddens": [
+        "folyó",
+        "alpok",
+        "duna",
+        "barcs",
+        "mellékfolyó"
+       ]
+      },
+      {
+       "word": "Lübeck",
+       "forbiddens": [
+        "hanza",
+        "balti-tenger",
+        "németország",
+        "holstentor",
+        "marcipán"
+       ]
+      },
+      {
+       "word": "Edinburgh",
+       "forbiddens": [
+        "skócia",
+        "vár",
+        "főváros",
+        "fesztivál",
+        "dombok"
+       ]
+      },
+      {
+       "word": "Temze",
+       "forbiddens": [
+        "london",
+        "oxford",
+        "folyó",
+        "hajók",
+        "híd"
+       ]
+      },
+      {
+       "word": "Luxemburg",
+       "forbiddens": [
+        "benelux",
+        "kicsi",
+        "mosel",
+        "ardennek",
+        "európa"
+       ]
+      },
+      {
+       "word": "Rába",
+       "forbiddens": [
+        "győr",
+        "nyugat",
+        "sárvár",
+        "kisalföld",
+        "folyó"
+       ]
+      },
+      {
+       "word": "Zürich",
+       "forbiddens": [
+        "svájc",
+        "limmat",
+        "legnagyobb",
+        "egyetem",
+        "alpok"
+       ]
+      },
+      {
+       "word": "Moldva",
+       "forbiddens": [
+        "prága",
+        "csehország",
+        "folyó",
+        "károly-híd",
+        "elba"
+       ]
+      },
+      {
+       "word": "Vietnám",
+       "forbiddens": [
+        "hanoi",
+        "mekong",
+        "rizs",
+        "halong-öböl",
+        "indokína"
+       ]
+      },
+      {
+       "word": "Tunisz",
+       "forbiddens": [
+        "főváros",
+        "karthágó",
+        "földközi-tenger",
+        "tunézia",
+        "észak-afrika"
+       ]
+      },
+      {
+       "word": "Oslo",
+       "forbiddens": [
+        "norvégia",
+        "főváros",
+        "fjord",
+        "viking",
+        "hajó"
+       ]
+      },
+      {
+       "word": "Néva",
+       "forbiddens": [
+        "szentpétervár",
+        "folyó",
+        "ladoga",
+        "hidak",
+        "orosz"
+       ]
+      },
+      {
+       "word": "Nepál",
+       "forbiddens": [
+        "katmandu",
+        "himalája",
+        "everest",
+        "hegyek",
+        "serpa"
+       ]
+      },
+      {
+       "word": "Algír",
+       "forbiddens": [
+        "főváros",
+        "földközi-tenger",
+        "kaszba",
+        "észak-afrika",
+        "algéria"
+       ]
+      },
+      {
+       "word": "Tallinn",
+       "forbiddens": [
+        "észtország",
+        "főváros",
+        "óváros",
+        "balti-tenger",
+        "középkori"
+       ]
+      },
+      {
+       "word": "Empire State Building",
+       "forbiddens": [
+        "new york",
+        "felhőkarcoló",
+        "manhattan",
+        "kilátó",
+        "magas"
+       ]
+      },
+      {
+       "word": "Száva",
+       "forbiddens": [
+        "belgrád",
+        "zágráb",
+        "duna",
+        "folyó",
+        "balkán"
+       ]
+      },
+      {
+       "word": "Mongólia",
+       "forbiddens": [
+        "ulánbátor",
+        "góbi",
+        "jurta",
+        "sztyeppe",
+        "ló"
+       ]
+      },
+      {
+       "word": "Duna-delta",
+       "forbiddens": [
+        "fekete-tenger",
+        "madarak",
+        "torkolat",
+        "nádas",
+        "világörökség"
+       ]
+      },
+      {
+       "word": "Lagos",
+       "forbiddens": [
+        "nigéria",
+        "legnagyobb",
+        "kikötő",
+        "afrika",
+        "guineai-öböl"
+       ]
+      },
+      {
+       "word": "Marrákes",
+       "forbiddens": [
+        "marokkó",
+        "medina",
+        "piac",
+        "atlasz-hegység",
+        "vörös"
+       ]
+      },
+      {
+       "word": "Park Güell",
+       "forbiddens": [
+        "barcelona",
+        "gaudí",
+        "mozaik",
+        "gyík",
+        "domb"
+       ]
+      },
+      {
+       "word": "Majna",
+       "forbiddens": [
+        "frankfurt",
+        "rajna",
+        "folyó",
+        "würzburg",
+        "németország"
+       ]
+      },
+      {
+       "word": "Panama",
+       "forbiddens": [
+        "csatorna",
+        "atlanti-óceán",
+        "csendes-óceán",
+        "közép-amerika",
+        "földszoros"
+       ]
+      },
+      {
+       "word": "Doha",
+       "forbiddens": [
+        "katar",
+        "főváros",
+        "öböl",
+        "felhőkarcolók",
+        "sivatag"
+       ]
+      },
+      {
+       "word": "Fokváros",
+       "forbiddens": [
+        "dél-afrika",
+        "asztal-hegy",
+        "jóreménység foka",
+        "kikötő",
+        "pingvinek"
+       ]
+      },
+      {
+       "word": "Colorado",
+       "forbiddens": [
+        "grand canyon",
+        "folyó",
+        "hoover-gát",
+        "usa",
+        "sivatag"
+       ]
+      },
+      {
+       "word": "Costa Rica",
+       "forbiddens": [
+        "esőerdő",
+        "közép-amerika",
+        "kávé",
+        "vulkán",
+        "lajhár"
+       ]
+      },
+      {
+       "word": "Maszkat",
+       "forbiddens": [
+        "omán",
+        "főváros",
+        "arab-félsziget",
+        "kikötő",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Mumbai",
+       "forbiddens": [
+        "india",
+        "bollywood",
+        "legnagyobb",
+        "kikötő",
+        "arab-tenger"
+       ]
+      },
+      {
+       "word": "Kölni dóm",
+       "forbiddens": [
+        "rajna",
+        "katedrális",
+        "gótikus",
+        "torony",
+        "németország"
+       ]
+      },
+      {
+       "word": "Nagy-tavak",
+       "forbiddens": [
+        "észak-amerika",
+        "felső-tó",
+        "michigan-tó",
+        "ontario-tó",
+        "édesvíz"
+       ]
+      },
+      {
+       "word": "Katar",
+       "forbiddens": [
+        "doha",
+        "olaj",
+        "sivatag",
+        "félsziget",
+        "arab"
+       ]
+      },
+      {
+       "word": "Abu-Dzabi",
+       "forbiddens": [
+        "főváros",
+        "olaj",
+        "sivatag",
+        "felhőkarcolók",
+        "öböl"
+       ]
+      },
+      {
+       "word": "Kiotó",
+       "forbiddens": [
+        "japán",
+        "templomok",
+        "kansai",
+        "cseresznyevirág",
+        "régi főváros"
+       ]
+      },
+      {
+       "word": "Egyesült Arab Emírségek",
+       "forbiddens": [
+        "abu-dzabi",
+        "dubaj",
+        "sivatag",
+        "olaj",
+        "öböl"
+       ]
+      },
+      {
+       "word": "Mezőkövesd",
+       "forbiddens": [
+        "matyó",
+        "hímzés",
+        "népművészet",
+        "borsod",
+        "fürdő"
+       ]
+      },
+      {
+       "word": "Tirana",
+       "forbiddens": [
+        "albánia",
+        "főváros",
+        "balkán",
+        "színes házak",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Szent Márk tér",
+       "forbiddens": [
+        "velence",
+        "galambok",
+        "harangtorony",
+        "bazilika",
+        "olaszország"
+       ]
+      },
+      {
+       "word": "Bledi-tó",
+       "forbiddens": [
+        "szlovénia",
+        "sziget",
+        "kastély",
+        "ljubljana",
+        "alpok"
+       ]
+      },
+      {
+       "word": "Omán",
+       "forbiddens": [
+        "maszkat",
+        "arab-félsziget",
+        "sivatag",
+        "tengerpart",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Szkopje",
+       "forbiddens": [
+        "vardar",
+        "balkán",
+        "főváros",
+        "kőhíd",
+        "észak-macedónia"
+       ]
+      },
+      {
+       "word": "Miami",
+       "forbiddens": [
+        "florida",
+        "strand",
+        "tengerpart",
+        "usa",
+        "art deco"
+       ]
+      },
+      {
+       "word": "Montmartre",
+       "forbiddens": [
+        "párizs",
+        "domb",
+        "festők",
+        "lépcső",
+        "kilátás"
+       ]
+      },
+      {
+       "word": "Plitvicei-tavak",
+       "forbiddens": [
+        "horvátország",
+        "vízesések",
+        "nemzeti park",
+        "türkiz",
+        "lépcsős"
+       ]
+      },
+      {
+       "word": "Uganda",
+       "forbiddens": [
+        "kampala",
+        "viktória-tó",
+        "afrika",
+        "gorilla",
+        "egyenlítő"
+       ]
+      },
+      {
+       "word": "Caracas",
+       "forbiddens": [
+        "venezuela",
+        "főváros",
+        "dél-amerika",
+        "hegyek",
+        "karib-tenger"
+       ]
+      },
+      {
+       "word": "Lima",
+       "forbiddens": [
+        "peru",
+        "főváros",
+        "csendes-óceán",
+        "sivatag",
+        "andok"
+       ]
+      },
+      {
+       "word": "Iguazú-vízesés",
+       "forbiddens": [
+        "dél-amerika",
+        "dzsungel",
+        "argentína",
+        "szivárvány",
+        "brazília"
+       ]
+      },
+      {
+       "word": "Angola",
+       "forbiddens": [
+        "luanda",
+        "afrika",
+        "atlanti-óceán",
+        "portugál",
+        "gyémánt"
+       ]
+      },
+      {
+       "word": "La Paz",
+       "forbiddens": [
+        "bolívia",
+        "legmagasabb",
+        "kormány székhelye",
+        "andok",
+        "felvonó"
+       ]
+      },
+      {
+       "word": "Brasília",
+       "forbiddens": [
+        "főváros",
+        "niemeyer",
+        "tervezett",
+        "brazília",
+        "modernista"
+       ]
+      },
+      {
+       "word": "Yosemite",
+       "forbiddens": [
+        "kalifornia",
+        "nemzeti park",
+        "sziklafal",
+        "óriásfenyő",
+        "vízesések"
+       ]
+      },
+      {
+       "word": "Nigéria",
+       "forbiddens": [
+        "lagos",
+        "abuja",
+        "olaj",
+        "nyugat-afrika",
+        "legnépesebb"
+       ]
+      },
+      {
+       "word": "Asunción",
+       "forbiddens": [
+        "paraguay",
+        "főváros",
+        "folyó",
+        "dél-amerika",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Guatemala",
+       "forbiddens": [
+        "maják",
+        "közép-amerika",
+        "vulkán",
+        "quetzal",
+        "kávé"
+       ]
+      },
+      {
+       "word": "San José",
+       "forbiddens": [
+        "costa rica",
+        "főváros",
+        "közép-amerika",
+        "hegyek",
+        "kávé"
+       ]
+      },
+      {
+       "word": "Valencia",
+       "forbiddens": [
+        "spanyolország",
+        "paella",
+        "narancs",
+        "turia",
+        "tudományok városa"
+       ]
+      },
+      {
+       "word": "Kinshasa",
+       "forbiddens": [
+        "kongó",
+        "főváros",
+        "afrika",
+        "legnagyobb",
+        "folyó"
+       ]
+      },
+      {
+       "word": "Bologna",
+       "forbiddens": [
+        "olaszország",
+        "egyetem",
+        "emilia-romagna",
+        "tortellini",
+        "tornyok"
+       ]
+      },
+      {
+       "word": "Abuja",
+       "forbiddens": [
+        "nigéria",
+        "főváros",
+        "afrika",
+        "tervezett",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Glasgow",
+       "forbiddens": [
+        "skócia",
+        "clyde",
+        "legnagyobb",
+        "ipar",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Cambridge",
+       "forbiddens": [
+        "egyetem",
+        "anglia",
+        "folyó",
+        "diákok",
+        "kollégium"
+       ]
+      },
+      {
+       "word": "Zambia",
+       "forbiddens": [
+        "lusaka",
+        "zambezi",
+        "viktória-vízesés",
+        "afrika",
+        "réz"
+       ]
+      },
+      {
+       "word": "Rotterdam",
+       "forbiddens": [
+        "hollandia",
+        "kikötő",
+        "maas",
+        "erasmus",
+        "modern"
+       ]
+      },
+      {
+       "word": "Ruanda",
+       "forbiddens": [
+        "kigali",
+        "afrika",
+        "hegyek",
+        "gorilla",
+        "ezer domb"
+       ]
+      },
+      {
+       "word": "Brugge",
+       "forbiddens": [
+        "belgium",
+        "csatornák",
+        "középkori",
+        "csipke",
+        "flandria"
+       ]
+      },
+      {
+       "word": "Amman",
+       "forbiddens": [
+        "jordánia",
+        "főváros",
+        "domb",
+        "római",
+        "színház"
+       ]
+      },
+      {
+       "word": "Bergen",
+       "forbiddens": [
+        "norvégia",
+        "fjord",
+        "bryggen",
+        "esős",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Rabat",
+       "forbiddens": [
+        "marokkó",
+        "főváros",
+        "atlanti-óceán",
+        "kikötő",
+        "medina"
+       ]
+      },
+      {
+       "word": "Riga",
+       "forbiddens": [
+        "lettország",
+        "főváros",
+        "daugava",
+        "szecesszió",
+        "balti-tenger"
+       ]
+      },
+      {
+       "word": "Vilnius",
+       "forbiddens": [
+        "litvánia",
+        "főváros",
+        "neris",
+        "barokk",
+        "baltikum"
+       ]
+      },
+      {
+       "word": "Johannesburg",
+       "forbiddens": [
+        "dél-afrika",
+        "arany",
+        "bányák",
+        "soweto",
+        "legnagyobb"
+       ]
+      },
+      {
+       "word": "Kalkutta",
+       "forbiddens": [
+        "india",
+        "gangesz",
+        "bengál",
+        "hugli",
+        "taxi"
+       ]
+      },
+      {
+       "word": "Hanoi",
+       "forbiddens": [
+        "vietnám",
+        "főváros",
+        "vörös-folyó",
+        "robogók",
+        "tó"
+       ]
+      },
+      {
+       "word": "Jakarta",
+       "forbiddens": [
+        "indonézia",
+        "jáva",
+        "főváros",
+        "zsúfolt",
+        "trópusi"
+       ]
+      },
+      {
+       "word": "Auckland",
+       "forbiddens": [
+        "új-zéland",
+        "északi-sziget",
+        "vitorlás",
+        "legnagyobb",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Vancouver",
+       "forbiddens": [
+        "kanada",
+        "nyugati part",
+        "hegyek",
+        "olimpia",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Honolulu",
+       "forbiddens": [
+        "hawaii",
+        "oahu",
+        "szörf",
+        "waikiki",
+        "főváros"
+       ]
+      },
+      {
+       "word": "São Paulo",
+       "forbiddens": [
+        "brazília",
+        "legnagyobb",
+        "dél-amerika",
+        "gigaváros",
+        "kávé"
+       ]
+      },
+      {
+       "word": "Montevideo",
+       "forbiddens": [
+        "uruguay",
+        "főváros",
+        "kikötő",
+        "déli",
+        "dél-amerika"
+       ]
+      },
+      {
+       "word": "Bogotá",
+       "forbiddens": [
+        "kolumbia",
+        "főváros",
+        "andok",
+        "kávé",
+        "magas"
+       ]
+      },
+      {
+       "word": "Santiago",
+       "forbiddens": [
+        "chile",
+        "főváros",
+        "andok",
+        "csendes-óceán",
+        "völgy"
+       ]
+      },
+      {
+       "word": "Nürnberg",
+       "forbiddens": [
+        "mézeskalács",
+        "dürer",
+        "vár",
+        "bajorország",
+        "karácsonyi vásár"
+       ]
+      },
+      {
+       "word": "Granada",
+       "forbiddens": [
+        "alhambra",
+        "andalúzia",
+        "sierra nevada",
+        "spanyolország",
+        "mór"
+       ]
+      },
+      {
+       "word": "Málaga",
+       "forbiddens": [
+        "costa del sol",
+        "andalúzia",
+        "picasso",
+        "kikötő",
+        "spanyolország"
+       ]
+      },
+      {
+       "word": "Porto",
+       "forbiddens": [
+        "portugália",
+        "douro",
+        "híd",
+        "azulejo",
+        "észak"
+       ]
+      },
+      {
+       "word": "Palermo",
+       "forbiddens": [
+        "szicília",
+        "olaszország",
+        "kikötő",
+        "normann",
+        "katedrális"
+       ]
+      },
+      {
+       "word": "Szaloniki",
+       "forbiddens": [
+        "görögország",
+        "égei-tenger",
+        "kikötő",
+        "fehér torony",
+        "bizánci"
+       ]
+      },
+      {
+       "word": "Toulouse",
+       "forbiddens": [
+        "franciaország",
+        "repülőgép",
+        "garonne",
+        "rózsaszín",
+        "űrkutatás"
+       ]
+      },
+      {
+       "word": "Antwerpen",
+       "forbiddens": [
+        "belgium",
+        "gyémánt",
+        "kikötő",
+        "schelde",
+        "rubens"
+       ]
+      },
+      {
+       "word": "Malmö",
+       "forbiddens": [
+        "svédország",
+        "öresund",
+        "híd",
+        "dél",
+        "koppenhága"
+       ]
+      },
+      {
+       "word": "Oszaka",
+       "forbiddens": [
+        "japán",
+        "kansai",
+        "vár",
+        "kikötő",
+        "takoyaki"
+       ]
+      },
+      {
+       "word": "Manila",
+       "forbiddens": [
+        "fülöp-szigetek",
+        "főváros",
+        "luzon",
+        "kikötő",
+        "trópusi"
+       ]
+      },
+      {
+       "word": "Kuala Lumpur",
+       "forbiddens": [
+        "malajzia",
+        "főváros",
+        "ikertornyok",
+        "ázsia",
+        "trópusi"
+       ]
+      },
+      {
+       "word": "Wellington",
+       "forbiddens": [
+        "új-zéland",
+        "főváros",
+        "szél",
+        "kikötő",
+        "északi-sziget"
+       ]
+      },
+      {
+       "word": "Perth",
+       "forbiddens": [
+        "ausztrália",
+        "nyugat",
+        "indiai-óceán",
+        "swan folyó",
+        "távoli"
+       ]
+      },
+      {
+       "word": "Brisbane",
+       "forbiddens": [
+        "ausztrália",
+        "queensland",
+        "folyó",
+        "gold coast",
+        "szubtrópusi"
+       ]
+      },
+      {
+       "word": "Montréal",
+       "forbiddens": [
+        "kanada",
+        "québec",
+        "francia",
+        "szent lőrinc-folyó",
+        "jégkorong"
+       ]
+      },
+      {
+       "word": "Seattle",
+       "forbiddens": [
+        "usa",
+        "esős",
+        "space needle",
+        "kikötő",
+        "kávé"
+       ]
+      },
+      {
+       "word": "New Orleans",
+       "forbiddens": [
+        "louisiana",
+        "jazz",
+        "mississippi",
+        "mardi gras",
+        "usa"
+       ]
+      },
+      {
+       "word": "Bilbao",
+       "forbiddens": [
+        "baszk",
+        "guggenheim",
+        "spanyolország",
+        "nervión",
+        "észak"
+       ]
+      },
+      {
+       "word": "Kékestető",
+       "forbiddens": [
+        "mátra",
+        "legmagasabb",
+        "csúcs",
+        "magyarország",
+        "adótorony"
+       ]
+      },
+      {
+       "word": "Pisa",
+       "forbiddens": [
+        "ferde torony",
+        "toszkána",
+        "olaszország",
+        "dóm",
+        "galilei"
+       ]
+      },
+      {
+       "word": "Bázel",
+       "forbiddens": [
+        "svájc",
+        "rajna",
+        "karnevál",
+        "múzeum",
+        "vegyipar"
+       ]
+      },
+      {
+       "word": "Kotor",
+       "forbiddens": [
+        "montenegró",
+        "öböl",
+        "hegy",
+        "óváros",
+        "középkori"
+       ]
+      },
+      {
+       "word": "Gibraltári-szoros",
+       "forbiddens": [
+        "spanyolország",
+        "afrika",
+        "atlanti-óceán",
+        "földközi-tenger",
+        "szűk"
+       ]
+      },
+      {
+       "word": "La Manche",
+       "forbiddens": [
+        "csatorna",
+        "anglia",
+        "franciaország",
+        "alagút",
+        "tenger"
+       ]
+      },
+      {
+       "word": "Elbrusz",
+       "forbiddens": [
+        "kaukázus",
+        "oroszország",
+        "legmagasabb",
+        "európa",
+        "csúcs"
+       ]
+      },
+      {
+       "word": "Madeira",
+       "forbiddens": [
+        "portugália",
+        "sziget",
+        "atlanti-óceán",
+        "virág",
+        "funchal"
+       ]
+      },
+      {
+       "word": "Tábla-hegy",
+       "forbiddens": [
+        "fokváros",
+        "dél-afrika",
+        "lapos",
+        "felhő",
+        "kábelvasút"
+       ]
+      },
+      {
+       "word": "Bering-szoros",
+       "forbiddens": [
+        "alaszka",
+        "szibéria",
+        "sarkvidék",
+        "jég",
+        "csendes-óceán"
+       ]
+      },
+      {
+       "word": "Shetland-szigetek",
+       "forbiddens": [
+        "skócia",
+        "póni",
+        "lerwick",
+        "észak",
+        "birka"
+       ]
+      },
+      {
+       "word": "Bordeaux",
+       "forbiddens": [
+        "franciaország",
+        "garonne",
+        "atlanti-óceán",
+        "kikötő",
+        "nagyváros"
+       ]
+      },
+      {
+       "word": "Philadelphia",
+       "forbiddens": [
+        "usa",
+        "pennsylvania",
+        "szabadság-harang",
+        "nagyváros",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Addisz-Abeba",
+       "forbiddens": [
+        "etiópia",
+        "főváros",
+        "afrika",
+        "kávé",
+        "magaslat"
+       ]
+      },
+      {
+       "word": "Dakar",
+       "forbiddens": [
+        "szenegál",
+        "főváros",
+        "nyugat-afrika",
+        "kikötő",
+        "rali"
+       ]
+      },
+      {
+       "word": "Badacsony",
+       "forbiddens": [
+        "balaton",
+        "hegy",
+        "északi part",
+        "bazalt",
+        "szőlő"
+       ]
+      },
+      {
+       "word": "Óbuda",
+       "forbiddens": [
+        "budapest",
+        "duna",
+        "aquincum",
+        "római",
+        "hajógyár"
+       ]
+      },
+      {
+       "word": "Oktogon",
+       "forbiddens": [
+        "budapest",
+        "kereszteződés",
+        "andrássy út",
+        "körút",
+        "villamos"
+       ]
+      },
+      {
+       "word": "Váci utca",
+       "forbiddens": [
+        "budapest",
+        "gyalogos",
+        "belváros",
+        "turisták",
+        "pesti"
+       ]
+      },
+      {
+       "word": "Deák tér",
+       "forbiddens": [
+        "budapest",
+        "metró",
+        "csomópont",
+        "belváros",
+        "három vonal"
+       ]
+      },
+      {
+       "word": "Népliget",
+       "forbiddens": [
+        "budapest",
+        "park",
+        "buszpályaudvar",
+        "zöld",
+        "planetárium"
+       ]
+      },
+      {
+       "word": "Vörösmarty tér",
+       "forbiddens": [
+        "budapest",
+        "karácsonyi vásár",
+        "szobor",
+        "belváros",
+        "költő"
+       ]
+      },
+      {
+       "word": "Somogy",
+       "forbiddens": [
+        "balaton",
+        "kaposvár",
+        "déli part",
+        "megye",
+        "dombság"
+       ]
+      },
+      {
+       "word": "Baranya",
+       "forbiddens": [
+        "pécs",
+        "mecsek",
+        "dél",
+        "megye",
+        "ormánság"
+       ]
+      },
+      {
+       "word": "Fejér",
+       "forbiddens": [
+        "székesfehérvár",
+        "megye",
+        "mór",
+        "velencei-tó",
+        "bicske"
+       ]
+      },
+      {
+       "word": "Tolna",
+       "forbiddens": [
+        "szekszárd",
+        "duna",
+        "megye",
+        "paks",
+        "dél"
+       ]
+      },
+      {
+       "word": "Nógrád",
+       "forbiddens": [
+        "salgótarján",
+        "megye",
+        "palócok",
+        "hollókő",
+        "északi"
+       ]
+      },
+      {
+       "word": "Heves",
+       "forbiddens": [
+        "eger",
+        "megye",
+        "mátra",
+        "gyöngyös",
+        "északi"
+       ]
+      },
+      {
+       "word": "Borsod-Abaúj-Zemplén",
+       "forbiddens": [
+        "miskolc",
+        "megye",
+        "északkelet",
+        "bükk",
+        "sajó"
+       ]
+      },
+      {
+       "word": "Bács-Kiskun",
+       "forbiddens": [
+        "kecskemét",
+        "megye",
+        "alföld",
+        "duna-tisza köze",
+        "legnagyobb"
+       ]
+      },
+      {
+       "word": "Stuttgart",
+       "forbiddens": [
+        "baden-württemberg",
+        "neckar",
+        "németország",
+        "mercedes",
+        "múzeum"
+       ]
+      },
+      {
+       "word": "Düsseldorf",
+       "forbiddens": [
+        "rajna",
+        "németország",
+        "észak-rajna-vesztfália",
+        "tartományi székhely",
+        "kiállítás"
+       ]
+      },
+      {
+       "word": "Hannover",
+       "forbiddens": [
+        "alsó-szászország",
+        "németország",
+        "vásár",
+        "tartományi székhely",
+        "nagyváros"
+       ]
+      },
+      {
+       "word": "Potsdam",
+       "forbiddens": [
+        "berlin",
+        "brandenburg",
+        "sanssouci",
+        "kastély",
+        "németország"
+       ]
+      },
+      {
+       "word": "Freiburg",
+       "forbiddens": [
+        "fekete-erdő",
+        "baden-württemberg",
+        "egyetem",
+        "dóm",
+        "napsütés"
+       ]
+      },
+      {
+       "word": "Regensburg",
+       "forbiddens": [
+        "duna",
+        "bajorország",
+        "kőhíd",
+        "németország",
+        "óváros"
+       ]
+      },
+      {
+       "word": "Brighton",
+       "forbiddens": [
+        "anglia",
+        "tengerpart",
+        "móló",
+        "üdülőváros",
+        "kavics"
+       ]
+      },
+      {
+       "word": "Bath",
+       "forbiddens": [
+        "anglia",
+        "római",
+        "termál",
+        "georgiánus",
+        "somerset"
+       ]
+      },
+      {
+       "word": "York",
+       "forbiddens": [
+        "anglia",
+        "észak",
+        "óváros",
+        "városfal",
+        "vasúti múzeum"
+       ]
+      },
+      {
+       "word": "Windsor",
+       "forbiddens": [
+        "kastély",
+        "anglia",
+        "temze",
+        "királyi",
+        "london"
+       ]
+      },
+      {
+       "word": "Hyde Park",
+       "forbiddens": [
+        "london",
+        "sétány",
+        "tó",
+        "zöld",
+        "speakers’ corner"
+       ]
+      },
+      {
+       "word": "Dover",
+       "forbiddens": [
+        "anglia",
+        "fehér sziklák",
+        "komp",
+        "la manche",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Cork",
+       "forbiddens": [
+        "írország",
+        "dél",
+        "kikötő",
+        "város",
+        "második legnagyobb"
+       ]
+      },
+      {
+       "word": "Galway",
+       "forbiddens": [
+        "írország",
+        "nyugat",
+        "kikötő",
+        "fesztivál",
+        "atlanti-óceán"
+       ]
+      },
+      {
+       "word": "Chamonix",
+       "forbiddens": [
+        "mont blanc",
+        "sí",
+        "franciaország",
+        "alpok",
+        "völgy"
+       ]
+      },
+      {
+       "word": "Dijon",
+       "forbiddens": [
+        "franciaország",
+        "burgundia",
+        "mustár",
+        "egyetem",
+        "óváros"
+       ]
+      },
+      {
+       "word": "Lille",
+       "forbiddens": [
+        "franciaország",
+        "észak",
+        "flandria",
+        "nagyváros",
+        "egyetem"
+       ]
+      },
+      {
+       "word": "Algarve",
+       "forbiddens": [
+        "portugália",
+        "dél",
+        "tengerpart",
+        "strand",
+        "szikla"
+       ]
+      },
+      {
+       "word": "Sintra",
+       "forbiddens": [
+        "portugália",
+        "lisszabon",
+        "palota",
+        "hegység",
+        "romantikus"
+       ]
+      },
+      {
+       "word": "Marbella",
+       "forbiddens": [
+        "costa del sol",
+        "spanyolország",
+        "tengerpart",
+        "üdülőváros",
+        "andalúzia"
+       ]
+      },
+      {
+       "word": "Palma",
+       "forbiddens": [
+        "mallorca",
+        "főváros",
+        "spanyolország",
+        "öböl",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "San Remo",
+       "forbiddens": [
+        "olaszország",
+        "riviéra",
+        "virág",
+        "tengerpart",
+        "fesztivál"
+       ]
+      },
+      {
+       "word": "Davos",
+       "forbiddens": [
+        "svájc",
+        "sí",
+        "alpok",
+        "hegyi",
+        "üdülőhely"
+       ]
+      },
+      {
+       "word": "St. Moritz",
+       "forbiddens": [
+        "svájc",
+        "sí",
+        "alpok",
+        "luxus",
+        "engadin"
+       ]
+      },
+      {
+       "word": "Lausanne",
+       "forbiddens": [
+        "svájc",
+        "genfi-tó",
+        "francia",
+        "olimpiai",
+        "egyetem"
+       ]
+      },
+      {
+       "word": "Montreux",
+       "forbiddens": [
+        "svájc",
+        "genfi-tó",
+        "jazz",
+        "fesztivál",
+        "kastély"
+       ]
+      },
+      {
+       "word": "Colombo",
+       "forbiddens": [
+        "srí lanka",
+        "nagyváros",
+        "kikötő",
+        "trópusi",
+        "tea"
+       ]
+      },
+      {
+       "word": "Goa",
+       "forbiddens": [
+        "india",
+        "tengerpart",
+        "portugál",
+        "strand",
+        "nyugati part"
+       ]
+      },
+      {
+       "word": "Taskent",
+       "forbiddens": [
+        "üzbegisztán",
+        "főváros",
+        "közép-ázsia",
+        "selyemút",
+        "metró"
+       ]
+      },
+      {
+       "word": "Luxor",
+       "forbiddens": [
+        "egyiptom",
+        "nílus",
+        "karnak",
+        "ókori",
+        "templom"
+       ]
+      },
+      {
+       "word": "Asszuán",
+       "forbiddens": [
+        "egyiptom",
+        "nílus",
+        "gát",
+        "dél",
+        "abu szimbel"
+       ]
+      },
+      {
+       "word": "Tanger",
+       "forbiddens": [
+        "marokkó",
+        "gibraltári-szoros",
+        "kikötő",
+        "afrika",
+        "medina"
+       ]
+      },
+      {
+       "word": "Accra",
+       "forbiddens": [
+        "ghána",
+        "főváros",
+        "guineai-öböl",
+        "afrika",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Timbuktu",
+       "forbiddens": [
+        "mali",
+        "szahara",
+        "karaván",
+        "messzi",
+        "homokos"
+       ]
+      },
+      {
+       "word": "Vlagyivosztok",
+       "forbiddens": [
+        "oroszország",
+        "távol-kelet",
+        "transzszibériai vasút",
+        "kikötő",
+        "csendes-óceán"
+       ]
+      },
+      {
+       "word": "Adelaide",
+       "forbiddens": [
+        "ausztrália",
+        "dél-ausztrália",
+        "tengerpart",
+        "nagyváros",
+        "fesztivál"
+       ]
+      },
+      {
+       "word": "Brooklyn",
+       "forbiddens": [
+        "new york",
+        "kerület",
+        "híd",
+        "manhattan",
+        "long island"
+       ]
+      },
+      {
+       "word": "Acapulco",
+       "forbiddens": [
+        "mexikó",
+        "tengerpart",
+        "csendes-óceán",
+        "strand",
+        "üdülőváros"
+       ]
+      },
+      {
+       "word": "Honduras",
+       "forbiddens": [
+        "közép-amerika",
+        "tegucigalpa",
+        "karib-tenger",
+        "maja",
+        "spanyol"
+       ]
+      },
+      {
+       "word": "Nicaragua",
+       "forbiddens": [
+        "közép-amerika",
+        "managua",
+        "tó",
+        "vulkán",
+        "karib-tenger"
+       ]
+      },
+      {
+       "word": "El Salvador",
+       "forbiddens": [
+        "közép-amerika",
+        "san salvador",
+        "vulkán",
+        "csendes-óceán",
+        "legkisebb"
+       ]
+      },
+      {
+       "word": "Cape Canaveral",
+       "forbiddens": [
+        "florida",
+        "rakéta",
+        "űrközpont",
+        "indítás",
+        "usa"
+       ]
+      },
+      {
+       "word": "Santa Monica",
+       "forbiddens": [
+        "kalifornia",
+        "móló",
+        "tengerpart",
+        "los angeles",
+        "óriáskerék"
+       ]
+      },
+      {
+       "word": "Malibu",
+       "forbiddens": [
+        "kalifornia",
+        "tengerpart",
+        "szörf",
+        "hollywood",
+        "los angeles"
+       ]
+      },
+      {
+       "word": "Harlem",
+       "forbiddens": [
+        "new york",
+        "manhattan",
+        "jazz",
+        "negyed",
+        "északi"
+       ]
+      },
+      {
+       "word": "Bronx",
+       "forbiddens": [
+        "new york",
+        "kerület",
+        "állatkert",
+        "baseball",
+        "északi"
+       ]
+      },
+      {
+       "word": "Queens",
+       "forbiddens": [
+        "new york",
+        "kerület",
+        "repülőtér",
+        "legnagyobb",
+        "nemzetiségek"
+       ]
+      },
+      {
+       "word": "Kiel",
+       "forbiddens": [
+        "schleswig-holstein",
+        "kikötő",
+        "balti-tenger",
+        "csatorna",
+        "vitorlás"
+       ]
+      },
+      {
+       "word": "Benidorm",
+       "forbiddens": [
+        "spanyolország",
+        "costa blanca",
+        "felhőkarcoló",
+        "tengerpart",
+        "üdülőváros"
+       ]
+      },
+      {
+       "word": "Siracusa",
+       "forbiddens": [
+        "szicília",
+        "ókori",
+        "görög",
+        "olaszország",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Catania",
+       "forbiddens": [
+        "szicília",
+        "etna",
+        "olaszország",
+        "kikötő",
+        "kelet"
+       ]
+      },
+      {
+       "word": "Hampton Court",
+       "forbiddens": [
+        "london",
+        "palota",
+        "temze",
+        "labirintus",
+        "tudor"
+       ]
+      },
+      {
+       "word": "Bristol",
+       "forbiddens": [
+        "anglia",
+        "nyugat",
+        "clifton",
+        "függőhíd",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Leeds",
+       "forbiddens": [
+        "yorkshire",
+        "anglia",
+        "egyetem",
+        "nagyváros",
+        "észak"
+       ]
+      },
+      {
+       "word": "Irán",
+       "forbiddens": [
+        "teherán",
+        "perzsa",
+        "közel-kelet",
+        "szőnyeg",
+        "olaj"
+       ]
+      },
+      {
+       "word": "Irak",
+       "forbiddens": [
+        "bagdad",
+        "tigris",
+        "eufrátesz",
+        "mezopotámia",
+        "olaj"
+       ]
+      },
+      {
+       "word": "Szíria",
+       "forbiddens": [
+        "damaszkusz",
+        "aleppó",
+        "közel-kelet",
+        "földközi-tenger",
+        "ázsia"
+       ]
+      },
+      {
+       "word": "Libanon",
+       "forbiddens": [
+        "bejrút",
+        "cédrus",
+        "közel-kelet",
+        "földközi-tenger",
+        "hegység"
+       ]
+      },
+      {
+       "word": "Afganisztán",
+       "forbiddens": [
+        "kabul",
+        "hindukus",
+        "hegyvidék",
+        "ázsia",
+        "pastu"
+       ]
+      },
+      {
+       "word": "Ciprus",
+       "forbiddens": [
+        "sziget",
+        "földközi-tenger",
+        "nyaralás",
+        "strand",
+        "napsütés"
+       ]
+      },
+      {
+       "word": "Grúzia",
+       "forbiddens": [
+        "tbiliszi",
+        "kaukázus",
+        "fekete-tenger",
+        "batumi",
+        "hegyvidék"
+       ]
+      },
+      {
+       "word": "Azerbajdzsán",
+       "forbiddens": [
+        "baku",
+        "kaukázus",
+        "kaszpi-tenger",
+        "olaj",
+        "ázsia"
+       ]
+      },
+      {
+       "word": "Teherán",
+       "forbiddens": [
+        "irán",
+        "főváros",
+        "elburz",
+        "ázsia",
+        "perzsa"
+       ]
+      },
+      {
+       "word": "Bagdad",
+       "forbiddens": [
+        "irak",
+        "főváros",
+        "tigris",
+        "mezopotámia",
+        "közel-kelet"
+       ]
+      },
+      {
+       "word": "Damaszkusz",
+       "forbiddens": [
+        "szíria",
+        "főváros",
+        "közel-kelet",
+        "ázsia",
+        "ősi"
+       ]
+      },
+      {
+       "word": "Bejrút",
+       "forbiddens": [
+        "libanon",
+        "főváros",
+        "földközi-tenger",
+        "kikötő",
+        "közel-kelet"
+       ]
+      },
+      {
+       "word": "Kabul",
+       "forbiddens": [
+        "afganisztán",
+        "főváros",
+        "hindukus",
+        "ázsia",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Rijád",
+       "forbiddens": [
+        "szaúd-arábia",
+        "főváros",
+        "sivatag",
+        "arab",
+        "olaj"
+       ]
+      },
+      {
+       "word": "Baku",
+       "forbiddens": [
+        "azerbajdzsán",
+        "főváros",
+        "kaszpi-tenger",
+        "olaj",
+        "kaukázus"
+       ]
+      },
+      {
+       "word": "Tbiliszi",
+       "forbiddens": [
+        "grúzia",
+        "főváros",
+        "kaukázus",
+        "kura",
+        "ázsia"
+       ]
+      },
+      {
+       "word": "Hága",
+       "forbiddens": [
+        "hollandia",
+        "északi-tenger",
+        "scheveningen",
+        "kormány székhelye",
+        "tengerpart"
+       ]
+      },
+      {
+       "word": "Avignon",
+       "forbiddens": [
+        "provence",
+        "franciaország",
+        "rhône",
+        "híd",
+        "fesztivál"
+       ]
+      },
+      {
+       "word": "Odessza",
+       "forbiddens": [
+        "ukrajna",
+        "fekete-tenger",
+        "kikötő",
+        "lépcső",
+        "tengerpart"
+       ]
+      },
+      {
+       "word": "Weimar",
+       "forbiddens": [
+        "németország",
+        "türingia",
+        "goethe",
+        "schiller",
+        "bauhaus"
+       ]
+      },
+      {
+       "word": "Dortmund",
+       "forbiddens": [
+        "németország",
+        "ruhr-vidék",
+        "futball",
+        "vesztfália",
+        "ipar"
+       ]
+      },
+      {
+       "word": "Izmir",
+       "forbiddens": [
+        "törökország",
+        "égei-tenger",
+        "kikötő",
+        "nyugat",
+        "öböl"
+       ]
+      },
+      {
+       "word": "Bodrum",
+       "forbiddens": [
+        "törökország",
+        "égei-tenger",
+        "nyaralás",
+        "kikötő",
+        "vár"
+       ]
+      },
+      {
+       "word": "Sarm es-Sejk",
+       "forbiddens": [
+        "egyiptom",
+        "vörös-tenger",
+        "búvárkodás",
+        "sínai-félsziget",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Pireusz",
+       "forbiddens": [
+        "görögország",
+        "athén",
+        "kikötő",
+        "komp",
+        "égei-tenger"
+       ]
+      },
+      {
+       "word": "Közel-Kelet",
+       "forbiddens": [
+        "ázsia",
+        "olaj",
+        "sivatag",
+        "arab",
+        "szaúd-arábia"
+       ]
+      },
+      {
+       "word": "Távol-Kelet",
+       "forbiddens": [
+        "kína",
+        "japán",
+        "ázsia",
+        "rizs",
+        "korea"
+       ]
+      },
+      {
+       "word": "Kelet-Európa",
+       "forbiddens": [
+        "lengyelország",
+        "ukrajna",
+        "románia",
+        "oroszország",
+        "szláv"
+       ]
+      },
+      {
+       "word": "Skandinávia",
+       "forbiddens": [
+        "norvégia",
+        "svédország",
+        "dánia",
+        "fjord",
+        "északi"
+       ]
+      },
+      {
+       "word": "Benelux",
+       "forbiddens": [
+        "hollandia",
+        "belgium",
+        "luxemburg",
+        "brüsszel",
+        "tengerpart"
+       ]
+      },
+      {
+       "word": "Baltikum",
+       "forbiddens": [
+        "észtország",
+        "lettország",
+        "litvánia",
+        "riga",
+        "tallinn"
+       ]
+      },
+      {
+       "word": "Arab-félsziget",
+       "forbiddens": [
+        "rijád",
+        "sivatag",
+        "vörös-tenger",
+        "katar",
+        "omán"
+       ]
+      },
+      {
+       "word": "Délkelet-Ázsia",
+       "forbiddens": [
+        "thaiföld",
+        "vietnám",
+        "indonézia",
+        "trópusi",
+        "rizs"
+       ]
+      },
+      {
+       "word": "Közép-Ázsia",
+       "forbiddens": [
+        "kazahsztán",
+        "üzbegisztán",
+        "szamarkand",
+        "selyemút",
+        "kirgizisztán"
+       ]
+      },
+      {
+       "word": "Észak-Afrika",
+       "forbiddens": [
+        "szahara",
+        "egyiptom",
+        "marokkó",
+        "tunézia",
+        "földközi-tenger"
+       ]
+      },
+      {
+       "word": "Nyugat-Afrika",
+       "forbiddens": [
+        "nigéria",
+        "ghána",
+        "szenegál",
+        "atlanti-óceán",
+        "szahel"
+       ]
+      },
+      {
+       "word": "Nyírség",
+       "forbiddens": [
+        "kisvárda",
+        "szabolcs",
+        "homokos",
+        "alma",
+        "tiszántúl"
+       ]
+      },
+      {
+       "word": "Szászország",
+       "forbiddens": [
+        "drezda",
+        "lipcse",
+        "elba",
+        "németország",
+        "zwinger"
+       ]
+      },
+      {
+       "word": "Arktisz",
+       "forbiddens": [
+        "északi-sark",
+        "jég",
+        "sarkkör",
+        "jegesmedve",
+        "hideg"
+       ]
+      },
+      {
+       "word": "Queensland",
+       "forbiddens": [
+        "ausztrália",
+        "brisbane",
+        "nagy-korallzátony",
+        "trópusi",
+        "gold coast"
+       ]
+      },
+      {
+       "word": "Új-Dél-Wales",
+       "forbiddens": [
+        "sydney",
+        "ausztrália",
+        "kék-hegység",
+        "keleti part",
+        "állam"
+       ]
+      },
+      {
+       "word": "Ontario",
+       "forbiddens": [
+        "kanada",
+        "toronto",
+        "ottawa",
+        "niagara",
+        "nagy-tavak"
+       ]
+      },
+      {
+       "word": "Alberta",
+       "forbiddens": [
+        "kanada",
+        "calgary",
+        "edmonton",
+        "sziklás-hegység",
+        "banff"
+       ]
+      },
+      {
+       "word": "Manhattan",
+       "forbiddens": [
+        "new york",
+        "felhőkarcoló",
+        "sziget",
+        "central park",
+        "hudson"
+       ]
+      },
+      {
+       "word": "London Eye",
+       "forbiddens": [
+        "temze",
+        "óriáskerék",
+        "kilátás",
+        "kabin",
+        "nagy-britannia"
+       ]
+      },
+      {
+       "word": "Ermitázs",
+       "forbiddens": [
+        "szentpétervár",
+        "múzeum",
+        "orosz",
+        "téli palota",
+        "néva"
+       ]
+      },
+      {
+       "word": "János-hegy",
+       "forbiddens": [
+        "budapest",
+        "kilátó",
+        "libegő",
+        "legmagasabb",
+        "buda"
+       ]
+      },
+      {
+       "word": "Zugló",
+       "forbiddens": [
+        "budapest",
+        "xiv. kerület",
+        "városliget",
+        "pest",
+        "hungária körút"
+       ]
+      },
+      {
+       "word": "Angyalföld",
+       "forbiddens": [
+        "budapest",
+        "xiii. kerület",
+        "pest",
+        "duna",
+        "lakótelep"
+       ]
+      },
+      {
+       "word": "Kispest",
+       "forbiddens": [
+        "budapest",
+        "xix. kerület",
+        "wekerle",
+        "futball",
+        "kertváros"
+       ]
+      },
+      {
+       "word": "Józsefváros",
+       "forbiddens": [
+        "budapest",
+        "viii. kerület",
+        "pest",
+        "népszínház",
+        "corvin"
+       ]
+      },
+      {
+       "word": "Ferencváros",
+       "forbiddens": [
+        "budapest",
+        "ix. kerület",
+        "pest",
+        "duna",
+        "futball"
+       ]
+      },
+      {
+       "word": "Zala",
+       "forbiddens": [
+        "nagykanizsa",
+        "hévíz",
+        "keszthely",
+        "dunántúl",
+        "balaton"
+       ]
+      },
+      {
+       "word": "Békés",
+       "forbiddens": [
+        "gyula",
+        "orosháza",
+        "körös",
+        "alföld",
+        "szarvas"
+       ]
+      },
+      {
+       "word": "Hajdú-Bihar",
+       "forbiddens": [
+        "debrecen",
+        "hortobágy",
+        "alföld",
+        "tiszántúl",
+        "berettyó"
+       ]
+      },
+      {
+       "word": "Csongrád-Csanád",
+       "forbiddens": [
+        "szeged",
+        "hódmezővásárhely",
+        "maros",
+        "tisza",
+        "alföld"
+       ]
+      },
+      {
+       "word": "Komárom-Esztergom",
+       "forbiddens": [
+        "tatabánya",
+        "tata",
+        "duna",
+        "dorog",
+        "vértes"
+       ]
+      },
+      {
+       "word": "Győr-Moson-Sopron",
+       "forbiddens": [
+        "csorna",
+        "kapuvár",
+        "szigetköz",
+        "fertő-tó",
+        "nyugat"
+       ]
+      },
+      {
+       "word": "Jász-Nagykun-Szolnok",
+       "forbiddens": [
+        "karcag",
+        "mezőtúr",
+        "tisza",
+        "alföld",
+        "törökszentmiklós"
+       ]
+      },
+      {
+       "word": "Szabolcs-Szatmár-Bereg",
+       "forbiddens": [
+        "nyíregyháza",
+        "kisvárda",
+        "mátészalka",
+        "tisza",
+        "szamos"
+       ]
+      },
+      {
+       "word": "Hágó",
+       "forbiddens": [
+        "hegység",
+        "szerpentin",
+        "alpok",
+        "átkelő",
+        "nyereg"
+       ]
+      },
+      {
+       "word": "Sajó",
+       "forbiddens": [
+        "miskolc",
+        "hernád",
+        "borsod",
+        "tisza",
+        "folyó"
+       ]
+      },
+      {
+       "word": "Vértes",
+       "forbiddens": [
+        "hegység",
+        "székesfehérvár",
+        "tata",
+        "mór",
+        "erdő"
+       ]
+      },
+      {
+       "word": "Sió",
+       "forbiddens": [
+        "balaton",
+        "duna",
+        "csatorna",
+        "zsilip",
+        "tolna"
+       ]
+      },
+      {
+       "word": "Kis-Balaton",
+       "forbiddens": [
+        "zala",
+        "élőhely",
+        "madarak",
+        "nádas",
+        "keszthely"
+       ]
+      },
+      {
+       "word": "Greenwich",
+       "forbiddens": [
+        "london",
+        "kezdőmeridián",
+        "obszervatórium",
+        "idő",
+        "temze"
+       ]
+      },
+      {
+       "word": "Ráktérítő",
+       "forbiddens": [
+        "északi",
+        "trópus",
+        "nyári napforduló",
+        "szélességi kör",
+        "egyenlítő"
+       ]
+      },
+      {
+       "word": "Baktérítő",
+       "forbiddens": [
+        "déli",
+        "trópus",
+        "téli napforduló",
+        "szélességi kör",
+        "egyenlítő"
+       ]
+      },
+      {
+       "word": "Dátumvonal",
+       "forbiddens": [
+        "nemzetközi",
+        "hosszúsági kör",
+        "idő",
+        "csendes-óceán",
+        "nap"
+       ]
+      },
+      {
+       "word": "Alacsony-Tátra",
+       "forbiddens": [
+        "szlovákia",
+        "hegység",
+        "síelés",
+        "barlangok",
+        "nemzeti park"
+       ]
+      },
+      {
+       "word": "Rózsadomb",
+       "forbiddens": [
+        "budapest",
+        "buda",
+        "villák",
+        "lakónegyed",
+        "duna"
+       ]
+      },
+      {
+       "word": "Tűzföld",
+       "forbiddens": [
+        "patagónia",
+        "ushuaia",
+        "magellán-szoros",
+        "hideg",
+        "déli"
+       ]
+      },
+      {
+       "word": "Eufrátesz",
+       "forbiddens": [
+        "folyó",
+        "mezopotámia",
+        "szíria",
+        "irak",
+        "tigris"
+       ]
+      },
+      {
+       "word": "Fertőd",
+       "forbiddens": [
+        "kastély",
+        "esterházy",
+        "haydn",
+        "barokk",
+        "nyugat"
+       ]
+      },
+      {
+       "word": "Baja",
+       "forbiddens": [
+        "duna",
+        "halászlé",
+        "bácska",
+        "bács-kiskun",
+        "híd"
+       ]
+      },
+      {
+       "word": "Dunakeszi",
+       "forbiddens": [
+        "pest megye",
+        "budapest",
+        "északi",
+        "vasút",
+        "agglomeráció"
+       ]
+      },
+      {
+       "word": "Zirc",
+       "forbiddens": [
+        "bakony",
+        "arborétum",
+        "veszprém megye",
+        "apátság",
+        "erdő"
+       ]
+      },
+      {
+       "word": "Kisvárda",
+       "forbiddens": [
+        "szabolcs",
+        "erőd",
+        "nyírség",
+        "kelet",
+        "város"
+       ]
+      },
+      {
+       "word": "Nagymaros",
+       "forbiddens": [
+        "duna",
+        "dunakanyar",
+        "visegrád",
+        "komp",
+        "város"
+       ]
+      },
+      {
+       "word": "Mátrafüred",
+       "forbiddens": [
+        "kékes",
+        "gyöngyös",
+        "hegyvidék",
+        "üdülő",
+        "erdő"
+       ]
+      },
+      {
+       "word": "Miskolctapolca",
+       "forbiddens": [
+        "barlangfürdő",
+        "bükk",
+        "termál",
+        "fürdő",
+        "borsod"
+       ]
+      },
+      {
+       "word": "Szalajka-völgy",
+       "forbiddens": [
+        "szilvásvárad",
+        "bükk",
+        "vízesés",
+        "lipicai",
+        "kisvasút"
+       ]
+      },
+      {
+       "word": "Bük",
+       "forbiddens": [
+        "fürdő",
+        "termál",
+        "vas megye",
+        "nyugat",
+        "gyógyvíz"
+       ]
+      },
+      {
+       "word": "Szentgotthárd",
+       "forbiddens": [
+        "rába",
+        "nyugat",
+        "őrség",
+        "vas megye",
+        "kisváros"
+       ]
+      },
+      {
+       "word": "Karcag",
+       "forbiddens": [
+        "nagykunság",
+        "szolnok",
+        "alföld",
+        "hortobágy",
+        "birkapörkölt"
+       ]
+      },
+      {
+       "word": "Nagykőrös",
+       "forbiddens": [
+        "pest megye",
+        "alföld",
+        "kecskemét",
+        "cegléd",
+        "arany jános"
+       ]
+      },
+      {
+       "word": "Mohács",
+       "forbiddens": [
+        "duna",
+        "baranya",
+        "pécs",
+        "dél",
+        "busójárás"
+       ]
+      },
+      {
+       "word": "Dorog",
+       "forbiddens": [
+        "esztergom",
+        "szénbánya",
+        "pilis",
+        "duna",
+        "kisváros"
+       ]
+      },
+      {
+       "word": "Mórahalom",
+       "forbiddens": [
+        "szeged",
+        "homok",
+        "gyógyfürdő",
+        "tanya",
+        "alföld"
+       ]
+      },
+      {
+       "word": "Szerencs",
+       "forbiddens": [
+        "borsod",
+        "zemplén",
+        "csokoládé",
+        "cukor",
+        "hegyalja"
+       ]
+      },
+      {
+       "word": "Pilisvörösvár",
+       "forbiddens": [
+        "pest megye",
+        "sváb",
+        "agglomeráció",
+        "budapest",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Zsámbék",
+       "forbiddens": [
+        "templomrom",
+        "pest megye",
+        "sváb",
+        "kisváros",
+        "budapest"
+       ]
+      },
+      {
+       "word": "Komló",
+       "forbiddens": [
+        "mecsek",
+        "baranya",
+        "szénbánya",
+        "pécs",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Haiti",
+       "forbiddens": [
+        "port-au-prince",
+        "karib-tenger",
+        "hispaniola",
+        "kreol",
+        "sziget"
+       ]
+      },
+      {
+       "word": "Dominikai Köztársaság",
+       "forbiddens": [
+        "punta cana",
+        "karib-tenger",
+        "hispaniola",
+        "nyaralás",
+        "merengue"
+       ]
       }
      ]
     },
@@ -98791,6 +102231,3006 @@
         "alpok",
         "klagenfurt",
         "déli"
+       ]
+      },
+      {
+       "word": "Sorrento",
+       "forbiddens": [
+        "olaszország",
+        "nápolyi-öböl",
+        "citrom",
+        "capri",
+        "vezúv"
+       ]
+      },
+      {
+       "word": "Delft",
+       "forbiddens": [
+        "hollandia",
+        "kék",
+        "porcelán",
+        "csatornák",
+        "hága"
+       ]
+      },
+      {
+       "word": "Huron-tó",
+       "forbiddens": [
+        "nagy-tavak",
+        "michigan-tó",
+        "felső-tó",
+        "édesvíz",
+        "észak-amerika"
+       ]
+      },
+      {
+       "word": "Torremolinos",
+       "forbiddens": [
+        "spanyolország",
+        "costa del sol",
+        "tengerpart",
+        "üdülőváros",
+        "málaga"
+       ]
+      },
+      {
+       "word": "Tarragona",
+       "forbiddens": [
+        "spanyolország",
+        "római",
+        "tengerpart",
+        "katalónia",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Girona",
+       "forbiddens": [
+        "spanyolország",
+        "katalónia",
+        "óváros",
+        "színes házak",
+        "onyar"
+       ]
+      },
+      {
+       "word": "Veneto",
+       "forbiddens": [
+        "olaszország",
+        "velence",
+        "verona",
+        "padova",
+        "északkelet"
+       ]
+      },
+      {
+       "word": "Campania",
+       "forbiddens": [
+        "olaszország",
+        "nápoly",
+        "vezúv",
+        "capri",
+        "amalfi"
+       ]
+      },
+      {
+       "word": "Maggiore-tó",
+       "forbiddens": [
+        "alpok",
+        "borromei-szigetek",
+        "olaszország",
+        "svájc",
+        "lugano"
+       ]
+      },
+      {
+       "word": "Monte Rosa",
+       "forbiddens": [
+        "alpok",
+        "csúcs",
+        "gleccser",
+        "zermatt",
+        "matterhorn"
+       ]
+      },
+      {
+       "word": "Gerecse",
+       "forbiddens": [
+        "tata",
+        "tatabánya",
+        "esztergom",
+        "hegység",
+        "mészkő"
+       ]
+      },
+      {
+       "word": "Denver",
+       "forbiddens": [
+        "colorado",
+        "usa",
+        "sziklás-hegység",
+        "magas",
+        "hó"
+       ]
+      },
+      {
+       "word": "Königssee",
+       "forbiddens": [
+        "bajorország",
+        "alpok",
+        "berchtesgaden",
+        "tiszta",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Annapurna",
+       "forbiddens": [
+        "himalája",
+        "nepál",
+        "nyolcezres",
+        "pokhara",
+        "csúcs"
+       ]
+      },
+      {
+       "word": "Akureyri",
+       "forbiddens": [
+        "izland",
+        "észak",
+        "fjord",
+        "kikötő",
+        "kisváros"
+       ]
+      },
+      {
+       "word": "Salt Lake City",
+       "forbiddens": [
+        "utah",
+        "usa",
+        "sós tó",
+        "hegyek",
+        "síelés"
+       ]
+      },
+      {
+       "word": "Chiemsee",
+       "forbiddens": [
+        "bajorország",
+        "herreninsel",
+        "kastély",
+        "alpok",
+        "bajor tenger"
+       ]
+      },
+      {
+       "word": "Naszály",
+       "forbiddens": [
+        "vác",
+        "dunakanyar",
+        "hegy",
+        "kőbánya",
+        "kilátó"
+       ]
+      },
+      {
+       "word": "Stavanger",
+       "forbiddens": [
+        "norvégia",
+        "fjord",
+        "olaj",
+        "preikestolen",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Nashville",
+       "forbiddens": [
+        "tennessee",
+        "usa",
+        "country",
+        "zene",
+        "gitár"
+       ]
+      },
+      {
+       "word": "Vänern",
+       "forbiddens": [
+        "svédország",
+        "legnagyobb",
+        "göta",
+        "európa",
+        "édesvíz"
+       ]
+      },
+      {
+       "word": "Vogézek",
+       "forbiddens": [
+        "franciaország",
+        "elzász",
+        "hegység",
+        "erdők",
+        "rajna"
+       ]
+      },
+      {
+       "word": "Cserehát",
+       "forbiddens": [
+        "borsod",
+        "dombság",
+        "miskolc",
+        "sajó",
+        "hernád"
+       ]
+      },
+      {
+       "word": "Detroit",
+       "forbiddens": [
+        "michigan",
+        "usa",
+        "autó",
+        "nagy-tavak",
+        "ipar"
+       ]
+      },
+      {
+       "word": "Neckar",
+       "forbiddens": [
+        "heidelberg",
+        "rajna",
+        "folyó",
+        "stuttgart",
+        "tübingen"
+       ]
+      },
+      {
+       "word": "Mälaren",
+       "forbiddens": [
+        "stockholm",
+        "svédország",
+        "szigetek",
+        "balti-tenger",
+        "édesvíz"
+       ]
+      },
+      {
+       "word": "Harz",
+       "forbiddens": [
+        "brocken",
+        "hegység",
+        "németország",
+        "erdő",
+        "vasút"
+       ]
+      },
+      {
+       "word": "Homokhátság",
+       "forbiddens": [
+        "duna",
+        "tisza",
+        "kecskemét",
+        "alföld",
+        "száraz"
+       ]
+      },
+      {
+       "word": "Kiruna",
+       "forbiddens": [
+        "svédország",
+        "lappföld",
+        "vasérc",
+        "sarkkör",
+        "északi fény"
+       ]
+      },
+      {
+       "word": "Pittsburgh",
+       "forbiddens": [
+        "pennsylvania",
+        "usa",
+        "hidak",
+        "acél",
+        "folyók"
+       ]
+      },
+      {
+       "word": "Mosel",
+       "forbiddens": [
+        "trier",
+        "koblenz",
+        "rajna",
+        "folyó",
+        "völgy"
+       ]
+      },
+      {
+       "word": "Loch Lomond",
+       "forbiddens": [
+        "skócia",
+        "felföld",
+        "nemzeti park",
+        "legnagyobb",
+        "édesvíz"
+       ]
+      },
+      {
+       "word": "Mezőföld",
+       "forbiddens": [
+        "fejér",
+        "tolna",
+        "síkság",
+        "duna",
+        "termőföld"
+       ]
+      },
+      {
+       "word": "Visby",
+       "forbiddens": [
+        "gotland",
+        "svédország",
+        "középkori",
+        "városfal",
+        "balti-tenger"
+       ]
+      },
+      {
+       "word": "Atlanta",
+       "forbiddens": [
+        "georgia",
+        "usa",
+        "olimpia",
+        "délkelet",
+        "főváros"
+       ]
+      },
+      {
+       "word": "Weser",
+       "forbiddens": [
+        "bréma",
+        "északi-tenger",
+        "folyó",
+        "németország",
+        "hameln"
+       ]
+      },
+      {
+       "word": "Tahoe-tó",
+       "forbiddens": [
+        "kalifornia",
+        "síelés",
+        "sierra nevada",
+        "tiszta",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Eifel",
+       "forbiddens": [
+        "vulkáni",
+        "hegység",
+        "rajna",
+        "németország",
+        "tavak"
+       ]
+      },
+      {
+       "word": "Lund",
+       "forbiddens": [
+        "svédország",
+        "egyetem",
+        "skåne",
+        "katedrális",
+        "dél"
+       ]
+      },
+      {
+       "word": "Adige",
+       "forbiddens": [
+        "verona",
+        "olaszország",
+        "folyó",
+        "alpok",
+        "bolzano"
+       ]
+      },
+      {
+       "word": "Winnipeg-tó",
+       "forbiddens": [
+        "kanada",
+        "manitoba",
+        "nagy",
+        "préri",
+        "édesvíz"
+       ]
+      },
+      {
+       "word": "Kantábriai-hegység",
+       "forbiddens": [
+        "észak",
+        "atlanti-óceán",
+        "picos de europa",
+        "spanyolország",
+        "barnamedve"
+       ]
+      },
+      {
+       "word": "Göcsej",
+       "forbiddens": [
+        "zala",
+        "dombság",
+        "nyugat",
+        "falvak",
+        "erdő"
+       ]
+      },
+      {
+       "word": "Turku",
+       "forbiddens": [
+        "finnország",
+        "kikötő",
+        "aura-folyó",
+        "régi főváros",
+        "szigetvilág"
+       ]
+      },
+      {
+       "word": "Calgary",
+       "forbiddens": [
+        "alberta",
+        "kanada",
+        "stampede",
+        "sziklás-hegység",
+        "olimpia"
+       ]
+      },
+      {
+       "word": "Ebro",
+       "forbiddens": [
+        "zaragoza",
+        "folyó",
+        "spanyolország",
+        "delta",
+        "pireneusok"
+       ]
+      },
+      {
+       "word": "Maracaibo-tó",
+       "forbiddens": [
+        "venezuela",
+        "olaj",
+        "dél-amerika",
+        "villámok",
+        "karib-tenger"
+       ]
+      },
+      {
+       "word": "Pindosz",
+       "forbiddens": [
+        "görögország",
+        "hegység",
+        "balkán",
+        "epirusz",
+        "thesszália"
+       ]
+      },
+      {
+       "word": "Ormánság",
+       "forbiddens": [
+        "dráva",
+        "baranya",
+        "dél",
+        "falvak",
+        "síkság"
+       ]
+      },
+      {
+       "word": "Tampere",
+       "forbiddens": [
+        "finnország",
+        "tavak",
+        "ipar",
+        "szauna",
+        "belváros"
+       ]
+      },
+      {
+       "word": "Winnipeg",
+       "forbiddens": [
+        "manitoba",
+        "kanada",
+        "préri",
+        "hideg",
+        "folyók"
+       ]
+      },
+      {
+       "word": "Douro",
+       "forbiddens": [
+        "porto",
+        "portugália",
+        "folyó",
+        "ibériai-félsziget",
+        "völgy"
+       ]
+      },
+      {
+       "word": "Nicaragua-tó",
+       "forbiddens": [
+        "közép-amerika",
+        "ometepe",
+        "vulkán",
+        "édesvíz",
+        "cápa"
+       ]
+      },
+      {
+       "word": "Rila",
+       "forbiddens": [
+        "bulgária",
+        "muszala",
+        "hegység",
+        "balkán",
+        "szófia"
+       ]
+      },
+      {
+       "word": "Rovaniemi",
+       "forbiddens": [
+        "finnország",
+        "lappföld",
+        "mikulás",
+        "sarkkör",
+        "északi"
+       ]
+      },
+      {
+       "word": "Halifax",
+       "forbiddens": [
+        "új-skócia",
+        "kanada",
+        "kikötő",
+        "atlanti-óceán",
+        "kelet"
+       ]
+      },
+      {
+       "word": "Brahmaputra",
+       "forbiddens": [
+        "himalája",
+        "folyó",
+        "bengáli-öböl",
+        "gangesz",
+        "ázsia"
+       ]
+      },
+      {
+       "word": "Pirin",
+       "forbiddens": [
+        "bulgária",
+        "hegység",
+        "síelés",
+        "nemzeti park",
+        "balkán"
+       ]
+      },
+      {
+       "word": "Hanság",
+       "forbiddens": [
+        "fertő",
+        "kisalföld",
+        "mocsár",
+        "nyugat",
+        "mosoni-duna"
+       ]
+      },
+      {
+       "word": "Aalborg",
+       "forbiddens": [
+        "dánia",
+        "jütland",
+        "limfjord",
+        "kikötő",
+        "észak"
+       ]
+      },
+      {
+       "word": "Québec",
+       "forbiddens": [
+        "kanada",
+        "francia",
+        "óváros",
+        "szent lőrinc-folyó",
+        "tartomány"
+       ]
+      },
+      {
+       "word": "Potomac",
+       "forbiddens": [
+        "washington",
+        "folyó",
+        "virginia",
+        "maryland",
+        "chesapeake-öböl"
+       ]
+      },
+      {
+       "word": "Tonle Szap",
+       "forbiddens": [
+        "kambodzsa",
+        "mekong",
+        "úszó falvak",
+        "ázsia",
+        "siem reap"
+       ]
+      },
+      {
+       "word": "Roskilde",
+       "forbiddens": [
+        "dánia",
+        "viking hajók",
+        "fesztivál",
+        "székesegyház",
+        "fjord"
+       ]
+      },
+      {
+       "word": "Whistler",
+       "forbiddens": [
+        "vancouver",
+        "kanada",
+        "síelés",
+        "olimpia",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Yukon",
+       "forbiddens": [
+        "alaszka",
+        "folyó",
+        "aranyláz",
+        "hideg",
+        "klondike"
+       ]
+      },
+      {
+       "word": "Toba-tó",
+       "forbiddens": [
+        "szumátra",
+        "kaldera",
+        "vulkán",
+        "indonézia",
+        "samosir"
+       ]
+      },
+      {
+       "word": "Tórshavn",
+       "forbiddens": [
+        "feröer-szigetek",
+        "főváros",
+        "atlanti-óceán",
+        "kikötő",
+        "streymoy"
+       ]
+      },
+      {
+       "word": "Cancún",
+       "forbiddens": [
+        "mexikó",
+        "karib-tenger",
+        "yucatán",
+        "strand",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Mackenzie",
+       "forbiddens": [
+        "kanada",
+        "folyó",
+        "sarkvidék",
+        "északi-jeges-tenger",
+        "legnagyobb"
+       ]
+      },
+      {
+       "word": "Biva-tó",
+       "forbiddens": [
+        "japán",
+        "legnagyobb",
+        "honsú",
+        "kiotó",
+        "édesvíz"
+       ]
+      },
+      {
+       "word": "Nagycenk",
+       "forbiddens": [
+        "kastély",
+        "hársfasor",
+        "kisvasút",
+        "sopron",
+        "széchenyi"
+       ]
+      },
+      {
+       "word": "Brno",
+       "forbiddens": [
+        "morvaország",
+        "csehország",
+        "második",
+        "egyetem",
+        "vár"
+       ]
+      },
+      {
+       "word": "Guadalajara",
+       "forbiddens": [
+        "mexikó",
+        "jalisco",
+        "mariachi",
+        "nagyváros",
+        "nyugat"
+       ]
+      },
+      {
+       "word": "Rio Negro",
+       "forbiddens": [
+        "amazonas",
+        "manaus",
+        "fekete",
+        "folyó",
+        "brazília"
+       ]
+      },
+      {
+       "word": "Iszik-köl",
+       "forbiddens": [
+        "kirgizisztán",
+        "tien-san",
+        "hegyek",
+        "sós",
+        "magas"
+       ]
+      },
+      {
+       "word": "Yucatán",
+       "forbiddens": [
+        "mexikó",
+        "félsziget",
+        "maja",
+        "karib-tenger",
+        "cenote"
+       ]
+      },
+      {
+       "word": "Darling",
+       "forbiddens": [
+        "ausztrália",
+        "murray",
+        "folyó",
+        "outback",
+        "hosszú"
+       ]
+      },
+      {
+       "word": "Leányfalu",
+       "forbiddens": [
+        "duna",
+        "dunakanyar",
+        "strand",
+        "villák",
+        "szentendrei-sziget"
+       ]
+      },
+      {
+       "word": "Kutná Hora",
+       "forbiddens": [
+        "csehország",
+        "ezüst",
+        "bánya",
+        "világörökség",
+        "székesegyház"
+       ]
+      },
+      {
+       "word": "Baja California",
+       "forbiddens": [
+        "mexikó",
+        "félsziget",
+        "csendes-óceán",
+        "sivatag",
+        "kaliforniai-öböl"
+       ]
+      },
+      {
+       "word": "Inn",
+       "forbiddens": [
+        "passau",
+        "folyó",
+        "duna",
+        "alpok",
+        "engadin"
+       ]
+      },
+      {
+       "word": "Aare",
+       "forbiddens": [
+        "bern",
+        "folyó",
+        "rajna",
+        "svájc",
+        "thuni-tó"
+       ]
+      },
+      {
+       "word": "Toruń",
+       "forbiddens": [
+        "lengyelország",
+        "kopernikusz",
+        "mézeskalács",
+        "visztula",
+        "gótikus"
+       ]
+      },
+      {
+       "word": "Ben Nevis",
+       "forbiddens": [
+        "skócia",
+        "legmagasabb",
+        "felföld",
+        "hó",
+        "hegy"
+       ]
+      },
+      {
+       "word": "Lublin",
+       "forbiddens": [
+        "lengyelország",
+        "kelet",
+        "egyetem",
+        "óváros",
+        "vár"
+       ]
+      },
+      {
+       "word": "Varadero",
+       "forbiddens": [
+        "kuba",
+        "strand",
+        "tengerpart",
+        "karib-tenger",
+        "félsziget"
+       ]
+      },
+      {
+       "word": "Sopot",
+       "forbiddens": [
+        "lengyelország",
+        "balti-tenger",
+        "móló",
+        "gdańsk",
+        "tengerpart"
+       ]
+      },
+      {
+       "word": "Punta Cana",
+       "forbiddens": [
+        "dominikai köztársaság",
+        "karib-tenger",
+        "strand",
+        "pálmák",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Szent Lőrinc-folyó",
+       "forbiddens": [
+        "kanada",
+        "nagy-tavak",
+        "montréal",
+        "ontario-tó",
+        "atlanti-óceán"
+       ]
+      },
+      {
+       "word": "Mount Rainier",
+       "forbiddens": [
+        "seattle",
+        "vulkán",
+        "gleccser",
+        "hó",
+        "hegy"
+       ]
+      },
+      {
+       "word": "Kingston",
+       "forbiddens": [
+        "jamaica",
+        "főváros",
+        "kikötő",
+        "reggae",
+        "karib-tenger"
+       ]
+      },
+      {
+       "word": "Chimborazo",
+       "forbiddens": [
+        "ecuador",
+        "vulkán",
+        "andok",
+        "quito",
+        "csúcs"
+       ]
+      },
+      {
+       "word": "Nassau",
+       "forbiddens": [
+        "bahama-szigetek",
+        "főváros",
+        "kikötő",
+        "strand",
+        "trópusi"
+       ]
+      },
+      {
+       "word": "Cotopaxi",
+       "forbiddens": [
+        "ecuador",
+        "vulkán",
+        "andok",
+        "aktív",
+        "hó"
+       ]
+      },
+      {
+       "word": "Cusco",
+       "forbiddens": [
+        "peru",
+        "inka",
+        "andok",
+        "machu picchu",
+        "szent völgy"
+       ]
+      },
+      {
+       "word": "San Gimignano",
+       "forbiddens": [
+        "toszkána",
+        "tornyok",
+        "középkori",
+        "olaszország",
+        "világörökség"
+       ]
+      },
+      {
+       "word": "Cartagena",
+       "forbiddens": [
+        "kolumbia",
+        "karib-tenger",
+        "városfal",
+        "kikötő",
+        "gyarmati"
+       ]
+      },
+      {
+       "word": "Parma",
+       "forbiddens": [
+        "olaszország",
+        "sonka",
+        "sajt",
+        "emilia-romagna",
+        "opera"
+       ]
+      },
+      {
+       "word": "Medellín",
+       "forbiddens": [
+        "kolumbia",
+        "andok",
+        "virág",
+        "völgy",
+        "második"
+       ]
+      },
+      {
+       "word": "Tongariro",
+       "forbiddens": [
+        "új-zéland",
+        "vulkán",
+        "északi-sziget",
+        "nemzeti park",
+        "túra"
+       ]
+      },
+      {
+       "word": "Celldömölk",
+       "forbiddens": [
+        "ság-hegy",
+        "vulkán",
+        "vas megye",
+        "kemenesalja",
+        "nyugat"
+       ]
+      },
+      {
+       "word": "Manaus",
+       "forbiddens": [
+        "brazília",
+        "amazonas",
+        "esőerdő",
+        "rio negro",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Mount Erebus",
+       "forbiddens": [
+        "antarktisz",
+        "vulkán",
+        "ross-sziget",
+        "aktív",
+        "jég"
+       ]
+      },
+      {
+       "word": "Bergamo",
+       "forbiddens": [
+        "olaszország",
+        "lombardia",
+        "felsőváros",
+        "alpok",
+        "repülőtér"
+       ]
+      },
+      {
+       "word": "Kebnekaise",
+       "forbiddens": [
+        "svédország",
+        "legmagasabb",
+        "lappföld",
+        "hegy",
+        "hó"
+       ]
+      },
+      {
+       "word": "Kazincbarcika",
+       "forbiddens": [
+        "borsod",
+        "sajó",
+        "vegyipar",
+        "miskolc",
+        "panel"
+       ]
+      },
+      {
+       "word": "Cinque Terre",
+       "forbiddens": [
+        "olaszország",
+        "ligúria",
+        "színes házak",
+        "tengerpart",
+        "öt falu"
+       ]
+      },
+      {
+       "word": "Mendoza",
+       "forbiddens": [
+        "argentína",
+        "andok",
+        "aconcagua",
+        "hegyek",
+        "völgy"
+       ]
+      },
+      {
+       "word": "Galdhøpiggen",
+       "forbiddens": [
+        "norvégia",
+        "legmagasabb",
+        "jotunheimen",
+        "csúcs",
+        "hó"
+       ]
+      },
+      {
+       "word": "Amalfi",
+       "forbiddens": [
+        "olaszország",
+        "citrom",
+        "szerpentin",
+        "tengerpart",
+        "szikla"
+       ]
+      },
+      {
+       "word": "Bariloche",
+       "forbiddens": [
+        "argentína",
+        "patagónia",
+        "andok",
+        "nahuel huapi",
+        "csokoládé"
+       ]
+      },
+      {
+       "word": "Dachstein",
+       "forbiddens": [
+        "ausztria",
+        "gleccser",
+        "alpok",
+        "hallstatt",
+        "barlang"
+       ]
+      },
+      {
+       "word": "Positano",
+       "forbiddens": [
+        "olaszország",
+        "színes házak",
+        "tengerpart",
+        "lépcsők",
+        "amalfi"
+       ]
+      },
+      {
+       "word": "Valparaíso",
+       "forbiddens": [
+        "chile",
+        "kikötő",
+        "színes házak",
+        "csendes-óceán",
+        "dombok"
+       ]
+      },
+      {
+       "word": "Hohe Tauern",
+       "forbiddens": [
+        "ausztria",
+        "nemzeti park",
+        "großglockner",
+        "gleccserek",
+        "alpok"
+       ]
+      },
+      {
+       "word": "Torres del Paine",
+       "forbiddens": [
+        "chile",
+        "patagónia",
+        "andok",
+        "nemzeti park",
+        "gleccser"
+       ]
+      },
+      {
+       "word": "Ortler",
+       "forbiddens": [
+        "alpok",
+        "gleccser",
+        "csúcs",
+        "olaszország",
+        "hó"
+       ]
+      },
+      {
+       "word": "Taormina",
+       "forbiddens": [
+        "szicília",
+        "etna",
+        "görög színház",
+        "tengerpart",
+        "hegyoldal"
+       ]
+      },
+      {
+       "word": "Kilauea",
+       "forbiddens": [
+        "hawaii",
+        "vulkán",
+        "láva",
+        "kitör",
+        "sziget"
+       ]
+      },
+      {
+       "word": "Krakatau",
+       "forbiddens": [
+        "indonézia",
+        "vulkán",
+        "szunda-szoros",
+        "szigetek",
+        "kitörés"
+       ]
+      },
+      {
+       "word": "Takla-Makan",
+       "forbiddens": [
+        "sivatag",
+        "kína",
+        "ázsia",
+        "selyemút",
+        "homok"
+       ]
+      },
+      {
+       "word": "Amur",
+       "forbiddens": [
+        "folyó",
+        "oroszország",
+        "kína",
+        "ázsia",
+        "hosszú"
+       ]
+      },
+      {
+       "word": "Bornholm",
+       "forbiddens": [
+        "dánia",
+        "balti-tenger",
+        "sziget",
+        "halászat",
+        "kerékpár"
+       ]
+      },
+      {
+       "word": "Öland",
+       "forbiddens": [
+        "svédország",
+        "balti-tenger",
+        "sziget",
+        "híd",
+        "szél"
+       ]
+      },
+      {
+       "word": "Sylt",
+       "forbiddens": [
+        "németország",
+        "északi-tenger",
+        "sziget",
+        "homok",
+        "strand"
+       ]
+      },
+      {
+       "word": "Lombok",
+       "forbiddens": [
+        "indonézia",
+        "bali",
+        "sziget",
+        "vulkán",
+        "szörf"
+       ]
+      },
+      {
+       "word": "Celebesz",
+       "forbiddens": [
+        "indonézia",
+        "sziget",
+        "borneó",
+        "ázsia",
+        "trópusi"
+       ]
+      },
+      {
+       "word": "Kjúsú",
+       "forbiddens": [
+        "japán",
+        "sziget",
+        "vulkán",
+        "dél",
+        "ázsia"
+       ]
+      },
+      {
+       "word": "Honsú",
+       "forbiddens": [
+        "japán",
+        "sziget",
+        "legnagyobb",
+        "tokió",
+        "fudzsi"
+       ]
+      },
+      {
+       "word": "Kenguru-sziget",
+       "forbiddens": [
+        "ausztrália",
+        "déli",
+        "állatvilág",
+        "koala",
+        "tenger"
+       ]
+      },
+      {
+       "word": "Kikládok",
+       "forbiddens": [
+        "görögország",
+        "szigetcsoport",
+        "égei-tenger",
+        "fehér házak",
+        "szantorini"
+       ]
+      },
+      {
+       "word": "Kefalónia",
+       "forbiddens": [
+        "görögország",
+        "jón-tenger",
+        "sziget",
+        "strand",
+        "komp"
+       ]
+      },
+      {
+       "word": "Pamukkale",
+       "forbiddens": [
+        "törökország",
+        "terasz",
+        "mészkő",
+        "hőforrás",
+        "fehér"
+       ]
+      },
+      {
+       "word": "Kappadókia",
+       "forbiddens": [
+        "törökország",
+        "tündérkémény",
+        "hőlégballon",
+        "barlang",
+        "anatólia"
+       ]
+      },
+      {
+       "word": "Bretagne",
+       "forbiddens": [
+        "franciaország",
+        "nyugati",
+        "félsziget",
+        "tengerpart",
+        "palacsinta"
+       ]
+      },
+      {
+       "word": "Umbria",
+       "forbiddens": [
+        "olaszország",
+        "perugia",
+        "zöld",
+        "dombok",
+        "közép"
+       ]
+      },
+      {
+       "word": "Piemont",
+       "forbiddens": [
+        "olaszország",
+        "torino",
+        "alpok",
+        "északi",
+        "hegylábi"
+       ]
+      },
+      {
+       "word": "Lombardia",
+       "forbiddens": [
+        "olaszország",
+        "milánó",
+        "pó",
+        "északi",
+        "tavak"
+       ]
+      },
+      {
+       "word": "Puglia",
+       "forbiddens": [
+        "olaszország",
+        "csizma sarka",
+        "déli",
+        "olajfa",
+        "adriai-tenger"
+       ]
+      },
+      {
+       "word": "Türingia",
+       "forbiddens": [
+        "németország",
+        "erfurt",
+        "erdő",
+        "közép",
+        "tartomány"
+       ]
+      },
+      {
+       "word": "Ruhr-vidék",
+       "forbiddens": [
+        "németország",
+        "bányászat",
+        "ipar",
+        "essen",
+        "dortmund"
+       ]
+      },
+      {
+       "word": "Cornwall",
+       "forbiddens": [
+        "anglia",
+        "déli",
+        "tengerpart",
+        "félsziget",
+        "halászfalu"
+       ]
+      },
+      {
+       "word": "Bohémia",
+       "forbiddens": [
+        "csehország",
+        "prága",
+        "nyugati",
+        "tartomány",
+        "kristály"
+       ]
+      },
+      {
+       "word": "Morvaország",
+       "forbiddens": [
+        "csehország",
+        "brno",
+        "keleti",
+        "tartomány",
+        "dél"
+       ]
+      },
+      {
+       "word": "Mazúria",
+       "forbiddens": [
+        "lengyelország",
+        "tavak",
+        "északi",
+        "vitorlázás",
+        "erdő"
+       ]
+      },
+      {
+       "word": "Pomeránia",
+       "forbiddens": [
+        "balti-tenger",
+        "lengyelország",
+        "tengerpart",
+        "északi",
+        "történelmi"
+       ]
+      },
+      {
+       "word": "Burgenland",
+       "forbiddens": [
+        "ausztria",
+        "keleti",
+        "fertő-tó",
+        "tartomány",
+        "eisenstadt"
+       ]
+      },
+      {
+       "word": "Salzkammergut",
+       "forbiddens": [
+        "ausztria",
+        "tavak",
+        "alpok",
+        "hallstatt",
+        "vidék"
+       ]
+      },
+      {
+       "word": "Havasalföld",
+       "forbiddens": [
+        "románia",
+        "bukarest",
+        "déli",
+        "duna",
+        "síkság"
+       ]
+      },
+      {
+       "word": "Attika",
+       "forbiddens": [
+        "görögország",
+        "athén",
+        "félsziget",
+        "ókori",
+        "tengerpart"
+       ]
+      },
+      {
+       "word": "Rádzsasztán",
+       "forbiddens": [
+        "india",
+        "sivatag",
+        "dzsaipur",
+        "palota",
+        "nyugat"
+       ]
+      },
+      {
+       "word": "Nílus-delta",
+       "forbiddens": [
+        "egyiptom",
+        "folyó",
+        "termékeny",
+        "kairó",
+        "tenger"
+       ]
+      },
+      {
+       "word": "Cape Cod",
+       "forbiddens": [
+        "massachusetts",
+        "usa",
+        "félsziget",
+        "homok",
+        "tengerpart"
+       ]
+      },
+      {
+       "word": "Labrador",
+       "forbiddens": [
+        "kanada",
+        "félsziget",
+        "hideg",
+        "newfoundland",
+        "hudson-öböl"
+       ]
+      },
+      {
+       "word": "Nazca",
+       "forbiddens": [
+        "peru",
+        "vonalak",
+        "sivatag",
+        "rajzok",
+        "dél-amerika"
+       ]
+      },
+      {
+       "word": "Rotorua",
+       "forbiddens": [
+        "új-zéland",
+        "gejzír",
+        "hőforrás",
+        "maori",
+        "északi-sziget"
+       ]
+      },
+      {
+       "word": "Fiordland",
+       "forbiddens": [
+        "új-zéland",
+        "déli-sziget",
+        "fjord",
+        "nemzeti park",
+        "esős"
+       ]
+      },
+      {
+       "word": "Északi-sziget",
+       "forbiddens": [
+        "új-zéland",
+        "wellington",
+        "auckland",
+        "vulkán",
+        "maori"
+       ]
+      },
+      {
+       "word": "Déli-sziget",
+       "forbiddens": [
+        "új-zéland",
+        "alpok",
+        "queenstown",
+        "fjord",
+        "christchurch"
+       ]
+      },
+      {
+       "word": "Sanssouci",
+       "forbiddens": [
+        "potsdam",
+        "palota",
+        "rokokó",
+        "szőlőterasz",
+        "berlin"
+       ]
+      },
+      {
+       "word": "Schönbrunn",
+       "forbiddens": [
+        "bécs",
+        "palota",
+        "ausztria",
+        "park",
+        "sárga"
+       ]
+      },
+      {
+       "word": "Hofburg",
+       "forbiddens": [
+        "bécs",
+        "palota",
+        "ausztria",
+        "belváros",
+        "spanyol lovasiskola"
+       ]
+      },
+      {
+       "word": "Zwinger",
+       "forbiddens": [
+        "drezda",
+        "palota",
+        "barokk",
+        "szászország",
+        "galéria"
+       ]
+      },
+      {
+       "word": "Galata-torony",
+       "forbiddens": [
+        "isztambul",
+        "törökország",
+        "kilátó",
+        "aranyszarv",
+        "középkori"
+       ]
+      },
+      {
+       "word": "Ponte Vecchio",
+       "forbiddens": [
+        "firenze",
+        "arno",
+        "híd",
+        "ékszerészek",
+        "olaszország"
+       ]
+      },
+      {
+       "word": "CN Tower",
+       "forbiddens": [
+        "toronto",
+        "kanada",
+        "magas",
+        "kilátó",
+        "tv-torony"
+       ]
+      },
+      {
+       "word": "Gateway Arch",
+       "forbiddens": [
+        "st. louis",
+        "usa",
+        "mississippi",
+        "ív",
+        "rozsdamentes"
+       ]
+      },
+      {
+       "word": "Space Needle",
+       "forbiddens": [
+        "seattle",
+        "usa",
+        "kilátó",
+        "torony",
+        "világkiállítás"
+       ]
+      },
+      {
+       "word": "Harbour Bridge",
+       "forbiddens": [
+        "sydney",
+        "ausztrália",
+        "ív",
+        "kikötő",
+        "szilveszter"
+       ]
+      },
+      {
+       "word": "Cukorsüveg-hegy",
+       "forbiddens": [
+        "rio de janeiro",
+        "brazília",
+        "kábelvasút",
+        "gránit",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Copacabana",
+       "forbiddens": [
+        "rio de janeiro",
+        "brazília",
+        "strand",
+        "mozaik",
+        "tengerpart"
+       ]
+      },
+      {
+       "word": "Appalache-hegység",
+       "forbiddens": [
+        "usa",
+        "keleti part",
+        "hegylánc",
+        "erdő",
+        "ösvény"
+       ]
+      },
+      {
+       "word": "Thar-sivatag",
+       "forbiddens": [
+        "india",
+        "pakisztán",
+        "homok",
+        "rádzsasztán",
+        "dűne"
+       ]
+      },
+      {
+       "word": "Mojave-sivatag",
+       "forbiddens": [
+        "kalifornia",
+        "usa",
+        "nevada",
+        "száraz",
+        "joshua-fa"
+       ]
+      },
+      {
+       "word": "Sonora-sivatag",
+       "forbiddens": [
+        "mexikó",
+        "arizona",
+        "kaktusz",
+        "száraz",
+        "saguaro"
+       ]
+      },
+      {
+       "word": "Nagy-Medve-tó",
+       "forbiddens": [
+        "kanada",
+        "sarkvidék",
+        "észak",
+        "fagyott",
+        "északnyugati területek"
+       ]
+      },
+      {
+       "word": "Vizcayai-öböl",
+       "forbiddens": [
+        "franciaország",
+        "spanyolország",
+        "atlanti-óceán",
+        "hullám",
+        "bilbao"
+       ]
+      },
+      {
+       "word": "Finn-öböl",
+       "forbiddens": [
+        "balti-tenger",
+        "helsinki",
+        "szentpétervár",
+        "tallinn",
+        "jég"
+       ]
+      },
+      {
+       "word": "Botteni-öböl",
+       "forbiddens": [
+        "balti-tenger",
+        "svédország",
+        "finnország",
+        "jég",
+        "brakkvíz"
+       ]
+      },
+      {
+       "word": "Arab-tenger",
+       "forbiddens": [
+        "indiai-óceán",
+        "india",
+        "omán",
+        "mumbai",
+        "monszun"
+       ]
+      },
+      {
+       "word": "Korall-tenger",
+       "forbiddens": [
+        "ausztrália",
+        "csendes-óceán",
+        "queensland",
+        "új-guinea",
+        "trópusi"
+       ]
+      },
+      {
+       "word": "Weddell-tenger",
+       "forbiddens": [
+        "antarktisz",
+        "jég",
+        "déli-sark",
+        "selfjég",
+        "hideg"
+       ]
+      },
+      {
+       "word": "Lipari-szigetek",
+       "forbiddens": [
+        "olaszország",
+        "szicília",
+        "vulkán",
+        "stromboli",
+        "tenger"
+       ]
+      },
+      {
+       "word": "Kornati-szigetek",
+       "forbiddens": [
+        "horvátország",
+        "nemzeti park",
+        "adriai-tenger",
+        "kopár",
+        "hajózás"
+       ]
+      },
+      {
+       "word": "Yorkshire",
+       "forbiddens": [
+        "anglia",
+        "északi",
+        "megye",
+        "puding",
+        "leeds"
+       ]
+      },
+      {
+       "word": "Florida Keys",
+       "forbiddens": [
+        "híd",
+        "korall",
+        "szigetsor",
+        "key west",
+        "usa"
+       ]
+      },
+      {
+       "word": "Kék-hegység",
+       "forbiddens": [
+        "ausztrália",
+        "sydney",
+        "eukaliptusz",
+        "három nővér",
+        "sziklaszirt"
+       ]
+      },
+      {
+       "word": "Cabo da Roca",
+       "forbiddens": [
+        "portugália",
+        "legnyugatibb",
+        "európa",
+        "fok",
+        "atlanti-óceán"
+       ]
+      },
+      {
+       "word": "Wachau",
+       "forbiddens": [
+        "duna",
+        "ausztria",
+        "kajszi",
+        "völgy",
+        "világörökség"
+       ]
+      },
+      {
+       "word": "Gullfoss",
+       "forbiddens": [
+        "izland",
+        "vízesés",
+        "arany",
+        "aranykör",
+        "gejzír"
+       ]
+      },
+      {
+       "word": "Geiranger",
+       "forbiddens": [
+        "norvégia",
+        "fjord",
+        "vízesés",
+        "hegyek",
+        "világörökség"
+       ]
+      },
+      {
+       "word": "Sognefjord",
+       "forbiddens": [
+        "norvégia",
+        "jég",
+        "leghosszabb",
+        "nyugat",
+        "mély"
+       ]
+      },
+      {
+       "word": "Nordkapp",
+       "forbiddens": [
+        "norvégia",
+        "sarkkör",
+        "fok",
+        "éjféli nap",
+        "szikla"
+       ]
+      },
+      {
+       "word": "Jotunheimen",
+       "forbiddens": [
+        "norvégia",
+        "hegység",
+        "galdhøpiggen",
+        "nemzeti park",
+        "legmagasabb"
+       ]
+      },
+      {
+       "word": "Surtsey",
+       "forbiddens": [
+        "izland",
+        "vulkáni",
+        "sziget",
+        "új",
+        "tengerből"
+       ]
+      },
+      {
+       "word": "Dettifoss",
+       "forbiddens": [
+        "izland",
+        "vízesés",
+        "európa",
+        "legerősebb",
+        "jökulsá"
+       ]
+      },
+      {
+       "word": "Jökulsárlón",
+       "forbiddens": [
+        "izland",
+        "gleccser",
+        "lagúna",
+        "jéghegy",
+        "gyémánt-part"
+       ]
+      },
+      {
+       "word": "Etosha",
+       "forbiddens": [
+        "namíbia",
+        "nemzeti park",
+        "sómedence",
+        "vadállatok",
+        "szavanna"
+       ]
+      },
+      {
+       "word": "Wadi Rum",
+       "forbiddens": [
+        "jordánia",
+        "sivatag",
+        "sziklák",
+        "homokkő",
+        "vörös"
+       ]
+      },
+      {
+       "word": "Kruger",
+       "forbiddens": [
+        "dél-afrika",
+        "nemzeti park",
+        "szafari",
+        "elefánt",
+        "oroszlán"
+       ]
+      },
+      {
+       "word": "Fansipan",
+       "forbiddens": [
+        "vietnám",
+        "legmagasabb",
+        "csúcs",
+        "indokína",
+        "sapa"
+       ]
+      },
+      {
+       "word": "Mekong-delta",
+       "forbiddens": [
+        "vietnám",
+        "folyó",
+        "rizs",
+        "vízi piac",
+        "déli"
+       ]
+      },
+      {
+       "word": "Hoi An",
+       "forbiddens": [
+        "vietnám",
+        "lámpás",
+        "óváros",
+        "tengerpart",
+        "világörökség"
+       ]
+      },
+      {
+       "word": "Palawan",
+       "forbiddens": [
+        "fülöp-szigetek",
+        "sziget",
+        "nyugat",
+        "lagúna",
+        "földalatti folyó"
+       ]
+      },
+      {
+       "word": "Mayon",
+       "forbiddens": [
+        "fülöp-szigetek",
+        "vulkán",
+        "kúp",
+        "luzon",
+        "tökéletes"
+       ]
+      },
+      {
+       "word": "Kerala",
+       "forbiddens": [
+        "india",
+        "délnyugat",
+        "holtágak",
+        "tea",
+        "fűszerek"
+       ]
+      },
+      {
+       "word": "Dzsaipur",
+       "forbiddens": [
+        "india",
+        "rádzsasztán",
+        "rózsaszín város",
+        "főváros",
+        "palota"
+       ]
+      },
+      {
+       "word": "Pokhara",
+       "forbiddens": [
+        "nepál",
+        "tó",
+        "annapurna",
+        "hegyek",
+        "turisztikai"
+       ]
+      },
+      {
+       "word": "Buhara",
+       "forbiddens": [
+        "üzbegisztán",
+        "selyemút",
+        "oázisváros",
+        "közép-ázsia",
+        "történelmi"
+       ]
+      },
+      {
+       "word": "Biskek",
+       "forbiddens": [
+        "kirgizisztán",
+        "főváros",
+        "közép-ázsia",
+        "tien-san",
+        "hegyek"
+       ]
+      },
+      {
+       "word": "Irkutszk",
+       "forbiddens": [
+        "oroszország",
+        "bajkál",
+        "szibéria",
+        "angara",
+        "transzszibériai vasút"
+       ]
+      },
+      {
+       "word": "Murmanszk",
+       "forbiddens": [
+        "oroszország",
+        "sarkkör",
+        "kikötő",
+        "jégmentes",
+        "kola-félsziget"
+       ]
+      },
+      {
+       "word": "Onyega-tó",
+       "forbiddens": [
+        "oroszország",
+        "karélia",
+        "európa",
+        "ladoga-tó",
+        "második legnagyobb"
+       ]
+      },
+      {
+       "word": "Abisko",
+       "forbiddens": [
+        "svédország",
+        "sarkkör",
+        "északi fény",
+        "nemzeti park",
+        "lappföld"
+       ]
+      },
+      {
+       "word": "Dalarna",
+       "forbiddens": [
+        "svédország",
+        "faló",
+        "siljan",
+        "tó",
+        "erdők"
+       ]
+      },
+      {
+       "word": "Småland",
+       "forbiddens": [
+        "svédország",
+        "üveg",
+        "erdők",
+        "tavak",
+        "dél"
+       ]
+      },
+      {
+       "word": "Skåne",
+       "forbiddens": [
+        "svédország",
+        "legdélebbi",
+        "malmö",
+        "termékeny",
+        "öresund"
+       ]
+      },
+      {
+       "word": "Jütland",
+       "forbiddens": [
+        "dánia",
+        "félsziget",
+        "aarhus",
+        "északi-tenger",
+        "szárazföld"
+       ]
+      },
+      {
+       "word": "Fyn",
+       "forbiddens": [
+        "dánia",
+        "sziget",
+        "odense",
+        "andersen",
+        "mesék"
+       ]
+      },
+      {
+       "word": "Helsingør",
+       "forbiddens": [
+        "dánia",
+        "vár",
+        "hamlet",
+        "öresund",
+        "komp"
+       ]
+      },
+      {
+       "word": "Savonlinna",
+       "forbiddens": [
+        "finnország",
+        "vár",
+        "tó",
+        "opera",
+        "fesztivál"
+       ]
+      },
+      {
+       "word": "Hammerfest",
+       "forbiddens": [
+        "norvégia",
+        "finnmark",
+        "város",
+        "sarkkör",
+        "halászat"
+       ]
+      },
+      {
+       "word": "Segovia",
+       "forbiddens": [
+        "spanyolország",
+        "akvadukt",
+        "római",
+        "vár",
+        "kasztília"
+       ]
+      },
+      {
+       "word": "Ávila",
+       "forbiddens": [
+        "spanyolország",
+        "városfal",
+        "kasztília",
+        "középkori",
+        "világörökség"
+       ]
+      },
+      {
+       "word": "Ronda",
+       "forbiddens": [
+        "spanyolország",
+        "andalúzia",
+        "híd",
+        "szurdok",
+        "hegyi"
+       ]
+      },
+      {
+       "word": "A Coruña",
+       "forbiddens": [
+        "spanyolország",
+        "galícia",
+        "világítótorony",
+        "atlanti-óceán",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Nazaré",
+       "forbiddens": [
+        "portugália",
+        "óriáshullám",
+        "szörf",
+        "atlanti-óceán",
+        "halászfalu"
+       ]
+      },
+      {
+       "word": "Évora",
+       "forbiddens": [
+        "portugália",
+        "alentejo",
+        "római",
+        "óváros",
+        "világörökség"
+       ]
+      },
+      {
+       "word": "Coimbra",
+       "forbiddens": [
+        "portugália",
+        "egyetem",
+        "mondego",
+        "középső",
+        "régi"
+       ]
+      },
+      {
+       "word": "Gran Sasso",
+       "forbiddens": [
+        "olaszország",
+        "appenninek",
+        "abruzzo",
+        "csúcs",
+        "legmagasabb"
+       ]
+      },
+      {
+       "word": "Gran Paradiso",
+       "forbiddens": [
+        "olaszország",
+        "nemzeti park",
+        "alpok",
+        "kőszáli kecske",
+        "aosta"
+       ]
+      },
+      {
+       "word": "Tre Cime",
+       "forbiddens": [
+        "dolomitok",
+        "olaszország",
+        "három",
+        "csúcs",
+        "sziklatorony"
+       ]
+      },
+      {
+       "word": "Navona tér",
+       "forbiddens": [
+        "róma",
+        "barokk",
+        "szökőkút",
+        "négy folyó",
+        "olaszország"
+       ]
+      },
+      {
+       "word": "Chioggia",
+       "forbiddens": [
+        "velencei lagúna",
+        "olaszország",
+        "halász",
+        "csatornák",
+        "kikötő"
+       ]
+      },
+      {
+       "word": "Agrigento",
+       "forbiddens": [
+        "szicília",
+        "templomok",
+        "völgy",
+        "olaszország",
+        "ókori"
+       ]
+      },
+      {
+       "word": "Orvieto",
+       "forbiddens": [
+        "umbria",
+        "olaszország",
+        "tufa",
+        "dombtető",
+        "dóm"
+       ]
+      },
+      {
+       "word": "Sirmione",
+       "forbiddens": [
+        "garda-tó",
+        "félsziget",
+        "olaszország",
+        "vár",
+        "termál"
+       ]
+      },
+      {
+       "word": "Stresa",
+       "forbiddens": [
+        "maggiore-tó",
+        "olaszország",
+        "borromei-szigetek",
+        "üdülőváros",
+        "piemont"
+       ]
+      },
+      {
+       "word": "La Spezia",
+       "forbiddens": [
+        "ligúria",
+        "olaszország",
+        "kikötő",
+        "cinque terre",
+        "öböl"
+       ]
+      },
+      {
+       "word": "Aosta",
+       "forbiddens": [
+        "olaszország",
+        "alpok",
+        "mont blanc",
+        "völgy",
+        "északnyugat"
+       ]
+      },
+      {
+       "word": "Abruzzo",
+       "forbiddens": [
+        "olaszország",
+        "appenninek",
+        "gran sasso",
+        "nemzeti park",
+        "medve"
+       ]
+      },
+      {
+       "word": "Emilia-Romagna",
+       "forbiddens": [
+        "olaszország",
+        "bologna",
+        "parma",
+        "modena",
+        "pó-síkság"
+       ]
+      },
+      {
+       "word": "Marche",
+       "forbiddens": [
+        "olaszország",
+        "adria",
+        "ancona",
+        "dombok",
+        "közép"
+       ]
+      },
+      {
+       "word": "Melk",
+       "forbiddens": [
+        "duna",
+        "apátság",
+        "wachau",
+        "ausztria",
+        "barokk"
+       ]
+      },
+      {
+       "word": "Bregenz",
+       "forbiddens": [
+        "boden-tó",
+        "vorarlberg",
+        "ausztria",
+        "fesztivál",
+        "tavi színpad"
+       ]
+      },
+      {
+       "word": "Klagenfurt",
+       "forbiddens": [
+        "karintia",
+        "wörthersee",
+        "ausztria",
+        "tartományi székhely",
+        "dél"
+       ]
+      },
+      {
+       "word": "Vorarlberg",
+       "forbiddens": [
+        "ausztria",
+        "legnyugatibb",
+        "boden-tó",
+        "bregenz",
+        "alpok"
+       ]
+      },
+      {
+       "word": "Bamberg",
+       "forbiddens": [
+        "bajorország",
+        "regnitz",
+        "óváros",
+        "világörökség",
+        "dóm"
+       ]
+      },
+      {
+       "word": "Würzburg",
+       "forbiddens": [
+        "bajorország",
+        "majna",
+        "egyetem",
+        "barokk",
+        "rezidencia"
+       ]
+      },
+      {
+       "word": "Magdeburg",
+       "forbiddens": [
+        "elba",
+        "szász-anhalt",
+        "németország",
+        "tartományi székhely",
+        "csatornahíd"
+       ]
+      },
+      {
+       "word": "Land's End",
+       "forbiddens": [
+        "anglia",
+        "cornwall",
+        "fok",
+        "legnyugatibb",
+        "sziklák"
+       ]
+      },
+      {
+       "word": "Kew",
+       "forbiddens": [
+        "london",
+        "botanikus kert",
+        "temze",
+        "világörökség",
+        "üvegház"
+       ]
+      },
+      {
+       "word": "Lake District",
+       "forbiddens": [
+        "anglia",
+        "tavak",
+        "nemzeti park",
+        "hegyek",
+        "wordsworth"
+       ]
+      },
+      {
+       "word": "Skye-sziget",
+       "forbiddens": [
+        "skócia",
+        "hebridák",
+        "hegyek",
+        "felföld",
+        "ködös"
+       ]
+      },
+      {
+       "word": "Killarney",
+       "forbiddens": [
+        "írország",
+        "nemzeti park",
+        "tavak",
+        "kerry",
+        "nyugat"
+       ]
+      },
+      {
+       "word": "Csobánc",
+       "forbiddens": [
+        "balaton-felvidék",
+        "vár",
+        "tapolca",
+        "bazalt",
+        "romok"
+       ]
+      },
+      {
+       "word": "Káli-medence",
+       "forbiddens": [
+        "balaton-felvidék",
+        "dombok",
+        "kőtenger",
+        "köveskál",
+        "vulkáni"
+       ]
+      },
+      {
+       "word": "Zengő",
+       "forbiddens": [
+        "mecsek",
+        "csúcs",
+        "pécs",
+        "legmagasabb",
+        "pécsvárad"
+       ]
+      },
+      {
+       "word": "Csóványos",
+       "forbiddens": [
+        "börzsöny",
+        "csúcs",
+        "legmagasabb",
+        "hegység",
+        "kilátó"
+       ]
+      },
+      {
+       "word": "Gemenc",
+       "forbiddens": [
+        "duna",
+        "ártér",
+        "erdő",
+        "tolna",
+        "kisvasút"
+       ]
+      },
+      {
+       "word": "Abaliget",
+       "forbiddens": [
+        "baranya",
+        "barlang",
+        "mecsek",
+        "cseppkő",
+        "pécs"
+       ]
+      },
+      {
+       "word": "Kopaszi-gát",
+       "forbiddens": [
+        "budapest",
+        "duna",
+        "félsziget",
+        "sétány",
+        "park"
+       ]
+      },
+      {
+       "word": "Marcal",
+       "forbiddens": [
+        "folyó",
+        "bakony",
+        "dunántúl",
+        "rába",
+        "mellékfolyó"
+       ]
+      },
+      {
+       "word": "Tarna",
+       "forbiddens": [
+        "folyó",
+        "mátra",
+        "heves",
+        "zagyva",
+        "mellékfolyó"
+       ]
+      },
+      {
+       "word": "Hármas-Körös",
+       "forbiddens": [
+        "folyó",
+        "alföld",
+        "tisza",
+        "szarvas",
+        "csongrád"
+       ]
+      },
+      {
+       "word": "Sas-hegy",
+       "forbiddens": [
+        "budapest",
+        "természetvédelmi terület",
+        "dolomit",
+        "kilátás",
+        "sziklagyep"
+       ]
+      },
+      {
+       "word": "Hakone",
+       "forbiddens": [
+        "japán",
+        "fudzsi",
+        "hőforrás",
+        "tó",
+        "hegyi"
+       ]
+      },
+      {
+       "word": "Csedzsu-sziget",
+       "forbiddens": [
+        "dél-korea",
+        "vulkáni",
+        "mandarin",
+        "üdülőhely",
+        "déli"
+       ]
+      },
+      {
+       "word": "Kujlin",
+       "forbiddens": [
+        "kína",
+        "karszthegyek",
+        "li-folyó",
+        "tájkép",
+        "dél"
+       ]
+      },
+      {
+       "word": "Cozumel",
+       "forbiddens": [
+        "mexikó",
+        "sziget",
+        "karib-tenger",
+        "korallzátony",
+        "búvár"
+       ]
+      },
+      {
+       "word": "Rajna-vízesés",
+       "forbiddens": [
+        "svájc",
+        "schaffhausen",
+        "európa",
+        "legnagyobb",
+        "zuhatag"
+       ]
+      },
+      {
+       "word": "Barcs",
+       "forbiddens": [
+        "dráva",
+        "somogy",
+        "erdő",
+        "kisváros",
+        "dél"
+       ]
+      },
+      {
+       "word": "Öresund",
+       "forbiddens": [
+        "szoros",
+        "koppenhága",
+        "malmö",
+        "híd",
+        "balti-tenger"
+       ]
+      },
+      {
+       "word": "Skagerrak",
+       "forbiddens": [
+        "dánia",
+        "norvégia",
+        "északi-tenger",
+        "kattegat",
+        "szoros"
+       ]
+      },
+      {
+       "word": "Barents-tenger",
+       "forbiddens": [
+        "murmanszk",
+        "oroszország",
+        "sarkkör",
+        "norvégia",
+        "halászat"
+       ]
+      },
+      {
+       "word": "Ross-tenger",
+       "forbiddens": [
+        "antarktisz",
+        "selfjég",
+        "déli-sark",
+        "pingvin",
+        "mcmurdo"
+       ]
+      },
+      {
+       "word": "Ligur-tenger",
+       "forbiddens": [
+        "genova",
+        "riviéra",
+        "korzika",
+        "cinque terre",
+        "olasz"
+       ]
+      },
+      {
+       "word": "Tasman-tenger",
+       "forbiddens": [
+        "ausztrália",
+        "új-zéland",
+        "sydney",
+        "wellington",
+        "csendes-óceán"
+       ]
+      },
+      {
+       "word": "Korinthoszi-csatorna",
+       "forbiddens": [
+        "görögország",
+        "peloponnészosz",
+        "égei-tenger",
+        "hajózás",
+        "szűk"
+       ]
+      },
+      {
+       "word": "Dunajec",
+       "forbiddens": [
+        "tátra",
+        "pieniny",
+        "tutajozás",
+        "szurdok",
+        "lengyel"
+       ]
+      },
+      {
+       "word": "Spree",
+       "forbiddens": [
+        "berlin",
+        "folyó",
+        "havel",
+        "múzeumsziget",
+        "németország"
+       ]
+      },
+      {
+       "word": "Vättern",
+       "forbiddens": [
+        "svédország",
+        "jönköping",
+        "vänern",
+        "göta-csatorna",
+        "tó"
+       ]
+      },
+      {
+       "word": "Szevan-tó",
+       "forbiddens": [
+        "örményország",
+        "kaukázus",
+        "édesvíz",
+        "hegyi",
+        "jereván"
+       ]
+      },
+      {
+       "word": "Bohinji-tó",
+       "forbiddens": [
+        "szlovénia",
+        "bled",
+        "triglav",
+        "júliai-alpok",
+        "kristálytiszta"
+       ]
+      },
+      {
+       "word": "Atitlán-tó",
+       "forbiddens": [
+        "guatemala",
+        "vulkánok",
+        "maják",
+        "közép-amerika",
+        "kaldera"
+       ]
+      },
+      {
+       "word": "Taupo-tó",
+       "forbiddens": [
+        "új-zéland",
+        "északi-sziget",
+        "vulkán",
+        "legnagyobb",
+        "tongariro"
+       ]
+      },
+      {
+       "word": "Francia-középhegység",
+       "forbiddens": [
+        "franciaország",
+        "auvergne",
+        "vulkáni",
+        "magasföld",
+        "loire"
+       ]
+      },
+      {
+       "word": "Vitosa",
+       "forbiddens": [
+        "bulgária",
+        "szófia",
+        "síelés",
+        "nemzeti park",
+        "hegy"
+       ]
+      },
+      {
+       "word": "Texel",
+       "forbiddens": [
+        "hollandia",
+        "wadden-tenger",
+        "északi-tenger",
+        "strand",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Thászosz",
+       "forbiddens": [
+        "görögország",
+        "égei-tenger",
+        "strand",
+        "márvány",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Kósz",
+       "forbiddens": [
+        "görögország",
+        "dodekanészosz",
+        "égei-tenger",
+        "hippokratész",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Lefkada",
+       "forbiddens": [
+        "görögország",
+        "jón-tenger",
+        "híd",
+        "strand",
+        "nyaralás"
+       ]
+      },
+      {
+       "word": "Ídra",
+       "forbiddens": [
+        "görögország",
+        "szaróni-öböl",
+        "autómentes",
+        "szamár",
+        "sziget"
+       ]
+      },
+      {
+       "word": "Égina",
+       "forbiddens": [
+        "görögország",
+        "szaróni-öböl",
+        "pisztácia",
+        "athén",
+        "komp"
+       ]
+      },
+      {
+       "word": "Naxosz",
+       "forbiddens": [
+        "görögország",
+        "kikládok",
+        "égei-tenger",
+        "legnagyobb",
+        "sziget"
+       ]
+      },
+      {
+       "word": "Szamosz",
+       "forbiddens": [
+        "görögország",
+        "égei-tenger",
+        "pitagorasz",
+        "nyaralás",
+        "sziget"
+       ]
+      },
+      {
+       "word": "São Miguel",
+       "forbiddens": [
+        "azori-szigetek",
+        "portugália",
+        "ponta delgada",
+        "kráter",
+        "legnagyobb"
+       ]
+      },
+      {
+       "word": "La Palma",
+       "forbiddens": [
+        "kanári-szigetek",
+        "spanyolország",
+        "vulkán",
+        "csillagvizsgáló",
+        "zöld"
+       ]
+      },
+      {
+       "word": "Mahé",
+       "forbiddens": [
+        "seychelle-szigetek",
+        "victoria",
+        "indiai-óceán",
+        "legnagyobb",
+        "afrika"
        ]
       }
      ]

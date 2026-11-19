@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "data": [
     {
       "topic": "cultural",
@@ -93987,6 +93987,236 @@
                 "brasile",
                 "argentina"
               ]
+            },
+            {
+              "word": "Appennini",
+              "forbiddens": [
+                "catena",
+                "montagne",
+                "penisola",
+                "dorsale",
+                "abruzzo"
+              ]
+            },
+            {
+              "word": "Mar Tirreno",
+              "forbiddens": [
+                "sardegna",
+                "sicilia",
+                "napoli",
+                "isole",
+                "costa"
+              ]
+            },
+            {
+              "word": "Mar Ionio",
+              "forbiddens": [
+                "calabria",
+                "grecia",
+                "taranto",
+                "sicilia",
+                "golfo"
+              ]
+            },
+            {
+              "word": "Mar Ligure",
+              "forbiddens": [
+                "genova",
+                "portofino",
+                "riviera",
+                "sanremo",
+                "costa"
+              ]
+            },
+            {
+              "word": "Muraglia Cinese",
+              "forbiddens": [
+                "cina",
+                "lunghissima",
+                "pietra",
+                "pechino",
+                "fortificazione"
+              ]
+            },
+            {
+              "word": "Danimarca",
+              "forbiddens": [
+                "copenaghen",
+                "scandinavia",
+                "sirenetta",
+                "europa",
+                "biciclette"
+              ]
+            },
+            {
+              "word": "Scozia",
+              "forbiddens": [
+                "edimburgo",
+                "kilt",
+                "cornamusa",
+                "highlands",
+                "castelli"
+              ]
+            },
+            {
+              "word": "Trieste",
+              "forbiddens": [
+                "friuli-venezia giulia",
+                "porto",
+                "mare",
+                "bora",
+                "miramare"
+              ]
+            },
+            {
+              "word": "Bolzano",
+              "forbiddens": [
+                "alto adige",
+                "dolomiti",
+                "mercatini",
+                "tedesco",
+                "capoluogo"
+              ]
+            },
+            {
+              "word": "Isole Eolie",
+              "forbiddens": [
+                "stromboli",
+                "lipari",
+                "vulcani",
+                "sicilia",
+                "sette"
+              ]
+            },
+            {
+              "word": "Isola di Pasqua",
+              "forbiddens": [
+                "cile",
+                "moai",
+                "statue",
+                "polinesia",
+                "pacifico"
+              ]
+            },
+            {
+              "word": "Buenos Aires",
+              "forbiddens": [
+                "argentina",
+                "tango",
+                "capitale",
+                "plata",
+                "sud america"
+              ]
+            },
+            {
+              "word": "Siviglia",
+              "forbiddens": [
+                "andalusia",
+                "spagna",
+                "giralda",
+                "flamenco",
+                "guadalquivir"
+              ]
+            },
+            {
+              "word": "Trentino",
+              "forbiddens": [
+                "rovereto",
+                "dolomiti",
+                "mele",
+                "alpi",
+                "trento"
+              ]
+            },
+            {
+              "word": "Romagna",
+              "forbiddens": [
+                "rimini",
+                "riviera",
+                "piadina",
+                "forlì",
+                "adriatico"
+              ]
+            },
+            {
+              "word": "Gargano",
+              "forbiddens": [
+                "puglia",
+                "promontorio",
+                "foresta umbra",
+                "vieste",
+                "sperone"
+              ]
+            },
+            {
+              "word": "Duomo di Firenze",
+              "forbiddens": [
+                "brunelleschi",
+                "cupola",
+                "campanile",
+                "giotto",
+                "toscana"
+              ]
+            },
+            {
+              "word": "Delta del Po",
+              "forbiddens": [
+                "veneto",
+                "fiume",
+                "lagune",
+                "foce",
+                "uccelli"
+              ]
+            },
+            {
+              "word": "Isole Baleari",
+              "forbiddens": [
+                "maiorca",
+                "ibiza",
+                "spagna",
+                "mediterraneo",
+                "vacanze"
+              ]
+            },
+            {
+              "word": "Fusi orari",
+              "forbiddens": [
+                "ore",
+                "orologio",
+                "meridiani",
+                "mondo",
+                "differenza"
+              ]
+            },
+            {
+              "word": "Riviera Romagnola",
+              "forbiddens": [
+                "rimini",
+                "riccione",
+                "spiaggia",
+                "ombrelloni",
+                "adriatico"
+              ]
+            },
+            {
+              "word": "Legenda",
+              "forbiddens": [
+                "cartina",
+                "simboli",
+                "colori",
+                "significato",
+                "scala"
+              ]
+            },
+            {
+              "word": "Livello del mare",
+              "forbiddens": [
+                "altitudine",
+                "metri",
+                "zero",
+                "misura",
+                "montagna"
+              ]
             }
           ]
         },
@@ -96992,6 +97222,3826 @@
                 "mediterraneo",
                 "bouillabaisse"
               ]
+            },
+            {
+              "word": "Ecuador",
+              "forbiddens": [
+                "quito",
+                "equatore",
+                "galápagos",
+                "ande",
+                "sud america"
+              ]
+            },
+            {
+              "word": "Bolivia",
+              "forbiddens": [
+                "la paz",
+                "ande",
+                "sud america",
+                "lama",
+                "altopiano"
+              ]
+            },
+            {
+              "word": "Santorini",
+              "forbiddens": [
+                "grecia",
+                "cicladi",
+                "isola",
+                "case bianche",
+                "vulcano"
+              ]
+            },
+            {
+              "word": "Lago di Braies",
+              "forbiddens": [
+                "dolomiti",
+                "alto adige",
+                "smeraldo",
+                "barche",
+                "pusteria"
+              ]
+            },
+            {
+              "word": "Isole Tremiti",
+              "forbiddens": [
+                "puglia",
+                "gargano",
+                "adriatico",
+                "arcipelago",
+                "san domino"
+              ]
+            },
+            {
+              "word": "Seychelles",
+              "forbiddens": [
+                "indiano",
+                "isole",
+                "spiagge",
+                "africa",
+                "vacanze"
+              ]
+            },
+            {
+              "word": "Quito",
+              "forbiddens": [
+                "ecuador",
+                "capitale",
+                "equatore",
+                "ande",
+                "altitudine"
+              ]
+            },
+            {
+              "word": "Delhi",
+              "forbiddens": [
+                "india",
+                "capitale",
+                "asia",
+                "smog",
+                "forte rosso"
+              ]
+            },
+            {
+              "word": "Maremma",
+              "forbiddens": [
+                "toscana",
+                "grosseto",
+                "butteri",
+                "cavalli",
+                "paludi"
+              ]
+            },
+            {
+              "word": "Cilento",
+              "forbiddens": [
+                "campania",
+                "parco",
+                "costa",
+                "salerno",
+                "palinuro"
+              ]
+            },
+            {
+              "word": "Brianza",
+              "forbiddens": [
+                "lombardia",
+                "monza",
+                "lecco",
+                "colline",
+                "mobili"
+              ]
+            },
+            {
+              "word": "Galleria Vittorio Emanuele II",
+              "forbiddens": [
+                "milano",
+                "duomo",
+                "vetro",
+                "passeggio",
+                "toro"
+              ]
+            },
+            {
+              "word": "Piacenza",
+              "forbiddens": [
+                "emilia-romagna",
+                "po",
+                "cavalli",
+                "città",
+                "grana padano"
+              ]
+            },
+            {
+              "word": "Reggio Emilia",
+              "forbiddens": [
+                "regione",
+                "tricolore",
+                "città",
+                "parmigiano",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Novara",
+              "forbiddens": [
+                "piemonte",
+                "cupola",
+                "riso",
+                "ticino",
+                "città"
+              ]
+            },
+            {
+              "word": "Asti",
+              "forbiddens": [
+                "piemonte",
+                "palio",
+                "città",
+                "colline",
+                "monferrato"
+              ]
+            },
+            {
+              "word": "Viterbo",
+              "forbiddens": [
+                "lazio",
+                "terme",
+                "città",
+                "tuscia",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Tivoli",
+              "forbiddens": [
+                "lazio",
+                "villa d'este",
+                "fontane",
+                "roma",
+                "adriano"
+              ]
+            },
+            {
+              "word": "Marsala",
+              "forbiddens": [
+                "sicilia",
+                "saline",
+                "trapani",
+                "città",
+                "lilibeo"
+              ]
+            },
+            {
+              "word": "Favignana",
+              "forbiddens": [
+                "egadi",
+                "isola",
+                "tonnara",
+                "cala rossa",
+                "sicilia"
+              ]
+            },
+            {
+              "word": "Pantelleria",
+              "forbiddens": [
+                "isola",
+                "vulcanica",
+                "sicilia",
+                "capperi",
+                "dammuso"
+              ]
+            },
+            {
+              "word": "Procida",
+              "forbiddens": [
+                "isola",
+                "napoli",
+                "golfo",
+                "colorata",
+                "ischia"
+              ]
+            },
+            {
+              "word": "Isole Borromee",
+              "forbiddens": [
+                "lago maggiore",
+                "stresa",
+                "pavoni",
+                "giardini",
+                "palazzo"
+              ]
+            },
+            {
+              "word": "Isola del Giglio",
+              "forbiddens": [
+                "toscana",
+                "arcipelago toscano",
+                "argentario",
+                "grosseto",
+                "tirreno"
+              ]
+            },
+            {
+              "word": "Lago di Bolsena",
+              "forbiddens": [
+                "lazio",
+                "viterbo",
+                "isola bisentina",
+                "vulcanico",
+                "isola martana"
+              ]
+            },
+            {
+              "word": "Isonzo",
+              "forbiddens": [
+                "friuli",
+                "fiume",
+                "gorizia",
+                "verde",
+                "alpi giulie"
+              ]
+            },
+            {
+              "word": "Marmolada",
+              "forbiddens": [
+                "dolomiti",
+                "ghiacciaio",
+                "più alta",
+                "trentino",
+                "veneto"
+              ]
+            },
+            {
+              "word": "Tre Cime di Lavaredo",
+              "forbiddens": [
+                "dolomiti",
+                "auronzo",
+                "montagne",
+                "rifugio locatelli",
+                "alto adige"
+              ]
+            },
+            {
+              "word": "Sila",
+              "forbiddens": [
+                "calabria",
+                "altopiano",
+                "boschi",
+                "lago",
+                "cosenza"
+              ]
+            },
+            {
+              "word": "Colli Euganei",
+              "forbiddens": [
+                "veneto",
+                "padova",
+                "rilievi",
+                "terme",
+                "vulcanici"
+              ]
+            },
+            {
+              "word": "Monti Sibillini",
+              "forbiddens": [
+                "marche",
+                "umbria",
+                "parco",
+                "catena",
+                "lago di pilato"
+              ]
+            },
+            {
+              "word": "Stretto di Messina",
+              "forbiddens": [
+                "sicilia",
+                "calabria",
+                "ponte",
+                "traghetto",
+                "scilla"
+              ]
+            },
+            {
+              "word": "Golfo di Napoli",
+              "forbiddens": [
+                "vesuvio",
+                "capri",
+                "ischia",
+                "campania",
+                "mare"
+              ]
+            },
+            {
+              "word": "Golfo di Genova",
+              "forbiddens": [
+                "liguria",
+                "porto",
+                "mare",
+                "lanterna",
+                "ligure"
+              ]
+            },
+            {
+              "word": "Mar Egeo",
+              "forbiddens": [
+                "grecia",
+                "turchia",
+                "isole",
+                "cicladi",
+                "mare"
+              ]
+            },
+            {
+              "word": "Mar Nero",
+              "forbiddens": [
+                "turchia",
+                "romania",
+                "bulgaria",
+                "istanbul",
+                "mare"
+              ]
+            },
+            {
+              "word": "Mar Baltico",
+              "forbiddens": [
+                "svezia",
+                "finlandia",
+                "polonia",
+                "estonia",
+                "mare"
+              ]
+            },
+            {
+              "word": "Mare del Nord",
+              "forbiddens": [
+                "inghilterra",
+                "norvegia",
+                "olanda",
+                "danimarca",
+                "petrolio"
+              ]
+            },
+            {
+              "word": "Canale della Manica",
+              "forbiddens": [
+                "inghilterra",
+                "francia",
+                "tunnel",
+                "dover",
+                "calais"
+              ]
+            },
+            {
+              "word": "Bosforo",
+              "forbiddens": [
+                "istanbul",
+                "stretto",
+                "turchia",
+                "asia",
+                "europa"
+              ]
+            },
+            {
+              "word": "Monte Kenya",
+              "forbiddens": [
+                "africa",
+                "nairobi",
+                "equatore",
+                "vulcano spento",
+                "cima"
+              ]
+            },
+            {
+              "word": "Gobi",
+              "forbiddens": [
+                "mongolia",
+                "deserto",
+                "cina",
+                "freddo",
+                "dinosauri"
+              ]
+            },
+            {
+              "word": "Rodano",
+              "forbiddens": [
+                "francia",
+                "svizzera",
+                "lione",
+                "fiume",
+                "mediterraneo"
+              ]
+            },
+            {
+              "word": "Neva",
+              "forbiddens": [
+                "san pietroburgo",
+                "russia",
+                "fiume",
+                "ladoga",
+                "ponti"
+              ]
+            },
+            {
+              "word": "Fiume Giallo",
+              "forbiddens": [
+                "cina",
+                "asia",
+                "loess",
+                "lungo",
+                "sedimenti"
+              ]
+            },
+            {
+              "word": "Hudson",
+              "forbiddens": [
+                "new york",
+                "fiume",
+                "manhattan",
+                "america",
+                "albany"
+              ]
+            },
+            {
+              "word": "Oder",
+              "forbiddens": [
+                "polonia",
+                "germania",
+                "baltico",
+                "fiume",
+                "breslavia"
+              ]
+            },
+            {
+              "word": "Lago di Ginevra",
+              "forbiddens": [
+                "svizzera",
+                "losanna",
+                "lemano",
+                "getto d'acqua",
+                "alpi"
+              ]
+            },
+            {
+              "word": "Grandi Laghi",
+              "forbiddens": [
+                "stati uniti",
+                "canada",
+                "nord america",
+                "erie",
+                "ontario"
+              ]
+            },
+            {
+              "word": "Lago Superiore",
+              "forbiddens": [
+                "più grande",
+                "america",
+                "canada",
+                "dolce",
+                "laghi"
+              ]
+            },
+            {
+              "word": "Lago Michigan",
+              "forbiddens": [
+                "chicago",
+                "america",
+                "stati uniti",
+                "acqua dolce",
+                "grandi laghi"
+              ]
+            },
+            {
+              "word": "Barbados",
+              "forbiddens": [
+                "caraibi",
+                "isola",
+                "bridgetown",
+                "zucchero",
+                "sole"
+              ]
+            },
+            {
+              "word": "Haiti",
+              "forbiddens": [
+                "caraibi",
+                "stato",
+                "porto principe",
+                "hispaniola",
+                "creolo"
+              ]
+            },
+            {
+              "word": "Fuerteventura",
+              "forbiddens": [
+                "canarie",
+                "isola",
+                "vento",
+                "spiagge",
+                "surf"
+              ]
+            },
+            {
+              "word": "Minorca",
+              "forbiddens": [
+                "baleari",
+                "isola",
+                "mahón",
+                "spagna",
+                "calette"
+              ]
+            },
+            {
+              "word": "Formentera",
+              "forbiddens": [
+                "baleari",
+                "isola",
+                "ibiza",
+                "spiagge",
+                "spagna"
+              ]
+            },
+            {
+              "word": "Galápagos",
+              "forbiddens": [
+                "ecuador",
+                "tartarughe",
+                "isole",
+                "darwin",
+                "pacifico"
+              ]
+            },
+            {
+              "word": "Hokkaido",
+              "forbiddens": [
+                "giappone",
+                "isola",
+                "sapporo",
+                "neve",
+                "nord"
+              ]
+            },
+            {
+              "word": "Okinawa",
+              "forbiddens": [
+                "giappone",
+                "isola",
+                "sud",
+                "spiagge",
+                "tropicale"
+              ]
+            },
+            {
+              "word": "Cefalonia",
+              "forbiddens": [
+                "grecia",
+                "ionio",
+                "isola",
+                "isole ioniche",
+                "myrtos"
+              ]
+            },
+            {
+              "word": "Zante",
+              "forbiddens": [
+                "grecia",
+                "ionio",
+                "isola",
+                "tartarughe",
+                "navagio"
+              ]
+            },
+            {
+              "word": "Naxos",
+              "forbiddens": [
+                "grecia",
+                "cicladi",
+                "isola",
+                "egeo",
+                "portara"
+              ]
+            },
+            {
+              "word": "Tunisia",
+              "forbiddens": [
+                "capitale",
+                "nord africa",
+                "sahara",
+                "cartagine",
+                "djerba"
+              ]
+            },
+            {
+              "word": "Lussemburgo",
+              "forbiddens": [
+                "piccolo",
+                "europa",
+                "stato",
+                "città",
+                "belgio"
+              ]
+            },
+            {
+              "word": "Andorra",
+              "forbiddens": [
+                "pirenei",
+                "piccolo",
+                "sci",
+                "spagna",
+                "francia"
+              ]
+            },
+            {
+              "word": "Albania",
+              "forbiddens": [
+                "tirana",
+                "adriatico",
+                "balcani",
+                "durazzo",
+                "europa"
+              ]
+            },
+            {
+              "word": "Lituania",
+              "forbiddens": [
+                "vilnius",
+                "baltico",
+                "europa",
+                "basket",
+                "paesi baltici"
+              ]
+            },
+            {
+              "word": "Lettonia",
+              "forbiddens": [
+                "riga",
+                "baltico",
+                "europa",
+                "paesi baltici",
+                "nord"
+              ]
+            },
+            {
+              "word": "Montenegro",
+              "forbiddens": [
+                "podgorica",
+                "adriatico",
+                "balcani",
+                "cattaro",
+                "vette"
+              ]
+            },
+            {
+              "word": "Costa Rica",
+              "forbiddens": [
+                "san josé",
+                "centro america",
+                "vulcani",
+                "giungla",
+                "pacifico"
+              ]
+            },
+            {
+              "word": "Uruguay",
+              "forbiddens": [
+                "montevideo",
+                "sud america",
+                "calcio",
+                "plata",
+                "prateria"
+              ]
+            },
+            {
+              "word": "Guatemala",
+              "forbiddens": [
+                "centro america",
+                "maya",
+                "vulcani",
+                "tikal",
+                "antigua"
+              ]
+            },
+            {
+              "word": "Zimbabwe",
+              "forbiddens": [
+                "harare",
+                "africa",
+                "cascate vittoria",
+                "savana",
+                "sud"
+              ]
+            },
+            {
+              "word": "Angola",
+              "forbiddens": [
+                "luanda",
+                "africa",
+                "portoghese",
+                "oceano atlantico",
+                "sud"
+              ]
+            },
+            {
+              "word": "Camerun",
+              "forbiddens": [
+                "yaoundé",
+                "africa",
+                "calcio",
+                "golfo di guinea",
+                "foresta"
+              ]
+            },
+            {
+              "word": "Costa d'Avorio",
+              "forbiddens": [
+                "abidjan",
+                "africa",
+                "cacao",
+                "yamoussoukro",
+                "elefanti"
+              ]
+            },
+            {
+              "word": "Mali",
+              "forbiddens": [
+                "bamako",
+                "africa",
+                "sahel",
+                "timbuctù",
+                "niger"
+              ]
+            },
+            {
+              "word": "Oman",
+              "forbiddens": [
+                "muscat",
+                "penisola arabica",
+                "deserto",
+                "incenso",
+                "medio oriente"
+              ]
+            },
+            {
+              "word": "Qatar",
+              "forbiddens": [
+                "doha",
+                "penisola arabica",
+                "petrolio",
+                "deserto",
+                "emirato"
+              ]
+            },
+            {
+              "word": "Cambogia",
+              "forbiddens": [
+                "phnom penh",
+                "angkor",
+                "asia",
+                "khmer",
+                "mekong"
+              ]
+            },
+            {
+              "word": "Bangladesh",
+              "forbiddens": [
+                "dacca",
+                "asia",
+                "gange",
+                "delta",
+                "monsoni"
+              ]
+            },
+            {
+              "word": "Armenia",
+              "forbiddens": [
+                "erevan",
+                "caucaso",
+                "lago sevan",
+                "montagne",
+                "asia"
+              ]
+            },
+            {
+              "word": "Montevideo",
+              "forbiddens": [
+                "uruguay",
+                "capitale",
+                "sud america",
+                "plata",
+                "porto"
+              ]
+            },
+            {
+              "word": "Bogotà",
+              "forbiddens": [
+                "colombia",
+                "capitale",
+                "ande",
+                "altopiano",
+                "caffè"
+              ]
+            },
+            {
+              "word": "La Paz",
+              "forbiddens": [
+                "bolivia",
+                "capitale",
+                "ande",
+                "altitudine",
+                "funivie"
+              ]
+            },
+            {
+              "word": "Cusco",
+              "forbiddens": [
+                "perù",
+                "inca",
+                "ande",
+                "machu picchu",
+                "altopiano"
+              ]
+            },
+            {
+              "word": "Santiago del Cile",
+              "forbiddens": [
+                "mapocho",
+                "capitale",
+                "ande",
+                "valparaíso",
+                "sud america"
+              ]
+            },
+            {
+              "word": "Addis Abeba",
+              "forbiddens": [
+                "etiopia",
+                "capitale",
+                "africa",
+                "altopiano",
+                "caffè"
+              ]
+            },
+            {
+              "word": "Pretoria",
+              "forbiddens": [
+                "sudafrica",
+                "capitale",
+                "jacaranda",
+                "johannesburg",
+                "africa"
+              ]
+            },
+            {
+              "word": "Calcutta",
+              "forbiddens": [
+                "india",
+                "bengala",
+                "gange",
+                "bengala occidentale",
+                "asia"
+              ]
+            },
+            {
+              "word": "Kathmandu",
+              "forbiddens": [
+                "nepal",
+                "capitale",
+                "himalaya",
+                "asia",
+                "valle"
+              ]
+            },
+            {
+              "word": "Teheran",
+              "forbiddens": [
+                "iran",
+                "capitale",
+                "asia",
+                "monti elburz",
+                "città"
+              ]
+            },
+            {
+              "word": "Ankara",
+              "forbiddens": [
+                "turchia",
+                "capitale",
+                "anatolia",
+                "asia",
+                "città"
+              ]
+            },
+            {
+              "word": "Antalya",
+              "forbiddens": [
+                "turchia",
+                "mediterraneo",
+                "riviera",
+                "vacanze",
+                "sud"
+              ]
+            },
+            {
+              "word": "Sapporo",
+              "forbiddens": [
+                "giappone",
+                "hokkaido",
+                "neve",
+                "olimpiadi",
+                "ramen"
+              ]
+            },
+            {
+              "word": "Bocche di Bonifacio",
+              "forbiddens": [
+                "corsica",
+                "sardegna",
+                "mare",
+                "traghetto",
+                "navigazione"
+              ]
+            },
+            {
+              "word": "Naviglio Grande",
+              "forbiddens": [
+                "milano",
+                "canale",
+                "darsena",
+                "ristoranti",
+                "chiuse"
+              ]
+            },
+            {
+              "word": "Parco dello Stelvio",
+              "forbiddens": [
+                "alpi",
+                "lombardia",
+                "trentino",
+                "ghiacciai",
+                "passo"
+              ]
+            },
+            {
+              "word": "Riviera del Conero",
+              "forbiddens": [
+                "marche",
+                "ancona",
+                "numana",
+                "monte",
+                "mare"
+              ]
+            },
+            {
+              "word": "Gradara",
+              "forbiddens": [
+                "marche",
+                "rocca",
+                "borgo",
+                "medievale",
+                "pesaro"
+              ]
+            },
+            {
+              "word": "Senigallia",
+              "forbiddens": [
+                "marche",
+                "spiaggia di velluto",
+                "adriatico",
+                "ancona",
+                "mare"
+              ]
+            },
+            {
+              "word": "Comacchio",
+              "forbiddens": [
+                "emilia-romagna",
+                "valli",
+                "anguille",
+                "delta",
+                "ferrara"
+              ]
+            },
+            {
+              "word": "Bangalore",
+              "forbiddens": [
+                "india",
+                "sud",
+                "tecnologia",
+                "città",
+                "giardini"
+              ]
+            },
+            {
+              "word": "Dacca",
+              "forbiddens": [
+                "bangladesh",
+                "capitale",
+                "risciò",
+                "fiume",
+                "asia"
+              ]
+            },
+            {
+              "word": "Tbilisi",
+              "forbiddens": [
+                "capitale",
+                "caucaso",
+                "terme",
+                "georgia",
+                "città"
+              ]
+            },
+            {
+              "word": "Yokohama",
+              "forbiddens": [
+                "giappone",
+                "porto",
+                "tokyo",
+                "baia",
+                "città"
+              ]
+            },
+            {
+              "word": "Busan",
+              "forbiddens": [
+                "corea",
+                "porto",
+                "spiaggia",
+                "sud",
+                "città"
+              ]
+            },
+            {
+              "word": "Pittsburgh",
+              "forbiddens": [
+                "pennsylvania",
+                "ponti",
+                "acciaio",
+                "america",
+                "fiumi"
+              ]
+            },
+            {
+              "word": "Baltimora",
+              "forbiddens": [
+                "maryland",
+                "porto",
+                "america",
+                "granchi",
+                "città"
+              ]
+            },
+            {
+              "word": "Anchorage",
+              "forbiddens": [
+                "alaska",
+                "america",
+                "città",
+                "neve",
+                "aurora"
+              ]
+            },
+            {
+              "word": "Medellín",
+              "forbiddens": [
+                "colombia",
+                "ande",
+                "città",
+                "primavera",
+                "fiori"
+              ]
+            },
+            {
+              "word": "San José",
+              "forbiddens": [
+                "costa rica",
+                "capitale",
+                "centro america",
+                "città",
+                "vulcani"
+              ]
+            },
+            {
+              "word": "Nassau",
+              "forbiddens": [
+                "bahamas",
+                "capitale",
+                "caraibi",
+                "isola",
+                "crociere"
+              ]
+            },
+            {
+              "word": "Santo Domingo",
+              "forbiddens": [
+                "hispaniola",
+                "caraibi",
+                "capitale",
+                "isola",
+                "repubblica dominicana"
+              ]
+            },
+            {
+              "word": "Durban",
+              "forbiddens": [
+                "sudafrica",
+                "oceano indiano",
+                "porto",
+                "spiagge",
+                "città"
+              ]
+            },
+            {
+              "word": "Dar es Salaam",
+              "forbiddens": [
+                "tanzania",
+                "africa",
+                "porto",
+                "zanzibar",
+                "città"
+              ]
+            },
+            {
+              "word": "Minsk",
+              "forbiddens": [
+                "bielorussia",
+                "capitale",
+                "europa",
+                "città",
+                "est"
+              ]
+            },
+            {
+              "word": "Lipsia",
+              "forbiddens": [
+                "germania",
+                "sassonia",
+                "bach",
+                "fiera",
+                "città"
+              ]
+            },
+            {
+              "word": "Anversa",
+              "forbiddens": [
+                "belgio",
+                "porto",
+                "diamanti",
+                "fiandre",
+                "città"
+              ]
+            },
+            {
+              "word": "Nantes",
+              "forbiddens": [
+                "francia",
+                "loira",
+                "bretagna",
+                "città",
+                "castello"
+              ]
+            },
+            {
+              "word": "Malmö",
+              "forbiddens": [
+                "svezia",
+                "ponte",
+                "øresund",
+                "città",
+                "sud"
+              ]
+            },
+            {
+              "word": "Tromsø",
+              "forbiddens": [
+                "norvegia",
+                "aurora boreale",
+                "artico",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "Linz",
+              "forbiddens": [
+                "austria",
+                "danubio",
+                "torte",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "Basilea",
+              "forbiddens": [
+                "svizzera",
+                "reno",
+                "carnevale",
+                "fiera",
+                "città"
+              ]
+            },
+            {
+              "word": "Losanna",
+              "forbiddens": [
+                "svizzera",
+                "lago di ginevra",
+                "olimpico",
+                "città",
+                "vaud"
+              ]
+            },
+            {
+              "word": "Breslavia",
+              "forbiddens": [
+                "polonia",
+                "oder",
+                "nani",
+                "ponti",
+                "città"
+              ]
+            },
+            {
+              "word": "Zara",
+              "forbiddens": [
+                "croazia",
+                "dalmazia",
+                "adriatico",
+                "organo marino",
+                "città"
+              ]
+            },
+            {
+              "word": "Pola",
+              "forbiddens": [
+                "croazia",
+                "istria",
+                "arena",
+                "anfiteatro",
+                "adriatico"
+              ]
+            },
+            {
+              "word": "Christchurch",
+              "forbiddens": [
+                "nuova zelanda",
+                "isola del sud",
+                "città",
+                "giardini",
+                "canterbury"
+              ]
+            },
+            {
+              "word": "Soči",
+              "forbiddens": [
+                "russia",
+                "mar nero",
+                "olimpiadi",
+                "città",
+                "caucaso"
+              ]
+            },
+            {
+              "word": "Vladivostok",
+              "forbiddens": [
+                "russia",
+                "pacifico",
+                "ferrovia transiberiana",
+                "porto",
+                "estremo oriente"
+              ]
+            },
+            {
+              "word": "Bristol",
+              "forbiddens": [
+                "inghilterra",
+                "porto",
+                "avon",
+                "ponte sospeso",
+                "città"
+              ]
+            },
+            {
+              "word": "Belfast",
+              "forbiddens": [
+                "irlanda del nord",
+                "capitale",
+                "porto",
+                "città",
+                "lagan"
+              ]
+            },
+            {
+              "word": "Göteborg",
+              "forbiddens": [
+                "svezia",
+                "porto",
+                "ovest",
+                "città",
+                "arcipelago"
+              ]
+            },
+            {
+              "word": "Bergen",
+              "forbiddens": [
+                "norvegia",
+                "fiordi",
+                "porto",
+                "case colorate",
+                "pioggia"
+              ]
+            },
+            {
+              "word": "Graz",
+              "forbiddens": [
+                "austria",
+                "stiria",
+                "città",
+                "torre dell'orologio",
+                "sud"
+              ]
+            },
+            {
+              "word": "Lucerna",
+              "forbiddens": [
+                "svizzera",
+                "ponte della cappella",
+                "lago",
+                "monte pilatus",
+                "città"
+              ]
+            },
+            {
+              "word": "Lugano",
+              "forbiddens": [
+                "svizzera",
+                "ticino",
+                "lago",
+                "città",
+                "montagne"
+              ]
+            },
+            {
+              "word": "Brisbane",
+              "forbiddens": [
+                "australia",
+                "queensland",
+                "città",
+                "fiume",
+                "costa orientale"
+              ]
+            },
+            {
+              "word": "Dresda",
+              "forbiddens": [
+                "germania",
+                "sassonia",
+                "elba",
+                "frauenkirche",
+                "città"
+              ]
+            },
+            {
+              "word": "Stoccarda",
+              "forbiddens": [
+                "germania",
+                "baden-württemberg",
+                "città",
+                "automobili",
+                "neckar"
+              ]
+            },
+            {
+              "word": "Heidelberg",
+              "forbiddens": [
+                "germania",
+                "castello",
+                "neckar",
+                "università",
+                "città"
+              ]
+            },
+            {
+              "word": "Rotterdam",
+              "forbiddens": [
+                "paesi bassi",
+                "porto",
+                "ponte erasmo",
+                "città",
+                "mosa"
+              ]
+            },
+            {
+              "word": "L'Aia",
+              "forbiddens": [
+                "paesi bassi",
+                "tribunale",
+                "città",
+                "mare",
+                "vermeer"
+              ]
+            },
+            {
+              "word": "Bruges",
+              "forbiddens": [
+                "belgio",
+                "canali",
+                "fiandre",
+                "medievale",
+                "città"
+              ]
+            },
+            {
+              "word": "Bordeaux",
+              "forbiddens": [
+                "francia",
+                "garonna",
+                "aquitania",
+                "città",
+                "atlantico"
+              ]
+            },
+            {
+              "word": "Avignone",
+              "forbiddens": [
+                "francia",
+                "provenza",
+                "ponte",
+                "rodano",
+                "città"
+              ]
+            },
+            {
+              "word": "Aberdeen",
+              "forbiddens": [
+                "scozia",
+                "nord-est",
+                "petrolio",
+                "granito",
+                "porto"
+              ]
+            },
+            {
+              "word": "Cork",
+              "forbiddens": [
+                "irlanda",
+                "sud",
+                "città",
+                "porto",
+                "contea"
+              ]
+            },
+            {
+              "word": "Galway",
+              "forbiddens": [
+                "irlanda",
+                "ovest",
+                "baia",
+                "città",
+                "festival"
+              ]
+            },
+            {
+              "word": "Delta del Danubio",
+              "forbiddens": [
+                "romania",
+                "mar nero",
+                "uccelli",
+                "paludi",
+                "riserva"
+              ]
+            },
+            {
+              "word": "Transilvania",
+              "forbiddens": [
+                "romania",
+                "carpazi",
+                "castelli",
+                "regione",
+                "brasov"
+              ]
+            },
+            {
+              "word": "Slesia",
+              "forbiddens": [
+                "polonia",
+                "breslavia",
+                "sud",
+                "carbone",
+                "regione"
+              ]
+            },
+            {
+              "word": "Pomerania",
+              "forbiddens": [
+                "polonia",
+                "baltico",
+                "nord",
+                "danzica",
+                "regione"
+              ]
+            },
+            {
+              "word": "Moravia",
+              "forbiddens": [
+                "repubblica ceca",
+                "brno",
+                "regione",
+                "est",
+                "vigneti"
+              ]
+            },
+            {
+              "word": "Boemia",
+              "forbiddens": [
+                "repubblica ceca",
+                "praga",
+                "regione",
+                "ovest",
+                "cristallo"
+              ]
+            },
+            {
+              "word": "Tirolo",
+              "forbiddens": [
+                "austria",
+                "innsbruck",
+                "montagne",
+                "alpi",
+                "regione"
+              ]
+            },
+            {
+              "word": "Carinzia",
+              "forbiddens": [
+                "austria",
+                "klagenfurt",
+                "laghi",
+                "sud",
+                "regione"
+              ]
+            },
+            {
+              "word": "Stiria",
+              "forbiddens": [
+                "austria",
+                "graz",
+                "verde",
+                "sud-est",
+                "regione"
+              ]
+            },
+            {
+              "word": "Vallese",
+              "forbiddens": [
+                "svizzera",
+                "cervino",
+                "rodano",
+                "alpi",
+                "cantone"
+              ]
+            },
+            {
+              "word": "Grigioni",
+              "forbiddens": [
+                "svizzera",
+                "coira",
+                "alpi",
+                "engadina",
+                "cantone"
+              ]
+            },
+            {
+              "word": "Montreux",
+              "forbiddens": [
+                "svizzera",
+                "lago di ginevra",
+                "jazz",
+                "castello",
+                "riviera"
+              ]
+            },
+            {
+              "word": "Friburgo",
+              "forbiddens": [
+                "svizzera",
+                "città",
+                "bilingue",
+                "sarine",
+                "medievale"
+              ]
+            },
+            {
+              "word": "Bellinzona",
+              "forbiddens": [
+                "svizzera",
+                "ticino",
+                "castelli",
+                "capitale",
+                "città"
+              ]
+            },
+            {
+              "word": "Nebrodi",
+              "forbiddens": [
+                "sicilia",
+                "parco",
+                "montagne",
+                "boschi",
+                "messina"
+              ]
+            },
+            {
+              "word": "Lago di Lugano",
+              "forbiddens": [
+                "svizzera",
+                "ticino",
+                "montagne",
+                "ceresio",
+                "lombardia"
+              ]
+            },
+            {
+              "word": "Costa dei Trabocchi",
+              "forbiddens": [
+                "abruzzo",
+                "adriatico",
+                "palafitte",
+                "pescatori",
+                "chieti"
+              ]
+            },
+            {
+              "word": "Fano",
+              "forbiddens": [
+                "marche",
+                "adriatico",
+                "pesaro",
+                "arco di augusto",
+                "mare"
+              ]
+            },
+            {
+              "word": "San Benedetto del Tronto",
+              "forbiddens": [
+                "marche",
+                "palme",
+                "adriatico",
+                "spiaggia",
+                "ascoli"
+              ]
+            },
+            {
+              "word": "Reggia di Venaria",
+              "forbiddens": [
+                "torino",
+                "palazzo",
+                "giardini",
+                "savoia",
+                "piemonte"
+              ]
+            },
+            {
+              "word": "Golfo dei Poeti",
+              "forbiddens": [
+                "la spezia",
+                "portovenere",
+                "liguria",
+                "byron",
+                "mare"
+              ]
+            },
+            {
+              "word": "Canale d'Otranto",
+              "forbiddens": [
+                "puglia",
+                "albania",
+                "adriatico",
+                "ionio",
+                "stretto"
+              ]
+            },
+            {
+              "word": "Golfo di Biscaglia",
+              "forbiddens": [
+                "francia",
+                "spagna",
+                "atlantico",
+                "mare",
+                "burrascoso"
+              ]
+            },
+            {
+              "word": "Golfo di Guinea",
+              "forbiddens": [
+                "africa",
+                "atlantico",
+                "equatore",
+                "costa",
+                "ovest"
+              ]
+            },
+            {
+              "word": "Mar Arabico",
+              "forbiddens": [
+                "india",
+                "oman",
+                "oceano indiano",
+                "mare",
+                "pakistan"
+              ]
+            },
+            {
+              "word": "Mar di Norvegia",
+              "forbiddens": [
+                "artico",
+                "atlantico",
+                "mare",
+                "nord",
+                "lofoten"
+              ]
+            },
+            {
+              "word": "Cordigliera",
+              "forbiddens": [
+                "ande",
+                "montagne",
+                "catena",
+                "rilievi",
+                "rocciose"
+              ]
+            },
+            {
+              "word": "Vosgi",
+              "forbiddens": [
+                "francia",
+                "alsazia",
+                "montagne",
+                "catena",
+                "foreste"
+              ]
+            },
+            {
+              "word": "Highlands",
+              "forbiddens": [
+                "scozia",
+                "montagne",
+                "nord",
+                "brughiere",
+                "laghi"
+              ]
+            },
+            {
+              "word": "Mauna Loa",
+              "forbiddens": [
+                "hawaii",
+                "vulcano",
+                "big island",
+                "lava",
+                "cratere"
+              ]
+            },
+            {
+              "word": "San Lorenzo",
+              "forbiddens": [
+                "fiume",
+                "canada",
+                "montréal",
+                "grandi laghi",
+                "quebec"
+              ]
+            },
+            {
+              "word": "Paraná",
+              "forbiddens": [
+                "fiume",
+                "brasile",
+                "argentina",
+                "iguazú",
+                "sud america"
+              ]
+            },
+            {
+              "word": "Lago Tahoe",
+              "forbiddens": [
+                "california",
+                "nevada",
+                "sierra nevada",
+                "azzurro",
+                "montagne"
+              ]
+            },
+            {
+              "word": "Paros",
+              "forbiddens": [
+                "grecia",
+                "cicladi",
+                "isola",
+                "egeo",
+                "marmo"
+              ]
+            },
+            {
+              "word": "Milos",
+              "forbiddens": [
+                "grecia",
+                "cicladi",
+                "isola",
+                "venere",
+                "egeo"
+              ]
+            },
+            {
+              "word": "Kos",
+              "forbiddens": [
+                "grecia",
+                "dodecaneso",
+                "isola",
+                "ippocrate",
+                "egeo"
+              ]
+            },
+            {
+              "word": "Samos",
+              "forbiddens": [
+                "grecia",
+                "egeo",
+                "isola",
+                "pitagora",
+                "egeo orientale"
+              ]
+            },
+            {
+              "word": "Honshu",
+              "forbiddens": [
+                "giappone",
+                "isola",
+                "più grande",
+                "tokyo",
+                "fuji"
+              ]
+            },
+            {
+              "word": "Smirne",
+              "forbiddens": [
+                "turchia",
+                "egeo",
+                "porto",
+                "città",
+                "izmir"
+              ]
+            },
+            {
+              "word": "Chengdu",
+              "forbiddens": [
+                "cina",
+                "sichuan",
+                "panda",
+                "città",
+                "piccante"
+              ]
+            },
+            {
+              "word": "Nanchino",
+              "forbiddens": [
+                "cina",
+                "fiume azzurro",
+                "città",
+                "antica capitale",
+                "ponte"
+              ]
+            },
+            {
+              "word": "Nara",
+              "forbiddens": [
+                "giappone",
+                "cervi",
+                "templi",
+                "parco",
+                "antica capitale"
+              ]
+            },
+            {
+              "word": "Tolosa",
+              "forbiddens": [
+                "francia",
+                "occitania",
+                "garonna",
+                "rosa",
+                "aerei"
+              ]
+            },
+            {
+              "word": "Digione",
+              "forbiddens": [
+                "francia",
+                "borgogna",
+                "senape",
+                "città",
+                "duchi"
+              ]
+            },
+            {
+              "word": "Tours",
+              "forbiddens": [
+                "francia",
+                "loira",
+                "città",
+                "castelli",
+                "centro"
+              ]
+            },
+            {
+              "word": "Rennes",
+              "forbiddens": [
+                "francia",
+                "bretagna",
+                "città",
+                "università",
+                "nord-ovest"
+              ]
+            },
+            {
+              "word": "Brest",
+              "forbiddens": [
+                "francia",
+                "bretagna",
+                "porto",
+                "atlantico",
+                "città"
+              ]
+            },
+            {
+              "word": "Strasburgo",
+              "forbiddens": [
+                "alsazia",
+                "reno",
+                "parlamento europeo",
+                "francia",
+                "cattedrale"
+              ]
+            },
+            {
+              "word": "Eindhoven",
+              "forbiddens": [
+                "paesi bassi",
+                "luce",
+                "brabante",
+                "città",
+                "design"
+              ]
+            },
+            {
+              "word": "Delft",
+              "forbiddens": [
+                "paesi bassi",
+                "ceramica",
+                "blu",
+                "vermeer",
+                "città"
+              ]
+            },
+            {
+              "word": "Sintra",
+              "forbiddens": [
+                "portogallo",
+                "palazzo",
+                "colline",
+                "lisbona",
+                "castelli"
+              ]
+            },
+            {
+              "word": "Algarve",
+              "forbiddens": [
+                "portogallo",
+                "sud",
+                "spiagge",
+                "scogliere",
+                "faro"
+              ]
+            },
+            {
+              "word": "Funchal",
+              "forbiddens": [
+                "madeira",
+                "isola",
+                "portogallo",
+                "fiori",
+                "porto"
+              ]
+            },
+            {
+              "word": "Salamanca",
+              "forbiddens": [
+                "spagna",
+                "università",
+                "castiglia",
+                "plaza mayor",
+                "città"
+              ]
+            },
+            {
+              "word": "Burgos",
+              "forbiddens": [
+                "spagna",
+                "cattedrale",
+                "castiglia",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "León",
+              "forbiddens": [
+                "spagna",
+                "castiglia",
+                "cattedrale",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "Cordova",
+              "forbiddens": [
+                "spagna",
+                "andalusia",
+                "moschea",
+                "patii",
+                "città"
+              ]
+            },
+            {
+              "word": "Cadice",
+              "forbiddens": [
+                "spagna",
+                "andalusia",
+                "atlantico",
+                "porto",
+                "città"
+              ]
+            },
+            {
+              "word": "Saragozza",
+              "forbiddens": [
+                "spagna",
+                "aragona",
+                "ebro",
+                "pilar",
+                "città"
+              ]
+            },
+            {
+              "word": "Pamplona",
+              "forbiddens": [
+                "spagna",
+                "navarra",
+                "festa",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "San Sebastián",
+              "forbiddens": [
+                "spagna",
+                "paesi baschi",
+                "golfo",
+                "pintxos",
+                "spiaggia"
+              ]
+            },
+            {
+              "word": "Tarragona",
+              "forbiddens": [
+                "spagna",
+                "catalogna",
+                "romana",
+                "anfiteatro",
+                "mare"
+              ]
+            },
+            {
+              "word": "Girona",
+              "forbiddens": [
+                "spagna",
+                "catalogna",
+                "case",
+                "fiume",
+                "ponte"
+              ]
+            },
+            {
+              "word": "Poznań",
+              "forbiddens": [
+                "polonia",
+                "ovest",
+                "città",
+                "fiera",
+                "capre"
+              ]
+            },
+            {
+              "word": "Danzica",
+              "forbiddens": [
+                "polonia",
+                "baltico",
+                "porto",
+                "ambra",
+                "nord"
+              ]
+            },
+            {
+              "word": "Brno",
+              "forbiddens": [
+                "repubblica ceca",
+                "moravia",
+                "città",
+                "università",
+                "sud"
+              ]
+            },
+            {
+              "word": "Costanza",
+              "forbiddens": [
+                "romania",
+                "mar nero",
+                "porto",
+                "città",
+                "est"
+              ]
+            },
+            {
+              "word": "Varna",
+              "forbiddens": [
+                "bulgaria",
+                "mar nero",
+                "porto",
+                "città",
+                "spiagge"
+              ]
+            },
+            {
+              "word": "Spalato",
+              "forbiddens": [
+                "croazia",
+                "dalmazia",
+                "adriatico",
+                "diocleziano",
+                "porto"
+              ]
+            },
+            {
+              "word": "Bled",
+              "forbiddens": [
+                "slovenia",
+                "lago",
+                "isola",
+                "castello",
+                "alpi"
+              ]
+            },
+            {
+              "word": "Postumia",
+              "forbiddens": [
+                "slovenia",
+                "grotte",
+                "carso",
+                "stalattiti",
+                "turismo"
+              ]
+            },
+            {
+              "word": "Pirano",
+              "forbiddens": [
+                "slovenia",
+                "istria",
+                "adriatico",
+                "penisola",
+                "borgo"
+              ]
+            },
+            {
+              "word": "Cattaro",
+              "forbiddens": [
+                "montenegro",
+                "baia",
+                "bocche",
+                "mura",
+                "adriatico"
+              ]
+            },
+            {
+              "word": "Patrasso",
+              "forbiddens": [
+                "grecia",
+                "peloponneso",
+                "porto",
+                "carnevale",
+                "città"
+              ]
+            },
+            {
+              "word": "Corinto",
+              "forbiddens": [
+                "grecia",
+                "istmo",
+                "canale",
+                "peloponneso",
+                "antica"
+              ]
+            },
+            {
+              "word": "Trebisonda",
+              "forbiddens": [
+                "turchia",
+                "mar nero",
+                "porto",
+                "città",
+                "nord-est"
+              ]
+            },
+            {
+              "word": "Tangeri",
+              "forbiddens": [
+                "marocco",
+                "stretto",
+                "nord",
+                "porto",
+                "africa"
+              ]
+            },
+            {
+              "word": "Agadir",
+              "forbiddens": [
+                "marocco",
+                "atlantico",
+                "spiagge",
+                "sud",
+                "città"
+              ]
+            },
+            {
+              "word": "Orano",
+              "forbiddens": [
+                "algeria",
+                "mediterraneo",
+                "porto",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "Assuan",
+              "forbiddens": [
+                "egitto",
+                "nilo",
+                "diga",
+                "sud",
+                "città"
+              ]
+            },
+            {
+              "word": "Hurghada",
+              "forbiddens": [
+                "egitto",
+                "mar rosso",
+                "spiagge",
+                "immersioni",
+                "vacanze"
+              ]
+            },
+            {
+              "word": "Arizona",
+              "forbiddens": [
+                "phoenix",
+                "grand canyon",
+                "deserto",
+                "cactus",
+                "stati uniti"
+              ]
+            },
+            {
+              "word": "Nevada",
+              "forbiddens": [
+                "carson city",
+                "deserto",
+                "lago tahoe",
+                "stati uniti",
+                "ovest"
+              ]
+            },
+            {
+              "word": "Utah",
+              "forbiddens": [
+                "salt lake city",
+                "deserto",
+                "parchi",
+                "stati uniti",
+                "rosso"
+              ]
+            },
+            {
+              "word": "Louisiana",
+              "forbiddens": [
+                "new orleans",
+                "jazz",
+                "bayou",
+                "stati uniti",
+                "mississippi"
+              ]
+            },
+            {
+              "word": "Virginia",
+              "forbiddens": [
+                "richmond",
+                "stati uniti",
+                "appalachi",
+                "atlantico",
+                "est"
+              ]
+            },
+            {
+              "word": "Ohio",
+              "forbiddens": [
+                "columbus",
+                "stati uniti",
+                "grandi laghi",
+                "cleveland",
+                "nord"
+              ]
+            },
+            {
+              "word": "Michigan",
+              "forbiddens": [
+                "detroit",
+                "grandi laghi",
+                "stati uniti",
+                "nord",
+                "penisola"
+              ]
+            },
+            {
+              "word": "Pennsylvania",
+              "forbiddens": [
+                "filadelfia",
+                "pittsburgh",
+                "stati uniti",
+                "appalachi",
+                "est"
+              ]
+            },
+            {
+              "word": "Montana",
+              "forbiddens": [
+                "stati uniti",
+                "glacier",
+                "prateria",
+                "nord",
+                "cielo"
+              ]
+            },
+            {
+              "word": "Wyoming",
+              "forbiddens": [
+                "stati uniti",
+                "yellowstone",
+                "cowboy",
+                "montagne",
+                "ovest"
+              ]
+            },
+            {
+              "word": "Oregon",
+              "forbiddens": [
+                "portland",
+                "stati uniti",
+                "pacifico",
+                "foreste",
+                "nord-ovest"
+              ]
+            },
+            {
+              "word": "Ontario",
+              "forbiddens": [
+                "toronto",
+                "canada",
+                "grandi laghi",
+                "ottawa",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Alberta",
+              "forbiddens": [
+                "calgary",
+                "canada",
+                "rocciose",
+                "prateria",
+                "petrolio"
+              ]
+            },
+            {
+              "word": "Manitoba",
+              "forbiddens": [
+                "winnipeg",
+                "canada",
+                "prateria",
+                "laghi",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Nuova Scozia",
+              "forbiddens": [
+                "canada",
+                "halifax",
+                "atlantico",
+                "penisola",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Columbia Britannica",
+              "forbiddens": [
+                "vancouver",
+                "canada",
+                "pacifico",
+                "montagne",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Tennessee",
+              "forbiddens": [
+                "nashville",
+                "stati uniti",
+                "country",
+                "memphis",
+                "appalachi"
+              ]
+            },
+            {
+              "word": "Kentucky",
+              "forbiddens": [
+                "louisville",
+                "stati uniti",
+                "cavalli",
+                "derby",
+                "appalachi"
+              ]
+            },
+            {
+              "word": "Minnesota",
+              "forbiddens": [
+                "st. paul",
+                "stati uniti",
+                "laghi",
+                "nord",
+                "freddo"
+              ]
+            },
+            {
+              "word": "Wisconsin",
+              "forbiddens": [
+                "madison",
+                "stati uniti",
+                "formaggio",
+                "grandi laghi",
+                "nord"
+              ]
+            },
+            {
+              "word": "Idaho",
+              "forbiddens": [
+                "boise",
+                "stati uniti",
+                "patate",
+                "montagne",
+                "nord-ovest"
+              ]
+            },
+            {
+              "word": "Maine",
+              "forbiddens": [
+                "aragosta",
+                "stati uniti",
+                "nord-est",
+                "faro",
+                "atlantico"
+              ]
+            },
+            {
+              "word": "Vermont",
+              "forbiddens": [
+                "stati uniti",
+                "sciroppo d'acero",
+                "montagne",
+                "nord-est",
+                "foliage"
+              ]
+            },
+            {
+              "word": "Massachusetts",
+              "forbiddens": [
+                "boston",
+                "stati uniti",
+                "cape cod",
+                "atlantico",
+                "nord-est"
+              ]
+            },
+            {
+              "word": "Alabama",
+              "forbiddens": [
+                "stati uniti",
+                "sud",
+                "montgomery",
+                "golfo",
+                "cotone"
+              ]
+            },
+            {
+              "word": "Oklahoma",
+              "forbiddens": [
+                "stati uniti",
+                "sud",
+                "prateria",
+                "tornado",
+                "cowboy"
+              ]
+            },
+            {
+              "word": "Nebraska",
+              "forbiddens": [
+                "stati uniti",
+                "prateria",
+                "centro",
+                "omaha",
+                "mais"
+              ]
+            },
+            {
+              "word": "Kansas",
+              "forbiddens": [
+                "stati uniti",
+                "prateria",
+                "centro",
+                "grano",
+                "tornado"
+              ]
+            },
+            {
+              "word": "Aragona",
+              "forbiddens": [
+                "saragozza",
+                "spagna",
+                "ebro",
+                "pirenei",
+                "regione"
+              ]
+            },
+            {
+              "word": "Navarra",
+              "forbiddens": [
+                "pamplona",
+                "spagna",
+                "pirenei",
+                "regione",
+                "nord"
+              ]
+            },
+            {
+              "word": "Cantabria",
+              "forbiddens": [
+                "santander",
+                "spagna",
+                "nord",
+                "picos de europa",
+                "regione"
+              ]
+            },
+            {
+              "word": "Murcia",
+              "forbiddens": [
+                "spagna",
+                "sud-est",
+                "mediterraneo",
+                "regione",
+                "città"
+              ]
+            },
+            {
+              "word": "Castiglia",
+              "forbiddens": [
+                "spagna",
+                "altopiano",
+                "centro",
+                "regione",
+                "toledo"
+              ]
+            },
+            {
+              "word": "Borgogna",
+              "forbiddens": [
+                "francia",
+                "digione",
+                "regione",
+                "centro",
+                "fiumi"
+              ]
+            },
+            {
+              "word": "Alvernia",
+              "forbiddens": [
+                "francia",
+                "vulcani",
+                "centro",
+                "regione",
+                "clermont-ferrand"
+              ]
+            },
+            {
+              "word": "Lorena",
+              "forbiddens": [
+                "francia",
+                "nancy",
+                "regione",
+                "nord-est",
+                "metz"
+              ]
+            },
+            {
+              "word": "Savoia",
+              "forbiddens": [
+                "francia",
+                "alpi",
+                "chambéry",
+                "regione",
+                "montagne"
+              ]
+            },
+            {
+              "word": "Aquitania",
+              "forbiddens": [
+                "francia",
+                "bordeaux",
+                "atlantico",
+                "regione",
+                "sud-ovest"
+              ]
+            },
+            {
+              "word": "Occitania",
+              "forbiddens": [
+                "francia",
+                "tolosa",
+                "sud",
+                "regione",
+                "mediterraneo"
+              ]
+            },
+            {
+              "word": "Piccardia",
+              "forbiddens": [
+                "francia",
+                "nord",
+                "regione",
+                "somme",
+                "amiens"
+              ]
+            },
+            {
+              "word": "Sassonia",
+              "forbiddens": [
+                "germania",
+                "dresda",
+                "lipsia",
+                "regione",
+                "est"
+              ]
+            },
+            {
+              "word": "Turingia",
+              "forbiddens": [
+                "germania",
+                "foresta",
+                "erfurt",
+                "regione",
+                "centro"
+              ]
+            },
+            {
+              "word": "Brandeburgo",
+              "forbiddens": [
+                "germania",
+                "berlino",
+                "regione",
+                "laghi",
+                "est"
+              ]
+            },
+            {
+              "word": "Devon",
+              "forbiddens": [
+                "inghilterra",
+                "sud-ovest",
+                "contea",
+                "torquay",
+                "dartmoor"
+              ]
+            },
+            {
+              "word": "Kent",
+              "forbiddens": [
+                "inghilterra",
+                "sud-est",
+                "contea",
+                "dover",
+                "giardino"
+              ]
+            },
+            {
+              "word": "Lahore",
+              "forbiddens": [
+                "pakistan",
+                "punjab",
+                "città",
+                "asia",
+                "giardini"
+              ]
+            },
+            {
+              "word": "Islamabad",
+              "forbiddens": [
+                "pakistan",
+                "capitale",
+                "asia",
+                "città",
+                "colline"
+              ]
+            },
+            {
+              "word": "Amman",
+              "forbiddens": [
+                "giordania",
+                "capitale",
+                "colline",
+                "città",
+                "asia"
+              ]
+            },
+            {
+              "word": "Riyadh",
+              "forbiddens": [
+                "arabia saudita",
+                "capitale",
+                "deserto",
+                "torre",
+                "città"
+              ]
+            },
+            {
+              "word": "Jeddah",
+              "forbiddens": [
+                "arabia saudita",
+                "mar rosso",
+                "porto",
+                "città",
+                "costa"
+              ]
+            },
+            {
+              "word": "Doha",
+              "forbiddens": [
+                "qatar",
+                "capitale",
+                "golfo",
+                "grattacieli",
+                "penisola"
+              ]
+            },
+            {
+              "word": "Harare",
+              "forbiddens": [
+                "zimbabwe",
+                "capitale",
+                "africa",
+                "città",
+                "jacaranda"
+              ]
+            },
+            {
+              "word": "Luanda",
+              "forbiddens": [
+                "angola",
+                "capitale",
+                "africa",
+                "atlantico",
+                "porto"
+              ]
+            },
+            {
+              "word": "Port-au-Prince",
+              "forbiddens": [
+                "haiti",
+                "capitale",
+                "caraibi",
+                "città",
+                "creolo"
+              ]
+            },
+            {
+              "word": "Darwin",
+              "forbiddens": [
+                "australia",
+                "nord",
+                "territorio",
+                "città",
+                "coccodrilli"
+              ]
+            },
+            {
+              "word": "Cairns",
+              "forbiddens": [
+                "australia",
+                "queensland",
+                "barriera corallina",
+                "città",
+                "tropicale"
+              ]
+            },
+            {
+              "word": "Gold Coast",
+              "forbiddens": [
+                "australia",
+                "queensland",
+                "spiagge",
+                "surf",
+                "grattacieli"
+              ]
+            },
+            {
+              "word": "Alpi Bernesi",
+              "forbiddens": [
+                "svizzera",
+                "oberland",
+                "jungfrau",
+                "eiger",
+                "montagne"
+              ]
+            },
+            {
+              "word": "Monte Conero",
+              "forbiddens": [
+                "marche",
+                "ancona",
+                "promontorio",
+                "mare",
+                "parco"
+              ]
+            },
+            {
+              "word": "Monte Circeo",
+              "forbiddens": [
+                "lazio",
+                "latina",
+                "promontorio",
+                "mare",
+                "parco"
+              ]
+            },
+            {
+              "word": "Monte Subasio",
+              "forbiddens": [
+                "umbria",
+                "assisi",
+                "parco",
+                "altopiano",
+                "rilievo"
+              ]
+            },
+            {
+              "word": "Monte Terminillo",
+              "forbiddens": [
+                "lazio",
+                "rieti",
+                "sci",
+                "appennino",
+                "montagna di roma"
+              ]
+            },
+            {
+              "word": "Connecticut",
+              "forbiddens": [
+                "stati uniti",
+                "nord-est",
+                "hartford",
+                "atlantico",
+                "new england"
+              ]
+            },
+            {
+              "word": "New Hampshire",
+              "forbiddens": [
+                "stati uniti",
+                "nord-est",
+                "montagne bianche",
+                "foliage",
+                "new england"
+              ]
+            },
+            {
+              "word": "New Jersey",
+              "forbiddens": [
+                "stati uniti",
+                "nord-est",
+                "newark",
+                "atlantico",
+                "giardino"
+              ]
+            },
+            {
+              "word": "Delaware",
+              "forbiddens": [
+                "stati uniti",
+                "est",
+                "dover",
+                "atlantico",
+                "piccolo"
+              ]
+            },
+            {
+              "word": "Maryland",
+              "forbiddens": [
+                "stati uniti",
+                "baltimora",
+                "chesapeake",
+                "est",
+                "granchi"
+              ]
+            },
+            {
+              "word": "Iowa",
+              "forbiddens": [
+                "stati uniti",
+                "des moines",
+                "mais",
+                "prateria",
+                "centro"
+              ]
+            },
+            {
+              "word": "Arkansas",
+              "forbiddens": [
+                "stati uniti",
+                "little rock",
+                "sud",
+                "ozark",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Nuovo Messico",
+              "forbiddens": [
+                "stati uniti",
+                "santa fe",
+                "deserto",
+                "sud-ovest",
+                "albuquerque"
+              ]
+            },
+            {
+              "word": "Terranova e Labrador",
+              "forbiddens": [
+                "canada",
+                "atlantico",
+                "isola",
+                "st. john's",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Lago Ontario",
+              "forbiddens": [
+                "toronto",
+                "cascate del niagara",
+                "grandi laghi",
+                "canada",
+                "stati uniti"
+              ]
+            },
+            {
+              "word": "Patagonia",
+              "forbiddens": [
+                "argentina",
+                "cile",
+                "ande",
+                "ghiacciai",
+                "sud america"
+              ]
+            },
+            {
+              "word": "Lapponia",
+              "forbiddens": [
+                "nord",
+                "renne",
+                "aurora boreale",
+                "finlandia",
+                "neve"
+              ]
+            },
+            {
+              "word": "Siberia",
+              "forbiddens": [
+                "russia",
+                "freddo",
+                "taiga",
+                "asia",
+                "ghiaccio"
+              ]
+            },
+            {
+              "word": "Cornovaglia",
+              "forbiddens": [
+                "inghilterra",
+                "sud-ovest",
+                "scogliere",
+                "penisola",
+                "mare"
+              ]
+            },
+            {
+              "word": "Alsazia",
+              "forbiddens": [
+                "francia",
+                "strasburgo",
+                "colmar",
+                "vigneti",
+                "reno"
+              ]
+            },
+            {
+              "word": "Dalmazia",
+              "forbiddens": [
+                "croazia",
+                "adriatico",
+                "spalato",
+                "costa",
+                "isole"
+              ]
+            },
+            {
+              "word": "Peloponneso",
+              "forbiddens": [
+                "grecia",
+                "penisola",
+                "sparta",
+                "corinto",
+                "sud"
+              ]
+            },
+            {
+              "word": "Pampa",
+              "forbiddens": [
+                "argentina",
+                "pianura",
+                "prateria",
+                "gaucho",
+                "bestiame"
+              ]
+            },
+            {
+              "word": "Meridiano di Greenwich",
+              "forbiddens": [
+                "londra",
+                "longitudine",
+                "zero",
+                "linea",
+                "osservatorio"
+              ]
+            },
+            {
+              "word": "Circolo Polare Artico",
+              "forbiddens": [
+                "linea",
+                "latitudine",
+                "notte",
+                "nord",
+                "sole di mezzanotte"
+              ]
+            },
+            {
+              "word": "Circolo Polare Antartico",
+              "forbiddens": [
+                "linea",
+                "latitudine",
+                "sud",
+                "polo sud",
+                "ghiaccio"
+              ]
+            },
+            {
+              "word": "Spartiacque",
+              "forbiddens": [
+                "montagna",
+                "fiumi",
+                "versanti",
+                "crinale",
+                "bacino"
+              ]
+            },
+            {
+              "word": "Bacino idrografico",
+              "forbiddens": [
+                "fiume",
+                "affluenti",
+                "acque",
+                "valle",
+                "foce"
+              ]
+            },
+            {
+              "word": "Nizza",
+              "forbiddens": [
+                "costa azzurra",
+                "promenade des anglais",
+                "francia",
+                "mare",
+                "riviera"
+              ]
+            },
+            {
+              "word": "Cannes",
+              "forbiddens": [
+                "costa azzurra",
+                "festival",
+                "cinema",
+                "croisette",
+                "francia"
+              ]
+            },
+            {
+              "word": "Amburgo",
+              "forbiddens": [
+                "germania",
+                "porto",
+                "elba",
+                "nord",
+                "beatles"
+              ]
+            },
+            {
+              "word": "Valencia",
+              "forbiddens": [
+                "spagna",
+                "paella",
+                "arance",
+                "mediterraneo",
+                "città"
+              ]
+            },
+            {
+              "word": "Granada",
+              "forbiddens": [
+                "andalusia",
+                "alhambra",
+                "sierra nevada",
+                "spagna",
+                "città"
+              ]
+            },
+            {
+              "word": "Glasgow",
+              "forbiddens": [
+                "scozia",
+                "clyde",
+                "città",
+                "musica",
+                "edimburgo"
+              ]
+            },
+            {
+              "word": "Cardiff",
+              "forbiddens": [
+                "galles",
+                "capitale",
+                "castello",
+                "rugby",
+                "città"
+              ]
+            },
+            {
+              "word": "Park Güell",
+              "forbiddens": [
+                "barcellona",
+                "gaudí",
+                "mosaico",
+                "salamandra",
+                "parco"
+              ]
+            },
+            {
+              "word": "Trafalgar Square",
+              "forbiddens": [
+                "londra",
+                "leoni",
+                "colonna",
+                "piazza",
+                "piccioni"
+              ]
+            },
+            {
+              "word": "Schönbrunn",
+              "forbiddens": [
+                "vienna",
+                "palazzo",
+                "giardini",
+                "imperiale",
+                "asburgo"
+              ]
+            },
+            {
+              "word": "Montmartre",
+              "forbiddens": [
+                "parigi",
+                "collina",
+                "pittori",
+                "basilica",
+                "moulin rouge"
+              ]
+            },
+            {
+              "word": "Castelli della Loira",
+              "forbiddens": [
+                "francia",
+                "fiume",
+                "valle",
+                "chambord",
+                "rinascimento"
+              ]
+            },
+            {
+              "word": "Filadelfia",
+              "forbiddens": [
+                "pennsylvania",
+                "campana",
+                "america",
+                "cheesesteak",
+                "indipendenza"
+              ]
+            },
+            {
+              "word": "Nashville",
+              "forbiddens": [
+                "tennessee",
+                "country",
+                "musica",
+                "america",
+                "città"
+              ]
+            },
+            {
+              "word": "Austin",
+              "forbiddens": [
+                "texas",
+                "capitale",
+                "musica",
+                "america",
+                "città"
+              ]
+            },
+            {
+              "word": "Lagos",
+              "forbiddens": [
+                "nigeria",
+                "africa",
+                "città",
+                "più popolosa",
+                "porto"
+              ]
+            },
+            {
+              "word": "Malaga",
+              "forbiddens": [
+                "andalusia",
+                "spagna",
+                "costa del sol",
+                "picasso",
+                "porto"
+              ]
+            },
+            {
+              "word": "Honduras",
+              "forbiddens": [
+                "tegucigalpa",
+                "america centrale",
+                "maya",
+                "copán",
+                "caraibi"
+              ]
+            },
+            {
+              "word": "Nicaragua",
+              "forbiddens": [
+                "managua",
+                "america centrale",
+                "laghi",
+                "vulcani",
+                "granada"
+              ]
+            },
+            {
+              "word": "Kuwait",
+              "forbiddens": [
+                "golfo",
+                "petrolio",
+                "deserto",
+                "capitale",
+                "medio oriente"
+              ]
+            },
+            {
+              "word": "Zambia",
+              "forbiddens": [
+                "lusaka",
+                "africa",
+                "cascate vittoria",
+                "livingstone",
+                "savana"
+              ]
+            },
+            {
+              "word": "Moldavia",
+              "forbiddens": [
+                "chisinau",
+                "europa",
+                "romania",
+                "vigneti",
+                "est"
+              ]
+            },
+            {
+              "word": "Bielorussia",
+              "forbiddens": [
+                "minsk",
+                "europa",
+                "est",
+                "foreste",
+                "bisonti"
+              ]
+            },
+            {
+              "word": "Brunei",
+              "forbiddens": [
+                "borneo",
+                "sultanato",
+                "petrolio",
+                "asia",
+                "piccolo"
+              ]
+            },
+            {
+              "word": "Guyana",
+              "forbiddens": [
+                "georgetown",
+                "sud america",
+                "giungla",
+                "atlantico",
+                "caraibi"
+              ]
+            },
+            {
+              "word": "Castello di Praga",
+              "forbiddens": [
+                "moldava",
+                "collina",
+                "repubblica ceca",
+                "gotico",
+                "boemia"
+              ]
+            },
+            {
+              "word": "Torre di Belém",
+              "forbiddens": [
+                "lisbona",
+                "tago",
+                "manuelino",
+                "fortezza",
+                "portogallo"
+              ]
+            },
+            {
+              "word": "Casa Milà",
+              "forbiddens": [
+                "barcellona",
+                "gaudí",
+                "pedrera",
+                "facciata",
+                "onde"
+              ]
+            },
+            {
+              "word": "Outback",
+              "forbiddens": [
+                "australia",
+                "deserto",
+                "interno",
+                "rosso",
+                "canguri"
+              ]
+            },
+            {
+              "word": "Liberia",
+              "forbiddens": [
+                "monrovia",
+                "africa",
+                "ovest",
+                "atlantico",
+                "foresta"
+              ]
+            },
+            {
+              "word": "Eswatini",
+              "forbiddens": [
+                "swaziland",
+                "africa",
+                "piccolo",
+                "mbabane",
+                "sudafrica"
+              ]
+            },
+            {
+              "word": "Bosnia ed Erzegovina",
+              "forbiddens": [
+                "sarajevo",
+                "balcani",
+                "mostar",
+                "montagne",
+                "europa"
+              ]
+            },
+            {
+              "word": "Macedonia del Nord",
+              "forbiddens": [
+                "skopje",
+                "balcani",
+                "lago ocrida",
+                "montagne",
+                "europa"
+              ]
+            },
+            {
+              "word": "Papua Nuova Guinea",
+              "forbiddens": [
+                "port moresby",
+                "isola",
+                "oceania",
+                "giungla",
+                "pacifico"
+              ]
+            },
+            {
+              "word": "Vanuatu",
+              "forbiddens": [
+                "isole",
+                "pacifico",
+                "port vila",
+                "vulcani",
+                "oceania"
+              ]
+            },
+            {
+              "word": "Tagikistan",
+              "forbiddens": [
+                "dushanbe",
+                "asia centrale",
+                "pamir",
+                "montagne",
+                "asia"
+              ]
+            },
+            {
+              "word": "Capo Verde",
+              "forbiddens": [
+                "isole",
+                "africa",
+                "atlantico",
+                "praia",
+                "arcipelago"
+              ]
+            },
+            {
+              "word": "Costa Dorada",
+              "forbiddens": [
+                "spagna",
+                "catalogna",
+                "spiagge",
+                "tarragona",
+                "mediterraneo"
+              ]
+            },
+            {
+              "word": "Costa Blanca",
+              "forbiddens": [
+                "spagna",
+                "alicante",
+                "spiagge",
+                "mediterraneo",
+                "sud-est"
+              ]
+            },
+            {
+              "word": "Alicante",
+              "forbiddens": [
+                "spagna",
+                "costa blanca",
+                "mediterraneo",
+                "porto",
+                "città"
+              ]
+            },
+            {
+              "word": "La Coruña",
+              "forbiddens": [
+                "spagna",
+                "galizia",
+                "faro",
+                "atlantico",
+                "città"
+              ]
+            },
+            {
+              "word": "Montpellier",
+              "forbiddens": [
+                "francia",
+                "occitania",
+                "mediterraneo",
+                "università",
+                "città"
+              ]
+            },
+            {
+              "word": "Grenoble",
+              "forbiddens": [
+                "francia",
+                "alpi",
+                "isère",
+                "città",
+                "università"
+              ]
+            },
+            {
+              "word": "Rouen",
+              "forbiddens": [
+                "francia",
+                "normandia",
+                "senna",
+                "cattedrale",
+                "città"
+              ]
+            },
+            {
+              "word": "Biarritz",
+              "forbiddens": [
+                "francia",
+                "atlantico",
+                "surf",
+                "baschi",
+                "spiaggia"
+              ]
+            },
+            {
+              "word": "Aix-en-Provence",
+              "forbiddens": [
+                "francia",
+                "provenza",
+                "fontane",
+                "cézanne",
+                "città"
+              ]
+            },
+            {
+              "word": "Arles",
+              "forbiddens": [
+                "francia",
+                "provenza",
+                "van gogh",
+                "arena",
+                "città"
+              ]
+            },
+            {
+              "word": "Brema",
+              "forbiddens": [
+                "germania",
+                "nord",
+                "porto",
+                "musicanti",
+                "città"
+              ]
+            },
+            {
+              "word": "Hannover",
+              "forbiddens": [
+                "germania",
+                "bassa sassonia",
+                "fiera",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "Düsseldorf",
+              "forbiddens": [
+                "germania",
+                "reno",
+                "moda",
+                "città",
+                "ovest"
+              ]
+            },
+            {
+              "word": "Potsdam",
+              "forbiddens": [
+                "germania",
+                "brandeburgo",
+                "castelli",
+                "berlino",
+                "sanssouci"
+              ]
+            },
+            {
+              "word": "Weimar",
+              "forbiddens": [
+                "germania",
+                "turingia",
+                "goethe",
+                "città",
+                "cultura"
+              ]
+            },
+            {
+              "word": "Treviri",
+              "forbiddens": [
+                "germania",
+                "mosella",
+                "romana",
+                "porta nigra",
+                "città"
+              ]
+            },
+            {
+              "word": "Magonza",
+              "forbiddens": [
+                "germania",
+                "reno",
+                "gutenberg",
+                "città",
+                "stampa"
+              ]
+            },
+            {
+              "word": "Aquisgrana",
+              "forbiddens": [
+                "germania",
+                "cattedrale",
+                "carlo magno",
+                "città",
+                "ovest"
+              ]
+            },
+            {
+              "word": "Kansas City",
+              "forbiddens": [
+                "stati uniti",
+                "missouri",
+                "città",
+                "jazz",
+                "centro"
+              ]
+            },
+            {
+              "word": "Saint Louis",
+              "forbiddens": [
+                "stati uniti",
+                "missouri",
+                "arco",
+                "mississippi",
+                "città"
+              ]
+            },
+            {
+              "word": "Buffalo",
+              "forbiddens": [
+                "stati uniti",
+                "new york",
+                "niagara",
+                "lago erie",
+                "città"
+              ]
+            },
+            {
+              "word": "Sacramento",
+              "forbiddens": [
+                "stati uniti",
+                "california",
+                "capitale",
+                "città",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Aspen",
+              "forbiddens": [
+                "stati uniti",
+                "colorado",
+                "sci",
+                "montagne",
+                "città"
+              ]
+            },
+            {
+              "word": "Malibù",
+              "forbiddens": [
+                "stati uniti",
+                "california",
+                "spiagge",
+                "pacifico",
+                "surf"
+              ]
+            },
+            {
+              "word": "Big Sur",
+              "forbiddens": [
+                "stati uniti",
+                "california",
+                "costa",
+                "pacifico",
+                "scogliere"
+              ]
+            },
+            {
+              "word": "Superga",
+              "forbiddens": [
+                "torino",
+                "collina",
+                "basilica",
+                "tranvia",
+                "piemonte"
+              ]
+            },
+            {
+              "word": "Panama",
+              "forbiddens": [
+                "canale",
+                "america centrale",
+                "cappello",
+                "pacifico",
+                "istmo"
+              ]
+            },
+            {
+              "word": "Rodi",
+              "forbiddens": [
+                "grecia",
+                "isola",
+                "dodecaneso",
+                "colosso",
+                "cavalieri"
+              ]
+            },
+            {
+              "word": "Zanzibar",
+              "forbiddens": [
+                "tanzania",
+                "isola",
+                "africa",
+                "spezie",
+                "spiagge"
+              ]
             }
           ]
         },
@@ -98996,6 +103046,3006 @@
                 "ottomila",
                 "trekking",
                 "catena"
+              ]
+            },
+            {
+              "word": "Nagoya",
+              "forbiddens": [
+                "giappone",
+                "honshu",
+                "porto",
+                "asia",
+                "castello"
+              ]
+            },
+            {
+              "word": "Chennai",
+              "forbiddens": [
+                "india",
+                "sud",
+                "coromandel",
+                "città",
+                "oceano"
+              ]
+            },
+            {
+              "word": "Tashkent",
+              "forbiddens": [
+                "uzbekistan",
+                "capitale",
+                "asia centrale",
+                "città",
+                "metropolitana"
+              ]
+            },
+            {
+              "word": "Almaty",
+              "forbiddens": [
+                "kazakistan",
+                "montagne",
+                "città",
+                "asia centrale",
+                "mele"
+              ]
+            },
+            {
+              "word": "Fukuoka",
+              "forbiddens": [
+                "giappone",
+                "kyushu",
+                "ramen",
+                "porto",
+                "città"
+              ]
+            },
+            {
+              "word": "Savannah",
+              "forbiddens": [
+                "georgia",
+                "america",
+                "piazze",
+                "alberi",
+                "città"
+              ]
+            },
+            {
+              "word": "Winnipeg",
+              "forbiddens": [
+                "canada",
+                "manitoba",
+                "prateria",
+                "freddo",
+                "città"
+              ]
+            },
+            {
+              "word": "Edmonton",
+              "forbiddens": [
+                "canada",
+                "alberta",
+                "città",
+                "hockey",
+                "nord"
+              ]
+            },
+            {
+              "word": "Monterrey",
+              "forbiddens": [
+                "messico",
+                "nord",
+                "sierra madre",
+                "città",
+                "industria"
+              ]
+            },
+            {
+              "word": "Accra",
+              "forbiddens": [
+                "ghana",
+                "capitale",
+                "africa",
+                "golfo di guinea",
+                "città"
+              ]
+            },
+            {
+              "word": "Kampala",
+              "forbiddens": [
+                "uganda",
+                "capitale",
+                "africa",
+                "lago vittoria",
+                "città"
+              ]
+            },
+            {
+              "word": "Maputo",
+              "forbiddens": [
+                "mozambico",
+                "capitale",
+                "africa",
+                "baia",
+                "città"
+              ]
+            },
+            {
+              "word": "Aarhus",
+              "forbiddens": [
+                "danimarca",
+                "jutland",
+                "città",
+                "porto",
+                "università"
+              ]
+            },
+            {
+              "word": "Novosibirsk",
+              "forbiddens": [
+                "russia",
+                "siberia",
+                "città",
+                "ob",
+                "ferrovia"
+              ]
+            },
+            {
+              "word": "Murmansk",
+              "forbiddens": [
+                "russia",
+                "artico",
+                "porto",
+                "nord",
+                "città"
+              ]
+            },
+            {
+              "word": "Kazan",
+              "forbiddens": [
+                "russia",
+                "tatarstan",
+                "volga",
+                "cremlino",
+                "città"
+              ]
+            },
+            {
+              "word": "Dundee",
+              "forbiddens": [
+                "scozia",
+                "tay",
+                "città",
+                "est",
+                "costa"
+              ]
+            },
+            {
+              "word": "Limerick",
+              "forbiddens": [
+                "irlanda",
+                "shannon",
+                "città",
+                "ovest",
+                "castello"
+              ]
+            },
+            {
+              "word": "Killarney",
+              "forbiddens": [
+                "irlanda",
+                "kerry",
+                "parco",
+                "laghi",
+                "città"
+              ]
+            },
+            {
+              "word": "Aalborg",
+              "forbiddens": [
+                "danimarca",
+                "jutland",
+                "nord",
+                "fiordo",
+                "porto"
+              ]
+            },
+            {
+              "word": "Åre",
+              "forbiddens": [
+                "svezia",
+                "sci",
+                "montagne",
+                "nord",
+                "jämtland"
+              ]
+            },
+            {
+              "word": "Kiruna",
+              "forbiddens": [
+                "svezia",
+                "lapponia",
+                "miniera",
+                "nord",
+                "neve"
+              ]
+            },
+            {
+              "word": "Oulu",
+              "forbiddens": [
+                "finlandia",
+                "nord",
+                "golfo di botnia",
+                "città",
+                "porto"
+              ]
+            },
+            {
+              "word": "Visby",
+              "forbiddens": [
+                "svezia",
+                "gotland",
+                "isola",
+                "mura",
+                "medievale"
+              ]
+            },
+            {
+              "word": "Tartu",
+              "forbiddens": [
+                "estonia",
+                "università",
+                "città",
+                "sud",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Kaunas",
+              "forbiddens": [
+                "lituania",
+                "città",
+                "nemunas",
+                "castello",
+                "capitale provvisoria"
+              ]
+            },
+            {
+              "word": "Burgas",
+              "forbiddens": [
+                "bulgaria",
+                "mar nero",
+                "porto",
+                "città",
+                "sud"
+              ]
+            },
+            {
+              "word": "Rila",
+              "forbiddens": [
+                "bulgaria",
+                "montagne",
+                "monastero",
+                "laghi",
+                "sud"
+              ]
+            },
+            {
+              "word": "Vitosha",
+              "forbiddens": [
+                "bulgaria",
+                "montagna",
+                "sofia",
+                "parco",
+                "sci"
+              ]
+            },
+            {
+              "word": "Maramureș",
+              "forbiddens": [
+                "romania",
+                "nord",
+                "legno",
+                "chiese",
+                "villaggi"
+              ]
+            },
+            {
+              "word": "Bucovina",
+              "forbiddens": [
+                "romania",
+                "nord",
+                "monasteri",
+                "affreschi",
+                "montagne"
+              ]
+            },
+            {
+              "word": "Zakopane",
+              "forbiddens": [
+                "polonia",
+                "tatra",
+                "sci",
+                "montagne",
+                "villaggio"
+              ]
+            },
+            {
+              "word": "Masuria",
+              "forbiddens": [
+                "polonia",
+                "laghi",
+                "nord-est",
+                "foreste",
+                "regione"
+              ]
+            },
+            {
+              "word": "Karlovy Vary",
+              "forbiddens": [
+                "repubblica ceca",
+                "terme",
+                "città",
+                "boemia",
+                "cristallo"
+              ]
+            },
+            {
+              "word": "Český Krumlov",
+              "forbiddens": [
+                "repubblica ceca",
+                "castello",
+                "moldava",
+                "boemia",
+                "città"
+              ]
+            },
+            {
+              "word": "Salzkammergut",
+              "forbiddens": [
+                "austria",
+                "laghi",
+                "montagne",
+                "salisburgo",
+                "hallstatt"
+              ]
+            },
+            {
+              "word": "Burgenland",
+              "forbiddens": [
+                "austria",
+                "lago neusiedl",
+                "est",
+                "vienna",
+                "regione"
+              ]
+            },
+            {
+              "word": "Wachau",
+              "forbiddens": [
+                "austria",
+                "danubio",
+                "valle",
+                "abbazia",
+                "albicocche"
+              ]
+            },
+            {
+              "word": "Appenzello",
+              "forbiddens": [
+                "svizzera",
+                "formaggio",
+                "montagne",
+                "cantone",
+                "alpstein"
+              ]
+            },
+            {
+              "word": "Sion",
+              "forbiddens": [
+                "svizzera",
+                "vallese",
+                "castello",
+                "rodano",
+                "città"
+              ]
+            },
+            {
+              "word": "Lauterbrunnen",
+              "forbiddens": [
+                "svizzera",
+                "valle",
+                "cascate",
+                "jungfrau",
+                "villaggio"
+              ]
+            },
+            {
+              "word": "Gruyères",
+              "forbiddens": [
+                "svizzera",
+                "formaggio",
+                "castello",
+                "friburgo",
+                "villaggio"
+              ]
+            },
+            {
+              "word": "Ascona",
+              "forbiddens": [
+                "svizzera",
+                "lago maggiore",
+                "ticino",
+                "borgo",
+                "città"
+              ]
+            },
+            {
+              "word": "Monti Lessini",
+              "forbiddens": [
+                "veneto",
+                "verona",
+                "altopiano",
+                "formaggio",
+                "fossili"
+              ]
+            },
+            {
+              "word": "Peloritani",
+              "forbiddens": [
+                "sicilia",
+                "messina",
+                "montagne",
+                "catena",
+                "tirreno"
+              ]
+            },
+            {
+              "word": "Karakum",
+              "forbiddens": [
+                "turkmenistan",
+                "deserto",
+                "asia centrale",
+                "sabbia",
+                "nera"
+              ]
+            },
+            {
+              "word": "Thar",
+              "forbiddens": [
+                "india",
+                "deserto",
+                "rajasthan",
+                "cammelli",
+                "asia"
+              ]
+            },
+            {
+              "word": "Chao Phraya",
+              "forbiddens": [
+                "bangkok",
+                "thailandia",
+                "fiume",
+                "asia",
+                "delta"
+              ]
+            },
+            {
+              "word": "Anglesey",
+              "forbiddens": [
+                "galles",
+                "isola",
+                "ponte",
+                "mare d'irlanda",
+                "nord"
+              ]
+            },
+            {
+              "word": "Thassos",
+              "forbiddens": [
+                "grecia",
+                "egeo",
+                "isola",
+                "nord",
+                "marmo"
+              ]
+            },
+            {
+              "word": "Skiathos",
+              "forbiddens": [
+                "grecia",
+                "sporadi",
+                "isola",
+                "spiagge",
+                "egeo"
+              ]
+            },
+            {
+              "word": "Sulawesi",
+              "forbiddens": [
+                "indonesia",
+                "isola",
+                "celebes",
+                "toraja",
+                "makassar"
+              ]
+            },
+            {
+              "word": "Hangzhou",
+              "forbiddens": [
+                "cina",
+                "lago occidentale",
+                "seta",
+                "tè",
+                "città"
+              ]
+            },
+            {
+              "word": "Metz",
+              "forbiddens": [
+                "francia",
+                "lorena",
+                "cattedrale",
+                "mosella",
+                "città"
+              ]
+            },
+            {
+              "word": "Besançon",
+              "forbiddens": [
+                "francia",
+                "giura",
+                "doubs",
+                "cittadella",
+                "città"
+              ]
+            },
+            {
+              "word": "Stavanger",
+              "forbiddens": [
+                "norvegia",
+                "fiordi",
+                "petrolio",
+                "città",
+                "preikestolen"
+              ]
+            },
+            {
+              "word": "Trondheim",
+              "forbiddens": [
+                "norvegia",
+                "nidaros",
+                "nord",
+                "città",
+                "fiordo"
+              ]
+            },
+            {
+              "word": "Turku",
+              "forbiddens": [
+                "finlandia",
+                "ovest",
+                "città",
+                "arcipelago",
+                "baltico"
+              ]
+            },
+            {
+              "word": "Tampere",
+              "forbiddens": [
+                "finlandia",
+                "laghi",
+                "città",
+                "sauna",
+                "industria"
+              ]
+            },
+            {
+              "word": "Uppsala",
+              "forbiddens": [
+                "svezia",
+                "università",
+                "nord di stoccolma",
+                "città",
+                "cattedrale"
+              ]
+            },
+            {
+              "word": "Odense",
+              "forbiddens": [
+                "danimarca",
+                "andersen",
+                "fionia",
+                "città",
+                "fiabe"
+              ]
+            },
+            {
+              "word": "Charleroi",
+              "forbiddens": [
+                "belgio",
+                "vallonia",
+                "città",
+                "carbone",
+                "sud"
+              ]
+            },
+            {
+              "word": "Groninga",
+              "forbiddens": [
+                "paesi bassi",
+                "nord",
+                "città",
+                "università",
+                "biciclette"
+              ]
+            },
+            {
+              "word": "Haarlem",
+              "forbiddens": [
+                "paesi bassi",
+                "tulipani",
+                "città",
+                "amsterdam",
+                "nord"
+              ]
+            },
+            {
+              "word": "Évora",
+              "forbiddens": [
+                "portogallo",
+                "alentejo",
+                "rovine",
+                "sughero",
+                "città"
+              ]
+            },
+            {
+              "word": "Košice",
+              "forbiddens": [
+                "slovacchia",
+                "est",
+                "città",
+                "cattedrale",
+                "slovacca"
+              ]
+            },
+            {
+              "word": "Plzeň",
+              "forbiddens": [
+                "repubblica ceca",
+                "boemia",
+                "città",
+                "ovest",
+                "ceca"
+              ]
+            },
+            {
+              "word": "Pécs",
+              "forbiddens": [
+                "ungheria",
+                "sud",
+                "città",
+                "cattedrale",
+                "mecsek"
+              ]
+            },
+            {
+              "word": "Debrecen",
+              "forbiddens": [
+                "ungheria",
+                "est",
+                "città",
+                "grande pianura",
+                "puszta"
+              ]
+            },
+            {
+              "word": "Szeged",
+              "forbiddens": [
+                "ungheria",
+                "sud",
+                "tibisco",
+                "città",
+                "paprika"
+              ]
+            },
+            {
+              "word": "Cluj-Napoca",
+              "forbiddens": [
+                "romania",
+                "transilvania",
+                "città",
+                "università",
+                "nord-ovest"
+              ]
+            },
+            {
+              "word": "Timișoara",
+              "forbiddens": [
+                "romania",
+                "ovest",
+                "città",
+                "banato",
+                "fiori"
+              ]
+            },
+            {
+              "word": "Brașov",
+              "forbiddens": [
+                "romania",
+                "transilvania",
+                "carpazi",
+                "città",
+                "castello"
+              ]
+            },
+            {
+              "word": "Sibiu",
+              "forbiddens": [
+                "romania",
+                "transilvania",
+                "città",
+                "piazza",
+                "medievale"
+              ]
+            },
+            {
+              "word": "Plovdiv",
+              "forbiddens": [
+                "bulgaria",
+                "colline",
+                "antico",
+                "città",
+                "sud"
+              ]
+            },
+            {
+              "word": "Niš",
+              "forbiddens": [
+                "serbia",
+                "sud",
+                "città",
+                "antica",
+                "fortezza"
+              ]
+            },
+            {
+              "word": "Novi Sad",
+              "forbiddens": [
+                "serbia",
+                "danubio",
+                "vojvodina",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "Maribor",
+              "forbiddens": [
+                "slovenia",
+                "drava",
+                "vigneti",
+                "città",
+                "est"
+              ]
+            },
+            {
+              "word": "Budva",
+              "forbiddens": [
+                "montenegro",
+                "adriatico",
+                "spiagge",
+                "riviera",
+                "costa"
+              ]
+            },
+            {
+              "word": "Ocrida",
+              "forbiddens": [
+                "lago",
+                "macedonia del nord",
+                "antica",
+                "chiese",
+                "balcani"
+              ]
+            },
+            {
+              "word": "Volo",
+              "forbiddens": [
+                "grecia",
+                "tessaglia",
+                "porto",
+                "pelio",
+                "golfo"
+              ]
+            },
+            {
+              "word": "Nauplia",
+              "forbiddens": [
+                "grecia",
+                "peloponneso",
+                "città",
+                "porto",
+                "fortezza"
+              ]
+            },
+            {
+              "word": "Konya",
+              "forbiddens": [
+                "turchia",
+                "anatolia",
+                "città",
+                "dervisci",
+                "altopiano"
+              ]
+            },
+            {
+              "word": "Bursa",
+              "forbiddens": [
+                "turchia",
+                "marmara",
+                "città",
+                "olimpo",
+                "seta"
+              ]
+            },
+            {
+              "word": "Kayseri",
+              "forbiddens": [
+                "turchia",
+                "cappadocia",
+                "erciyes",
+                "città",
+                "anatolia"
+              ]
+            },
+            {
+              "word": "Ouarzazate",
+              "forbiddens": [
+                "marocco",
+                "deserto",
+                "film",
+                "kasbah",
+                "atlante"
+              ]
+            },
+            {
+              "word": "Meknes",
+              "forbiddens": [
+                "marocco",
+                "imperiale",
+                "città",
+                "mura",
+                "porte"
+              ]
+            },
+            {
+              "word": "Costantina",
+              "forbiddens": [
+                "algeria",
+                "ponti",
+                "gola",
+                "città",
+                "est"
+              ]
+            },
+            {
+              "word": "Sfax",
+              "forbiddens": [
+                "tunisia",
+                "porto",
+                "città",
+                "mediterraneo",
+                "sud"
+              ]
+            },
+            {
+              "word": "Siwa",
+              "forbiddens": [
+                "egitto",
+                "oasi",
+                "deserto",
+                "ovest",
+                "palme"
+              ]
+            },
+            {
+              "word": "Saskatchewan",
+              "forbiddens": [
+                "canada",
+                "prateria",
+                "grano",
+                "regina",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Estremadura",
+              "forbiddens": [
+                "spagna",
+                "ovest",
+                "portogallo",
+                "regione",
+                "dehesa"
+              ]
+            },
+            {
+              "word": "Assia",
+              "forbiddens": [
+                "germania",
+                "francoforte",
+                "regione",
+                "centro",
+                "wiesbaden"
+              ]
+            },
+            {
+              "word": "Vestfalia",
+              "forbiddens": [
+                "germania",
+                "ruhr",
+                "regione",
+                "ovest",
+                "münster"
+              ]
+            },
+            {
+              "word": "Cumbria",
+              "forbiddens": [
+                "inghilterra",
+                "nord-ovest",
+                "laghi",
+                "contea",
+                "montagne"
+              ]
+            },
+            {
+              "word": "Mandalay",
+              "forbiddens": [
+                "myanmar",
+                "irrawaddy",
+                "città",
+                "asia",
+                "palazzo"
+              ]
+            },
+            {
+              "word": "Windhoek",
+              "forbiddens": [
+                "namibia",
+                "capitale",
+                "africa",
+                "altopiano",
+                "città"
+              ]
+            },
+            {
+              "word": "Lusaka",
+              "forbiddens": [
+                "zambia",
+                "capitale",
+                "africa",
+                "città",
+                "altopiano"
+              ]
+            },
+            {
+              "word": "Gaborone",
+              "forbiddens": [
+                "botswana",
+                "capitale",
+                "africa",
+                "città",
+                "kalahari"
+              ]
+            },
+            {
+              "word": "Abuja",
+              "forbiddens": [
+                "nigeria",
+                "capitale",
+                "africa",
+                "città",
+                "centro"
+              ]
+            },
+            {
+              "word": "Yaoundé",
+              "forbiddens": [
+                "camerun",
+                "capitale",
+                "africa",
+                "città",
+                "colline"
+              ]
+            },
+            {
+              "word": "Bamako",
+              "forbiddens": [
+                "mali",
+                "capitale",
+                "africa",
+                "niger",
+                "città"
+              ]
+            },
+            {
+              "word": "Tegucigalpa",
+              "forbiddens": [
+                "honduras",
+                "capitale",
+                "centro america",
+                "città",
+                "montagne"
+              ]
+            },
+            {
+              "word": "Managua",
+              "forbiddens": [
+                "nicaragua",
+                "capitale",
+                "lago",
+                "città",
+                "centro america"
+              ]
+            },
+            {
+              "word": "Suva",
+              "forbiddens": [
+                "figi",
+                "capitale",
+                "pacifico",
+                "città",
+                "isola"
+              ]
+            },
+            {
+              "word": "Port Moresby",
+              "forbiddens": [
+                "papua nuova guinea",
+                "capitale",
+                "pacifico",
+                "città",
+                "oceania"
+              ]
+            },
+            {
+              "word": "Tarawa",
+              "forbiddens": [
+                "kiribati",
+                "atollo",
+                "pacifico",
+                "isole",
+                "oceania"
+              ]
+            },
+            {
+              "word": "Monte Cusna",
+              "forbiddens": [
+                "emilia-romagna",
+                "appennino",
+                "cima",
+                "reggio",
+                "alto"
+              ]
+            },
+            {
+              "word": "Monte Falterona",
+              "forbiddens": [
+                "toscana",
+                "arno",
+                "sorgente",
+                "appennino",
+                "casentino"
+              ]
+            },
+            {
+              "word": "Monte Soratte",
+              "forbiddens": [
+                "lazio",
+                "roma",
+                "isolato",
+                "tevere",
+                "rilievo"
+              ]
+            },
+            {
+              "word": "Monte Cervati",
+              "forbiddens": [
+                "campania",
+                "cilento",
+                "cima",
+                "appennino",
+                "più alto"
+              ]
+            },
+            {
+              "word": "Nuovo Brunswick",
+              "forbiddens": [
+                "canada",
+                "atlantico",
+                "fredericton",
+                "baia di fundy",
+                "provincia"
+              ]
+            },
+            {
+              "word": "Lago Biwa",
+              "forbiddens": [
+                "giappone",
+                "honshu",
+                "più grande",
+                "kyoto",
+                "acqua"
+              ]
+            },
+            {
+              "word": "Lago Toba",
+              "forbiddens": [
+                "sumatra",
+                "indonesia",
+                "vulcanico",
+                "isola",
+                "samosir"
+              ]
+            },
+            {
+              "word": "Lago Taupo",
+              "forbiddens": [
+                "nuova zelanda",
+                "isola del nord",
+                "vulcanico",
+                "acqua",
+                "tongariro"
+              ]
+            },
+            {
+              "word": "Lago Atitlán",
+              "forbiddens": [
+                "guatemala",
+                "vulcani",
+                "maya",
+                "acqua",
+                "villaggi"
+              ]
+            },
+            {
+              "word": "Lago Argentino",
+              "forbiddens": [
+                "sud america",
+                "patagonia",
+                "perito moreno",
+                "acqua",
+                "ghiacciaio"
+              ]
+            },
+            {
+              "word": "Fiordi norvegesi",
+              "forbiddens": [
+                "scandinavia",
+                "mare",
+                "ghiacciaio",
+                "insenature",
+                "nord"
+              ]
+            },
+            {
+              "word": "Capo Nord",
+              "forbiddens": [
+                "norvegia",
+                "punta",
+                "sole di mezzanotte",
+                "artico",
+                "scandinavia"
+              ]
+            },
+            {
+              "word": "Kamčatka",
+              "forbiddens": [
+                "russia",
+                "vulcani",
+                "orsi",
+                "penisola",
+                "asia"
+              ]
+            },
+            {
+              "word": "Isola di Skye",
+              "forbiddens": [
+                "scozia",
+                "ebridi",
+                "cuillin",
+                "scogliere",
+                "castelli"
+              ]
+            },
+            {
+              "word": "Orcadi",
+              "forbiddens": [
+                "scozia",
+                "isole",
+                "nord",
+                "arcipelago",
+                "atlantico"
+              ]
+            },
+            {
+              "word": "Ebridi",
+              "forbiddens": [
+                "scozia",
+                "isole",
+                "arcipelago",
+                "atlantico",
+                "ovest"
+              ]
+            },
+            {
+              "word": "Yorkshire",
+              "forbiddens": [
+                "inghilterra",
+                "nord",
+                "brughiere",
+                "leeds",
+                "contea"
+              ]
+            },
+            {
+              "word": "Snowdonia",
+              "forbiddens": [
+                "galles",
+                "montagne",
+                "parco",
+                "cima",
+                "nord"
+              ]
+            },
+            {
+              "word": "Loch Lomond",
+              "forbiddens": [
+                "scozia",
+                "lago",
+                "highlands",
+                "trossachs",
+                "glasgow"
+              ]
+            },
+            {
+              "word": "Selciato del Gigante",
+              "forbiddens": [
+                "irlanda",
+                "colonne",
+                "basalto",
+                "costa",
+                "esagonali"
+              ]
+            },
+            {
+              "word": "Gole del Verdon",
+              "forbiddens": [
+                "francia",
+                "provenza",
+                "canyon",
+                "turchese",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Carcassonne",
+              "forbiddens": [
+                "francia",
+                "cité",
+                "mura",
+                "torri",
+                "medievale"
+              ]
+            },
+            {
+              "word": "Annecy",
+              "forbiddens": [
+                "francia",
+                "lago",
+                "alpi",
+                "venezia delle alpi",
+                "savoia"
+              ]
+            },
+            {
+              "word": "Chamonix",
+              "forbiddens": [
+                "francia",
+                "monte bianco",
+                "alpi",
+                "sci",
+                "valle"
+              ]
+            },
+            {
+              "word": "Colmar",
+              "forbiddens": [
+                "francia",
+                "alsazia",
+                "case colorate",
+                "canali",
+                "piccola venezia"
+              ]
+            },
+            {
+              "word": "Galizia",
+              "forbiddens": [
+                "spagna",
+                "nord-ovest",
+                "atlantico",
+                "finisterre",
+                "verde"
+              ]
+            },
+            {
+              "word": "Asturie",
+              "forbiddens": [
+                "spagna",
+                "nord",
+                "picos de europa",
+                "verde",
+                "oviedo"
+              ]
+            },
+            {
+              "word": "Costa del Sol",
+              "forbiddens": [
+                "spagna",
+                "andalusia",
+                "málaga",
+                "spiagge",
+                "sud"
+              ]
+            },
+            {
+              "word": "Sierra Nevada",
+              "forbiddens": [
+                "spagna",
+                "andalusia",
+                "granada",
+                "montagne",
+                "sci"
+              ]
+            },
+            {
+              "word": "Ronda",
+              "forbiddens": [
+                "spagna",
+                "andalusia",
+                "ponte",
+                "gola",
+                "tajo"
+              ]
+            },
+            {
+              "word": "Sylt",
+              "forbiddens": [
+                "germania",
+                "isola",
+                "mare del nord",
+                "dune",
+                "nord"
+              ]
+            },
+            {
+              "word": "Isola di Rügen",
+              "forbiddens": [
+                "germania",
+                "baltico",
+                "scogliere",
+                "gesso",
+                "più grande"
+              ]
+            },
+            {
+              "word": "Harz",
+              "forbiddens": [
+                "germania",
+                "montagne",
+                "brocken",
+                "boschi",
+                "centro"
+              ]
+            },
+            {
+              "word": "Renania",
+              "forbiddens": [
+                "germania",
+                "reno",
+                "colonia",
+                "ovest",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Meclemburgo",
+              "forbiddens": [
+                "germania",
+                "nord",
+                "laghi",
+                "baltico",
+                "rostock"
+              ]
+            },
+            {
+              "word": "Interlaken",
+              "forbiddens": [
+                "svizzera",
+                "laghi",
+                "alpi",
+                "oberland",
+                "jungfrau"
+              ]
+            },
+            {
+              "word": "Grindelwald",
+              "forbiddens": [
+                "svizzera",
+                "eiger",
+                "alpi",
+                "villaggio",
+                "sci"
+              ]
+            },
+            {
+              "word": "Engadina",
+              "forbiddens": [
+                "svizzera",
+                "st. moritz",
+                "valle",
+                "alpi",
+                "grigioni"
+              ]
+            },
+            {
+              "word": "Cascate del Reno",
+              "forbiddens": [
+                "svizzera",
+                "sciaffusa",
+                "europa",
+                "più grandi",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Lago dei Quattro Cantoni",
+              "forbiddens": [
+                "svizzera",
+                "lucerna",
+                "alpi",
+                "battelli",
+                "rigi"
+              ]
+            },
+            {
+              "word": "Laghi di Plitvice",
+              "forbiddens": [
+                "croazia",
+                "cascate",
+                "parco",
+                "turchesi",
+                "boschi"
+              ]
+            },
+            {
+              "word": "Kornati",
+              "forbiddens": [
+                "croazia",
+                "isole",
+                "arcipelago",
+                "adriatico",
+                "dalmazia"
+              ]
+            },
+            {
+              "word": "Brazza",
+              "forbiddens": [
+                "croazia",
+                "isola",
+                "dalmazia",
+                "zlatni rat",
+                "adriatico"
+              ]
+            },
+            {
+              "word": "Cherso",
+              "forbiddens": [
+                "croazia",
+                "isola",
+                "quarnaro",
+                "adriatico",
+                "istria"
+              ]
+            },
+            {
+              "word": "Canale di Corinto",
+              "forbiddens": [
+                "grecia",
+                "istmo",
+                "stretto",
+                "navi",
+                "peloponneso"
+              ]
+            },
+            {
+              "word": "Isole Ionie",
+              "forbiddens": [
+                "grecia",
+                "corfù",
+                "cefalonia",
+                "mare",
+                "ovest"
+              ]
+            },
+            {
+              "word": "Dodecaneso",
+              "forbiddens": [
+                "grecia",
+                "rodi",
+                "egeo",
+                "isole",
+                "arcipelago"
+              ]
+            },
+            {
+              "word": "Calcidica",
+              "forbiddens": [
+                "grecia",
+                "penisola",
+                "tre dita",
+                "salonicco",
+                "mare"
+              ]
+            },
+            {
+              "word": "Bodrum",
+              "forbiddens": [
+                "turchia",
+                "egeo",
+                "castello",
+                "porto",
+                "vacanze"
+              ]
+            },
+            {
+              "word": "Mar di Marmara",
+              "forbiddens": [
+                "turchia",
+                "istanbul",
+                "mare",
+                "bosforo",
+                "dardanelli"
+              ]
+            },
+            {
+              "word": "Cascate Vittoria",
+              "forbiddens": [
+                "zambesi",
+                "zambia",
+                "zimbabwe",
+                "africa",
+                "fumo che tuona"
+              ]
+            },
+            {
+              "word": "Lago Turkana",
+              "forbiddens": [
+                "kenya",
+                "africa",
+                "giada",
+                "verde",
+                "etiopia"
+              ]
+            },
+            {
+              "word": "Ngorongoro",
+              "forbiddens": [
+                "tanzania",
+                "cratere",
+                "safari",
+                "animali",
+                "serengeti"
+              ]
+            },
+            {
+              "word": "Masai Mara",
+              "forbiddens": [
+                "kenya",
+                "safari",
+                "migrazione",
+                "gnu",
+                "savana"
+              ]
+            },
+            {
+              "word": "Kruger",
+              "forbiddens": [
+                "sudafrica",
+                "parco",
+                "safari",
+                "animali",
+                "leoni"
+              ]
+            },
+            {
+              "word": "Montagna della Tavola",
+              "forbiddens": [
+                "città del capo",
+                "piatta",
+                "sudafrica",
+                "funivia",
+                "nuvole"
+              ]
+            },
+            {
+              "word": "Capo di Buona Speranza",
+              "forbiddens": [
+                "sudafrica",
+                "promontorio",
+                "africa",
+                "navigatori",
+                "oceano"
+              ]
+            },
+            {
+              "word": "Drakensberg",
+              "forbiddens": [
+                "sudafrica",
+                "montagne",
+                "lesotho",
+                "catena",
+                "africa"
+              ]
+            },
+            {
+              "word": "Karoo",
+              "forbiddens": [
+                "sudafrica",
+                "semideserto",
+                "altopiano",
+                "africa",
+                "aridi"
+              ]
+            },
+            {
+              "word": "Sossusvlei",
+              "forbiddens": [
+                "namibia",
+                "dune",
+                "rosse",
+                "deserto",
+                "africa"
+              ]
+            },
+            {
+              "word": "Etosha",
+              "forbiddens": [
+                "namibia",
+                "parco",
+                "salina",
+                "animali",
+                "africa"
+              ]
+            },
+            {
+              "word": "Dancalia",
+              "forbiddens": [
+                "etiopia",
+                "deserto",
+                "caldo",
+                "vulcano",
+                "africa"
+              ]
+            },
+            {
+              "word": "Ahaggar",
+              "forbiddens": [
+                "algeria",
+                "sahara",
+                "montagne",
+                "deserto",
+                "tuareg"
+              ]
+            },
+            {
+              "word": "Erg Chebbi",
+              "forbiddens": [
+                "marocco",
+                "dune",
+                "merzouga",
+                "sahara",
+                "deserto"
+              ]
+            },
+            {
+              "word": "Chefchaouen",
+              "forbiddens": [
+                "marocco",
+                "blu",
+                "città",
+                "rif",
+                "vicoli"
+              ]
+            },
+            {
+              "word": "Essaouira",
+              "forbiddens": [
+                "marocco",
+                "porto",
+                "atlantico",
+                "vento",
+                "mura"
+              ]
+            },
+            {
+              "word": "Fez",
+              "forbiddens": [
+                "marocco",
+                "medina",
+                "conceria",
+                "città",
+                "imperiale"
+              ]
+            },
+            {
+              "word": "Wadi Rum",
+              "forbiddens": [
+                "giordania",
+                "deserto",
+                "rocce",
+                "rosso",
+                "beduini"
+              ]
+            },
+            {
+              "word": "Aqaba",
+              "forbiddens": [
+                "giordania",
+                "mar rosso",
+                "porto",
+                "golfo",
+                "coralli"
+              ]
+            },
+            {
+              "word": "Mascate",
+              "forbiddens": [
+                "oman",
+                "capitale",
+                "moschea",
+                "porto",
+                "penisola arabica"
+              ]
+            },
+            {
+              "word": "Baia di Ha Long",
+              "forbiddens": [
+                "vietnam",
+                "calcare",
+                "isolotti",
+                "giunche",
+                "mare"
+              ]
+            },
+            {
+              "word": "Hoi An",
+              "forbiddens": [
+                "vietnam",
+                "lanterne",
+                "città antica",
+                "sarti",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Sapa",
+              "forbiddens": [
+                "vietnam",
+                "risaie",
+                "terrazze",
+                "nord",
+                "montagne"
+              ]
+            },
+            {
+              "word": "Luang Prabang",
+              "forbiddens": [
+                "laos",
+                "mekong",
+                "monaci",
+                "città",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Lago Inle",
+              "forbiddens": [
+                "myanmar",
+                "pescatori",
+                "case su palafitte",
+                "asia",
+                "remi"
+              ]
+            },
+            {
+              "word": "Bagan",
+              "forbiddens": [
+                "myanmar",
+                "pagode",
+                "piana",
+                "mongolfiere",
+                "templi"
+              ]
+            },
+            {
+              "word": "Flores",
+              "forbiddens": [
+                "indonesia",
+                "isola",
+                "komodo",
+                "laghi colorati",
+                "kelimutu"
+              ]
+            },
+            {
+              "word": "Raja Ampat",
+              "forbiddens": [
+                "indonesia",
+                "isole",
+                "coralli",
+                "immersioni",
+                "papua"
+              ]
+            },
+            {
+              "word": "Palawan",
+              "forbiddens": [
+                "filippine",
+                "isola",
+                "el nido",
+                "laguna",
+                "sotterraneo"
+              ]
+            },
+            {
+              "word": "Boracay",
+              "forbiddens": [
+                "filippine",
+                "isola",
+                "spiaggia bianca",
+                "sabbia",
+                "vacanze"
+              ]
+            },
+            {
+              "word": "Guilin",
+              "forbiddens": [
+                "cina",
+                "carsismo",
+                "yangshuo",
+                "colline",
+                "fiume"
+              ]
+            },
+            {
+              "word": "Zhangjiajie",
+              "forbiddens": [
+                "cina",
+                "pilastri",
+                "avatar",
+                "foresta",
+                "parco"
+              ]
+            },
+            {
+              "word": "Yunnan",
+              "forbiddens": [
+                "cina",
+                "sud",
+                "risaie",
+                "montagne",
+                "tè"
+              ]
+            },
+            {
+              "word": "Kyushu",
+              "forbiddens": [
+                "giappone",
+                "isola",
+                "sud",
+                "vulcani",
+                "fukuoka"
+              ]
+            },
+            {
+              "word": "Shikoku",
+              "forbiddens": [
+                "giappone",
+                "isola",
+                "pellegrinaggio",
+                "piccola",
+                "sud"
+              ]
+            },
+            {
+              "word": "Hakone",
+              "forbiddens": [
+                "giappone",
+                "onsen",
+                "fuji",
+                "lago",
+                "tokyo"
+              ]
+            },
+            {
+              "word": "Jeju",
+              "forbiddens": [
+                "corea",
+                "isola",
+                "vulcano",
+                "mandarini",
+                "sud"
+              ]
+            },
+            {
+              "word": "Andamane",
+              "forbiddens": [
+                "india",
+                "isole",
+                "arcipelago",
+                "golfo del bengala",
+                "spiagge"
+              ]
+            },
+            {
+              "word": "Pokhara",
+              "forbiddens": [
+                "nepal",
+                "lago",
+                "annapurna",
+                "himalaya",
+                "città"
+              ]
+            },
+            {
+              "word": "Bukhara",
+              "forbiddens": [
+                "uzbekistan",
+                "via della seta",
+                "oasi",
+                "minareti",
+                "città"
+              ]
+            },
+            {
+              "word": "Khiva",
+              "forbiddens": [
+                "uzbekistan",
+                "via della seta",
+                "mura",
+                "oasi",
+                "deserto"
+              ]
+            },
+            {
+              "word": "Lago d'Aral",
+              "forbiddens": [
+                "asia centrale",
+                "prosciugato",
+                "kazakistan",
+                "uzbekistan",
+                "navi"
+              ]
+            },
+            {
+              "word": "Banff",
+              "forbiddens": [
+                "canada",
+                "parco",
+                "rocciose",
+                "alberta",
+                "lago louise"
+              ]
+            },
+            {
+              "word": "Lago Louise",
+              "forbiddens": [
+                "canada",
+                "banff",
+                "turchese",
+                "rocciose",
+                "ghiacciai"
+              ]
+            },
+            {
+              "word": "Monument Valley",
+              "forbiddens": [
+                "arizona",
+                "utah",
+                "rocce",
+                "western",
+                "deserto"
+              ]
+            },
+            {
+              "word": "Bryce Canyon",
+              "forbiddens": [
+                "utah",
+                "guglie",
+                "hoodoo",
+                "parco",
+                "rosso"
+              ]
+            },
+            {
+              "word": "Zion",
+              "forbiddens": [
+                "utah",
+                "parco",
+                "canyon",
+                "rocce",
+                "cammino"
+              ]
+            },
+            {
+              "word": "Antelope Canyon",
+              "forbiddens": [
+                "arizona",
+                "luce",
+                "sabbia",
+                "gola",
+                "arenaria"
+              ]
+            },
+            {
+              "word": "Delta del Mississippi",
+              "forbiddens": [
+                "louisiana",
+                "fiume",
+                "paludi",
+                "golfo",
+                "new orleans"
+              ]
+            },
+            {
+              "word": "Tulum",
+              "forbiddens": [
+                "messico",
+                "rovine",
+                "maya",
+                "spiaggia",
+                "caraibi"
+              ]
+            },
+            {
+              "word": "Cozumel",
+              "forbiddens": [
+                "messico",
+                "isola",
+                "caraibi",
+                "coralli",
+                "crociere"
+              ]
+            },
+            {
+              "word": "Baja California",
+              "forbiddens": [
+                "messico",
+                "penisola",
+                "pacifico",
+                "deserto",
+                "balene"
+              ]
+            },
+            {
+              "word": "Monteverde",
+              "forbiddens": [
+                "costa rica",
+                "foresta",
+                "nebbia",
+                "ponti sospesi",
+                "quetzal"
+              ]
+            },
+            {
+              "word": "Ushuaia",
+              "forbiddens": [
+                "argentina",
+                "fine del mondo",
+                "terra del fuoco",
+                "porto",
+                "beagle"
+              ]
+            },
+            {
+              "word": "Altiplano",
+              "forbiddens": [
+                "ande",
+                "bolivia",
+                "perù",
+                "alto",
+                "pianura"
+              ]
+            },
+            {
+              "word": "Salar de Uyuni",
+              "forbiddens": [
+                "bolivia",
+                "sale",
+                "specchio",
+                "deserto",
+                "bianco"
+              ]
+            },
+            {
+              "word": "Arequipa",
+              "forbiddens": [
+                "perù",
+                "vulcano",
+                "città bianca",
+                "ande",
+                "misti"
+              ]
+            },
+            {
+              "word": "Pantanal",
+              "forbiddens": [
+                "brasile",
+                "paludi",
+                "giaguaro",
+                "zona umida",
+                "mato grosso"
+              ]
+            },
+            {
+              "word": "Lençóis Maranhenses",
+              "forbiddens": [
+                "brasile",
+                "dune",
+                "lagune",
+                "acqua piovana",
+                "nord-est"
+              ]
+            },
+            {
+              "word": "Fernando de Noronha",
+              "forbiddens": [
+                "brasile",
+                "arcipelago",
+                "delfini",
+                "isola",
+                "atlantico"
+              ]
+            },
+            {
+              "word": "Alice Springs",
+              "forbiddens": [
+                "australia",
+                "outback",
+                "deserto",
+                "centro",
+                "uluru"
+              ]
+            },
+            {
+              "word": "Kakadu",
+              "forbiddens": [
+                "australia",
+                "parco",
+                "coccodrilli",
+                "nord",
+                "aborigeni"
+              ]
+            },
+            {
+              "word": "Blue Mountains",
+              "forbiddens": [
+                "australia",
+                "sydney",
+                "tre sorelle",
+                "montagne",
+                "eucalipti"
+              ]
+            },
+            {
+              "word": "Kangaroo Island",
+              "forbiddens": [
+                "australia",
+                "isola",
+                "sud",
+                "koala",
+                "otarie"
+              ]
+            },
+            {
+              "word": "Queenstown",
+              "forbiddens": [
+                "nuova zelanda",
+                "bungee",
+                "isola del sud",
+                "lago",
+                "sport"
+              ]
+            },
+            {
+              "word": "Fiordland",
+              "forbiddens": [
+                "nuova zelanda",
+                "insenature",
+                "isola del sud",
+                "montagne",
+                "milford"
+              ]
+            },
+            {
+              "word": "Tongariro",
+              "forbiddens": [
+                "nuova zelanda",
+                "vulcano",
+                "parco",
+                "trekking",
+                "isola del nord"
+              ]
+            },
+            {
+              "word": "Mare di Ross",
+              "forbiddens": [
+                "antartide",
+                "ghiaccio",
+                "oceano",
+                "balene",
+                "pacifico"
+              ]
+            },
+            {
+              "word": "Fumarola",
+              "forbiddens": [
+                "vulcano",
+                "vapore",
+                "zolfo",
+                "gas",
+                "solfatara"
+              ]
+            },
+            {
+              "word": "Antimeridiano",
+              "forbiddens": [
+                "180",
+                "linea",
+                "data",
+                "oceano pacifico",
+                "fuso orario"
+              ]
+            },
+            {
+              "word": "Cenote",
+              "forbiddens": [
+                "messico",
+                "yucatán",
+                "pozzo",
+                "acqua",
+                "caverna"
+              ]
+            },
+            {
+              "word": "Nancy",
+              "forbiddens": [
+                "francia",
+                "lorena",
+                "piazza",
+                "art nouveau",
+                "città"
+              ]
+            },
+            {
+              "word": "El Salvador",
+              "forbiddens": [
+                "surf",
+                "centro america",
+                "vulcani",
+                "pacifico",
+                "piccolo"
+              ]
+            },
+            {
+              "word": "Belize",
+              "forbiddens": [
+                "centro america",
+                "barriera corallina",
+                "caraibi",
+                "giungla",
+                "belmopan"
+              ]
+            },
+            {
+              "word": "Trinidad e Tobago",
+              "forbiddens": [
+                "caraibi",
+                "isole",
+                "carnevale",
+                "port of spain",
+                "steel band"
+              ]
+            },
+            {
+              "word": "Bahrein",
+              "forbiddens": [
+                "golfo",
+                "isola",
+                "arcipelago",
+                "manama",
+                "perle"
+              ]
+            },
+            {
+              "word": "Mauritania",
+              "forbiddens": [
+                "nouakchott",
+                "sahara",
+                "africa",
+                "deserto",
+                "atlantico"
+              ]
+            },
+            {
+              "word": "Gabon",
+              "forbiddens": [
+                "libreville",
+                "africa",
+                "equatore",
+                "foresta",
+                "atlantico"
+              ]
+            },
+            {
+              "word": "Ciad",
+              "forbiddens": [
+                "n'djamena",
+                "africa",
+                "lago",
+                "sahara",
+                "centro"
+              ]
+            },
+            {
+              "word": "Togo",
+              "forbiddens": [
+                "lomé",
+                "africa",
+                "golfo di guinea",
+                "ovest",
+                "piccolo"
+              ]
+            },
+            {
+              "word": "Benin",
+              "forbiddens": [
+                "porto-novo",
+                "africa",
+                "golfo di guinea",
+                "ovest",
+                "cotonou"
+              ]
+            },
+            {
+              "word": "Kiribati",
+              "forbiddens": [
+                "pacifico",
+                "atollo",
+                "isole",
+                "oceania",
+                "tarawa"
+              ]
+            },
+            {
+              "word": "Tuvalu",
+              "forbiddens": [
+                "pacifico",
+                "isole",
+                "piccolo",
+                "oceania",
+                "funafuti"
+              ]
+            },
+            {
+              "word": "Nauru",
+              "forbiddens": [
+                "pacifico",
+                "isola",
+                "piccolo",
+                "fosfati",
+                "oceania"
+              ]
+            },
+            {
+              "word": "Isole Marshall",
+              "forbiddens": [
+                "pacifico",
+                "atolli",
+                "micronesia",
+                "oceania",
+                "majuro"
+              ]
+            },
+            {
+              "word": "Micronesia",
+              "forbiddens": [
+                "pacifico",
+                "isole",
+                "oceania",
+                "arcipelago",
+                "caroline"
+              ]
+            },
+            {
+              "word": "Comore",
+              "forbiddens": [
+                "oceano indiano",
+                "isole",
+                "africa",
+                "moroni",
+                "arcipelago"
+              ]
+            },
+            {
+              "word": "Burundi",
+              "forbiddens": [
+                "africa",
+                "bujumbura",
+                "lago tanganica",
+                "piccolo",
+                "grandi laghi"
+              ]
+            },
+            {
+              "word": "Gibuti",
+              "forbiddens": [
+                "africa",
+                "corno d'africa",
+                "mar rosso",
+                "piccolo",
+                "porto"
+              ]
+            },
+            {
+              "word": "Niger",
+              "forbiddens": [
+                "niamey",
+                "africa",
+                "sahel",
+                "sahara",
+                "deserto"
+              ]
+            },
+            {
+              "word": "Guinea",
+              "forbiddens": [
+                "conakry",
+                "africa",
+                "ovest",
+                "atlantico",
+                "bauxite"
+              ]
+            },
+            {
+              "word": "Sierra Leone",
+              "forbiddens": [
+                "freetown",
+                "africa",
+                "ovest",
+                "atlantico",
+                "diamanti"
+              ]
+            },
+            {
+              "word": "Gambia",
+              "forbiddens": [
+                "banjul",
+                "africa",
+                "ovest",
+                "fiume",
+                "atlantico"
+              ]
+            },
+            {
+              "word": "Burkina Faso",
+              "forbiddens": [
+                "ouagadougou",
+                "africa",
+                "ovest",
+                "sahel",
+                "savana"
+              ]
+            },
+            {
+              "word": "São Tomé e Príncipe",
+              "forbiddens": [
+                "isole",
+                "africa",
+                "golfo di guinea",
+                "cacao",
+                "piccolo"
+              ]
+            },
+            {
+              "word": "Dominica",
+              "forbiddens": [
+                "caraibi",
+                "isola",
+                "roseau",
+                "foresta",
+                "vulcanica"
+              ]
+            },
+            {
+              "word": "Grenada",
+              "forbiddens": [
+                "caraibi",
+                "isola",
+                "spezie",
+                "noce moscata",
+                "st. george's"
+              ]
+            },
+            {
+              "word": "Santa Lucia",
+              "forbiddens": [
+                "caraibi",
+                "isola",
+                "pitons",
+                "vulcanica",
+                "castries"
+              ]
+            },
+            {
+              "word": "Antigua e Barbuda",
+              "forbiddens": [
+                "caraibi",
+                "isole",
+                "spiagge",
+                "vela",
+                "saint john's"
+              ]
+            },
+            {
+              "word": "Saint Kitts e Nevis",
+              "forbiddens": [
+                "caraibi",
+                "isole",
+                "piccolo",
+                "zucchero",
+                "basseterre"
+              ]
+            },
+            {
+              "word": "Capo Finisterre",
+              "forbiddens": [
+                "spagna",
+                "galizia",
+                "promontorio",
+                "atlantico",
+                "faro"
+              ]
+            },
+            {
+              "word": "Capo Roca",
+              "forbiddens": [
+                "portogallo",
+                "lisbona",
+                "promontorio",
+                "atlantico",
+                "più occidentale"
+              ]
+            },
+            {
+              "word": "Capo San Vincenzo",
+              "forbiddens": [
+                "portogallo",
+                "algarve",
+                "promontorio",
+                "faro",
+                "atlantico"
+              ]
+            },
+            {
+              "word": "Capo Matapan",
+              "forbiddens": [
+                "grecia",
+                "peloponneso",
+                "promontorio",
+                "mar ionio",
+                "sud"
+              ]
+            },
+            {
+              "word": "Capo Agulhas",
+              "forbiddens": [
+                "sudafrica",
+                "promontorio",
+                "africa",
+                "più meridionale",
+                "oceano"
+              ]
+            },
+            {
+              "word": "Punta Arenas",
+              "forbiddens": [
+                "cile",
+                "patagonia",
+                "stretto",
+                "porto",
+                "sud"
+              ]
+            },
+            {
+              "word": "Perito Moreno",
+              "forbiddens": [
+                "argentina",
+                "ghiacciaio",
+                "patagonia",
+                "lago argentino",
+                "calafate"
+              ]
+            },
+            {
+              "word": "El Calafate",
+              "forbiddens": [
+                "argentina",
+                "patagonia",
+                "ghiacciaio",
+                "lago",
+                "città"
+              ]
+            },
+            {
+              "word": "Bariloche",
+              "forbiddens": [
+                "argentina",
+                "patagonia",
+                "lago",
+                "cioccolato",
+                "ande"
+              ]
+            },
+            {
+              "word": "Mendoza",
+              "forbiddens": [
+                "argentina",
+                "ande",
+                "aconcagua",
+                "città",
+                "ovest"
+              ]
+            },
+            {
+              "word": "Córdoba",
+              "forbiddens": [
+                "argentina",
+                "città",
+                "sierras",
+                "centro",
+                "università"
+              ]
+            },
+            {
+              "word": "Salta",
+              "forbiddens": [
+                "argentina",
+                "nord",
+                "ande",
+                "città",
+                "treno"
+              ]
+            },
+            {
+              "word": "Valparaíso",
+              "forbiddens": [
+                "cile",
+                "porto",
+                "colline",
+                "case colorate",
+                "pacifico"
+              ]
+            },
+            {
+              "word": "Viña del Mar",
+              "forbiddens": [
+                "cile",
+                "spiagge",
+                "valparaíso",
+                "pacifico",
+                "città"
+              ]
+            },
+            {
+              "word": "Arica",
+              "forbiddens": [
+                "cile",
+                "nord",
+                "atacama",
+                "pacifico",
+                "città"
+              ]
+            },
+            {
+              "word": "San Pedro de Atacama",
+              "forbiddens": [
+                "cile",
+                "deserto",
+                "vulcani",
+                "geyser",
+                "oasi"
+              ]
+            },
+            {
+              "word": "Valle della Luna",
+              "forbiddens": [
+                "cile",
+                "atacama",
+                "deserto",
+                "rocce",
+                "sale"
+              ]
+            },
+            {
+              "word": "Sucre",
+              "forbiddens": [
+                "bolivia",
+                "capitale",
+                "coloniale",
+                "bianca",
+                "città"
+              ]
+            },
+            {
+              "word": "Potosí",
+              "forbiddens": [
+                "bolivia",
+                "montagna",
+                "argento",
+                "ande",
+                "città"
+              ]
+            },
+            {
+              "word": "Cochabamba",
+              "forbiddens": [
+                "bolivia",
+                "valle",
+                "città",
+                "centro",
+                "ande"
+              ]
+            },
+            {
+              "word": "Cuenca",
+              "forbiddens": [
+                "ecuador",
+                "ande",
+                "città",
+                "coloniale",
+                "cappelli"
+              ]
+            },
+            {
+              "word": "Baños",
+              "forbiddens": [
+                "ecuador",
+                "vulcano",
+                "cascate",
+                "terme",
+                "ande"
+              ]
+            },
+            {
+              "word": "Iquitos",
+              "forbiddens": [
+                "perù",
+                "amazzonia",
+                "fiume",
+                "città",
+                "giungla"
+              ]
+            },
+            {
+              "word": "Trujillo",
+              "forbiddens": [
+                "perù",
+                "nord",
+                "chan chan",
+                "città",
+                "costa"
+              ]
+            },
+            {
+              "word": "Valle Sacra",
+              "forbiddens": [
+                "perù",
+                "inca",
+                "cusco",
+                "urubamba",
+                "ande"
+              ]
+            },
+            {
+              "word": "Maracaibo",
+              "forbiddens": [
+                "venezuela",
+                "lago",
+                "petrolio",
+                "città",
+                "nord"
+              ]
+            },
+            {
+              "word": "Barranquilla",
+              "forbiddens": [
+                "colombia",
+                "caraibi",
+                "carnevale",
+                "porto",
+                "città"
+              ]
+            },
+            {
+              "word": "Cali",
+              "forbiddens": [
+                "colombia",
+                "salsa",
+                "città",
+                "ovest",
+                "valle"
+              ]
+            },
+            {
+              "word": "Santa Marta",
+              "forbiddens": [
+                "colombia",
+                "caraibi",
+                "sierra nevada",
+                "città",
+                "spiagge"
+              ]
+            },
+            {
+              "word": "Manaus",
+              "forbiddens": [
+                "brasile",
+                "amazzonia",
+                "rio negro",
+                "teatro",
+                "città"
+              ]
+            },
+            {
+              "word": "Belém",
+              "forbiddens": [
+                "brasile",
+                "pará",
+                "foce",
+                "amazzonia",
+                "porto"
+              ]
+            },
+            {
+              "word": "Recife",
+              "forbiddens": [
+                "brasile",
+                "nord-est",
+                "porto",
+                "olinda",
+                "carnevale"
+              ]
+            },
+            {
+              "word": "Fortaleza",
+              "forbiddens": [
+                "brasile",
+                "ceará",
+                "spiagge",
+                "nord-est",
+                "città"
+              ]
+            },
+            {
+              "word": "Natal",
+              "forbiddens": [
+                "brasile",
+                "dune",
+                "nord-est",
+                "città",
+                "spiagge"
+              ]
+            },
+            {
+              "word": "Belo Horizonte",
+              "forbiddens": [
+                "brasile",
+                "minas gerais",
+                "città",
+                "miniere",
+                "stadio"
+              ]
+            },
+            {
+              "word": "Curitiba",
+              "forbiddens": [
+                "brasile",
+                "paraná",
+                "città",
+                "sud",
+                "parchi"
+              ]
+            },
+            {
+              "word": "Porto Alegre",
+              "forbiddens": [
+                "brasile",
+                "sud",
+                "lago guaíba",
+                "città",
+                "gaúcho"
+              ]
+            },
+            {
+              "word": "Florianópolis",
+              "forbiddens": [
+                "brasile",
+                "isola",
+                "spiagge",
+                "santa catarina",
+                "sud"
+              ]
+            },
+            {
+              "word": "Ouro Preto",
+              "forbiddens": [
+                "brasile",
+                "minas gerais",
+                "oro",
+                "barocco",
+                "città"
+              ]
+            },
+            {
+              "word": "Paraty",
+              "forbiddens": [
+                "brasile",
+                "costa verde",
+                "rio de janeiro",
+                "coloniale",
+                "baia"
+              ]
+            },
+            {
+              "word": "Búzios",
+              "forbiddens": [
+                "brasile",
+                "rio de janeiro",
+                "penisola",
+                "spiagge",
+                "bardot"
+              ]
+            },
+            {
+              "word": "Chapada Diamantina",
+              "forbiddens": [
+                "brasile",
+                "bahia",
+                "altopiano",
+                "cascate",
+                "grotte"
+              ]
+            },
+            {
+              "word": "Valsesia",
+              "forbiddens": [
+                "piemonte",
+                "monte rosa",
+                "alagna",
+                "valle",
+                "vercelli"
               ]
             }
           ]

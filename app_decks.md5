@@ -16,18 +16,18 @@ f55a598a2c44aa11be0011adbcda944e  game_data_pt.json
 1c0491373ff2394ba6f52f5bcd3a7281  game_data_tr.json
 977afd456357739aacc889bb3c996e59  game_data_vi.json
 d38e99f7c27d70d435a6011b0e32846e  game_data.json
-# topics7: from forbidden-ios origin/decks/geo @ 743c40d (Taboo/Resources/Data)
-ed90192a35b32570283c5076b05ff11b  topics7/game_data_ar.json
-febbc202ab9d60fafc371223a4a00510  topics7/game_data_de.json
-8ce9f3c8be4fe4fca9fdf8cd2a32a4b1  topics7/game_data_en.json
-67482119bf7931739ba5fe717fd29a5d  topics7/game_data_es.json
-c578e031c1a0898dc29f7c6e8b8db673  topics7/game_data_fr.json
-912544aaf43374bfe765a3b2fc2bce9b  topics7/game_data_hu.json
-3744cf8cab95a3731ecd3b54e673183b  topics7/game_data_id.json
-c05f9e98cebd459e6d12352f5d9247e9  topics7/game_data_it.json
-6364031d6f0d27b7e728abfc591ab749  topics7/game_data_ko.json
-5119177e815b6b86db967ce18e393782  topics7/game_data_nl.json
-0620540dc8f96368f20e115a547ffa14  topics7/game_data_pl.json
-37a218b834bc8801f4eb9aec7086fd8c  topics7/game_data_pt.json
-6759f0d4c649f669161423313f01e0f6  topics7/game_data_tr.json
-064502806eda8f1e9de051e08eae90f3  topics7/game_data_vi.json
+# topics7: from forbidden-ios origin/master @ 2744048 (Taboo/Resources/Data)
+fdb215bcc8a1203b60a472b21c3c8f84  topics7/game_data_ar.json
+7fe7eeb87ee3c926bb701ffef983cf28  topics7/game_data_de.json
+8512be1f2e0741868ab34ecdcac93217  topics7/game_data_en.json
+4566bb664611ca48cc7ec555b37acbb0  topics7/game_data_es.json
+0bf45c8092114046428c96366586d2ba  topics7/game_data_fr.json
+9811dfc405c959eb3365b35ec615c54a  topics7/game_data_hu.json
+86778035fdb878632acacca1142466d7  topics7/game_data_id.json
+7b746deab1f04b7c07985fc7d57ec911  topics7/game_data_it.json
+797c9afbd6c96f0de30e3a5bd2c9907a  topics7/game_data_ko.json
+fa95b54c1a09166312a8dd6e86c169cd  topics7/game_data_nl.json
+c903f3eed1729ee9054d1a9c84484b83  topics7/game_data_pl.json
+75b028805015110e44e7e5a30c10872d  topics7/game_data_pt.json
+b5ac1e92421c907957edff4badf6cf46  topics7/game_data_tr.json
+30393721513e969a905df09ec9f5b060  topics7/game_data_vi.json

@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "data": [
     {
       "topic": "cultural",
@@ -93866,6 +93866,136 @@
                 "tayland",
                 "vietnam"
               ]
+            },
+            {
+              "word": "Türkiye",
+              "forbiddens": [
+                "ankara",
+                "anadolu",
+                "istanbul",
+                "bayrak",
+                "ülke"
+              ]
+            },
+            {
+              "word": "Çanakkale",
+              "forbiddens": [
+                "boğaz",
+                "truva",
+                "feribot",
+                "bozcaada",
+                "ege"
+              ]
+            },
+            {
+              "word": "Fırat Nehri",
+              "forbiddens": [
+                "dicle",
+                "mezopotamya",
+                "baraj",
+                "doğu",
+                "uzun"
+              ]
+            },
+            {
+              "word": "Dicle Nehri",
+              "forbiddens": [
+                "fırat",
+                "diyarbakır",
+                "mezopotamya",
+                "bağdat",
+                "güneydoğu"
+              ]
+            },
+            {
+              "word": "Almanya",
+              "forbiddens": [
+                "berlin",
+                "münih",
+                "sosis",
+                "avrupa",
+                "otoyol"
+              ]
+            },
+            {
+              "word": "Fransa",
+              "forbiddens": [
+                "paris",
+                "eyfel",
+                "baget",
+                "peynir",
+                "lavanta"
+              ]
+            },
+            {
+              "word": "Yunanistan",
+              "forbiddens": [
+                "atina",
+                "ada",
+                "zeytin",
+                "mikonos",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Grönland",
+              "forbiddens": [
+                "buz",
+                "ada",
+                "en büyük",
+                "inuit",
+                "soğuk"
+              ]
+            },
+            {
+              "word": "Himalayalar",
+              "forbiddens": [
+                "everest",
+                "zirve",
+                "en yüksek",
+                "kar",
+                "asya"
+              ]
+            },
+            {
+              "word": "Berlin",
+              "forbiddens": [
+                "almanya",
+                "başkent",
+                "brandenburg",
+                "spree",
+                "ayı"
+              ]
+            },
+            {
+              "word": "Kahire",
+              "forbiddens": [
+                "mısır",
+                "nil",
+                "başkent",
+                "kalabalık",
+                "afrika"
+              ]
+            },
+            {
+              "word": "Pekin",
+              "forbiddens": [
+                "çin",
+                "başkent",
+                "yasak şehir",
+                "ördek",
+                "olimpiyat"
+              ]
+            },
+            {
+              "word": "New York",
+              "forbiddens": [
+                "abd",
+                "gökdelen",
+                "manhattan",
+                "central park",
+                "kalabalık"
+              ]
             }
           ]
         },
@@ -96871,6 +97001,2716 @@
                 "kum tepeleri",
                 "kalahari"
               ]
+            },
+            {
+              "word": "Muş",
+              "forbiddens": [
+                "ova",
+                "doğu anadolu",
+                "murat",
+                "bulanık",
+                "lale"
+              ]
+            },
+            {
+              "word": "Osmaniye",
+              "forbiddens": [
+                "çukurova",
+                "yer fıstığı",
+                "zorkun",
+                "kadirli",
+                "akdeniz"
+              ]
+            },
+            {
+              "word": "Bingöl",
+              "forbiddens": [
+                "bal",
+                "doğu anadolu",
+                "solhan",
+                "murat",
+                "kar"
+              ]
+            },
+            {
+              "word": "Bayburt",
+              "forbiddens": [
+                "çoruh",
+                "kale",
+                "taş",
+                "kar",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Siirt",
+              "forbiddens": [
+                "fıstık",
+                "büryan",
+                "battaniye",
+                "güneydoğu",
+                "botan"
+              ]
+            },
+            {
+              "word": "Iğdır",
+              "forbiddens": [
+                "kayısı",
+                "doğu",
+                "ova",
+                "ağrı dağı",
+                "tuzluca"
+              ]
+            },
+            {
+              "word": "Şişli",
+              "forbiddens": [
+                "istanbul",
+                "mecidiyeköy",
+                "avrupa yakası",
+                "kalabalık",
+                "iş merkezi"
+              ]
+            },
+            {
+              "word": "Pendik",
+              "forbiddens": [
+                "istanbul",
+                "anadolu yakası",
+                "marmara",
+                "liman",
+                "tren"
+              ]
+            },
+            {
+              "word": "Maltepe",
+              "forbiddens": [
+                "istanbul",
+                "anadolu yakası",
+                "sahil",
+                "marmara",
+                "park"
+              ]
+            },
+            {
+              "word": "Ataşehir",
+              "forbiddens": [
+                "istanbul",
+                "anadolu yakası",
+                "gökdelen",
+                "finans",
+                "modern"
+              ]
+            },
+            {
+              "word": "Avcılar",
+              "forbiddens": [
+                "istanbul",
+                "avrupa yakası",
+                "üniversite",
+                "marmara",
+                "e-5"
+              ]
+            },
+            {
+              "word": "Silivri",
+              "forbiddens": [
+                "istanbul",
+                "trakya",
+                "marmara",
+                "yoğurt",
+                "batı"
+              ]
+            },
+            {
+              "word": "Gebze",
+              "forbiddens": [
+                "kocaeli",
+                "sanayi",
+                "istanbul",
+                "fabrika",
+                "otoyol"
+              ]
+            },
+            {
+              "word": "Çengelköy",
+              "forbiddens": [
+                "istanbul",
+                "boğaz",
+                "salatalık",
+                "üsküdar",
+                "iskele"
+              ]
+            },
+            {
+              "word": "Mogan Gölü",
+              "forbiddens": [
+                "ankara",
+                "gölbaşı",
+                "eymir",
+                "kuş",
+                "yürüyüş"
+              ]
+            },
+            {
+              "word": "Gençlik Parkı",
+              "forbiddens": [
+                "ankara",
+                "ulus",
+                "lunapark",
+                "havuz",
+                "bisiklet"
+              ]
+            },
+            {
+              "word": "Çankaya",
+              "forbiddens": [
+                "ankara",
+                "kızılay",
+                "tunalı",
+                "başkent",
+                "atakule"
+              ]
+            },
+            {
+              "word": "Alsancak",
+              "forbiddens": [
+                "izmir",
+                "kordon",
+                "gar",
+                "liman",
+                "kafe"
+              ]
+            },
+            {
+              "word": "Urla",
+              "forbiddens": [
+                "izmir",
+                "bağ",
+                "zeytinyağı",
+                "çeşme yarımadası",
+                "enginar"
+              ]
+            },
+            {
+              "word": "Karaburun",
+              "forbiddens": [
+                "izmir",
+                "yarımada",
+                "kıyı",
+                "ege",
+                "mordoğan"
+              ]
+            },
+            {
+              "word": "Dikili",
+              "forbiddens": [
+                "izmir",
+                "bergama",
+                "ege",
+                "termal",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Manavgat",
+              "forbiddens": [
+                "antalya",
+                "şelale",
+                "nehir",
+                "side",
+                "plaj"
+              ]
+            },
+            {
+              "word": "Belek",
+              "forbiddens": [
+                "antalya",
+                "golf",
+                "tatil",
+                "akdeniz",
+                "plaj"
+              ]
+            },
+            {
+              "word": "Demre",
+              "forbiddens": [
+                "antalya",
+                "kekova",
+                "myra",
+                "antik kent",
+                "akdeniz"
+              ]
+            },
+            {
+              "word": "Finike",
+              "forbiddens": [
+                "antalya",
+                "portakal",
+                "akdeniz",
+                "liman",
+                "kumluca"
+              ]
+            },
+            {
+              "word": "Gazipaşa",
+              "forbiddens": [
+                "antalya",
+                "alanya",
+                "havalimanı",
+                "muz",
+                "akdeniz"
+              ]
+            },
+            {
+              "word": "Serik",
+              "forbiddens": [
+                "antalya",
+                "aspendos",
+                "belek",
+                "akdeniz",
+                "ova"
+              ]
+            },
+            {
+              "word": "Amasya",
+              "forbiddens": [
+                "yeşilırmak",
+                "elma",
+                "yalıboyu",
+                "karadeniz",
+                "kale"
+              ]
+            },
+            {
+              "word": "Zonguldak",
+              "forbiddens": [
+                "kömür",
+                "maden",
+                "karadeniz",
+                "ereğli",
+                "bartın"
+              ]
+            },
+            {
+              "word": "Niğde",
+              "forbiddens": [
+                "elma",
+                "patates",
+                "aladağlar",
+                "bor",
+                "iç anadolu"
+              ]
+            },
+            {
+              "word": "Sivas",
+              "forbiddens": [
+                "kızılırmak",
+                "kangal",
+                "köfte",
+                "iç anadolu",
+                "balıklı"
+              ]
+            },
+            {
+              "word": "Kahramanmaraş",
+              "forbiddens": [
+                "dondurma",
+                "biber",
+                "tarhana",
+                "ahır dağı",
+                "akdeniz"
+              ]
+            },
+            {
+              "word": "Kırklareli",
+              "forbiddens": [
+                "trakya",
+                "istranca",
+                "peynir",
+                "vize",
+                "ormanlık"
+              ]
+            },
+            {
+              "word": "Düzce",
+              "forbiddens": [
+                "akçakoca",
+                "fındık",
+                "konuralp",
+                "batı karadeniz",
+                "bolu"
+              ]
+            },
+            {
+              "word": "Aksaray",
+              "forbiddens": [
+                "ihlara",
+                "tuz gölü",
+                "hasan dağı",
+                "iç anadolu",
+                "kapadokya"
+              ]
+            },
+            {
+              "word": "Bartın",
+              "forbiddens": [
+                "amasra",
+                "karadeniz",
+                "zonguldak",
+                "kıyı",
+                "liman"
+              ]
+            },
+            {
+              "word": "Bitlis",
+              "forbiddens": [
+                "nemrut",
+                "tatvan",
+                "van gölü",
+                "doğu",
+                "ahlat"
+              ]
+            },
+            {
+              "word": "Cunda Adası",
+              "forbiddens": [
+                "ayvalık",
+                "balıkesir",
+                "ege",
+                "balık",
+                "taş ev"
+              ]
+            },
+            {
+              "word": "Uzungöl",
+              "forbiddens": [
+                "trabzon",
+                "çaykara",
+                "karadeniz",
+                "yayla",
+                "sis"
+              ]
+            },
+            {
+              "word": "İznik Gölü",
+              "forbiddens": [
+                "bursa",
+                "yalova",
+                "çini",
+                "marmara",
+                "balık"
+              ]
+            },
+            {
+              "word": "Hasan Dağı",
+              "forbiddens": [
+                "aksaray",
+                "volkan",
+                "zirve",
+                "kapadokya",
+                "iç anadolu"
+              ]
+            },
+            {
+              "word": "Büyük Menderes",
+              "forbiddens": [
+                "ege",
+                "nehir",
+                "aydın",
+                "denizli",
+                "kıvrım"
+              ]
+            },
+            {
+              "word": "Ceyhan Nehri",
+              "forbiddens": [
+                "adana",
+                "osmaniye",
+                "akdeniz",
+                "kahramanmaraş",
+                "çukurova"
+              ]
+            },
+            {
+              "word": "Çoruh Nehri",
+              "forbiddens": [
+                "rafting",
+                "artvin",
+                "yusufeli",
+                "baraj",
+                "karadeniz"
+              ]
+            },
+            {
+              "word": "Belçika",
+              "forbiddens": [
+                "brüksel",
+                "çikolata",
+                "waffle",
+                "avrupa",
+                "brugge"
+              ]
+            },
+            {
+              "word": "İsveç",
+              "forbiddens": [
+                "stockholm",
+                "iskandinavya",
+                "kuzey",
+                "orman",
+                "göl"
+              ]
+            },
+            {
+              "word": "Danimarka",
+              "forbiddens": [
+                "kopenhag",
+                "bisiklet",
+                "kuzey",
+                "iskandinavya",
+                "yutland"
+              ]
+            },
+            {
+              "word": "Malezya",
+              "forbiddens": [
+                "kuala lumpur",
+                "petronas",
+                "tropikal",
+                "asya",
+                "palmiye"
+              ]
+            },
+            {
+              "word": "Filipinler",
+              "forbiddens": [
+                "manila",
+                "adalar",
+                "asya",
+                "muz",
+                "tayfun"
+              ]
+            },
+            {
+              "word": "Paraguay",
+              "forbiddens": [
+                "asunción",
+                "güney amerika",
+                "guarani",
+                "itaipu",
+                "denize kıyısız"
+              ]
+            },
+            {
+              "word": "Kosta Rika",
+              "forbiddens": [
+                "san jose",
+                "orta amerika",
+                "kahve",
+                "yağmur ormanı",
+                "tropikal"
+              ]
+            },
+            {
+              "word": "Fiji",
+              "forbiddens": [
+                "pasifik",
+                "ada",
+                "suva",
+                "tropikal",
+                "mercan"
+              ]
+            },
+            {
+              "word": "Umman",
+              "forbiddens": [
+                "maskat",
+                "arabistan",
+                "körfez",
+                "kale",
+                "hurma"
+              ]
+            },
+            {
+              "word": "Kuveyt",
+              "forbiddens": [
+                "petrol",
+                "körfez",
+                "arabistan",
+                "çöl",
+                "sıcak"
+              ]
+            },
+            {
+              "word": "Guatemala",
+              "forbiddens": [
+                "orta amerika",
+                "maya",
+                "volkan",
+                "kahve",
+                "tikal"
+              ]
+            },
+            {
+              "word": "Myanmar",
+              "forbiddens": [
+                "yangon",
+                "asya",
+                "pagoda",
+                "irrawaddy",
+                "güneydoğu"
+              ]
+            },
+            {
+              "word": "Saraybosna",
+              "forbiddens": [
+                "bosna hersek",
+                "başkent",
+                "boşnak",
+                "balkan",
+                "miljacka"
+              ]
+            },
+            {
+              "word": "Üsküp",
+              "forbiddens": [
+                "kuzey makedonya",
+                "başkent",
+                "vardar",
+                "taş köprü",
+                "balkan"
+              ]
+            },
+            {
+              "word": "Tiflis",
+              "forbiddens": [
+                "gürcistan",
+                "başkent",
+                "kura",
+                "kafkasya",
+                "kaplıca"
+              ]
+            },
+            {
+              "word": "Abu Dabi",
+              "forbiddens": [
+                "birleşik arap emirlikleri",
+                "başkent",
+                "körfez",
+                "petrol",
+                "dubai"
+              ]
+            },
+            {
+              "word": "İskenderiye",
+              "forbiddens": [
+                "mısır",
+                "akdeniz",
+                "deniz feneri",
+                "nil",
+                "liman"
+              ]
+            },
+            {
+              "word": "Caracas",
+              "forbiddens": [
+                "venezuela",
+                "başkent",
+                "güney amerika",
+                "karayip",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Cancún",
+              "forbiddens": [
+                "meksika",
+                "karayip",
+                "tatil",
+                "plaj",
+                "yucatan"
+              ]
+            },
+            {
+              "word": "Kraków",
+              "forbiddens": [
+                "polonya",
+                "wawel",
+                "vistül",
+                "eski şehir",
+                "tuz madeni"
+              ]
+            },
+            {
+              "word": "Bern",
+              "forbiddens": [
+                "isviçre",
+                "başkent",
+                "ayı",
+                "aare",
+                "eski şehir"
+              ]
+            },
+            {
+              "word": "Granada",
+              "forbiddens": [
+                "ispanya",
+                "elhamra",
+                "endülüs",
+                "sierra nevada",
+                "kale"
+              ]
+            },
+            {
+              "word": "Rotterdam",
+              "forbiddens": [
+                "hollanda",
+                "liman",
+                "köprü",
+                "ren",
+                "avrupa"
+              ]
+            },
+            {
+              "word": "Riga",
+              "forbiddens": [
+                "letonya",
+                "başkent",
+                "baltık",
+                "art nouveau",
+                "daugava"
+              ]
+            },
+            {
+              "word": "Uluru",
+              "forbiddens": [
+                "avustralya",
+                "kırmızı",
+                "kaya",
+                "çöl",
+                "outback"
+              ]
+            },
+            {
+              "word": "Vezüv",
+              "forbiddens": [
+                "napoli",
+                "volkan",
+                "italya",
+                "krater",
+                "pompei"
+              ]
+            },
+            {
+              "word": "Mekong",
+              "forbiddens": [
+                "vietnam",
+                "nehir",
+                "asya",
+                "delta",
+                "tayland"
+              ]
+            },
+            {
+              "word": "Zambezi",
+              "forbiddens": [
+                "victoria şelalesi",
+                "afrika",
+                "nehir",
+                "mozambik",
+                "zimbabve"
+              ]
+            },
+            {
+              "word": "Michigan Gölü",
+              "forbiddens": [
+                "chicago",
+                "abd",
+                "büyük göller",
+                "tatlı su",
+                "kuzey amerika"
+              ]
+            },
+            {
+              "word": "Cenevre Gölü",
+              "forbiddens": [
+                "isviçre",
+                "fransa",
+                "alpler",
+                "lozan",
+                "montreux"
+              ]
+            },
+            {
+              "word": "Adriyatik Denizi",
+              "forbiddens": [
+                "italya",
+                "hırvatistan",
+                "venedik",
+                "akdeniz",
+                "dubrovnik"
+              ]
+            },
+            {
+              "word": "Atacama Çölü",
+              "forbiddens": [
+                "şili",
+                "en kurak",
+                "güney amerika",
+                "andlar",
+                "tuz"
+              ]
+            },
+            {
+              "word": "İbiza",
+              "forbiddens": [
+                "ispanya",
+                "ada",
+                "akdeniz",
+                "balear",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Madeira",
+              "forbiddens": [
+                "portekiz",
+                "ada",
+                "atlantik",
+                "funchal",
+                "çiçek"
+              ]
+            },
+            {
+              "word": "Korsika",
+              "forbiddens": [
+                "fransa",
+                "ada",
+                "akdeniz",
+                "dağlık",
+                "ajaccio"
+              ]
+            },
+            {
+              "word": "Kapri",
+              "forbiddens": [
+                "italya",
+                "ada",
+                "napoli",
+                "mavi mağara",
+                "akdeniz"
+              ]
+            },
+            {
+              "word": "Seyşeller",
+              "forbiddens": [
+                "hint okyanusu",
+                "ada",
+                "tropikal",
+                "plaj",
+                "afrika"
+              ]
+            },
+            {
+              "word": "Empire State Binası",
+              "forbiddens": [
+                "new york",
+                "abd",
+                "gökdelen",
+                "manhattan",
+                "asansör"
+              ]
+            },
+            {
+              "word": "Step",
+              "forbiddens": [
+                "otlak",
+                "ağaçsız",
+                "geniş",
+                "kuru",
+                "orta asya"
+              ]
+            },
+            {
+              "word": "Ergene Nehri",
+              "forbiddens": [
+                "trakya",
+                "tekirdağ",
+                "edirne",
+                "meriç",
+                "kirli"
+              ]
+            },
+            {
+              "word": "Tunca Nehri",
+              "forbiddens": [
+                "edirne",
+                "trakya",
+                "bulgaristan",
+                "meriç",
+                "köprü"
+              ]
+            },
+            {
+              "word": "Kelkit Çayı",
+              "forbiddens": [
+                "tokat",
+                "karadeniz",
+                "nehir",
+                "yeşilırmak",
+                "vadi"
+              ]
+            },
+            {
+              "word": "Göksu Nehri",
+              "forbiddens": [
+                "mersin",
+                "silifke",
+                "akdeniz",
+                "delta",
+                "toroslar"
+              ]
+            },
+            {
+              "word": "Manavgat Şelalesi",
+              "forbiddens": [
+                "antalya",
+                "nehir",
+                "side",
+                "su",
+                "turist"
+              ]
+            },
+            {
+              "word": "Zigana Geçidi",
+              "forbiddens": [
+                "gümüşhane",
+                "trabzon",
+                "karadeniz",
+                "dağ",
+                "yol"
+              ]
+            },
+            {
+              "word": "Munzur Vadisi",
+              "forbiddens": [
+                "tunceli",
+                "milli park",
+                "kanyon",
+                "nehir",
+                "kaynak"
+              ]
+            },
+            {
+              "word": "Fatsa",
+              "forbiddens": [
+                "ordu",
+                "karadeniz",
+                "fındık",
+                "sahil",
+                "ova"
+              ]
+            },
+            {
+              "word": "Çarşamba Ovası",
+              "forbiddens": [
+                "samsun",
+                "yeşilırmak",
+                "delta",
+                "tarım",
+                "karadeniz"
+              ]
+            },
+            {
+              "word": "Bafra Ovası",
+              "forbiddens": [
+                "samsun",
+                "kızılırmak",
+                "delta",
+                "tarım",
+                "karadeniz"
+              ]
+            },
+            {
+              "word": "Şarköy",
+              "forbiddens": [
+                "tekirdağ",
+                "marmara",
+                "üzüm",
+                "sahil",
+                "trakya"
+              ]
+            },
+            {
+              "word": "Erdek",
+              "forbiddens": [
+                "balıkesir",
+                "marmara",
+                "kapıdağ",
+                "sahil",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Kapıdağ Yarımadası",
+              "forbiddens": [
+                "balıkesir",
+                "marmara",
+                "erdek",
+                "sahil",
+                "zeytin"
+              ]
+            },
+            {
+              "word": "Sivrihisar",
+              "forbiddens": [
+                "eskişehir",
+                "ulu cami",
+                "kale",
+                "nasreddin hoca",
+                "iç anadolu"
+              ]
+            },
+            {
+              "word": "Polatlı",
+              "forbiddens": [
+                "ankara",
+                "buğday",
+                "sakarya nehri",
+                "tarım",
+                "ova"
+              ]
+            },
+            {
+              "word": "Mengen",
+              "forbiddens": [
+                "bolu",
+                "aşçı",
+                "mutfak",
+                "orman",
+                "ahşap"
+              ]
+            },
+            {
+              "word": "Boztepe",
+              "forbiddens": [
+                "ordu",
+                "manzara",
+                "teleferik",
+                "karadeniz",
+                "kent"
+              ]
+            },
+            {
+              "word": "Soğuksu Milli Parkı",
+              "forbiddens": [
+                "ankara",
+                "kızılcahamam",
+                "orman",
+                "kamp",
+                "doğa"
+              ]
+            },
+            {
+              "word": "Keban Barajı",
+              "forbiddens": [
+                "elazığ",
+                "fırat",
+                "set",
+                "göl",
+                "elektrik"
+              ]
+            },
+            {
+              "word": "Katmandu",
+              "forbiddens": [
+                "nepal",
+                "başkent",
+                "himalayalar",
+                "vadi",
+                "kalabalık"
+              ]
+            },
+            {
+              "word": "Dubrovnik",
+              "forbiddens": [
+                "hırvatistan",
+                "surlar",
+                "adriyatik",
+                "kıyı",
+                "eski şehir"
+              ]
+            },
+            {
+              "word": "Toledo",
+              "forbiddens": [
+                "ispanya",
+                "kastilya",
+                "tajo",
+                "orta çağ",
+                "kale"
+              ]
+            },
+            {
+              "word": "Innsbruck",
+              "forbiddens": [
+                "avusturya",
+                "alpler",
+                "kayak",
+                "tirol",
+                "olimpiyat"
+              ]
+            },
+            {
+              "word": "Gdańsk",
+              "forbiddens": [
+                "polonya",
+                "baltık",
+                "liman",
+                "eski şehir",
+                "kehribar"
+              ]
+            },
+            {
+              "word": "Laponya",
+              "forbiddens": [
+                "finlandiya",
+                "kuzey",
+                "ren geyiği",
+                "kutup",
+                "kar"
+              ]
+            },
+            {
+              "word": "Malmö",
+              "forbiddens": [
+                "isveç",
+                "güney",
+                "köprü",
+                "danimarka",
+                "liman"
+              ]
+            },
+            {
+              "word": "Wellington",
+              "forbiddens": [
+                "yeni zelanda",
+                "başkent",
+                "rüzgâr",
+                "kuzey ada",
+                "liman"
+              ]
+            },
+            {
+              "word": "Addis Ababa",
+              "forbiddens": [
+                "etiyopya",
+                "başkent",
+                "afrika",
+                "yüksek",
+                "kahve"
+              ]
+            },
+            {
+              "word": "Bavyera",
+              "forbiddens": [
+                "almanya",
+                "münih",
+                "alpler",
+                "güney",
+                "kale"
+              ]
+            },
+            {
+              "word": "Trinidad ve Tobago",
+              "forbiddens": [
+                "karayip",
+                "ada",
+                "port of spain",
+                "karnaval",
+                "petrol"
+              ]
+            },
+            {
+              "word": "Burgaz",
+              "forbiddens": [
+                "bulgaristan",
+                "karadeniz",
+                "liman",
+                "tatil",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Nürnberg",
+              "forbiddens": [
+                "almanya",
+                "bavyera",
+                "noel pazarı",
+                "kale",
+                "oyuncak"
+              ]
+            },
+            {
+              "word": "Provence",
+              "forbiddens": [
+                "fransa",
+                "lavanta",
+                "güney",
+                "akdeniz",
+                "marsilya"
+              ]
+            },
+            {
+              "word": "İskoçya",
+              "forbiddens": [
+                "edinburgh",
+                "kuzey",
+                "kale",
+                "highlands",
+                "gayda"
+              ]
+            },
+            {
+              "word": "Yangon",
+              "forbiddens": [
+                "myanmar",
+                "pagoda",
+                "irrawaddy",
+                "asya",
+                "liman"
+              ]
+            },
+            {
+              "word": "Quebec",
+              "forbiddens": [
+                "kanada",
+                "fransızca",
+                "montreal",
+                "doğu",
+                "kar"
+              ]
+            },
+            {
+              "word": "Milas",
+              "forbiddens": [
+                "muğla",
+                "bodrum",
+                "havalimanı",
+                "zeytin",
+                "ege"
+              ]
+            },
+            {
+              "word": "Asvan",
+              "forbiddens": [
+                "mısır",
+                "nil",
+                "baraj",
+                "güney",
+                "yelkenli"
+              ]
+            },
+            {
+              "word": "Kotor",
+              "forbiddens": [
+                "karadağ",
+                "körfez",
+                "kale",
+                "adriyatik",
+                "eski şehir"
+              ]
+            },
+            {
+              "word": "Akyaka",
+              "forbiddens": [
+                "muğla",
+                "gökova",
+                "rüzgâr",
+                "kıyı",
+                "ege"
+              ]
+            },
+            {
+              "word": "Kingston",
+              "forbiddens": [
+                "jamaika",
+                "başkent",
+                "karayip",
+                "reggae",
+                "liman"
+              ]
+            },
+            {
+              "word": "Trablus",
+              "forbiddens": [
+                "libya",
+                "başkent",
+                "akdeniz",
+                "afrika",
+                "liman"
+              ]
+            },
+            {
+              "word": "Ontario",
+              "forbiddens": [
+                "kanada",
+                "toronto",
+                "göller",
+                "niagara",
+                "ottawa"
+              ]
+            },
+            {
+              "word": "Pattaya",
+              "forbiddens": [
+                "tayland",
+                "plaj",
+                "körfez",
+                "tatil",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Dakar",
+              "forbiddens": [
+                "senegal",
+                "başkent",
+                "atlantik",
+                "afrika",
+                "ralli"
+              ]
+            },
+            {
+              "word": "Manş Denizi",
+              "forbiddens": [
+                "ingiltere",
+                "fransa",
+                "kanal tüneli",
+                "dar",
+                "feribot"
+              ]
+            },
+            {
+              "word": "Bering Boğazı",
+              "forbiddens": [
+                "alaska",
+                "sibirya",
+                "buz",
+                "dar",
+                "pasifik"
+              ]
+            },
+            {
+              "word": "Büyük Göller",
+              "forbiddens": [
+                "kanada",
+                "abd",
+                "tatlı su",
+                "michigan",
+                "superior"
+              ]
+            },
+            {
+              "word": "Normandiya",
+              "forbiddens": [
+                "fransa",
+                "kuzey",
+                "kıyı",
+                "elma",
+                "camembert"
+              ]
+            },
+            {
+              "word": "Oder",
+              "forbiddens": [
+                "polonya",
+                "almanya",
+                "nehir",
+                "baltık",
+                "wroclaw"
+              ]
+            },
+            {
+              "word": "Cibuti",
+              "forbiddens": [
+                "kızıldeniz",
+                "afrika",
+                "tuz gölü",
+                "liman",
+                "çöl"
+              ]
+            },
+            {
+              "word": "Bereketli Hilal",
+              "forbiddens": [
+                "ortadoğu",
+                "dicle",
+                "fırat",
+                "tarım",
+                "antik"
+              ]
+            },
+            {
+              "word": "Köstence",
+              "forbiddens": [
+                "romanya",
+                "karadeniz",
+                "liman",
+                "plaj",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Söke",
+              "forbiddens": [
+                "aydın",
+                "ege",
+                "ova",
+                "menderes",
+                "pamuk"
+              ]
+            },
+            {
+              "word": "Yalıkavak",
+              "forbiddens": [
+                "bodrum",
+                "ege",
+                "marina",
+                "yarımada",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Wrocław",
+              "forbiddens": [
+                "polonya",
+                "oder",
+                "cüceler",
+                "köprü",
+                "silezya"
+              ]
+            },
+            {
+              "word": "Christchurch",
+              "forbiddens": [
+                "yeni zelanda",
+                "güney ada",
+                "bahçe",
+                "canterbury",
+                "şehir"
+              ]
+            },
+            {
+              "word": "Elbe Nehri",
+              "forbiddens": [
+                "almanya",
+                "hamburg",
+                "dresden",
+                "çekya",
+                "kuzey denizi"
+              ]
+            },
+            {
+              "word": "Adelaide",
+              "forbiddens": [
+                "avustralya",
+                "güney",
+                "bağ",
+                "festival",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Dover Boğazı",
+              "forbiddens": [
+                "manş",
+                "ingiltere",
+                "fransa",
+                "dar",
+                "feribot"
+              ]
+            },
+            {
+              "word": "Kalküta",
+              "forbiddens": [
+                "hindistan",
+                "bengal",
+                "hooghly",
+                "doğu",
+                "kalabalık"
+              ]
+            },
+            {
+              "word": "Bangalore",
+              "forbiddens": [
+                "hindistan",
+                "güney",
+                "teknoloji",
+                "bahçe",
+                "yayla"
+              ]
+            },
+            {
+              "word": "Durban",
+              "forbiddens": [
+                "güney afrika",
+                "hint okyanusu",
+                "plaj",
+                "liman",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Vaduz",
+              "forbiddens": [
+                "lihtenştayn",
+                "başkent",
+                "alpler",
+                "kale",
+                "küçük"
+              ]
+            },
+            {
+              "word": "Lahor",
+              "forbiddens": [
+                "pakistan",
+                "pencap",
+                "tarihi",
+                "kale",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Zagreb",
+              "forbiddens": [
+                "hırvatistan",
+                "başkent",
+                "balkan",
+                "tramvay",
+                "avrupa"
+              ]
+            },
+            {
+              "word": "San José",
+              "forbiddens": [
+                "kosta rika",
+                "başkent",
+                "orta amerika",
+                "kahve",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Hudson Körfezi",
+              "forbiddens": [
+                "kanada",
+                "kuzey",
+                "buz",
+                "ayı",
+                "deniz"
+              ]
+            },
+            {
+              "word": "Ulan Batur",
+              "forbiddens": [
+                "moğolistan",
+                "başkent",
+                "soğuk",
+                "asya",
+                "step"
+              ]
+            },
+            {
+              "word": "Katalonya",
+              "forbiddens": [
+                "ispanya",
+                "barselona",
+                "kuzeydoğu",
+                "akdeniz",
+                "pireneler"
+              ]
+            },
+            {
+              "word": "Tiran",
+              "forbiddens": [
+                "arnavutluk",
+                "başkent",
+                "balkan",
+                "meydan",
+                "renkli"
+              ]
+            },
+            {
+              "word": "Panama Kanalı",
+              "forbiddens": [
+                "atlantik",
+                "pasifik",
+                "gemi",
+                "orta amerika",
+                "havuz"
+              ]
+            },
+            {
+              "word": "Dresden",
+              "forbiddens": [
+                "almanya",
+                "elbe",
+                "saksonya",
+                "opera",
+                "eski şehir"
+              ]
+            },
+            {
+              "word": "Cairns",
+              "forbiddens": [
+                "avustralya",
+                "queensland",
+                "büyük set resifi",
+                "tropikal",
+                "dalış"
+              ]
+            },
+            {
+              "word": "Papua Yeni Gine",
+              "forbiddens": [
+                "port moresby",
+                "pasifik",
+                "orman",
+                "ada",
+                "melanezya"
+              ]
+            },
+            {
+              "word": "Kolombo",
+              "forbiddens": [
+                "sri lanka",
+                "ada",
+                "hint okyanusu",
+                "liman",
+                "çay"
+              ]
+            },
+            {
+              "word": "Çıralı",
+              "forbiddens": [
+                "antalya",
+                "olimpos",
+                "plaj",
+                "kaplumbağa",
+                "akdeniz"
+              ]
+            },
+            {
+              "word": "Balat",
+              "forbiddens": [
+                "istanbul",
+                "renkli",
+                "haliç",
+                "fener",
+                "sokak"
+              ]
+            },
+            {
+              "word": "İskenderun",
+              "forbiddens": [
+                "hatay",
+                "liman",
+                "körfez",
+                "akdeniz",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Gümüşhane",
+              "forbiddens": [
+                "zigana",
+                "trabzon",
+                "pestil",
+                "karadeniz",
+                "dağlık"
+              ]
+            },
+            {
+              "word": "Arktik Okyanusu",
+              "forbiddens": [
+                "kuzey kutbu",
+                "buz",
+                "kutup ayısı",
+                "en küçük",
+                "soğuk"
+              ]
+            },
+            {
+              "word": "Hazar Denizi",
+              "forbiddens": [
+                "en büyük göl",
+                "bakü",
+                "mersin balığı",
+                "petrol",
+                "tuzlu"
+              ]
+            },
+            {
+              "word": "Greenwich",
+              "forbiddens": [
+                "londra",
+                "meridyen",
+                "gözlemevi",
+                "thames",
+                "zaman"
+              ]
+            },
+            {
+              "word": "Houston",
+              "forbiddens": [
+                "teksas",
+                "nasa",
+                "uzay",
+                "petrol",
+                "abd"
+              ]
+            },
+            {
+              "word": "Melbourne",
+              "forbiddens": [
+                "avustralya",
+                "victoria",
+                "yarra",
+                "tramvay",
+                "tenis"
+              ]
+            },
+            {
+              "word": "Auckland",
+              "forbiddens": [
+                "yeni zelanda",
+                "kuzey ada",
+                "yelken",
+                "liman",
+                "en büyük şehir"
+              ]
+            },
+            {
+              "word": "Phuket",
+              "forbiddens": [
+                "tayland",
+                "ada",
+                "plaj",
+                "andaman denizi",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Semerkant",
+              "forbiddens": [
+                "özbekistan",
+                "ipek yolu",
+                "registan",
+                "medrese",
+                "antik"
+              ]
+            },
+            {
+              "word": "Taşkent",
+              "forbiddens": [
+                "özbekistan",
+                "başkent",
+                "metro",
+                "orta asya",
+                "türkistan"
+              ]
+            },
+            {
+              "word": "Almatı",
+              "forbiddens": [
+                "kazakistan",
+                "elma",
+                "tanrı dağları",
+                "en büyük şehir",
+                "eski başkent"
+              ]
+            },
+            {
+              "word": "Astana",
+              "forbiddens": [
+                "kazakistan",
+                "başkent",
+                "step",
+                "modern",
+                "bayterek"
+              ]
+            },
+            {
+              "word": "Bratislava",
+              "forbiddens": [
+                "slovakya",
+                "tuna",
+                "başkent",
+                "viyana",
+                "kale"
+              ]
+            },
+            {
+              "word": "Strazburg",
+              "forbiddens": [
+                "alsas",
+                "ren",
+                "katedral",
+                "fransa",
+                "noel pazarı"
+              ]
+            },
+            {
+              "word": "Dalmaçya",
+              "forbiddens": [
+                "hırvatistan",
+                "adriyatik",
+                "kıyı",
+                "adalar",
+                "split"
+              ]
+            },
+            {
+              "word": "Kanarya Adaları",
+              "forbiddens": [
+                "tenerife",
+                "gran canaria",
+                "atlas okyanusu",
+                "volkan",
+                "lanzarote"
+              ]
+            },
+            {
+              "word": "Balear Adaları",
+              "forbiddens": [
+                "mallorca",
+                "ibiza",
+                "menorca",
+                "formentera",
+                "akdeniz"
+              ]
+            },
+            {
+              "word": "Toskana",
+              "forbiddens": [
+                "floransa",
+                "siena",
+                "italya",
+                "pisa",
+                "selvi"
+              ]
+            },
+            {
+              "word": "Anvers",
+              "forbiddens": [
+                "belçika",
+                "elmas",
+                "liman",
+                "flaman",
+                "katedral"
+              ]
+            },
+            {
+              "word": "Varna",
+              "forbiddens": [
+                "bulgaristan",
+                "karadeniz",
+                "liman",
+                "plaj",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Mostar",
+              "forbiddens": [
+                "bosna hersek",
+                "köprü",
+                "neretva",
+                "osmanlı",
+                "taş"
+              ]
+            },
+            {
+              "word": "Tirol",
+              "forbiddens": [
+                "avusturya",
+                "alpler",
+                "kayak",
+                "innsbruck",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Rabat",
+              "forbiddens": [
+                "fas",
+                "başkent",
+                "atlantik",
+                "hassan kulesi",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Lagos",
+              "forbiddens": [
+                "nijerya",
+                "en büyük şehir",
+                "liman",
+                "afrika",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Masa Dağı",
+              "forbiddens": [
+                "cape town",
+                "güney afrika",
+                "düz",
+                "bulut",
+                "zirve"
+              ]
+            },
+            {
+              "word": "Mauritius",
+              "forbiddens": [
+                "ada",
+                "hint okyanusu",
+                "dodo",
+                "port louis",
+                "plaj"
+              ]
+            },
+            {
+              "word": "Kara Orman",
+              "forbiddens": [
+                "almanya",
+                "pasta",
+                "kiraz",
+                "güneybatı",
+                "çam"
+              ]
+            },
+            {
+              "word": "Nagoya",
+              "forbiddens": [
+                "japonya",
+                "honshu",
+                "şato",
+                "otomobil",
+                "liman"
+              ]
+            },
+            {
+              "word": "Kobe",
+              "forbiddens": [
+                "japonya",
+                "honshu",
+                "liman",
+                "biftek",
+                "osaka"
+              ]
+            },
+            {
+              "word": "Batum",
+              "forbiddens": [
+                "gürcistan",
+                "karadeniz",
+                "liman",
+                "sahil",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Nashville",
+              "forbiddens": [
+                "tennessee",
+                "country",
+                "abd",
+                "gitar",
+                "kovboy"
+              ]
+            },
+            {
+              "word": "Memphis",
+              "forbiddens": [
+                "tennessee",
+                "mississippi",
+                "blues",
+                "abd",
+                "nehir"
+              ]
+            },
+            {
+              "word": "Manaus",
+              "forbiddens": [
+                "brezilya",
+                "amazon",
+                "orman",
+                "nehir",
+                "tropik"
+              ]
+            },
+            {
+              "word": "Nassau",
+              "forbiddens": [
+                "bahamalar",
+                "karayip",
+                "başkent",
+                "ada",
+                "plaj"
+              ]
+            },
+            {
+              "word": "Yucatan",
+              "forbiddens": [
+                "meksika",
+                "yarımada",
+                "maya",
+                "cenote",
+                "karayip"
+              ]
+            },
+            {
+              "word": "Pisa",
+              "forbiddens": [
+                "italya",
+                "eğik kule",
+                "toskana",
+                "arno",
+                "üniversite"
+              ]
+            },
+            {
+              "word": "Torino",
+              "forbiddens": [
+                "italya",
+                "piemonte",
+                "alpler",
+                "po nehri",
+                "çikolata"
+              ]
+            },
+            {
+              "word": "Parma",
+              "forbiddens": [
+                "italya",
+                "peynir",
+                "jambon",
+                "emilia-romagna",
+                "po nehri"
+              ]
+            },
+            {
+              "word": "Calais",
+              "forbiddens": [
+                "fransa",
+                "liman",
+                "manş",
+                "dover",
+                "feribot"
+              ]
+            },
+            {
+              "word": "Bonn",
+              "forbiddens": [
+                "almanya",
+                "ren",
+                "eski başkent",
+                "köln",
+                "beethoven"
+              ]
+            },
+            {
+              "word": "Potsdam",
+              "forbiddens": [
+                "almanya",
+                "berlin",
+                "saray",
+                "park",
+                "sanssouci"
+              ]
+            },
+            {
+              "word": "Ruhr Bölgesi",
+              "forbiddens": [
+                "almanya",
+                "kömür",
+                "sanayi",
+                "dortmund",
+                "essen"
+              ]
+            },
+            {
+              "word": "Bristol",
+              "forbiddens": [
+                "ingiltere",
+                "liman",
+                "asma köprü",
+                "avon",
+                "batı"
+              ]
+            },
+            {
+              "word": "Karaçi",
+              "forbiddens": [
+                "pakistan",
+                "liman",
+                "en büyük şehir",
+                "arap denizi",
+                "sahil"
+              ]
+            },
+            {
+              "word": "İslamabad",
+              "forbiddens": [
+                "pakistan",
+                "başkent",
+                "margalla tepeleri",
+                "rawalpindi",
+                "planlı"
+              ]
+            },
+            {
+              "word": "Kıstak",
+              "forbiddens": [
+                "dar",
+                "kara parçası",
+                "iki deniz",
+                "panama",
+                "süveyş"
+              ]
+            },
+            {
+              "word": "Bologna",
+              "forbiddens": [
+                "italya",
+                "üniversite",
+                "kule",
+                "emilia-romagna",
+                "mortadella"
+              ]
+            },
+            {
+              "word": "Oğlak Dönencesi",
+              "forbiddens": [
+                "ekvator",
+                "güney",
+                "enlem",
+                "güneş",
+                "yarımküre"
+              ]
+            },
+            {
+              "word": "Gece Yarısı Güneşi",
+              "forbiddens": [
+                "norveç",
+                "kutup",
+                "yaz",
+                "aydınlık",
+                "laponya"
+              ]
+            },
+            {
+              "word": "Kutup Dairesi",
+              "forbiddens": [
+                "norveç",
+                "gece yarısı güneşi",
+                "enlem",
+                "laponya",
+                "soğuk"
+              ]
+            },
+            {
+              "word": "Takımada",
+              "forbiddens": [
+                "deniz",
+                "grup",
+                "endonezya",
+                "okyanus",
+                "bahamalar"
+              ]
+            },
+            {
+              "word": "Nil Deltası",
+              "forbiddens": [
+                "mısır",
+                "akdeniz",
+                "verimli",
+                "kahire",
+                "tarım"
+              ]
+            },
+            {
+              "word": "Orta Asya",
+              "forbiddens": [
+                "kazakistan",
+                "özbekistan",
+                "step",
+                "ipek yolu",
+                "semerkant"
+              ]
+            },
+            {
+              "word": "İber Yarımadası",
+              "forbiddens": [
+                "ispanya",
+                "portekiz",
+                "pireneler",
+                "avrupa",
+                "atlas okyanusu"
+              ]
+            },
+            {
+              "word": "Champs-Élysées",
+              "forbiddens": [
+                "paris",
+                "cadde",
+                "alışveriş",
+                "ağaçlı",
+                "fransa"
+              ]
+            },
+            {
+              "word": "Côte d'Azur",
+              "forbiddens": [
+                "nice",
+                "cannes",
+                "fransa",
+                "akdeniz",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Küçük Deniz Kızı Heykeli",
+              "forbiddens": [
+                "kopenhag",
+                "danimarka",
+                "andersen",
+                "liman",
+                "masal"
+              ]
+            },
+            {
+              "word": "Trafalgar Meydanı",
+              "forbiddens": [
+                "londra",
+                "aslan",
+                "güvercin",
+                "sütun",
+                "galeri"
+              ]
+            },
+            {
+              "word": "Piccadilly Circus",
+              "forbiddens": [
+                "londra",
+                "meydan",
+                "ışıklı",
+                "reklam",
+                "kavşak"
+              ]
+            },
+            {
+              "word": "Broadway",
+              "forbiddens": [
+                "new york",
+                "tiyatro",
+                "müzikal",
+                "manhattan",
+                "sahne"
+              ]
+            },
+            {
+              "word": "Wall Street",
+              "forbiddens": [
+                "new york",
+                "manhattan",
+                "finans",
+                "borsa",
+                "para"
+              ]
+            },
+            {
+              "word": "Silikon Vadisi",
+              "forbiddens": [
+                "kaliforniya",
+                "teknoloji",
+                "bilgisayar",
+                "yazılım",
+                "san francisco"
+              ]
+            },
+            {
+              "word": "Cape Canaveral",
+              "forbiddens": [
+                "florida",
+                "roket",
+                "uzay",
+                "nasa",
+                "fırlatma"
+              ]
+            },
+            {
+              "word": "Atlanta",
+              "forbiddens": [
+                "georgia",
+                "abd",
+                "olimpiyat",
+                "havalimanı",
+                "güney"
+              ]
+            },
+            {
+              "word": "Kamerun",
+              "forbiddens": [
+                "yaounde",
+                "afrika",
+                "futbol",
+                "kakao",
+                "orman"
+              ]
+            },
+            {
+              "word": "Hannover",
+              "forbiddens": [
+                "almanya",
+                "fuar",
+                "aşağı saksonya",
+                "şehir",
+                "kuzey"
+              ]
+            },
+            {
+              "word": "Essen",
+              "forbiddens": [
+                "almanya",
+                "ruhr",
+                "kömür",
+                "maden",
+                "sanayi"
+              ]
+            },
+            {
+              "word": "Duisburg",
+              "forbiddens": [
+                "almanya",
+                "ruhr",
+                "ren",
+                "liman",
+                "çelik"
+              ]
+            },
+            {
+              "word": "Başakşehir",
+              "forbiddens": [
+                "istanbul",
+                "olimpiyat",
+                "stadyum",
+                "futbol",
+                "ilçe"
+              ]
+            },
+            {
+              "word": "Kâğıthane",
+              "forbiddens": [
+                "istanbul",
+                "dere",
+                "haliç",
+                "ilçe",
+                "avrupa yakası"
+              ]
+            },
+            {
+              "word": "Küçükçekmece",
+              "forbiddens": [
+                "istanbul",
+                "göl",
+                "avrupa yakası",
+                "ilçe",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Beylikdüzü",
+              "forbiddens": [
+                "istanbul",
+                "metrobüs",
+                "avrupa yakası",
+                "ilçe",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Kilyos",
+              "forbiddens": [
+                "istanbul",
+                "karadeniz",
+                "plaj",
+                "sarıyer",
+                "kum"
+              ]
+            },
+            {
+              "word": "Florya",
+              "forbiddens": [
+                "istanbul",
+                "bakırköy",
+                "sahil",
+                "deniz",
+                "yeşilköy"
+              ]
+            },
+            {
+              "word": "Maslak",
+              "forbiddens": [
+                "istanbul",
+                "gökdelen",
+                "iş merkezi",
+                "sarıyer",
+                "otoyol"
+              ]
+            },
+            {
+              "word": "Kuğulu Park",
+              "forbiddens": [
+                "ankara",
+                "çankaya",
+                "gölet",
+                "kuş",
+                "tunalı hilmi"
+              ]
+            },
+            {
+              "word": "Edremit Körfezi",
+              "forbiddens": [
+                "balıkesir",
+                "zeytin",
+                "ayvalık",
+                "akçay",
+                "ege"
+              ]
+            },
+            {
+              "word": "Yengeç Dönencesi",
+              "forbiddens": [
+                "enlem",
+                "ekvator",
+                "güneş",
+                "kuzey yarımküre",
+                "tropik"
+              ]
+            },
+            {
+              "word": "Falez",
+              "forbiddens": [
+                "kıyı",
+                "uçurum",
+                "kaya",
+                "deniz",
+                "dik"
+              ]
+            },
+            {
+              "word": "Aral Gölü",
+              "forbiddens": [
+                "kurumuş",
+                "orta asya",
+                "kazakistan",
+                "özbekistan",
+                "tuz"
+              ]
+            },
+            {
+              "word": "Maçka",
+              "forbiddens": [
+                "istanbul",
+                "park",
+                "şişli",
+                "teleferik",
+                "nişantaşı"
+              ]
+            },
+            {
+              "word": "Mecidiyeköy",
+              "forbiddens": [
+                "istanbul",
+                "şişli",
+                "metrobüs",
+                "avrupa yakası",
+                "iş"
+              ]
+            },
+            {
+              "word": "Bağcılar",
+              "forbiddens": [
+                "istanbul",
+                "avrupa yakası",
+                "kalabalık",
+                "metro",
+                "tramvay"
+              ]
+            },
+            {
+              "word": "Tuzla",
+              "forbiddens": [
+                "istanbul",
+                "anadolu yakası",
+                "tersane",
+                "marmara",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Delhi",
+              "forbiddens": [
+                "hindistan",
+                "başkent",
+                "kırmızı kale",
+                "kalabalık",
+                "asya"
+              ]
+            },
+            {
+              "word": "Münih",
+              "forbiddens": [
+                "almanya",
+                "bavyera",
+                "alpler",
+                "avrupa",
+                "futbol"
+              ]
+            },
+            {
+              "word": "Boston",
+              "forbiddens": [
+                "abd",
+                "massachusetts",
+                "harvard",
+                "atlantik",
+                "doğu kıyısı"
+              ]
+            },
+            {
+              "word": "Orlando",
+              "forbiddens": [
+                "florida",
+                "abd",
+                "eğlence parkı",
+                "tatil",
+                "güneş"
+              ]
+            },
+            {
+              "word": "Seattle",
+              "forbiddens": [
+                "abd",
+                "yağmur",
+                "space needle",
+                "kahve",
+                "washington"
+              ]
+            },
+            {
+              "word": "Varşova",
+              "forbiddens": [
+                "polonya",
+                "başkent",
+                "vistül",
+                "avrupa",
+                "eski şehir"
+              ]
+            },
+            {
+              "word": "Frankfurt",
+              "forbiddens": [
+                "almanya",
+                "gökdelen",
+                "banka",
+                "havaalanı",
+                "main"
+              ]
+            },
+            {
+              "word": "Nis",
+              "forbiddens": [
+                "fransa",
+                "akdeniz",
+                "côte d'azur",
+                "plaj",
+                "riviera"
+              ]
+            },
+            {
+              "word": "Valensiya",
+              "forbiddens": [
+                "ispanya",
+                "paella",
+                "portakal",
+                "akdeniz",
+                "plaj"
+              ]
+            },
+            {
+              "word": "Cenevre",
+              "forbiddens": [
+                "isviçre",
+                "göl",
+                "saat",
+                "fransızca",
+                "jet d'eau"
+              ]
+            },
+            {
+              "word": "Cannes",
+              "forbiddens": [
+                "fransa",
+                "film festivali",
+                "akdeniz",
+                "kırmızı halı",
+                "riviera"
+              ]
+            },
+            {
+              "word": "Kuala Lumpur",
+              "forbiddens": [
+                "malezya",
+                "petronas",
+                "başkent",
+                "tropikal",
+                "asya"
+              ]
+            },
+            {
+              "word": "Hanoi",
+              "forbiddens": [
+                "vietnam",
+                "başkent",
+                "kırmızı nehir",
+                "motosiklet",
+                "asya"
+              ]
+            },
+            {
+              "word": "Tahran",
+              "forbiddens": [
+                "iran",
+                "başkent",
+                "elburz",
+                "kalabalık",
+                "asya"
+              ]
+            },
+            {
+              "word": "Tallinn",
+              "forbiddens": [
+                "estonya",
+                "başkent",
+                "baltık",
+                "eski şehir",
+                "ortaçağ"
+              ]
+            },
+            {
+              "word": "Bükreş",
+              "forbiddens": [
+                "romanya",
+                "başkent",
+                "balkan",
+                "avrupa",
+                "bulvar"
+              ]
+            },
+            {
+              "word": "Sofya",
+              "forbiddens": [
+                "bulgaristan",
+                "başkent",
+                "vitoşa",
+                "balkan",
+                "gül"
+              ]
+            },
+            {
+              "word": "Doha",
+              "forbiddens": [
+                "katar",
+                "başkent",
+                "körfez",
+                "gökdelen",
+                "çöl"
+              ]
+            },
+            {
+              "word": "Riyad",
+              "forbiddens": [
+                "suudi arabistan",
+                "başkent",
+                "çöl",
+                "petrol",
+                "asya"
+              ]
+            },
+            {
+              "word": "Beyrut",
+              "forbiddens": [
+                "lübnan",
+                "başkent",
+                "akdeniz",
+                "liman",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Missouri Nehri",
+              "forbiddens": [
+                "mississippi",
+                "abd",
+                "uzun",
+                "kuzey amerika",
+                "ovalar"
+              ]
+            },
+            {
+              "word": "Tokyo Kulesi",
+              "forbiddens": [
+                "japonya",
+                "kırmızı",
+                "eyfel kulesi",
+                "gözlem",
+                "turist"
+              ]
+            },
+            {
+              "word": "Kabataş",
+              "forbiddens": [
+                "istanbul",
+                "iskele",
+                "dolmabahçe",
+                "tramvay",
+                "taksim"
+              ]
+            },
+            {
+              "word": "Arizona",
+              "forbiddens": [
+                "abd",
+                "çöl",
+                "büyük kanyon",
+                "kaktüs",
+                "phoenix"
+              ]
+            },
+            {
+              "word": "Büyükçekmece",
+              "forbiddens": [
+                "istanbul",
+                "göl",
+                "taş köprü",
+                "marmara",
+                "sahil"
+              ]
             }
           ]
         },
@@ -98875,6 +101715,3006 @@
                 "kutup",
                 "buz",
                 "soğuk"
+              ]
+            },
+            {
+              "word": "Zimbabve",
+              "forbiddens": [
+                "harare",
+                "victoria şelalesi",
+                "afrika",
+                "güney",
+                "hwange"
+              ]
+            },
+            {
+              "word": "Botsvana",
+              "forbiddens": [
+                "okavango",
+                "afrika",
+                "gaborone",
+                "safari",
+                "güney"
+              ]
+            },
+            {
+              "word": "Soğanlı Vadisi",
+              "forbiddens": [
+                "kapadokya",
+                "kayseri",
+                "kanyon",
+                "kaya",
+                "yürüyüş"
+              ]
+            },
+            {
+              "word": "Ortahisar",
+              "forbiddens": [
+                "nevşehir",
+                "kapadokya",
+                "kale",
+                "kaya",
+                "tarih"
+              ]
+            },
+            {
+              "word": "Çavuşin",
+              "forbiddens": [
+                "nevşehir",
+                "kapadokya",
+                "köy",
+                "kaya",
+                "kilise"
+              ]
+            },
+            {
+              "word": "Cilo Dağları",
+              "forbiddens": [
+                "hakkari",
+                "buzul",
+                "kar",
+                "zirve",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Posof",
+              "forbiddens": [
+                "ardahan",
+                "doğu",
+                "kar",
+                "orman",
+                "kafkas"
+              ]
+            },
+            {
+              "word": "Borçka",
+              "forbiddens": [
+                "artvin",
+                "karagöl",
+                "karadeniz",
+                "çoruh",
+                "yeşil"
+              ]
+            },
+            {
+              "word": "Arhavi",
+              "forbiddens": [
+                "artvin",
+                "karadeniz",
+                "çay",
+                "sahil",
+                "fındık"
+              ]
+            },
+            {
+              "word": "Tirebolu",
+              "forbiddens": [
+                "giresun",
+                "karadeniz",
+                "kale",
+                "fındık",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Mürefte",
+              "forbiddens": [
+                "tekirdağ",
+                "marmara",
+                "bağ",
+                "trakya",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Armutlu",
+              "forbiddens": [
+                "yalova",
+                "marmara",
+                "sahil",
+                "orman",
+                "kaplıca"
+              ]
+            },
+            {
+              "word": "Kandıra",
+              "forbiddens": [
+                "kocaeli",
+                "karadeniz",
+                "orman",
+                "kıyı",
+                "kefken"
+              ]
+            },
+            {
+              "word": "Seyitgazi",
+              "forbiddens": [
+                "eskişehir",
+                "ova",
+                "tarihi",
+                "iç anadolu",
+                "ilçe"
+              ]
+            },
+            {
+              "word": "Göynük",
+              "forbiddens": [
+                "bolu",
+                "tarihi",
+                "osmanlı",
+                "ev",
+                "konak"
+              ]
+            },
+            {
+              "word": "Perşembe Yaylası",
+              "forbiddens": [
+                "ordu",
+                "otlak",
+                "karadeniz",
+                "sis",
+                "menderes"
+              ]
+            },
+            {
+              "word": "Beynam Ormanı",
+              "forbiddens": [
+                "ankara",
+                "çam",
+                "doğa",
+                "piknik",
+                "yürüyüş"
+              ]
+            },
+            {
+              "word": "Hirfanlı Barajı",
+              "forbiddens": [
+                "kırşehir",
+                "kızılırmak",
+                "göl",
+                "set",
+                "balık"
+              ]
+            },
+            {
+              "word": "Karakaya Barajı",
+              "forbiddens": [
+                "malatya",
+                "fırat",
+                "set",
+                "elektrik",
+                "göl"
+              ]
+            },
+            {
+              "word": "Ilısu Barajı",
+              "forbiddens": [
+                "mardin",
+                "dicle",
+                "set",
+                "göl",
+                "elektrik"
+              ]
+            },
+            {
+              "word": "Dicle Barajı",
+              "forbiddens": [
+                "diyarbakır",
+                "nehir",
+                "göl",
+                "su",
+                "elektrik"
+              ]
+            },
+            {
+              "word": "Salamanca",
+              "forbiddens": [
+                "ispanya",
+                "üniversite",
+                "plaza mayor",
+                "kastilya",
+                "altın taş"
+              ]
+            },
+            {
+              "word": "Avignon",
+              "forbiddens": [
+                "fransa",
+                "ron",
+                "köprü",
+                "provence",
+                "festival"
+              ]
+            },
+            {
+              "word": "Hangzhou",
+              "forbiddens": [
+                "çin",
+                "batı gölü",
+                "çay",
+                "ipek",
+                "şehir"
+              ]
+            },
+            {
+              "word": "Fiordland",
+              "forbiddens": [
+                "yeni zelanda",
+                "fiyort",
+                "milford sound",
+                "güney ada",
+                "yağmur"
+              ]
+            },
+            {
+              "word": "Kandy",
+              "forbiddens": [
+                "sri lanka",
+                "orta",
+                "çay",
+                "göl",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Saint Lucia",
+              "forbiddens": [
+                "karayip",
+                "ada",
+                "pitons",
+                "volkan",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Tuvalu",
+              "forbiddens": [
+                "pasifik",
+                "atol",
+                "küçük",
+                "polinezya",
+                "okyanusya"
+              ]
+            },
+            {
+              "word": "Gent",
+              "forbiddens": [
+                "belçika",
+                "flaman",
+                "kanal",
+                "kale",
+                "eski şehir"
+              ]
+            },
+            {
+              "word": "Agadir",
+              "forbiddens": [
+                "fas",
+                "atlantik",
+                "plaj",
+                "güney",
+                "liman"
+              ]
+            },
+            {
+              "word": "Jasper",
+              "forbiddens": [
+                "kanada",
+                "alberta",
+                "kayalık dağlar",
+                "milli park",
+                "göl"
+              ]
+            },
+            {
+              "word": "Milford Sound",
+              "forbiddens": [
+                "yeni zelanda",
+                "fiyort",
+                "şelale",
+                "güney ada",
+                "tekne"
+              ]
+            },
+            {
+              "word": "Sucre",
+              "forbiddens": [
+                "bolivya",
+                "başkent",
+                "güney amerika",
+                "andlar",
+                "beyaz"
+              ]
+            },
+            {
+              "word": "Fortaleza",
+              "forbiddens": [
+                "brezilya",
+                "kuzeydoğu",
+                "plaj",
+                "atlantik",
+                "liman"
+              ]
+            },
+            {
+              "word": "Incheon",
+              "forbiddens": [
+                "güney kore",
+                "liman",
+                "havalimanı",
+                "seul",
+                "batı"
+              ]
+            },
+            {
+              "word": "Bitez",
+              "forbiddens": [
+                "bodrum",
+                "ege",
+                "plaj",
+                "rüzgâr",
+                "sörf"
+              ]
+            },
+            {
+              "word": "Chiang Mai",
+              "forbiddens": [
+                "tayland",
+                "kuzey",
+                "dağ",
+                "tapınak",
+                "fil"
+              ]
+            },
+            {
+              "word": "Cerbe",
+              "forbiddens": [
+                "tunus",
+                "ada",
+                "akdeniz",
+                "plaj",
+                "güney"
+              ]
+            },
+            {
+              "word": "Whitsunday Adaları",
+              "forbiddens": [
+                "avustralya",
+                "resif",
+                "tekne",
+                "queensland",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Gold Coast",
+              "forbiddens": [
+                "avustralya",
+                "queensland",
+                "sörf",
+                "plaj",
+                "gökdelen"
+              ]
+            },
+            {
+              "word": "Xi'an",
+              "forbiddens": [
+                "çin",
+                "orta",
+                "eski başkent",
+                "antik",
+                "surlar"
+              ]
+            },
+            {
+              "word": "Penang",
+              "forbiddens": [
+                "malezya",
+                "ada",
+                "george town",
+                "yemek",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Moraine Gölü",
+              "forbiddens": [
+                "kanada",
+                "banff",
+                "turkuaz",
+                "buzul",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Bariloche",
+              "forbiddens": [
+                "arjantin",
+                "göl",
+                "patagonya",
+                "andlar",
+                "kayak"
+              ]
+            },
+            {
+              "word": "Chennai",
+              "forbiddens": [
+                "hindistan",
+                "güney",
+                "bengal körfezi",
+                "liman",
+                "tamil"
+              ]
+            },
+            {
+              "word": "Gümbet",
+              "forbiddens": [
+                "bodrum",
+                "plaj",
+                "tatil",
+                "ege",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Komorlar",
+              "forbiddens": [
+                "moroni",
+                "hint okyanusu",
+                "ada",
+                "volkan",
+                "vanilya"
+              ]
+            },
+            {
+              "word": "Yunnan",
+              "forbiddens": [
+                "çin",
+                "güneybatı",
+                "çay",
+                "dağ",
+                "renkli"
+              ]
+            },
+            {
+              "word": "Galle",
+              "forbiddens": [
+                "sri lanka",
+                "kale",
+                "güney",
+                "liman",
+                "deniz"
+              ]
+            },
+            {
+              "word": "Biarritz",
+              "forbiddens": [
+                "fransa",
+                "sörf",
+                "atlantik",
+                "plaj",
+                "baskça"
+              ]
+            },
+            {
+              "word": "Rajasthan",
+              "forbiddens": [
+                "hindistan",
+                "çöl",
+                "saray",
+                "kuzeybatı",
+                "jaipur"
+              ]
+            },
+            {
+              "word": "Dordogne",
+              "forbiddens": [
+                "fransa",
+                "nehir",
+                "vadi",
+                "mağara",
+                "orta çağ"
+              ]
+            },
+            {
+              "word": "Garonne",
+              "forbiddens": [
+                "bordeaux",
+                "fransa",
+                "nehir",
+                "atlantik",
+                "toulouse"
+              ]
+            },
+            {
+              "word": "Hakone",
+              "forbiddens": [
+                "japonya",
+                "fuji",
+                "kaplıca",
+                "göl",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Phi Phi",
+              "forbiddens": [
+                "tayland",
+                "andaman",
+                "kayalık",
+                "plaj",
+                "tekne"
+              ]
+            },
+            {
+              "word": "Lanzarote",
+              "forbiddens": [
+                "kanarya",
+                "volkan",
+                "ispanya",
+                "siyah kum",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Duero",
+              "forbiddens": [
+                "ispanya",
+                "portekiz",
+                "nehir",
+                "atlantik",
+                "porto"
+              ]
+            },
+            {
+              "word": "Magdalena Nehri",
+              "forbiddens": [
+                "kolombiya",
+                "taşımacılık",
+                "güney amerika",
+                "karayip",
+                "andlar"
+              ]
+            },
+            {
+              "word": "Zadar",
+              "forbiddens": [
+                "hırvatistan",
+                "adriyatik",
+                "dalmaçya",
+                "deniz orgu",
+                "liman"
+              ]
+            },
+            {
+              "word": "Main",
+              "forbiddens": [
+                "almanya",
+                "frankfurt",
+                "nehir",
+                "ren",
+                "köprü"
+              ]
+            },
+            {
+              "word": "Kiribati",
+              "forbiddens": [
+                "pasifik",
+                "atol",
+                "ekvator",
+                "okyanusya",
+                "mikronezya"
+              ]
+            },
+            {
+              "word": "Palau",
+              "forbiddens": [
+                "pasifik",
+                "ada",
+                "dalış",
+                "mikronezya",
+                "denizanası"
+              ]
+            },
+            {
+              "word": "Curitiba",
+              "forbiddens": [
+                "brezilya",
+                "güney",
+                "park",
+                "otobüs",
+                "şehir"
+              ]
+            },
+            {
+              "word": "Mérida",
+              "forbiddens": [
+                "meksika",
+                "yucatan",
+                "maya",
+                "beyaz",
+                "şehir"
+              ]
+            },
+            {
+              "word": "Arequipa",
+              "forbiddens": [
+                "peru",
+                "beyaz şehir",
+                "volkan",
+                "andlar",
+                "güney"
+              ]
+            },
+            {
+              "word": "Santander",
+              "forbiddens": [
+                "ispanya",
+                "kantabria",
+                "kuzey",
+                "plaj",
+                "liman"
+              ]
+            },
+            {
+              "word": "Suzhou",
+              "forbiddens": [
+                "çin",
+                "kanal",
+                "bahçe",
+                "ipek",
+                "doğu"
+              ]
+            },
+            {
+              "word": "São Tomé ve Príncipe",
+              "forbiddens": [
+                "ada",
+                "atlantik",
+                "kakao",
+                "afrika",
+                "ekvator"
+              ]
+            },
+            {
+              "word": "Torba",
+              "forbiddens": [
+                "bodrum",
+                "ege",
+                "koy",
+                "plaj",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Kanazawa",
+              "forbiddens": [
+                "japonya",
+                "honshu",
+                "bahçe",
+                "kuzey",
+                "eski"
+              ]
+            },
+            {
+              "word": "Savannah",
+              "forbiddens": [
+                "georgia",
+                "abd",
+                "meşe",
+                "tarihi",
+                "nehir"
+              ]
+            },
+            {
+              "word": "Üçağız",
+              "forbiddens": [
+                "antalya",
+                "kekova",
+                "akdeniz",
+                "koy",
+                "tekne"
+              ]
+            },
+            {
+              "word": "Fukuoka",
+              "forbiddens": [
+                "japonya",
+                "kyushu",
+                "liman",
+                "batı",
+                "ramen"
+              ]
+            },
+            {
+              "word": "Kakadu",
+              "forbiddens": [
+                "avustralya",
+                "milli park",
+                "kuzey",
+                "timsah",
+                "bataklık"
+              ]
+            },
+            {
+              "word": "Nauru",
+              "forbiddens": [
+                "pasifik",
+                "küçük ada",
+                "fosfat",
+                "mikronezya",
+                "okyanusya"
+              ]
+            },
+            {
+              "word": "Hyderabad",
+              "forbiddens": [
+                "hindistan",
+                "güney",
+                "biryani",
+                "inci",
+                "tarihi"
+              ]
+            },
+            {
+              "word": "Kiel",
+              "forbiddens": [
+                "almanya",
+                "baltık",
+                "liman",
+                "kuzey",
+                "kanal"
+              ]
+            },
+            {
+              "word": "Mombasa",
+              "forbiddens": [
+                "kenya",
+                "liman",
+                "hint okyanusu",
+                "plaj",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Port Vila",
+              "forbiddens": [
+                "vanuatu",
+                "başkent",
+                "pasifik",
+                "ada",
+                "melanezya"
+              ]
+            },
+            {
+              "word": "Tekirova",
+              "forbiddens": [
+                "antalya",
+                "kemer",
+                "akdeniz",
+                "orman",
+                "tatil"
+              ]
+            },
+            {
+              "word": "Oaxaca",
+              "forbiddens": [
+                "meksika",
+                "güney",
+                "mole",
+                "renkli",
+                "şehir"
+              ]
+            },
+            {
+              "word": "Essaouira",
+              "forbiddens": [
+                "fas",
+                "atlantik",
+                "rüzgâr",
+                "liman",
+                "surlar"
+              ]
+            },
+            {
+              "word": "Büyük Mavi Delik",
+              "forbiddens": [
+                "belize",
+                "dalış",
+                "mercan",
+                "karayip",
+                "mağara"
+              ]
+            },
+            {
+              "word": "Nikko",
+              "forbiddens": [
+                "japonya",
+                "orman",
+                "dağ",
+                "kuzey",
+                "şelale"
+              ]
+            },
+            {
+              "word": "Aarhus",
+              "forbiddens": [
+                "danimarka",
+                "yutland",
+                "liman",
+                "üniversite",
+                "kuzey"
+              ]
+            },
+            {
+              "word": "Surabaya",
+              "forbiddens": [
+                "endonezya",
+                "java",
+                "liman",
+                "doğu",
+                "kalabalık"
+              ]
+            },
+            {
+              "word": "Guayaquil",
+              "forbiddens": [
+                "ekvador",
+                "liman",
+                "pasifik",
+                "nehir",
+                "kalabalık"
+              ]
+            },
+            {
+              "word": "Mindanao",
+              "forbiddens": [
+                "filipinler",
+                "ada",
+                "güney",
+                "volkan",
+                "büyük"
+              ]
+            },
+            {
+              "word": "Rotorua",
+              "forbiddens": [
+                "gayzer",
+                "maori",
+                "yeni zelanda",
+                "kükürt",
+                "kuzey ada"
+              ]
+            },
+            {
+              "word": "Krabi",
+              "forbiddens": [
+                "tayland",
+                "andaman denizi",
+                "kayalık",
+                "tırmanış",
+                "plaj"
+              ]
+            },
+            {
+              "word": "Murano",
+              "forbiddens": [
+                "venedik",
+                "cam",
+                "ada",
+                "italya",
+                "lagün"
+              ]
+            },
+            {
+              "word": "Burano",
+              "forbiddens": [
+                "venedik",
+                "renkli",
+                "ada",
+                "dantel",
+                "italya"
+              ]
+            },
+            {
+              "word": "Delft",
+              "forbiddens": [
+                "hollanda",
+                "mavi",
+                "çini",
+                "lahey",
+                "kanal"
+              ]
+            },
+            {
+              "word": "Key West",
+              "forbiddens": [
+                "florida",
+                "en güney",
+                "adalar",
+                "abd",
+                "karayip"
+              ]
+            },
+            {
+              "word": "Cape Cod",
+              "forbiddens": [
+                "massachusetts",
+                "yarımada",
+                "abd",
+                "plaj",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Sedona",
+              "forbiddens": [
+                "arizona",
+                "kırmızı kaya",
+                "abd",
+                "çöl",
+                "kanyon"
+              ]
+            },
+            {
+              "word": "Arches Millî Parkı",
+              "forbiddens": [
+                "utah",
+                "kaya",
+                "kemer",
+                "abd",
+                "çöl"
+              ]
+            },
+            {
+              "word": "Big Sur",
+              "forbiddens": [
+                "kaliforniya",
+                "sahil",
+                "yol",
+                "abd",
+                "uçurum"
+              ]
+            },
+            {
+              "word": "Monterey",
+              "forbiddens": [
+                "kaliforniya",
+                "körfez",
+                "akvaryum",
+                "abd",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Punta del Este",
+              "forbiddens": [
+                "uruguay",
+                "plaj",
+                "tatil",
+                "yarımada",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Punta Cana",
+              "forbiddens": [
+                "dominik cumhuriyeti",
+                "plaj",
+                "karayip",
+                "tatil",
+                "palmiye"
+              ]
+            },
+            {
+              "word": "Montego Bay",
+              "forbiddens": [
+                "jamaika",
+                "karayip",
+                "plaj",
+                "tatil",
+                "liman"
+              ]
+            },
+            {
+              "word": "Cozumel",
+              "forbiddens": [
+                "meksika",
+                "ada",
+                "karayip",
+                "dalış",
+                "yucatan"
+              ]
+            },
+            {
+              "word": "Positano",
+              "forbiddens": [
+                "italya",
+                "amalfi kıyısı",
+                "renkli",
+                "uçurum",
+                "limon"
+              ]
+            },
+            {
+              "word": "Bari",
+              "forbiddens": [
+                "italya",
+                "puglia",
+                "liman",
+                "adriyatik",
+                "güney"
+              ]
+            },
+            {
+              "word": "Taormina",
+              "forbiddens": [
+                "sicilya",
+                "etna",
+                "tiyatro",
+                "sahil",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Alicante",
+              "forbiddens": [
+                "ispanya",
+                "costa blanca",
+                "sahil",
+                "plaj",
+                "liman"
+              ]
+            },
+            {
+              "word": "Ronda",
+              "forbiddens": [
+                "ispanya",
+                "endülüs",
+                "köprü",
+                "uçurum",
+                "tarihi"
+              ]
+            },
+            {
+              "word": "Fuerteventura",
+              "forbiddens": [
+                "kanarya",
+                "atlas okyanusu",
+                "plaj",
+                "sörf",
+                "rüzgâr"
+              ]
+            },
+            {
+              "word": "Cascais",
+              "forbiddens": [
+                "portekiz",
+                "lizbon",
+                "sahil",
+                "plaj",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Nazaré",
+              "forbiddens": [
+                "portekiz",
+                "dev dalga",
+                "sörf",
+                "balıkçı",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Colmar",
+              "forbiddens": [
+                "fransa",
+                "alsas",
+                "renkli",
+                "evler",
+                "kanal"
+              ]
+            },
+            {
+              "word": "Rothenburg ob der Tauber",
+              "forbiddens": [
+                "almanya",
+                "bavyera",
+                "orta çağ",
+                "surlar",
+                "kasaba"
+              ]
+            },
+            {
+              "word": "Garmisch-Partenkirchen",
+              "forbiddens": [
+                "almanya",
+                "bavyera",
+                "kayak",
+                "zugspitze",
+                "alpler"
+              ]
+            },
+            {
+              "word": "Königssee",
+              "forbiddens": [
+                "almanya",
+                "bavyera",
+                "göl",
+                "alpler",
+                "tekne"
+              ]
+            },
+            {
+              "word": "Lübeck",
+              "forbiddens": [
+                "almanya",
+                "baltık",
+                "badem ezmesi",
+                "tarihi",
+                "liman"
+              ]
+            },
+            {
+              "word": "Freiburg",
+              "forbiddens": [
+                "almanya",
+                "kara orman",
+                "üniversite",
+                "güneş",
+                "güneybatı"
+              ]
+            },
+            {
+              "word": "Aletsch Buzulu",
+              "forbiddens": [
+                "isviçre",
+                "alpler",
+                "en uzun",
+                "unesco",
+                "jungfrau"
+              ]
+            },
+            {
+              "word": "Kitzbühel",
+              "forbiddens": [
+                "avusturya",
+                "tirol",
+                "kayak",
+                "alpler",
+                "lüks"
+              ]
+            },
+            {
+              "word": "Loch Lomond",
+              "forbiddens": [
+                "iskoçya",
+                "göl",
+                "dağ",
+                "glasgow",
+                "milli park"
+              ]
+            },
+            {
+              "word": "Stavanger",
+              "forbiddens": [
+                "norveç",
+                "petrol",
+                "fiyort",
+                "batı",
+                "liman"
+              ]
+            },
+            {
+              "word": "Visby",
+              "forbiddens": [
+                "isveç",
+                "gotland",
+                "surlar",
+                "orta çağ",
+                "ada"
+              ]
+            },
+            {
+              "word": "Odense",
+              "forbiddens": [
+                "danimarka",
+                "fyn",
+                "andersen",
+                "masal",
+                "ada"
+              ]
+            },
+            {
+              "word": "Rovaniemi",
+              "forbiddens": [
+                "finlandiya",
+                "laponya",
+                "noel baba",
+                "kutup dairesi",
+                "kuzey"
+              ]
+            },
+            {
+              "word": "Zakopane",
+              "forbiddens": [
+                "polonya",
+                "tatra",
+                "kayak",
+                "dağ",
+                "kış"
+              ]
+            },
+            {
+              "word": "Novi Sad",
+              "forbiddens": [
+                "sırbistan",
+                "tuna",
+                "vojvodina",
+                "kale",
+                "festival"
+              ]
+            },
+            {
+              "word": "Rijeka",
+              "forbiddens": [
+                "hırvatistan",
+                "liman",
+                "adriyatik",
+                "kuzey",
+                "karnaval"
+              ]
+            },
+            {
+              "word": "Irkutsk",
+              "forbiddens": [
+                "rusya",
+                "sibirya",
+                "baykal gölü",
+                "angara",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Munnar",
+              "forbiddens": [
+                "hindistan",
+                "kerala",
+                "çay",
+                "tepe",
+                "yeşil"
+              ]
+            },
+            {
+              "word": "Kochi",
+              "forbiddens": [
+                "kerala",
+                "liman",
+                "hindistan",
+                "baharat",
+                "balıkçı"
+              ]
+            },
+            {
+              "word": "Ubud",
+              "forbiddens": [
+                "bali",
+                "endonezya",
+                "orman",
+                "teraslar",
+                "sanat"
+              ]
+            },
+            {
+              "word": "Toba Gölü",
+              "forbiddens": [
+                "sumatra",
+                "endonezya",
+                "volkan",
+                "krater",
+                "samosir"
+              ]
+            },
+            {
+              "word": "Inle Gölü",
+              "forbiddens": [
+                "myanmar",
+                "yüzen bahçeler",
+                "balıkçı",
+                "tekne",
+                "shan"
+              ]
+            },
+            {
+              "word": "Yangshuo",
+              "forbiddens": [
+                "çin",
+                "guilin",
+                "li nehri",
+                "kayalıklar",
+                "turistik"
+              ]
+            },
+            {
+              "word": "Himeji",
+              "forbiddens": [
+                "japonya",
+                "şato",
+                "beyaz",
+                "honshu",
+                "hyogo"
+              ]
+            },
+            {
+              "word": "Nagano",
+              "forbiddens": [
+                "japonya",
+                "honshu",
+                "kar",
+                "kış olimpiyatları",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Biwa Gölü",
+              "forbiddens": [
+                "japonya",
+                "honshu",
+                "en büyük",
+                "kyoto",
+                "tatlı su"
+              ]
+            },
+            {
+              "word": "Alice Springs",
+              "forbiddens": [
+                "avustralya",
+                "outback",
+                "uluru",
+                "çöl",
+                "merkez"
+              ]
+            },
+            {
+              "word": "Great Ocean Road",
+              "forbiddens": [
+                "avustralya",
+                "victoria",
+                "kıyı",
+                "yol",
+                "melbourne"
+              ]
+            },
+            {
+              "word": "Kanguru Adası",
+              "forbiddens": [
+                "avustralya",
+                "adelaide",
+                "koala",
+                "vahşi yaşam",
+                "deniz aslanı"
+              ]
+            },
+            {
+              "word": "Hobart",
+              "forbiddens": [
+                "tazmanya",
+                "avustralya",
+                "liman",
+                "başkent",
+                "güney"
+              ]
+            },
+            {
+              "word": "Queenstown",
+              "forbiddens": [
+                "yeni zelanda",
+                "güney ada",
+                "macera",
+                "kayak",
+                "göl"
+              ]
+            },
+            {
+              "word": "Waitomo",
+              "forbiddens": [
+                "yeni zelanda",
+                "mağara",
+                "ışıldayan larva",
+                "kuzey ada",
+                "karanlık"
+              ]
+            },
+            {
+              "word": "Patara",
+              "forbiddens": [
+                "antalya",
+                "plaj",
+                "kaplumbağa",
+                "likya",
+                "antik kent"
+              ]
+            },
+            {
+              "word": "Zeugma",
+              "forbiddens": [
+                "gaziantep",
+                "mozaik",
+                "fırat",
+                "antik kent",
+                "müze"
+              ]
+            },
+            {
+              "word": "Bafa Gölü",
+              "forbiddens": [
+                "muğla",
+                "aydın",
+                "ege",
+                "latmos",
+                "balık"
+              ]
+            },
+            {
+              "word": "Akşehir Gölü",
+              "forbiddens": [
+                "konya",
+                "tatlı su",
+                "iç anadolu",
+                "kuş",
+                "sığ"
+              ]
+            },
+            {
+              "word": "Sultansazlığı",
+              "forbiddens": [
+                "kayseri",
+                "kuş",
+                "sazlık",
+                "flamingo",
+                "sulak alan"
+              ]
+            },
+            {
+              "word": "Beypazarı",
+              "forbiddens": [
+                "ankara",
+                "havuç",
+                "tarihi",
+                "maden suyu",
+                "evler"
+              ]
+            },
+            {
+              "word": "Kızılcahamam",
+              "forbiddens": [
+                "ankara",
+                "kaplıca",
+                "soğuksu",
+                "orman",
+                "milli park"
+              ]
+            },
+            {
+              "word": "Harran",
+              "forbiddens": [
+                "şanlıurfa",
+                "kubbeli evler",
+                "ova",
+                "antik",
+                "güneydoğu"
+              ]
+            },
+            {
+              "word": "Halfeti",
+              "forbiddens": [
+                "şanlıurfa",
+                "fırat",
+                "batık",
+                "kara gül",
+                "tekne"
+              ]
+            },
+            {
+              "word": "Birecik",
+              "forbiddens": [
+                "şanlıurfa",
+                "kelaynak",
+                "fırat",
+                "kuş",
+                "baraj"
+              ]
+            },
+            {
+              "word": "Midyat",
+              "forbiddens": [
+                "mardin",
+                "taş",
+                "güneydoğu",
+                "telkari",
+                "tarihi"
+              ]
+            },
+            {
+              "word": "Avanos",
+              "forbiddens": [
+                "nevşehir",
+                "çömlek",
+                "kızılırmak",
+                "kapadokya",
+                "seramik"
+              ]
+            },
+            {
+              "word": "Silifke",
+              "forbiddens": [
+                "mersin",
+                "taşucu",
+                "kale",
+                "göksu",
+                "yoğurt"
+              ]
+            },
+            {
+              "word": "Akçakoca",
+              "forbiddens": [
+                "düzce",
+                "karadeniz",
+                "fındık",
+                "plaj",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Kıyıköy",
+              "forbiddens": [
+                "kırklareli",
+                "karadeniz",
+                "istanbul",
+                "balık",
+                "tarihi"
+              ]
+            },
+            {
+              "word": "İğneada",
+              "forbiddens": [
+                "kırklareli",
+                "longoz",
+                "demirköy",
+                "karadeniz",
+                "orman"
+              ]
+            },
+            {
+              "word": "Ünye",
+              "forbiddens": [
+                "ordu",
+                "karadeniz",
+                "kale",
+                "fındık",
+                "sahil"
+              ]
+            },
+            {
+              "word": "Hopa",
+              "forbiddens": [
+                "artvin",
+                "karadeniz",
+                "çay",
+                "liman",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Ob Nehri",
+              "forbiddens": [
+                "sibirya",
+                "rusya",
+                "ırmak",
+                "kuzey",
+                "buz"
+              ]
+            },
+            {
+              "word": "Mackenzie",
+              "forbiddens": [
+                "kanada",
+                "nehir",
+                "kuzey",
+                "buz",
+                "en uzun"
+              ]
+            },
+            {
+              "word": "Saint Lawrence",
+              "forbiddens": [
+                "kanada",
+                "nehir",
+                "montreal",
+                "büyük göller",
+                "deniz yolu"
+              ]
+            },
+            {
+              "word": "Columbia Nehri",
+              "forbiddens": [
+                "abd",
+                "pasifik",
+                "kuzey amerika",
+                "oregon",
+                "baraj"
+              ]
+            },
+            {
+              "word": "Guadalquivir",
+              "forbiddens": [
+                "ispanya",
+                "sevilla",
+                "nehir",
+                "endülüs",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Tajo Nehri",
+              "forbiddens": [
+                "ispanya",
+                "portekiz",
+                "lizbon",
+                "toledo",
+                "iberya"
+              ]
+            },
+            {
+              "word": "Neva Nehri",
+              "forbiddens": [
+                "sankt petersburg",
+                "rusya",
+                "ladoga",
+                "kanallar",
+                "baltık"
+              ]
+            },
+            {
+              "word": "Brahmaputra",
+              "forbiddens": [
+                "hindistan",
+                "nehir",
+                "himalayalar",
+                "delta",
+                "asya"
+              ]
+            },
+            {
+              "word": "Irrawaddy",
+              "forbiddens": [
+                "myanmar",
+                "nehir",
+                "delta",
+                "asya",
+                "yangon"
+              ]
+            },
+            {
+              "word": "Sarı Nehir",
+              "forbiddens": [
+                "çin",
+                "lös",
+                "asya",
+                "uzun",
+                "huang he"
+              ]
+            },
+            {
+              "word": "Balkaş Gölü",
+              "forbiddens": [
+                "kazakistan",
+                "orta asya",
+                "tuzlu",
+                "tatlı",
+                "step"
+              ]
+            },
+            {
+              "word": "Issık Göl",
+              "forbiddens": [
+                "kırgızistan",
+                "tien şan",
+                "orta asya",
+                "tuzlu",
+                "donmayan"
+              ]
+            },
+            {
+              "word": "Tonle Sap",
+              "forbiddens": [
+                "kamboçya",
+                "göl",
+                "mevsimsel",
+                "yüzen köy",
+                "mekong"
+              ]
+            },
+            {
+              "word": "Maracaibo Gölü",
+              "forbiddens": [
+                "venezuela",
+                "petrol",
+                "güney amerika",
+                "fırtına",
+                "köprü"
+              ]
+            },
+            {
+              "word": "Nikaragua Gölü",
+              "forbiddens": [
+                "orta amerika",
+                "tatlı su",
+                "volkan",
+                "ada",
+                "granada"
+              ]
+            },
+            {
+              "word": "Onega Gölü",
+              "forbiddens": [
+                "rusya",
+                "karelya",
+                "ladoga",
+                "kuzey",
+                "ada"
+              ]
+            },
+            {
+              "word": "Peipus Gölü",
+              "forbiddens": [
+                "estonya",
+                "rusya",
+                "sığ",
+                "baltık",
+                "buz"
+              ]
+            },
+            {
+              "word": "Lugano Gölü",
+              "forbiddens": [
+                "isviçre",
+                "italya",
+                "alpler",
+                "kasaba",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Maggiore Gölü",
+              "forbiddens": [
+                "italya",
+                "isviçre",
+                "alpler",
+                "adalar",
+                "piemonte"
+              ]
+            },
+            {
+              "word": "Eyre Gölü",
+              "forbiddens": [
+                "avustralya",
+                "tuz",
+                "kurak",
+                "güney",
+                "outback"
+              ]
+            },
+            {
+              "word": "Beyaz Deniz",
+              "forbiddens": [
+                "rusya",
+                "kuzey",
+                "buz",
+                "arktik",
+                "arhangelsk"
+              ]
+            },
+            {
+              "word": "Labrador Denizi",
+              "forbiddens": [
+                "kanada",
+                "grönland",
+                "atlantik",
+                "buzdağı",
+                "soğuk"
+              ]
+            },
+            {
+              "word": "Ligurya Denizi",
+              "forbiddens": [
+                "cenova",
+                "akdeniz",
+                "italya",
+                "riviera",
+                "korsika"
+              ]
+            },
+            {
+              "word": "Cava Denizi",
+              "forbiddens": [
+                "endonezya",
+                "ada",
+                "cakarta",
+                "tropikal",
+                "borneo"
+              ]
+            },
+            {
+              "word": "Weddell Denizi",
+              "forbiddens": [
+                "antarktika",
+                "buz",
+                "güney",
+                "soğuk",
+                "penguen"
+              ]
+            },
+            {
+              "word": "Ohotsk Denizi",
+              "forbiddens": [
+                "rusya",
+                "pasifik",
+                "kuzey",
+                "buz",
+                "balık"
+              ]
+            },
+            {
+              "word": "Dhaulagiri",
+              "forbiddens": [
+                "himalayalar",
+                "zirve",
+                "nepal",
+                "kar",
+                "tırmanış"
+              ]
+            },
+            {
+              "word": "Manaslu",
+              "forbiddens": [
+                "himalayalar",
+                "zirve",
+                "nepal",
+                "kar",
+                "tırmanış"
+              ]
+            },
+            {
+              "word": "Triglav",
+              "forbiddens": [
+                "slovenya",
+                "alpler",
+                "zirve",
+                "bled",
+                "jülyen"
+              ]
+            },
+            {
+              "word": "Musala",
+              "forbiddens": [
+                "bulgaristan",
+                "rila",
+                "zirve",
+                "balkanlar",
+                "en yüksek"
+              ]
+            },
+            {
+              "word": "Elburz",
+              "forbiddens": [
+                "iran",
+                "tahran",
+                "demavend",
+                "sıradağ",
+                "hazar"
+              ]
+            },
+            {
+              "word": "Aoraki",
+              "forbiddens": [
+                "yeni zelanda",
+                "güney adası",
+                "kar",
+                "zirve",
+                "en yüksek"
+              ]
+            },
+            {
+              "word": "Orizaba",
+              "forbiddens": [
+                "meksika",
+                "volkan",
+                "zirve",
+                "kar",
+                "en yüksek"
+              ]
+            },
+            {
+              "word": "Rainier",
+              "forbiddens": [
+                "washington",
+                "abd",
+                "volkan",
+                "seattle",
+                "buzul"
+              ]
+            },
+            {
+              "word": "Kilauea",
+              "forbiddens": [
+                "hawaii",
+                "volkan",
+                "lav",
+                "ada",
+                "krater"
+              ]
+            },
+            {
+              "word": "Rinjani",
+              "forbiddens": [
+                "lombok",
+                "endonezya",
+                "volkan",
+                "krater gölü",
+                "zirve"
+              ]
+            },
+            {
+              "word": "Lut Çölü",
+              "forbiddens": [
+                "iran",
+                "sıcak",
+                "kum",
+                "kurak",
+                "asya"
+              ]
+            },
+            {
+              "word": "Chihuahua Çölü",
+              "forbiddens": [
+                "meksika",
+                "abd",
+                "kaktüs",
+                "kuzey amerika",
+                "kurak"
+              ]
+            },
+            {
+              "word": "Ténéré",
+              "forbiddens": [
+                "sahra",
+                "nijer",
+                "kum",
+                "afrika",
+                "deve"
+              ]
+            },
+            {
+              "word": "Elba",
+              "forbiddens": [
+                "ada",
+                "italya",
+                "toskana",
+                "akdeniz",
+                "portoferraio"
+              ]
+            },
+            {
+              "word": "Gotland",
+              "forbiddens": [
+                "ada",
+                "isveç",
+                "baltık",
+                "visby",
+                "orta çağ"
+              ]
+            },
+            {
+              "word": "Rügen",
+              "forbiddens": [
+                "ada",
+                "almanya",
+                "baltık",
+                "tebeşir",
+                "kayalık"
+              ]
+            },
+            {
+              "word": "Sylt",
+              "forbiddens": [
+                "ada",
+                "almanya",
+                "kuzey denizi",
+                "plaj",
+                "dalga"
+              ]
+            },
+            {
+              "word": "Chiloé",
+              "forbiddens": [
+                "şili",
+                "ada",
+                "ahşap",
+                "kilise",
+                "patagonya"
+              ]
+            },
+            {
+              "word": "Lombok",
+              "forbiddens": [
+                "endonezya",
+                "ada",
+                "bali",
+                "rinjani",
+                "plaj"
+              ]
+            },
+            {
+              "word": "Kyushu",
+              "forbiddens": [
+                "japonya",
+                "ada",
+                "volkan",
+                "fukuoka",
+                "aso"
+              ]
+            },
+            {
+              "word": "Shikoku",
+              "forbiddens": [
+                "japonya",
+                "ada",
+                "iç deniz",
+                "hac",
+                "küçük"
+              ]
+            },
+            {
+              "word": "Luzon",
+              "forbiddens": [
+                "filipinler",
+                "manila",
+                "ada",
+                "volkan",
+                "en büyük"
+              ]
+            },
+            {
+              "word": "Palawan",
+              "forbiddens": [
+                "filipinler",
+                "ada",
+                "lagün",
+                "dalış",
+                "tropikal"
+              ]
+            },
+            {
+              "word": "Nordkapp",
+              "forbiddens": [
+                "norveç",
+                "kuzey",
+                "burun",
+                "gece yarısı güneşi",
+                "arktik"
+              ]
+            },
+            {
+              "word": "Trolltunga",
+              "forbiddens": [
+                "norveç",
+                "kaya",
+                "uçurum",
+                "yürüyüş",
+                "manzara"
+              ]
+            },
+            {
+              "word": "Geirangerfjord",
+              "forbiddens": [
+                "norveç",
+                "fiyort",
+                "şelale",
+                "vapur",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Sognefjord",
+              "forbiddens": [
+                "norveç",
+                "en uzun fiyort",
+                "bergen",
+                "dağ",
+                "su"
+              ]
+            },
+            {
+              "word": "Gullfoss",
+              "forbiddens": [
+                "izlanda",
+                "şelale",
+                "altın daire",
+                "buzul",
+                "su"
+              ]
+            },
+            {
+              "word": "Antilop Kanyonu",
+              "forbiddens": [
+                "arizona",
+                "abd",
+                "ışık",
+                "kumtaşı",
+                "dar"
+              ]
+            },
+            {
+              "word": "Grand Teton",
+              "forbiddens": [
+                "wyoming",
+                "abd",
+                "dağ",
+                "milli park",
+                "yellowstone"
+              ]
+            },
+            {
+              "word": "Kruger Milli Parkı",
+              "forbiddens": [
+                "güney afrika",
+                "safari",
+                "fil",
+                "aslan",
+                "savan"
+              ]
+            },
+            {
+              "word": "Etosha",
+              "forbiddens": [
+                "namibya",
+                "tuz",
+                "safari",
+                "fil",
+                "milli park"
+              ]
+            },
+            {
+              "word": "Sossusvlei",
+              "forbiddens": [
+                "namibya",
+                "kumul",
+                "kırmızı",
+                "namib",
+                "çöl"
+              ]
+            },
+            {
+              "word": "Masai Mara",
+              "forbiddens": [
+                "kenya",
+                "safari",
+                "göç",
+                "aslan",
+                "zebra"
+              ]
+            },
+            {
+              "word": "Guilin",
+              "forbiddens": [
+                "çin",
+                "karst",
+                "li nehri",
+                "bambu",
+                "kireçtaşı"
+              ]
+            },
+            {
+              "word": "Zhangjiajie",
+              "forbiddens": [
+                "çin",
+                "avatar",
+                "kayalar",
+                "sütun",
+                "orman"
+              ]
+            },
+            {
+              "word": "Huangshan",
+              "forbiddens": [
+                "çin",
+                "sarı dağ",
+                "sis",
+                "çam",
+                "granit"
+              ]
+            },
+            {
+              "word": "Jiuzhaigou",
+              "forbiddens": [
+                "çin",
+                "renkli göller",
+                "şelale",
+                "orman",
+                "milli park"
+              ]
+            },
+            {
+              "word": "Lijiang",
+              "forbiddens": [
+                "çin",
+                "eski şehir",
+                "yunnan",
+                "kanal",
+                "dağ"
+              ]
+            },
+            {
+              "word": "Phong Nha",
+              "forbiddens": [
+                "vietnam",
+                "mağara",
+                "nehir",
+                "karst",
+                "orman"
+              ]
+            },
+            {
+              "word": "Ayutthaya",
+              "forbiddens": [
+                "tayland",
+                "antik",
+                "harabe",
+                "fil",
+                "eski başkent"
+              ]
+            },
+            {
+              "word": "Luang Prabang",
+              "forbiddens": [
+                "laos",
+                "mekong",
+                "eski şehir",
+                "şelale",
+                "kasaba"
+              ]
+            },
+            {
+              "word": "Siem Reap",
+              "forbiddens": [
+                "kamboçya",
+                "angkor",
+                "tuk tuk",
+                "tonle sap",
+                "turizm"
+              ]
+            },
+            {
+              "word": "Malakka",
+              "forbiddens": [
+                "malezya",
+                "boğaz",
+                "tarihi",
+                "liman",
+                "kanal"
+              ]
+            },
+            {
+              "word": "Kinabalu Dağı",
+              "forbiddens": [
+                "malezya",
+                "borneo",
+                "zirve",
+                "sabah",
+                "tropikal"
+              ]
+            },
+            {
+              "word": "Yogyakarta",
+              "forbiddens": [
+                "endonezya",
+                "cava",
+                "sultan",
+                "borobudur",
+                "kültür"
+              ]
+            },
+            {
+              "word": "Pokhara",
+              "forbiddens": [
+                "nepal",
+                "göl",
+                "himalayalar",
+                "annapurna",
+                "yamaç paraşütü"
+              ]
+            },
+            {
+              "word": "Estuar",
+              "forbiddens": [
+                "nehir",
+                "deniz",
+                "haliç",
+                "tatlı su",
+                "tuzlu su"
+              ]
+            },
+            {
+              "word": "Lecce",
+              "forbiddens": [
+                "italya",
+                "puglia",
+                "barok",
+                "güney",
+                "çizme"
+              ]
+            },
+            {
+              "word": "Cagliari",
+              "forbiddens": [
+                "sardinya",
+                "italya",
+                "ada",
+                "liman",
+                "başkent"
+              ]
+            },
+            {
+              "word": "Dijon",
+              "forbiddens": [
+                "fransa",
+                "hardal",
+                "burgonya",
+                "orta çağ",
+                "bölge"
+              ]
+            },
+            {
+              "word": "Annecy",
+              "forbiddens": [
+                "fransa",
+                "göl",
+                "alpler",
+                "kanal",
+                "eski şehir"
+              ]
+            },
+            {
+              "word": "Zaragoza",
+              "forbiddens": [
+                "ispanya",
+                "ebro",
+                "aragon",
+                "bazilika",
+                "nehir"
+              ]
+            },
+            {
+              "word": "Coimbra",
+              "forbiddens": [
+                "portekiz",
+                "üniversite",
+                "mondego",
+                "eski",
+                "kütüphane"
+              ]
+            },
+            {
+              "word": "Maastricht",
+              "forbiddens": [
+                "hollanda",
+                "limburg",
+                "güney",
+                "avrupa",
+                "belçika"
+              ]
+            },
+            {
+              "word": "Groningen",
+              "forbiddens": [
+                "hollanda",
+                "kuzey",
+                "bisiklet",
+                "üniversite",
+                "kanal"
+              ]
+            },
+            {
+              "word": "Trondheim",
+              "forbiddens": [
+                "norveç",
+                "orta",
+                "nidelva",
+                "fiyort",
+                "tarihi"
+              ]
+            },
+            {
+              "word": "Plovdiv",
+              "forbiddens": [
+                "bulgaristan",
+                "tarihi",
+                "tepeler",
+                "roma",
+                "kültür"
+              ]
+            },
+            {
+              "word": "Amanos Dağları",
+              "forbiddens": [
+                "hatay",
+                "osmaniye",
+                "akdeniz",
+                "sıradağ",
+                "orman"
+              ]
+            },
+            {
+              "word": "Bozdağ",
+              "forbiddens": [
+                "izmir",
+                "manisa",
+                "kayak",
+                "ege",
+                "zirve"
+              ]
+            },
+            {
+              "word": "Karacadağ",
+              "forbiddens": [
+                "diyarbakır",
+                "şanlıurfa",
+                "volkan",
+                "karpuz",
+                "güneydoğu"
+              ]
+            },
+            {
+              "word": "Madran Dağı",
+              "forbiddens": [
+                "çine",
+                "aydın",
+                "bozdoğan",
+                "kaynak suyu",
+                "orman"
+              ]
+            },
+            {
+              "word": "Aksu Çayı",
+              "forbiddens": [
+                "antalya",
+                "nehir",
+                "perge",
+                "akdeniz",
+                "kıyı"
+              ]
+            },
+            {
+              "word": "Sierra Nevada Dağları",
+              "forbiddens": [
+                "kaliforniya",
+                "abd",
+                "sıradağ",
+                "yosemite",
+                "kar"
+              ]
+            },
+            {
+              "word": "Pirin",
+              "forbiddens": [
+                "bulgaristan",
+                "dağ",
+                "kayak",
+                "milli park",
+                "bansko"
+              ]
+            },
+            {
+              "word": "Rila",
+              "forbiddens": [
+                "bulgaristan",
+                "dağ",
+                "musala",
+                "göl",
+                "orman"
+              ]
+            },
+            {
+              "word": "Vosges",
+              "forbiddens": [
+                "fransa",
+                "sıradağ",
+                "orman",
+                "alsas",
+                "kayak"
+              ]
+            },
+            {
+              "word": "Harz Dağları",
+              "forbiddens": [
+                "almanya",
+                "sıradağ",
+                "orman",
+                "brocken",
+                "kuzey"
+              ]
+            },
+            {
+              "word": "Hood Dağı",
+              "forbiddens": [
+                "oregon",
+                "abd",
+                "volkan",
+                "kar",
+                "kayak"
+              ]
+            },
+            {
+              "word": "Mayon",
+              "forbiddens": [
+                "filipinler",
+                "volkan",
+                "koni",
+                "luzon",
+                "mükemmel"
+              ]
+            },
+            {
+              "word": "Bromo",
+              "forbiddens": [
+                "endonezya",
+                "cava",
+                "volkan",
+                "sis",
+                "gün doğumu"
+              ]
+            },
+            {
+              "word": "Aso",
+              "forbiddens": [
+                "japonya",
+                "kyushu",
+                "kaldera",
+                "volkan",
+                "ova"
+              ]
+            },
+            {
+              "word": "Demavend",
+              "forbiddens": [
+                "iran",
+                "volkan",
+                "elburz",
+                "kar",
+                "en yüksek"
+              ]
+            },
+            {
+              "word": "Cho Oyu",
+              "forbiddens": [
+                "himalayalar",
+                "zirve",
+                "kar",
+                "tırmanış",
+                "everest"
+              ]
+            },
+            {
+              "word": "Hebridler",
+              "forbiddens": [
+                "iskoçya",
+                "ada",
+                "batı",
+                "rüzgar",
+                "koyun"
+              ]
+            },
+            {
+              "word": "Shetland",
+              "forbiddens": [
+                "iskoçya",
+                "kuzey",
+                "midilli",
+                "rüzgar",
+                "takımada"
+              ]
+            },
+            {
+              "word": "Skye",
+              "forbiddens": [
+                "iskoçya",
+                "hebridler",
+                "dağ",
+                "sis",
+                "kale"
+              ]
+            },
+            {
+              "word": "Öland",
+              "forbiddens": [
+                "isveç",
+                "baltık",
+                "rüzgar değirmeni",
+                "köprü",
+                "kalker"
+              ]
+            },
+            {
+              "word": "Bornholm",
+              "forbiddens": [
+                "danimarka",
+                "baltık",
+                "güneş",
+                "balık",
+                "kaya"
+              ]
+            },
+            {
+              "word": "Gran Canaria",
+              "forbiddens": [
+                "kanarya",
+                "kumul",
+                "ispanya",
+                "atlantik",
+                "ada"
+              ]
+            },
+            {
+              "word": "La Palma",
+              "forbiddens": [
+                "kanarya",
+                "volkan",
+                "yeşil",
+                "ispanya",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Ischia",
+              "forbiddens": [
+                "italya",
+                "napoli",
+                "kaplıca",
+                "akdeniz",
+                "ada"
+              ]
+            },
+            {
+              "word": "Lipari",
+              "forbiddens": [
+                "italya",
+                "sicilya",
+                "volkan",
+                "akdeniz",
+                "takımada"
+              ]
+            },
+            {
+              "word": "Hainan",
+              "forbiddens": [
+                "çin",
+                "tropikal",
+                "güney",
+                "plaj",
+                "ada"
+              ]
+            },
+            {
+              "word": "Yakushima",
+              "forbiddens": [
+                "japonya",
+                "sedir",
+                "orman",
+                "yağmur",
+                "ada"
+              ]
+            },
+            {
+              "word": "Gili Adaları",
+              "forbiddens": [
+                "endonezya",
+                "lombok",
+                "plaj",
+                "kaplumbağa",
+                "bisiklet"
+              ]
+            },
+            {
+              "word": "Flores",
+              "forbiddens": [
+                "endonezya",
+                "komodo",
+                "kelimutu",
+                "volkan",
+                "ada"
+              ]
+            },
+            {
+              "word": "El Nido",
+              "forbiddens": [
+                "filipinler",
+                "palawan",
+                "lagün",
+                "kayalık",
+                "tekne"
+              ]
+            },
+            {
+              "word": "Siargao",
+              "forbiddens": [
+                "filipinler",
+                "sörf",
+                "plaj",
+                "mindanao",
+                "palmiye"
+              ]
+            },
+            {
+              "word": "Bohol",
+              "forbiddens": [
+                "filipinler",
+                "çikolata tepeleri",
+                "tarsiyer",
+                "cebu",
+                "ada"
+              ]
+            },
+            {
+              "word": "Camden",
+              "forbiddens": [
+                "londra",
+                "pazar",
+                "kanal",
+                "müzik",
+                "kuzey"
+              ]
+            },
+            {
+              "word": "Yorkshire",
+              "forbiddens": [
+                "ingiltere",
+                "kuzey",
+                "kırsal",
+                "vadi",
+                "tepe"
+              ]
+            },
+            {
+              "word": "Piemonte",
+              "forbiddens": [
+                "italya",
+                "torino",
+                "alpler",
+                "kuzey",
+                "fındık"
+              ]
+            },
+            {
+              "word": "Puglia",
+              "forbiddens": [
+                "italya",
+                "topuk",
+                "güney",
+                "zeytin",
+                "adriyatik"
+              ]
+            },
+            {
+              "word": "Bretanya",
+              "forbiddens": [
+                "fransa",
+                "batı",
+                "kıyı",
+                "kelt",
+                "krep"
+              ]
+            },
+            {
+              "word": "Kastilya",
+              "forbiddens": [
+                "ispanya",
+                "orta",
+                "yayla",
+                "kale",
+                "buğday"
+              ]
+            },
+            {
+              "word": "Flaman Bölgesi",
+              "forbiddens": [
+                "belçika",
+                "kuzey",
+                "hollandaca",
+                "brugge",
+                "dantel"
+              ]
+            },
+            {
+              "word": "Bohemya",
+              "forbiddens": [
+                "çekya",
+                "prag",
+                "batı",
+                "kristal",
+                "orman"
+              ]
+            },
+            {
+              "word": "Mazurya",
+              "forbiddens": [
+                "polonya",
+                "göl",
+                "kuzeydoğu",
+                "orman",
+                "yelken"
+              ]
+            },
+            {
+              "word": "Peloponez",
+              "forbiddens": [
+                "yunanistan",
+                "yarımada",
+                "güney",
+                "zeytin",
+                "antik"
+              ]
+            },
+            {
+              "word": "Skåne",
+              "forbiddens": [
+                "isveç",
+                "güney",
+                "ova",
+                "malmö",
+                "tarım"
+              ]
+            },
+            {
+              "word": "Baja California",
+              "forbiddens": [
+                "meksika",
+                "yarımada",
+                "kaktüs",
+                "çöl",
+                "balina"
+              ]
+            },
+            {
+              "word": "Fundy Körfezi",
+              "forbiddens": [
+                "kanada",
+                "gelgit",
+                "en yüksek",
+                "atlantik",
+                "nova scotia"
+              ]
+            },
+            {
+              "word": "Manitoba",
+              "forbiddens": [
+                "kanada",
+                "winnipeg",
+                "ova",
+                "orta",
+                "göl"
+              ]
+            },
+            {
+              "word": "Kamçatka",
+              "forbiddens": [
+                "rusya",
+                "yarımada",
+                "volkan",
+                "ayı",
+                "doğu"
+              ]
+            },
+            {
+              "word": "Dekkan Platosu",
+              "forbiddens": [
+                "hindistan",
+                "yayla",
+                "güney",
+                "bazalt",
+                "kuru"
+              ]
+            },
+            {
+              "word": "Messina Boğazı",
+              "forbiddens": [
+                "italya",
+                "sicilya",
+                "dar",
+                "akdeniz",
+                "feribot"
+              ]
+            },
+            {
+              "word": "Malakka Boğazı",
+              "forbiddens": [
+                "malezya",
+                "endonezya",
+                "dar",
+                "gemi",
+                "ticaret"
+              ]
+            },
+            {
+              "word": "Dettifoss",
+              "forbiddens": [
+                "izlanda",
+                "güçlü",
+                "buzul",
+                "nehir",
+                "şelale"
+              ]
+            },
+            {
+              "word": "Ren Şelalesi",
+              "forbiddens": [
+                "isviçre",
+                "neuhausen",
+                "avrupa",
+                "güçlü",
+                "schaffhausen"
+              ]
+            },
+            {
+              "word": "Krimml Şelalesi",
+              "forbiddens": [
+                "avusturya",
+                "alpler",
+                "yüksek",
+                "salzburg",
+                "su"
+              ]
+            },
+            {
+              "word": "Kuang Si",
+              "forbiddens": [
+                "laos",
+                "turkuaz",
+                "luang prabang",
+                "şelale",
+                "havuz"
+              ]
+            },
+            {
+              "word": "Krka Şelaleleri",
+              "forbiddens": [
+                "hırvatistan",
+                "milli park",
+                "dalmaçya",
+                "göl",
+                "yürüyüş"
               ]
             }
           ]

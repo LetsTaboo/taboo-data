@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "data": [
     {
       "topic": "cultural",
@@ -93826,6 +93826,216 @@
                 "backpacken",
                 "rijstvelden"
               ]
+            },
+            {
+              "word": "Rijn",
+              "forbiddens": [
+                "rivier",
+                "duitsland",
+                "zwitserland",
+                "rotterdam",
+                "schepen"
+              ]
+            },
+            {
+              "word": "Afrika",
+              "forbiddens": [
+                "continent",
+                "savanne",
+                "leeuw",
+                "olifant",
+                "sahara"
+              ]
+            },
+            {
+              "word": "Azië",
+              "forbiddens": [
+                "continent",
+                "china",
+                "india",
+                "grootste",
+                "rijst"
+              ]
+            },
+            {
+              "word": "Europa",
+              "forbiddens": [
+                "continent",
+                "nederland",
+                "duitsland",
+                "frankrijk",
+                "westen"
+              ]
+            },
+            {
+              "word": "Noorwegen",
+              "forbiddens": [
+                "fjorden",
+                "oslo",
+                "scandinavië",
+                "elanden",
+                "noorderlicht"
+              ]
+            },
+            {
+              "word": "Hawaï",
+              "forbiddens": [
+                "surfen",
+                "vulkanen",
+                "honolulu",
+                "eilanden",
+                "bloemenkrans"
+              ]
+            },
+            {
+              "word": "Alaska",
+              "forbiddens": [
+                "koud",
+                "sneeuw",
+                "gletsjers",
+                "beren",
+                "amerika"
+              ]
+            },
+            {
+              "word": "Vietnam",
+              "forbiddens": [
+                "hanoi",
+                "rijst",
+                "scooters",
+                "halongbaai",
+                "zuidoost-azië"
+              ]
+            },
+            {
+              "word": "Zuid-Amerika",
+              "forbiddens": [
+                "continent",
+                "amazone",
+                "brazilië",
+                "andes",
+                "lama"
+              ]
+            },
+            {
+              "word": "Noord-Amerika",
+              "forbiddens": [
+                "continent",
+                "canada",
+                "mexico",
+                "rocky mountains",
+                "grote meren"
+              ]
+            },
+            {
+              "word": "Berlijn",
+              "forbiddens": [
+                "hoofdstad",
+                "duitsland",
+                "brandenburger tor",
+                "spree",
+                "tv-toren"
+              ]
+            },
+            {
+              "word": "München",
+              "forbiddens": [
+                "beieren",
+                "duitsland",
+                "alpen",
+                "frauenkirche",
+                "stad"
+              ]
+            },
+            {
+              "word": "Noord-Brabant",
+              "forbiddens": [
+                "den bosch",
+                "eindhoven",
+                "breda",
+                "carnaval",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Oceanië",
+              "forbiddens": [
+                "continent",
+                "australië",
+                "eilanden",
+                "stille oceaan",
+                "nieuw-zeeland"
+              ]
+            },
+            {
+              "word": "Luxemburg",
+              "forbiddens": [
+                "groothertogdom",
+                "klein",
+                "land",
+                "europa",
+                "stad"
+              ]
+            },
+            {
+              "word": "Lapland",
+              "forbiddens": [
+                "finland",
+                "noorden",
+                "rendieren",
+                "sneeuw",
+                "noorderlicht"
+              ]
+            },
+            {
+              "word": "Kaapstad",
+              "forbiddens": [
+                "zuid-afrika",
+                "tafelberg",
+                "kust",
+                "haven",
+                "atlantische oceaan"
+              ]
+            },
+            {
+              "word": "Rio de Janeiro",
+              "forbiddens": [
+                "brazilië",
+                "copacabana",
+                "suikerbroodberg",
+                "carnaval",
+                "stranden"
+              ]
+            },
+            {
+              "word": "Maas",
+              "forbiddens": [
+                "rivier",
+                "limburg",
+                "venlo",
+                "roermond",
+                "rotterdam"
+              ]
+            },
+            {
+              "word": "Wereldkaart",
+              "forbiddens": [
+                "continenten",
+                "oceanen",
+                "atlas",
+                "landen",
+                "aardrijkskunde"
+              ]
+            },
+            {
+              "word": "Kopenhagen",
+              "forbiddens": [
+                "hoofdstad",
+                "denemarken",
+                "zeemeermin",
+                "nyhavn",
+                "fiets"
+              ]
             }
           ]
         },
@@ -96831,6 +97041,3106 @@
                 "afgelegen",
                 "zwarte zwanen"
               ]
+            },
+            {
+              "word": "Fuji",
+              "forbiddens": [
+                "japan",
+                "vulkaan",
+                "berg",
+                "sneeuw",
+                "tokio"
+              ]
+            },
+            {
+              "word": "Sneek",
+              "forbiddens": [
+                "friesland",
+                "waterpoort",
+                "zeilen",
+                "stad",
+                "meren"
+              ]
+            },
+            {
+              "word": "Deventer",
+              "forbiddens": [
+                "ijssel",
+                "overijssel",
+                "hanzestad",
+                "koek",
+                "stad"
+              ]
+            },
+            {
+              "word": "Ede",
+              "forbiddens": [
+                "gelderland",
+                "veluwe",
+                "stad",
+                "heide",
+                "centrum"
+              ]
+            },
+            {
+              "word": "Emmen",
+              "forbiddens": [
+                "drenthe",
+                "veen",
+                "stad",
+                "oosten",
+                "wildlands"
+              ]
+            },
+            {
+              "word": "Spa",
+              "forbiddens": [
+                "belgië",
+                "luik",
+                "water",
+                "stad",
+                "ardennen"
+              ]
+            },
+            {
+              "word": "Archipel",
+              "forbiddens": [
+                "eilanden",
+                "groep",
+                "indonesië",
+                "zee",
+                "filipijnen"
+              ]
+            },
+            {
+              "word": "Harderwijk",
+              "forbiddens": [
+                "gelderland",
+                "veluwemeer",
+                "stad",
+                "haven",
+                "dolfinarium"
+              ]
+            },
+            {
+              "word": "Almelo",
+              "forbiddens": [
+                "overijssel",
+                "twente",
+                "stad",
+                "oosten",
+                "textiel"
+              ]
+            },
+            {
+              "word": "Uluru",
+              "forbiddens": [
+                "australië",
+                "rots",
+                "rood",
+                "outback",
+                "zandsteen"
+              ]
+            },
+            {
+              "word": "Oeral",
+              "forbiddens": [
+                "rusland",
+                "gebergte",
+                "europa",
+                "azië",
+                "scheiding"
+              ]
+            },
+            {
+              "word": "Angelwaterval",
+              "forbiddens": [
+                "venezuela",
+                "hoogste",
+                "jungle",
+                "tafelberg",
+                "canaima"
+              ]
+            },
+            {
+              "word": "Meer van Genève",
+              "forbiddens": [
+                "zwitserland",
+                "frankrijk",
+                "alpen",
+                "lausanne",
+                "water"
+              ]
+            },
+            {
+              "word": "Bodenmeer",
+              "forbiddens": [
+                "duitsland",
+                "oostenrijk",
+                "zwitserland",
+                "alpen",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Lago Maggiore",
+              "forbiddens": [
+                "italië",
+                "zwitserland",
+                "alpen",
+                "borromeïsche eilanden",
+                "meer"
+              ]
+            },
+            {
+              "word": "Balatonmeer",
+              "forbiddens": [
+                "hongarije",
+                "groot",
+                "zoet",
+                "vakantie",
+                "boedapest"
+              ]
+            },
+            {
+              "word": "Adriatische Zee",
+              "forbiddens": [
+                "italië",
+                "kroatië",
+                "venetië",
+                "kust",
+                "blauw"
+              ]
+            },
+            {
+              "word": "Egeïsche Zee",
+              "forbiddens": [
+                "griekenland",
+                "turkije",
+                "eilanden",
+                "kust",
+                "blauw"
+              ]
+            },
+            {
+              "word": "Oostzee",
+              "forbiddens": [
+                "denemarken",
+                "zweden",
+                "polen",
+                "finland",
+                "kust"
+              ]
+            },
+            {
+              "word": "Bosporus",
+              "forbiddens": [
+                "istanboel",
+                "zeestraat",
+                "brug",
+                "zwarte zee",
+                "europa"
+              ]
+            },
+            {
+              "word": "Loire",
+              "forbiddens": [
+                "rivier",
+                "frankrijk",
+                "kastelen",
+                "nantes",
+                "langste"
+              ]
+            },
+            {
+              "word": "Garonne",
+              "forbiddens": [
+                "rivier",
+                "toulouse",
+                "bordeaux",
+                "frankrijk",
+                "pyreneeën"
+              ]
+            },
+            {
+              "word": "Moezel",
+              "forbiddens": [
+                "rivier",
+                "duitsland",
+                "trier",
+                "rijn",
+                "bochten"
+              ]
+            },
+            {
+              "word": "Main",
+              "forbiddens": [
+                "rivier",
+                "frankfurt",
+                "duitsland",
+                "rijn",
+                "beieren"
+              ]
+            },
+            {
+              "word": "Taag",
+              "forbiddens": [
+                "rivier",
+                "lissabon",
+                "portugal",
+                "spanje",
+                "iberisch"
+              ]
+            },
+            {
+              "word": "Douro",
+              "forbiddens": [
+                "rivier",
+                "porto",
+                "portugal",
+                "spanje",
+                "dal"
+              ]
+            },
+            {
+              "word": "Gele Rivier",
+              "forbiddens": [
+                "china",
+                "huang he",
+                "azië",
+                "löss",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Niger",
+              "forbiddens": [
+                "rivier",
+                "afrika",
+                "mali",
+                "delta",
+                "sahel"
+              ]
+            },
+            {
+              "word": "Missouri",
+              "forbiddens": [
+                "rivier",
+                "mississippi",
+                "amerika",
+                "lang",
+                "st. louis"
+              ]
+            },
+            {
+              "word": "Hudson",
+              "forbiddens": [
+                "rivier",
+                "new york",
+                "manhattan",
+                "amerika",
+                "new jersey"
+              ]
+            },
+            {
+              "word": "Rio Grande",
+              "forbiddens": [
+                "rivier",
+                "mexico",
+                "texas",
+                "amerika",
+                "groot"
+              ]
+            },
+            {
+              "word": "Yukon",
+              "forbiddens": [
+                "rivier",
+                "canada",
+                "alaska",
+                "noorden",
+                "goud"
+              ]
+            },
+            {
+              "word": "Amstel",
+              "forbiddens": [
+                "rivier",
+                "grachten",
+                "ouderkerk",
+                "nederland",
+                "amsterdam"
+              ]
+            },
+            {
+              "word": "Lek",
+              "forbiddens": [
+                "rivier",
+                "rijn",
+                "zuid-holland",
+                "utrecht",
+                "kinderdijk"
+              ]
+            },
+            {
+              "word": "Vecht",
+              "forbiddens": [
+                "rivier",
+                "utrecht",
+                "maarssen",
+                "weesp",
+                "nederland"
+              ]
+            },
+            {
+              "word": "Korfoe",
+              "forbiddens": [
+                "eiland",
+                "griekenland",
+                "ionische zee",
+                "vakantie",
+                "strand"
+              ]
+            },
+            {
+              "word": "Kefalonia",
+              "forbiddens": [
+                "eiland",
+                "griekenland",
+                "ionische zee",
+                "vakantie",
+                "strand"
+              ]
+            },
+            {
+              "word": "Spitsbergen",
+              "forbiddens": [
+                "arctisch",
+                "ijsberen",
+                "eiland",
+                "noordpool",
+                "gletsjers"
+              ]
+            },
+            {
+              "word": "Sumatra",
+              "forbiddens": [
+                "eiland",
+                "indonesië",
+                "orang-oetan",
+                "jungle",
+                "tropisch"
+              ]
+            },
+            {
+              "word": "Sulawesi",
+              "forbiddens": [
+                "eiland",
+                "indonesië",
+                "tropisch",
+                "duiken",
+                "makassar"
+              ]
+            },
+            {
+              "word": "Mauritius",
+              "forbiddens": [
+                "eiland",
+                "indische oceaan",
+                "dodo",
+                "strand",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Azoren",
+              "forbiddens": [
+                "eilanden",
+                "portugal",
+                "atlantische oceaan",
+                "vulkanen",
+                "hortensia's"
+              ]
+            },
+            {
+              "word": "Canarische Eilanden",
+              "forbiddens": [
+                "spanje",
+                "atlantische oceaan",
+                "tenerife",
+                "vulkanen",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Kaapverdië",
+              "forbiddens": [
+                "eilanden",
+                "afrika",
+                "atlantische oceaan",
+                "vakantie",
+                "strand"
+              ]
+            },
+            {
+              "word": "Walcheren",
+              "forbiddens": [
+                "zeeland",
+                "middelburg",
+                "vlissingen",
+                "schiereiland",
+                "domburg"
+              ]
+            },
+            {
+              "word": "Utrechtse Heuvelrug",
+              "forbiddens": [
+                "bossen",
+                "doorn",
+                "zeist",
+                "natuur",
+                "zandgrond"
+              ]
+            },
+            {
+              "word": "Achterhoek",
+              "forbiddens": [
+                "gelderland",
+                "doetinchem",
+                "platteland",
+                "oosten",
+                "kastelen"
+              ]
+            },
+            {
+              "word": "Twente",
+              "forbiddens": [
+                "overijssel",
+                "enschede",
+                "oosten",
+                "textiel",
+                "hengelo"
+              ]
+            },
+            {
+              "word": "Lauwersmeer",
+              "forbiddens": [
+                "nationaal park",
+                "groningen",
+                "friesland",
+                "vogels",
+                "natuur"
+              ]
+            },
+            {
+              "word": "Oosterschelde",
+              "forbiddens": [
+                "zeeland",
+                "stormvloedkering",
+                "zeearm",
+                "zout",
+                "eilanden"
+              ]
+            },
+            {
+              "word": "Westerschelde",
+              "forbiddens": [
+                "zeeland",
+                "antwerpen",
+                "vlissingen",
+                "zeearm",
+                "schepen"
+              ]
+            },
+            {
+              "word": "Middelburg",
+              "forbiddens": [
+                "zeeland",
+                "walcheren",
+                "stad",
+                "abdij",
+                "centrum"
+              ]
+            },
+            {
+              "word": "Vlissingen",
+              "forbiddens": [
+                "zeeland",
+                "haven",
+                "boulevard",
+                "schelde",
+                "stad"
+              ]
+            },
+            {
+              "word": "Den Bosch",
+              "forbiddens": [
+                "brabant",
+                "bossche bol",
+                "stad",
+                "dommel",
+                "binnendieze"
+              ]
+            },
+            {
+              "word": "Bologna",
+              "forbiddens": [
+                "italië",
+                "emilia-romagna",
+                "universiteit",
+                "torens",
+                "pasta"
+              ]
+            },
+            {
+              "word": "Turijn",
+              "forbiddens": [
+                "piëmont",
+                "italië",
+                "noorden",
+                "alpen",
+                "stad"
+              ]
+            },
+            {
+              "word": "Bilbao",
+              "forbiddens": [
+                "spanje",
+                "noorden",
+                "haven",
+                "guggenheim",
+                "atlantische oceaan"
+              ]
+            },
+            {
+              "word": "Málaga",
+              "forbiddens": [
+                "andalusië",
+                "spanje",
+                "costa del sol",
+                "haven",
+                "stad"
+              ]
+            },
+            {
+              "word": "Córdoba",
+              "forbiddens": [
+                "andalusië",
+                "spanje",
+                "stad",
+                "mezquita",
+                "patio's"
+              ]
+            },
+            {
+              "word": "Zaragoza",
+              "forbiddens": [
+                "aragón",
+                "spanje",
+                "ebro",
+                "stad",
+                "noordoosten"
+              ]
+            },
+            {
+              "word": "Avignon",
+              "forbiddens": [
+                "provence",
+                "frankrijk",
+                "brug",
+                "rhône",
+                "stad"
+              ]
+            },
+            {
+              "word": "Saint-Tropez",
+              "forbiddens": [
+                "côte d'azur",
+                "jachthaven",
+                "rijk",
+                "frankrijk",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Biarritz",
+              "forbiddens": [
+                "baskische kust",
+                "surfen",
+                "frankrijk",
+                "atlantische oceaan",
+                "badplaats"
+              ]
+            },
+            {
+              "word": "Düsseldorf",
+              "forbiddens": [
+                "rijn",
+                "duitsland",
+                "noordrijn-westfalen",
+                "mode",
+                "altstadt"
+              ]
+            },
+            {
+              "word": "Stuttgart",
+              "forbiddens": [
+                "baden-württemberg",
+                "duitsland",
+                "auto's",
+                "neckar",
+                "stad"
+              ]
+            },
+            {
+              "word": "Neurenberg",
+              "forbiddens": [
+                "beieren",
+                "duitsland",
+                "kerstmarkt",
+                "lebkuchen",
+                "stad"
+              ]
+            },
+            {
+              "word": "Heidelberg",
+              "forbiddens": [
+                "neckar",
+                "duitsland",
+                "kasteel",
+                "universiteit",
+                "oude brug"
+              ]
+            },
+            {
+              "word": "Bremen",
+              "forbiddens": [
+                "noord-duitsland",
+                "weser",
+                "stadsmuzikanten",
+                "haven",
+                "stad"
+              ]
+            },
+            {
+              "word": "Innsbruck",
+              "forbiddens": [
+                "tirol",
+                "oostenrijk",
+                "alpen",
+                "skiën",
+                "stad"
+              ]
+            },
+            {
+              "word": "Luzern",
+              "forbiddens": [
+                "zwitserland",
+                "meer",
+                "kapellbrücke",
+                "alpen",
+                "stad"
+              ]
+            },
+            {
+              "word": "Bazel",
+              "forbiddens": [
+                "zwitserland",
+                "rijn",
+                "carnaval",
+                "noorden",
+                "stad"
+              ]
+            },
+            {
+              "word": "Lausanne",
+              "forbiddens": [
+                "zwitserland",
+                "meer van genève",
+                "olympisch",
+                "stad",
+                "franstalig"
+              ]
+            },
+            {
+              "word": "Bergen",
+              "forbiddens": [
+                "noorwegen",
+                "bryggen",
+                "fjorden",
+                "regen",
+                "haven"
+              ]
+            },
+            {
+              "word": "Tromsø",
+              "forbiddens": [
+                "noorwegen",
+                "noorderlicht",
+                "noorden",
+                "arctisch",
+                "stad"
+              ]
+            },
+            {
+              "word": "Glasgow",
+              "forbiddens": [
+                "schotland",
+                "clyde",
+                "stad",
+                "schots",
+                "haven"
+              ]
+            },
+            {
+              "word": "Brighton",
+              "forbiddens": [
+                "engeland",
+                "zuidkust",
+                "strand",
+                "pier",
+                "badplaats"
+              ]
+            },
+            {
+              "word": "Cambridge",
+              "forbiddens": [
+                "engeland",
+                "universiteit",
+                "rivier",
+                "stad",
+                "studenten"
+              ]
+            },
+            {
+              "word": "York",
+              "forbiddens": [
+                "engeland",
+                "noorden",
+                "stad",
+                "muren",
+                "middeleeuws"
+              ]
+            },
+            {
+              "word": "Dubrovnik",
+              "forbiddens": [
+                "kroatië",
+                "adriatische zee",
+                "stadsmuren",
+                "oude stad",
+                "kust"
+              ]
+            },
+            {
+              "word": "Luxor",
+              "forbiddens": [
+                "egypte",
+                "nijl",
+                "tempels",
+                "oud",
+                "stad"
+              ]
+            },
+            {
+              "word": "Cusco",
+              "forbiddens": [
+                "peru",
+                "andes",
+                "inca's",
+                "stad",
+                "machu picchu"
+              ]
+            },
+            {
+              "word": "Medellín",
+              "forbiddens": [
+                "colombia",
+                "stad",
+                "bergen",
+                "bloemen",
+                "andes"
+              ]
+            },
+            {
+              "word": "Honolulu",
+              "forbiddens": [
+                "hawaï",
+                "oahu",
+                "strand",
+                "stad",
+                "stille oceaan"
+              ]
+            },
+            {
+              "word": "Brisbane",
+              "forbiddens": [
+                "queensland",
+                "australië",
+                "stad",
+                "kust",
+                "rivier"
+              ]
+            },
+            {
+              "word": "Goa",
+              "forbiddens": [
+                "india",
+                "strand",
+                "westkust",
+                "vakantie",
+                "kokospalmen"
+              ]
+            },
+            {
+              "word": "Yogyakarta",
+              "forbiddens": [
+                "java",
+                "indonesië",
+                "stad",
+                "borobudur",
+                "sultanspaleis"
+              ]
+            },
+            {
+              "word": "Siem Reap",
+              "forbiddens": [
+                "cambodja",
+                "stad",
+                "angkor wat",
+                "tonle sap",
+                "zuidoost-azië"
+              ]
+            },
+            {
+              "word": "Busan",
+              "forbiddens": [
+                "zuid-korea",
+                "haven",
+                "stad",
+                "strand",
+                "zuidoosten"
+              ]
+            },
+            {
+              "word": "Shenzhen",
+              "forbiddens": [
+                "china",
+                "stad",
+                "zuiden",
+                "technologie",
+                "hongkong"
+              ]
+            },
+            {
+              "word": "Chengdu",
+              "forbiddens": [
+                "china",
+                "panda's",
+                "sichuan",
+                "stad",
+                "zuidwesten"
+              ]
+            },
+            {
+              "word": "Izmir",
+              "forbiddens": [
+                "turkije",
+                "egeïsche zee",
+                "haven",
+                "stad",
+                "westkust"
+              ]
+            },
+            {
+              "word": "Bodrum",
+              "forbiddens": [
+                "turkije",
+                "egeïsche zee",
+                "vakantie",
+                "kasteel",
+                "badplaats"
+              ]
+            },
+            {
+              "word": "Maleisië",
+              "forbiddens": [
+                "kuala lumpur",
+                "borneo",
+                "zuidoost-azië",
+                "tropisch",
+                "land"
+              ]
+            },
+            {
+              "word": "Rwanda",
+              "forbiddens": [
+                "kigali",
+                "afrika",
+                "bergen",
+                "gorilla's",
+                "land"
+              ]
+            },
+            {
+              "word": "Severn",
+              "forbiddens": [
+                "rivier",
+                "engeland",
+                "wales",
+                "bristol",
+                "lang"
+              ]
+            },
+            {
+              "word": "Shannon",
+              "forbiddens": [
+                "rivier",
+                "ierland",
+                "lang",
+                "limerick",
+                "atlantische oceaan"
+              ]
+            },
+            {
+              "word": "Clyde",
+              "forbiddens": [
+                "rivier",
+                "glasgow",
+                "schotland",
+                "scheepsbouw",
+                "haven"
+              ]
+            },
+            {
+              "word": "Mersey",
+              "forbiddens": [
+                "rivier",
+                "liverpool",
+                "engeland",
+                "haven",
+                "noordwesten"
+              ]
+            },
+            {
+              "word": "Ben Nevis",
+              "forbiddens": [
+                "schotland",
+                "hoogste",
+                "berg",
+                "heuvels",
+                "wandelen"
+              ]
+            },
+            {
+              "word": "Loch Lomond",
+              "forbiddens": [
+                "schotland",
+                "meer",
+                "groot",
+                "wandelen",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Bovenmeer",
+              "forbiddens": [
+                "amerika",
+                "canada",
+                "grootste",
+                "zoetwater",
+                "grote meren"
+              ]
+            },
+            {
+              "word": "Ontariomeer",
+              "forbiddens": [
+                "canada",
+                "amerika",
+                "toronto",
+                "niagara",
+                "grote meren"
+              ]
+            },
+            {
+              "word": "Koraalzee",
+              "forbiddens": [
+                "australië",
+                "rif",
+                "stille oceaan",
+                "queensland",
+                "tropisch"
+              ]
+            },
+            {
+              "word": "Sonorawoestijn",
+              "forbiddens": [
+                "zand",
+                "mexico",
+                "arizona",
+                "cactussen",
+                "droog"
+              ]
+            },
+            {
+              "word": "Hudsonbaai",
+              "forbiddens": [
+                "canada",
+                "ijs",
+                "noorden",
+                "ijsberen",
+                "churchill"
+              ]
+            },
+            {
+              "word": "Kampen",
+              "forbiddens": [
+                "ijssel",
+                "overijssel",
+                "hanzestad",
+                "stad",
+                "brug"
+              ]
+            },
+            {
+              "word": "Smoky Mountains",
+              "forbiddens": [
+                "amerika",
+                "gebergte",
+                "nationaal park",
+                "tennessee",
+                "mist"
+              ]
+            },
+            {
+              "word": "Saint Lucia",
+              "forbiddens": [
+                "caribisch",
+                "eiland",
+                "pitons",
+                "strand",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Antigua",
+              "forbiddens": [
+                "caribisch",
+                "eiland",
+                "strand",
+                "zon",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Ischia",
+              "forbiddens": [
+                "eiland",
+                "italië",
+                "golf van napels",
+                "warme bronnen",
+                "capri"
+              ]
+            },
+            {
+              "word": "Kos",
+              "forbiddens": [
+                "eiland",
+                "griekenland",
+                "egeïsche zee",
+                "vakantie",
+                "strand"
+              ]
+            },
+            {
+              "word": "Lesbos",
+              "forbiddens": [
+                "eiland",
+                "griekenland",
+                "egeïsche zee",
+                "olijven",
+                "strand"
+              ]
+            },
+            {
+              "word": "Skagen",
+              "forbiddens": [
+                "denemarken",
+                "noordpunt",
+                "jutland",
+                "zand",
+                "kust"
+              ]
+            },
+            {
+              "word": "Uppsala",
+              "forbiddens": [
+                "zweden",
+                "universiteit",
+                "stad",
+                "stockholm",
+                "studenten"
+              ]
+            },
+            {
+              "word": "Trondheim",
+              "forbiddens": [
+                "noorwegen",
+                "stad",
+                "domkerk",
+                "fjord",
+                "midden"
+              ]
+            },
+            {
+              "word": "Rouen",
+              "forbiddens": [
+                "normandië",
+                "seine",
+                "frankrijk",
+                "stad",
+                "middeleeuws"
+              ]
+            },
+            {
+              "word": "Reims",
+              "forbiddens": [
+                "noorden",
+                "frankrijk",
+                "stad",
+                "marne",
+                "kathedraal"
+              ]
+            },
+            {
+              "word": "Grenoble",
+              "forbiddens": [
+                "alpen",
+                "frankrijk",
+                "stad",
+                "isère",
+                "universiteit"
+              ]
+            },
+            {
+              "word": "Metz",
+              "forbiddens": [
+                "lotharingen",
+                "frankrijk",
+                "stad",
+                "moezel",
+                "oosten"
+              ]
+            },
+            {
+              "word": "Ajaccio",
+              "forbiddens": [
+                "corsica",
+                "stad",
+                "haven",
+                "eiland",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Kiel",
+              "forbiddens": [
+                "noord-duitsland",
+                "oostzee",
+                "haven",
+                "stad",
+                "kanaal"
+              ]
+            },
+            {
+              "word": "Rostock",
+              "forbiddens": [
+                "oostzee",
+                "duitsland",
+                "haven",
+                "stad",
+                "noordoosten"
+              ]
+            },
+            {
+              "word": "Koblenz",
+              "forbiddens": [
+                "rijn",
+                "moezel",
+                "duitsland",
+                "stad",
+                "deutsches eck"
+              ]
+            },
+            {
+              "word": "Karlsruhe",
+              "forbiddens": [
+                "baden-württemberg",
+                "duitsland",
+                "stad",
+                "rijn",
+                "zuidwesten"
+              ]
+            },
+            {
+              "word": "Freiburg",
+              "forbiddens": [
+                "zwarte woud",
+                "duitsland",
+                "stad",
+                "universiteit",
+                "zuidwesten"
+              ]
+            },
+            {
+              "word": "Würzburg",
+              "forbiddens": [
+                "beieren",
+                "main",
+                "duitsland",
+                "stad",
+                "residenz"
+              ]
+            },
+            {
+              "word": "Regensburg",
+              "forbiddens": [
+                "beieren",
+                "donau",
+                "duitsland",
+                "stad",
+                "oude brug"
+              ]
+            },
+            {
+              "word": "Passau",
+              "forbiddens": [
+                "drie rivieren",
+                "beieren",
+                "donau",
+                "duitsland",
+                "stad"
+              ]
+            },
+            {
+              "word": "Augsburg",
+              "forbiddens": [
+                "beieren",
+                "duitsland",
+                "stad",
+                "fugger",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Münster",
+              "forbiddens": [
+                "westfalen",
+                "duitsland",
+                "stad",
+                "fietsen",
+                "universiteit"
+              ]
+            },
+            {
+              "word": "Dortmund",
+              "forbiddens": [
+                "ruhrgebied",
+                "duitsland",
+                "stad",
+                "westfalen",
+                "kolen"
+              ]
+            },
+            {
+              "word": "Essen",
+              "forbiddens": [
+                "ruhrgebied",
+                "duitsland",
+                "stad",
+                "noordrijn-westfalen",
+                "steenkool"
+              ]
+            },
+            {
+              "word": "Duisburg",
+              "forbiddens": [
+                "ruhrgebied",
+                "haven",
+                "duitsland",
+                "rijn",
+                "staal"
+              ]
+            },
+            {
+              "word": "Weimar",
+              "forbiddens": [
+                "thüringen",
+                "duitsland",
+                "stad",
+                "goethe",
+                "cultuur"
+              ]
+            },
+            {
+              "word": "Konstanz",
+              "forbiddens": [
+                "bodenmeer",
+                "duitsland",
+                "stad",
+                "zwitserland",
+                "rijn"
+              ]
+            },
+            {
+              "word": "Lugano",
+              "forbiddens": [
+                "zwitserland",
+                "ticino",
+                "meer",
+                "stad",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Zermatt",
+              "forbiddens": [
+                "zwitserland",
+                "matterhorn",
+                "skiën",
+                "dorp",
+                "autovrij"
+              ]
+            },
+            {
+              "word": "Montreux",
+              "forbiddens": [
+                "zwitserland",
+                "meer van genève",
+                "jazzfestival",
+                "stad",
+                "riviera"
+              ]
+            },
+            {
+              "word": "Padua",
+              "forbiddens": [
+                "veneto",
+                "italië",
+                "stad",
+                "universiteit",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Triëst",
+              "forbiddens": [
+                "friuli",
+                "italië",
+                "haven",
+                "adriatische zee",
+                "stad"
+              ]
+            },
+            {
+              "word": "Parma",
+              "forbiddens": [
+                "emilia-romagna",
+                "italië",
+                "ham",
+                "stad",
+                "kaas"
+              ]
+            },
+            {
+              "word": "Modena",
+              "forbiddens": [
+                "emilia-romagna",
+                "italië",
+                "stad",
+                "balsamicoazijn",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Siena",
+              "forbiddens": [
+                "toscane",
+                "italië",
+                "stad",
+                "piazza del campo",
+                "palio"
+              ]
+            },
+            {
+              "word": "Bergamo",
+              "forbiddens": [
+                "lombardije",
+                "italië",
+                "stad",
+                "alpen",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Catania",
+              "forbiddens": [
+                "sicilië",
+                "etna",
+                "italië",
+                "stad",
+                "oostkust"
+              ]
+            },
+            {
+              "word": "Syracuse",
+              "forbiddens": [
+                "sicilië",
+                "italië",
+                "stad",
+                "oud",
+                "grieks"
+              ]
+            },
+            {
+              "word": "Taormina",
+              "forbiddens": [
+                "sicilië",
+                "italië",
+                "stad",
+                "etna",
+                "theater"
+              ]
+            },
+            {
+              "word": "Santander",
+              "forbiddens": [
+                "cantabrië",
+                "spanje",
+                "stad",
+                "noordkust",
+                "strand"
+              ]
+            },
+            {
+              "word": "San Sebastián",
+              "forbiddens": [
+                "baskische kust",
+                "spanje",
+                "stad",
+                "strand",
+                "pintxos"
+              ]
+            },
+            {
+              "word": "Cádiz",
+              "forbiddens": [
+                "andalusië",
+                "spanje",
+                "stad",
+                "haven",
+                "zuidwesten"
+              ]
+            },
+            {
+              "word": "Alicante",
+              "forbiddens": [
+                "costa blanca",
+                "spanje",
+                "stad",
+                "haven",
+                "kust"
+              ]
+            },
+            {
+              "word": "Palma",
+              "forbiddens": [
+                "mallorca",
+                "balearen",
+                "stad",
+                "haven",
+                "eiland"
+              ]
+            },
+            {
+              "word": "Coimbra",
+              "forbiddens": [
+                "portugal",
+                "universiteit",
+                "stad",
+                "mondego",
+                "centraal"
+              ]
+            },
+            {
+              "word": "Sheffield",
+              "forbiddens": [
+                "yorkshire",
+                "engeland",
+                "staal",
+                "stad",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Nottingham",
+              "forbiddens": [
+                "engeland",
+                "robin hood",
+                "stad",
+                "midlands",
+                "sherwood"
+              ]
+            },
+            {
+              "word": "Newcastle",
+              "forbiddens": [
+                "engeland",
+                "tyne",
+                "noordoosten",
+                "stad",
+                "brug"
+              ]
+            },
+            {
+              "word": "Southampton",
+              "forbiddens": [
+                "engeland",
+                "haven",
+                "zuidkust",
+                "stad",
+                "schepen"
+              ]
+            },
+            {
+              "word": "Portsmouth",
+              "forbiddens": [
+                "engeland",
+                "haven",
+                "zuidkust",
+                "spinnaker tower",
+                "stad"
+              ]
+            },
+            {
+              "word": "Plymouth",
+              "forbiddens": [
+                "engeland",
+                "haven",
+                "zuidwesten",
+                "devon",
+                "stad"
+              ]
+            },
+            {
+              "word": "Canterbury",
+              "forbiddens": [
+                "kent",
+                "engeland",
+                "stad",
+                "kathedraal",
+                "zuidoosten"
+              ]
+            },
+            {
+              "word": "Cork",
+              "forbiddens": [
+                "ierland",
+                "zuiden",
+                "stad",
+                "haven",
+                "rivier"
+              ]
+            },
+            {
+              "word": "Killarney",
+              "forbiddens": [
+                "ierland",
+                "meren",
+                "nationaal park",
+                "zuidwesten",
+                "kerry"
+              ]
+            },
+            {
+              "word": "Rovaniemi",
+              "forbiddens": [
+                "finland",
+                "lapland",
+                "kerstman",
+                "stad",
+                "poolcirkel"
+              ]
+            },
+            {
+              "word": "Aalborg",
+              "forbiddens": [
+                "denemarken",
+                "jutland",
+                "stad",
+                "noorden",
+                "haven"
+              ]
+            },
+            {
+              "word": "Wrocław",
+              "forbiddens": [
+                "polen",
+                "stad",
+                "silezië",
+                "oder",
+                "bruggen"
+              ]
+            },
+            {
+              "word": "Poznań",
+              "forbiddens": [
+                "polen",
+                "stad",
+                "westen",
+                "oud",
+                "markt"
+              ]
+            },
+            {
+              "word": "Łódź",
+              "forbiddens": [
+                "polen",
+                "stad",
+                "textiel",
+                "centraal",
+                "fabrieken"
+              ]
+            },
+            {
+              "word": "Pilsen",
+              "forbiddens": [
+                "tsjechië",
+                "stad",
+                "westen",
+                "bohemen",
+                "kathedraal"
+              ]
+            },
+            {
+              "word": "Zadar",
+              "forbiddens": [
+                "kroatië",
+                "dalmatië",
+                "kust",
+                "stad",
+                "adriatische zee"
+              ]
+            },
+            {
+              "word": "Pula",
+              "forbiddens": [
+                "kroatië",
+                "istrië",
+                "arena",
+                "kust",
+                "stad"
+              ]
+            },
+            {
+              "word": "Hvar",
+              "forbiddens": [
+                "kroatië",
+                "eiland",
+                "lavendel",
+                "dalmatië",
+                "zon"
+              ]
+            },
+            {
+              "word": "Thessaloniki",
+              "forbiddens": [
+                "griekenland",
+                "noorden",
+                "haven",
+                "stad",
+                "egeïsche zee"
+              ]
+            },
+            {
+              "word": "Delphi",
+              "forbiddens": [
+                "griekenland",
+                "ruïne",
+                "berg",
+                "parnassus",
+                "oud"
+              ]
+            },
+            {
+              "word": "Nagoya",
+              "forbiddens": [
+                "japan",
+                "honshu",
+                "stad",
+                "kasteel",
+                "midden"
+              ]
+            },
+            {
+              "word": "Kobe",
+              "forbiddens": [
+                "japan",
+                "haven",
+                "honshu",
+                "stad",
+                "baai"
+              ]
+            },
+            {
+              "word": "Harbin",
+              "forbiddens": [
+                "china",
+                "noordoosten",
+                "ijsfestival",
+                "koud",
+                "stad"
+              ]
+            },
+            {
+              "word": "Bangalore",
+              "forbiddens": [
+                "india",
+                "zuiden",
+                "stad",
+                "technologie",
+                "hoogland"
+              ]
+            },
+            {
+              "word": "Lahore",
+              "forbiddens": [
+                "pakistan",
+                "stad",
+                "punjab",
+                "oosten",
+                "fort"
+              ]
+            },
+            {
+              "word": "Denver",
+              "forbiddens": [
+                "colorado",
+                "amerika",
+                "stad",
+                "rocky mountains",
+                "mile high"
+              ]
+            },
+            {
+              "word": "San Diego",
+              "forbiddens": [
+                "californië",
+                "amerika",
+                "stad",
+                "zuiden",
+                "mexico"
+              ]
+            },
+            {
+              "word": "Greenwich",
+              "forbiddens": [
+                "londen",
+                "meridiaan",
+                "sterrenwacht",
+                "tijd",
+                "theems"
+              ]
+            },
+            {
+              "word": "Ontario",
+              "forbiddens": [
+                "canada",
+                "toronto",
+                "ottawa",
+                "niagara",
+                "provincie"
+              ]
+            },
+            {
+              "word": "Brits-Columbia",
+              "forbiddens": [
+                "vancouver",
+                "canada",
+                "rocky mountains",
+                "westkust",
+                "victoria"
+              ]
+            },
+            {
+              "word": "Arizona",
+              "forbiddens": [
+                "grand canyon",
+                "woestijn",
+                "cactus",
+                "phoenix",
+                "verenigde staten"
+              ]
+            },
+            {
+              "word": "Louisiana",
+              "forbiddens": [
+                "new orleans",
+                "mississippi",
+                "bayou",
+                "cajun",
+                "moeras"
+              ]
+            },
+            {
+              "word": "Detroit",
+              "forbiddens": [
+                "michigan",
+                "auto's",
+                "motown",
+                "grote meren",
+                "verenigde staten"
+              ]
+            },
+            {
+              "word": "Phoenix",
+              "forbiddens": [
+                "arizona",
+                "woestijn",
+                "hoofdstad",
+                "heet",
+                "cactus"
+              ]
+            },
+            {
+              "word": "Cleveland",
+              "forbiddens": [
+                "ohio",
+                "eriemeer",
+                "rock and roll",
+                "verenigde staten",
+                "haven"
+              ]
+            },
+            {
+              "word": "Anchorage",
+              "forbiddens": [
+                "alaska",
+                "grootste stad",
+                "koud",
+                "bergen",
+                "noord-amerika"
+              ]
+            },
+            {
+              "word": "Edmonton",
+              "forbiddens": [
+                "alberta",
+                "canada",
+                "calgary",
+                "hoofdstad",
+                "noord-amerika"
+              ]
+            },
+            {
+              "word": "Yucatán",
+              "forbiddens": [
+                "mexico",
+                "schiereiland",
+                "maya",
+                "cenotes",
+                "caribische zee"
+              ]
+            },
+            {
+              "word": "Acapulco",
+              "forbiddens": [
+                "mexico",
+                "strand",
+                "stille oceaan",
+                "klifduiken",
+                "badplaats"
+              ]
+            },
+            {
+              "word": "Belize",
+              "forbiddens": [
+                "centraal-amerika",
+                "koraalrif",
+                "maya",
+                "caribische zee",
+                "engels"
+              ]
+            },
+            {
+              "word": "Potsdam",
+              "forbiddens": [
+                "berlijn",
+                "sanssouci",
+                "brandenburg",
+                "havel",
+                "paleizen"
+              ]
+            },
+            {
+              "word": "Brandenburg",
+              "forbiddens": [
+                "berlijn",
+                "potsdam",
+                "spreewald",
+                "deelstaat",
+                "sanssouci"
+              ]
+            },
+            {
+              "word": "Sarajevo",
+              "forbiddens": [
+                "bosnië",
+                "hoofdstad",
+                "balkan",
+                "bergen",
+                "winterspelen"
+              ]
+            },
+            {
+              "word": "Ruhrgebied",
+              "forbiddens": [
+                "noordrijn-westfalen",
+                "essen",
+                "dortmund",
+                "industrie",
+                "steenkool"
+              ]
+            },
+            {
+              "word": "Zaandam",
+              "forbiddens": [
+                "noord-holland",
+                "molens",
+                "houten huisjes",
+                "mosterd",
+                "amsterdam"
+              ]
+            },
+            {
+              "word": "Lelystad",
+              "forbiddens": [
+                "flevoland",
+                "polder",
+                "almere",
+                "hoofdstad",
+                "ijsselmeer"
+              ]
+            },
+            {
+              "word": "Egmond aan Zee",
+              "forbiddens": [
+                "noord-holland",
+                "strand",
+                "vuurtoren",
+                "kustplaats",
+                "duinen"
+              ]
+            },
+            {
+              "word": "Bussum",
+              "forbiddens": [
+                "gooi",
+                "noord-holland",
+                "hilversum",
+                "naarden",
+                "huizen"
+              ]
+            },
+            {
+              "word": "Blackpool",
+              "forbiddens": [
+                "engeland",
+                "badplaats",
+                "pier",
+                "toren",
+                "lichtjes"
+              ]
+            },
+            {
+              "word": "Lake District",
+              "forbiddens": [
+                "nationaal park",
+                "meren",
+                "cumbria",
+                "wandelen",
+                "engeland"
+              ]
+            },
+            {
+              "word": "Le Havre",
+              "forbiddens": [
+                "normandië",
+                "haven",
+                "seine",
+                "vrachtschepen",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Andorra",
+              "forbiddens": [
+                "pyreneeën",
+                "skiën",
+                "kleinstaat",
+                "belastingvrij",
+                "bergen"
+              ]
+            },
+            {
+              "word": "San Marino",
+              "forbiddens": [
+                "kleinstaat",
+                "monte titano",
+                "republiek",
+                "torens",
+                "rimini"
+              ]
+            },
+            {
+              "word": "Liechtenstein",
+              "forbiddens": [
+                "kleinstaat",
+                "vaduz",
+                "alpen",
+                "vorstendom",
+                "rijn"
+              ]
+            },
+            {
+              "word": "Papoea-Nieuw-Guinea",
+              "forbiddens": [
+                "port moresby",
+                "oceanië",
+                "stille oceaan",
+                "regenwoud",
+                "tropisch"
+              ]
+            },
+            {
+              "word": "Mali",
+              "forbiddens": [
+                "bamako",
+                "timboektoe",
+                "sahara",
+                "niger",
+                "west-afrika"
+              ]
+            },
+            {
+              "word": "Gabon",
+              "forbiddens": [
+                "afrika",
+                "libreville",
+                "regenwoud",
+                "evenaar",
+                "olifanten"
+              ]
+            },
+            {
+              "word": "Centraal-Amerika",
+              "forbiddens": [
+                "guatemala",
+                "costa rica",
+                "panama",
+                "honduras",
+                "nicaragua"
+              ]
+            },
+            {
+              "word": "Oost-Afrika",
+              "forbiddens": [
+                "kenia",
+                "tanzania",
+                "oeganda",
+                "savanne",
+                "serengeti"
+              ]
+            },
+            {
+              "word": "West-Afrika",
+              "forbiddens": [
+                "ghana",
+                "senegal",
+                "nigeria",
+                "atlantische oceaan",
+                "sahel"
+              ]
+            },
+            {
+              "word": "Noord-Afrika",
+              "forbiddens": [
+                "egypte",
+                "marokko",
+                "sahara",
+                "tunesië",
+                "middellandse zee"
+              ]
+            },
+            {
+              "word": "Zuid-Azië",
+              "forbiddens": [
+                "india",
+                "pakistan",
+                "bangladesh",
+                "himalaya",
+                "subcontinent"
+              ]
+            },
+            {
+              "word": "Oost-Azië",
+              "forbiddens": [
+                "china",
+                "japan",
+                "zuid-korea",
+                "mongolië",
+                "stille oceaan"
+              ]
+            },
+            {
+              "word": "Baltische Staten",
+              "forbiddens": [
+                "estland",
+                "letland",
+                "litouwen",
+                "oostzee",
+                "noord-europa"
+              ]
+            },
+            {
+              "word": "Anatolië",
+              "forbiddens": [
+                "turkije",
+                "hoogvlakte",
+                "azië",
+                "schiereiland",
+                "ankara"
+              ]
+            },
+            {
+              "word": "Zwarte Zee",
+              "forbiddens": [
+                "bosporus",
+                "binnenzee",
+                "donau",
+                "roemenië",
+                "istanboel"
+              ]
+            },
+            {
+              "word": "Accra",
+              "forbiddens": [
+                "ghana",
+                "hoofdstad",
+                "west-afrika",
+                "atlantische oceaan",
+                "kust"
+              ]
+            },
+            {
+              "word": "Abidjan",
+              "forbiddens": [
+                "ivoorkust",
+                "lagune",
+                "grootste stad",
+                "west-afrika",
+                "haven"
+              ]
+            },
+            {
+              "word": "Kinshasa",
+              "forbiddens": [
+                "congo",
+                "hoofdstad",
+                "afrika",
+                "rivier",
+                "megastad"
+              ]
+            },
+            {
+              "word": "Kampala",
+              "forbiddens": [
+                "oeganda",
+                "hoofdstad",
+                "victoriameer",
+                "heuvels",
+                "oost-afrika"
+              ]
+            },
+            {
+              "word": "Windhoek",
+              "forbiddens": [
+                "namibië",
+                "hoofdstad",
+                "duits",
+                "afrika",
+                "hoogvlakte"
+              ]
+            },
+            {
+              "word": "Dar es Salaam",
+              "forbiddens": [
+                "tanzania",
+                "grootste stad",
+                "indische oceaan",
+                "haven",
+                "zanzibar"
+              ]
+            },
+            {
+              "word": "Luanda",
+              "forbiddens": [
+                "angola",
+                "hoofdstad",
+                "atlantische oceaan",
+                "olie",
+                "afrika"
+              ]
+            },
+            {
+              "word": "Maputo",
+              "forbiddens": [
+                "mozambique",
+                "hoofdstad",
+                "indische oceaan",
+                "haven",
+                "afrika"
+              ]
+            },
+            {
+              "word": "Kuta",
+              "forbiddens": [
+                "bali",
+                "strand",
+                "surfen",
+                "toeristen",
+                "vliegveld"
+              ]
+            },
+            {
+              "word": "Yokohama",
+              "forbiddens": [
+                "japan",
+                "tokio",
+                "haven",
+                "kanagawa",
+                "chinatown"
+              ]
+            },
+            {
+              "word": "Okinawa",
+              "forbiddens": [
+                "japan",
+                "eiland",
+                "subtropisch",
+                "strand",
+                "koraalrif"
+              ]
+            },
+            {
+              "word": "Yangon",
+              "forbiddens": [
+                "myanmar",
+                "grootste stad",
+                "haven",
+                "shwedagonpagode",
+                "zuidoost-azië"
+              ]
+            },
+            {
+              "word": "Darjeeling",
+              "forbiddens": [
+                "thee",
+                "west-bengalen",
+                "kangchenjunga",
+                "india",
+                "himalaya"
+              ]
+            },
+            {
+              "word": "Iberisch Schiereiland",
+              "forbiddens": [
+                "spanje",
+                "portugal",
+                "pyreneeën",
+                "atlantische oceaan",
+                "middellandse zee"
+              ]
+            },
+            {
+              "word": "Kaukasus",
+              "forbiddens": [
+                "gebergte",
+                "elbroes",
+                "zwarte zee",
+                "kaspische zee",
+                "hoogste"
+              ]
+            },
+            {
+              "word": "Armenië",
+              "forbiddens": [
+                "eriwan",
+                "kaukasus",
+                "sevanmeer",
+                "bergland",
+                "land"
+              ]
+            },
+            {
+              "word": "Guyana",
+              "forbiddens": [
+                "zuid-amerika",
+                "georgetown",
+                "engelstalig",
+                "regenwoud",
+                "kaieteur"
+              ]
+            },
+            {
+              "word": "Malawi",
+              "forbiddens": [
+                "lilongwe",
+                "meer",
+                "afrika",
+                "blantyre",
+                "mulanje"
+              ]
+            },
+            {
+              "word": "Wiesbaden",
+              "forbiddens": [
+                "hessen",
+                "kuuroord",
+                "warme bronnen",
+                "hoofdstad",
+                "rijn"
+              ]
+            },
+            {
+              "word": "Mainz",
+              "forbiddens": [
+                "rijn",
+                "gutenberg",
+                "boekdrukkunst",
+                "rijnland-palts",
+                "carnaval"
+              ]
+            },
+            {
+              "word": "Hessen",
+              "forbiddens": [
+                "deelstaat",
+                "frankfurt",
+                "wiesbaden",
+                "kassel",
+                "rijn"
+              ]
+            },
+            {
+              "word": "Val Thorens",
+              "forbiddens": [
+                "hoogste skidorp",
+                "savoie",
+                "drie valleien",
+                "frankrijk",
+                "skiën"
+              ]
+            },
+            {
+              "word": "Courchevel",
+              "forbiddens": [
+                "drie valleien",
+                "savoie",
+                "skiën",
+                "luxe",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Cyprus",
+              "forbiddens": [
+                "eiland",
+                "middellandse zee",
+                "zon",
+                "stranden",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Côte d'Azur",
+              "forbiddens": [
+                "riviera",
+                "nice",
+                "cannes",
+                "middellandse zee",
+                "zuid-frankrijk"
+              ]
+            },
+            {
+              "word": "Champs-Élysées",
+              "forbiddens": [
+                "parijs",
+                "boulevard",
+                "winkelen",
+                "tour de france",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Hyde Park",
+              "forbiddens": [
+                "londen",
+                "serpentine",
+                "kensington",
+                "roeiboten",
+                "wandelen"
+              ]
+            },
+            {
+              "word": "Schotse Hooglanden",
+              "forbiddens": [
+                "inverness",
+                "lochs",
+                "ben nevis",
+                "kilts",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Cliffs of Moher",
+              "forbiddens": [
+                "ierland",
+                "atlantische oceaan",
+                "steile rotswanden",
+                "clare",
+                "uitzicht"
+              ]
+            },
+            {
+              "word": "Schönbrunn",
+              "forbiddens": [
+                "wenen",
+                "paleis",
+                "tuinen",
+                "keizerlijk",
+                "dierentuin"
+              ]
+            },
+            {
+              "word": "St. Moritz",
+              "forbiddens": [
+                "zwitserland",
+                "skiën",
+                "mondain",
+                "engadin",
+                "meer"
+              ]
+            },
+            {
+              "word": "Kaspische Zee",
+              "forbiddens": [
+                "binnenzee",
+                "zout",
+                "kaviaar",
+                "olie",
+                "grootste"
+              ]
+            },
+            {
+              "word": "Lloret de Mar",
+              "forbiddens": [
+                "costa brava",
+                "badplaats",
+                "strand",
+                "jongeren",
+                "spanje"
+              ]
+            },
+            {
+              "word": "Salou",
+              "forbiddens": [
+                "costa dorada",
+                "tarragona",
+                "badplaats",
+                "strand",
+                "spanje"
+              ]
+            },
+            {
+              "word": "Torremolinos",
+              "forbiddens": [
+                "costa del sol",
+                "málaga",
+                "badplaats",
+                "strand",
+                "spanje"
+              ]
+            },
+            {
+              "word": "Albufeira",
+              "forbiddens": [
+                "algarve",
+                "portugal",
+                "badplaats",
+                "stranden",
+                "kliffen"
+              ]
+            },
+            {
+              "word": "Alanya",
+              "forbiddens": [
+                "turkije",
+                "antalya",
+                "badplaats",
+                "kasteel",
+                "zon"
+              ]
+            },
+            {
+              "word": "Marmaris",
+              "forbiddens": [
+                "turkije",
+                "badplaats",
+                "haven",
+                "rhodos",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Djerba",
+              "forbiddens": [
+                "tunesië",
+                "eiland",
+                "badplaats",
+                "stranden",
+                "zon"
+              ]
+            },
+            {
+              "word": "Agadir",
+              "forbiddens": [
+                "marokko",
+                "badplaats",
+                "atlantische oceaan",
+                "zon",
+                "strand"
+              ]
+            },
+            {
+              "word": "Rabat",
+              "forbiddens": [
+                "marokko",
+                "hoofdstad",
+                "atlantische oceaan",
+                "medina",
+                "bouregreg"
+              ]
+            },
+            {
+              "word": "Algiers",
+              "forbiddens": [
+                "algerije",
+                "hoofdstad",
+                "kasbah",
+                "middellandse zee",
+                "noord-afrika"
+              ]
+            },
+            {
+              "word": "Paramaribo",
+              "forbiddens": [
+                "suriname",
+                "hoofdstad",
+                "houten gebouwen",
+                "werelderfgoed",
+                "rivier"
+              ]
+            },
+            {
+              "word": "Doha",
+              "forbiddens": [
+                "qatar",
+                "hoofdstad",
+                "wk-voetbal",
+                "wolkenkrabbers",
+                "woestijn"
+              ]
+            },
+            {
+              "word": "Varadero",
+              "forbiddens": [
+                "cuba",
+                "badplaats",
+                "schiereiland",
+                "strand",
+                "all-inclusive"
+              ]
+            },
+            {
+              "word": "Honduras",
+              "forbiddens": [
+                "midden-amerika",
+                "tegucigalpa",
+                "caribische zee",
+                "bananen",
+                "koffie"
+              ]
+            },
+            {
+              "word": "Waikiki",
+              "forbiddens": [
+                "honolulu",
+                "hawaï",
+                "strand",
+                "surfen",
+                "oahu"
+              ]
+            },
+            {
+              "word": "Malibu",
+              "forbiddens": [
+                "californië",
+                "strand",
+                "surfen",
+                "kust",
+                "beroemdheden"
+              ]
+            },
+            {
+              "word": "Noordrijn-Westfalen",
+              "forbiddens": [
+                "duitsland",
+                "ruhrgebied",
+                "keulen",
+                "düsseldorf",
+                "deelstaat"
+              ]
+            },
+            {
+              "word": "Nedersaksen",
+              "forbiddens": [
+                "hannover",
+                "harz",
+                "noordzee",
+                "deelstaat",
+                "duitsland"
+              ]
+            },
+            {
+              "word": "Sleeswijk-Holstein",
+              "forbiddens": [
+                "kiel",
+                "lübeck",
+                "sylt",
+                "oostzee",
+                "deelstaat"
+              ]
+            },
+            {
+              "word": "Baden-Württemberg",
+              "forbiddens": [
+                "stuttgart",
+                "zwarte woud",
+                "bodenmeer",
+                "heidelberg",
+                "deelstaat"
+              ]
+            },
+            {
+              "word": "Sauerland",
+              "forbiddens": [
+                "duitsland",
+                "heuvels",
+                "skiën",
+                "wandelen",
+                "noordrijn-westfalen"
+              ]
+            },
+            {
+              "word": "Istrië",
+              "forbiddens": [
+                "schiereiland",
+                "adriatische zee",
+                "pula",
+                "rovinj",
+                "olijven"
+              ]
+            },
+            {
+              "word": "Karelsbrug",
+              "forbiddens": [
+                "praag",
+                "vltava",
+                "beelden",
+                "middeleeuws",
+                "voetgangers"
+              ]
+            },
+            {
+              "word": "Praagse Burcht",
+              "forbiddens": [
+                "vltava",
+                "heuvel",
+                "tsjechië",
+                "hradčany",
+                "uitzicht"
+              ]
+            },
+            {
+              "word": "Canal Grande",
+              "forbiddens": [
+                "venetië",
+                "gondels",
+                "waterbus",
+                "rialto",
+                "paleizen"
+              ]
+            },
+            {
+              "word": "Alexanderplatz",
+              "forbiddens": [
+                "berlijn",
+                "televisietoren",
+                "wereldtijdklok",
+                "metro",
+                "winkelen"
+              ]
+            },
+            {
+              "word": "Prater",
+              "forbiddens": [
+                "wenen",
+                "reuzenrad",
+                "pretpark",
+                "groen",
+                "oostenrijk"
+              ]
+            },
+            {
+              "word": "Europoort",
+              "forbiddens": [
+                "rotterdam",
+                "haven",
+                "olie",
+                "schepen",
+                "maasvlakte"
+              ]
+            },
+            {
+              "word": "Prinsengracht",
+              "forbiddens": [
+                "amsterdam",
+                "woonboten",
+                "jordaan",
+                "westerkerk",
+                "fietsen"
+              ]
+            },
+            {
+              "word": "Herengracht",
+              "forbiddens": [
+                "amsterdam",
+                "gouden bocht",
+                "rijke kooplieden",
+                "huizen",
+                "kade"
+              ]
+            },
+            {
+              "word": "Oudegracht",
+              "forbiddens": [
+                "utrecht",
+                "werfkelders",
+                "terrassen",
+                "domtoren",
+                "water"
+              ]
+            },
+            {
+              "word": "Taiga",
+              "forbiddens": [
+                "bos",
+                "naaldbomen",
+                "siberië",
+                "canada",
+                "koud"
+              ]
+            },
+            {
+              "word": "Stuwwal",
+              "forbiddens": [
+                "gletsjer",
+                "heuvel",
+                "ijstijd",
+                "veluwe",
+                "zand"
+              ]
+            },
+            {
+              "word": "Waterscheiding",
+              "forbiddens": [
+                "rivieren",
+                "bergkam",
+                "regen",
+                "stroomgebied",
+                "hoogte"
+              ]
+            },
+            {
+              "word": "Bergpas",
+              "forbiddens": [
+                "bergen",
+                "weg",
+                "hoogte",
+                "oversteken",
+                "alpen"
+              ]
+            },
+            {
+              "word": "Normandië",
+              "forbiddens": [
+                "frankrijk",
+                "kust",
+                "appels",
+                "noorden",
+                "koeien"
+              ]
+            },
+            {
+              "word": "Bretagne",
+              "forbiddens": [
+                "frankrijk",
+                "kust",
+                "crêpes",
+                "rotsen",
+                "westen"
+              ]
+            },
+            {
+              "word": "Andalusië",
+              "forbiddens": [
+                "zuiden",
+                "spanje",
+                "sevilla",
+                "flamenco",
+                "zon"
+              ]
+            },
+            {
+              "word": "Balearen",
+              "forbiddens": [
+                "mallorca",
+                "ibiza",
+                "menorca",
+                "eilanden",
+                "middellandse zee"
+              ]
+            },
+            {
+              "word": "Siberië",
+              "forbiddens": [
+                "rusland",
+                "koud",
+                "toendra",
+                "taiga",
+                "trein"
+              ]
+            },
+            {
+              "word": "Patagonië",
+              "forbiddens": [
+                "argentinië",
+                "chili",
+                "zuiden",
+                "gletsjers",
+                "wind"
+              ]
+            },
+            {
+              "word": "Kaap Hoorn",
+              "forbiddens": [
+                "zuidpunt",
+                "zuid-amerika",
+                "stormen",
+                "schepen",
+                "chili"
+              ]
+            },
+            {
+              "word": "Zierikzee",
+              "forbiddens": [
+                "zeeland",
+                "schouwen-duiveland",
+                "stad",
+                "haven",
+                "oosterschelde"
+              ]
+            },
+            {
+              "word": "Domburg",
+              "forbiddens": [
+                "zeeland",
+                "badplaats",
+                "walcheren",
+                "strand",
+                "duinen"
+              ]
+            },
+            {
+              "word": "Maeslantkering",
+              "forbiddens": [
+                "rotterdam",
+                "stormvloedkering",
+                "nieuwe waterweg",
+                "beweegbaar",
+                "water"
+              ]
+            },
+            {
+              "word": "Nieuwe Waterweg",
+              "forbiddens": [
+                "rotterdam",
+                "hoek van holland",
+                "scheepvaart",
+                "kanaal",
+                "maas"
+              ]
+            },
+            {
+              "word": "Veerse Meer",
+              "forbiddens": [
+                "zeeland",
+                "zeilen",
+                "water",
+                "walcheren",
+                "noord-beveland"
+              ]
+            },
+            {
+              "word": "Purmerend",
+              "forbiddens": [
+                "noord-holland",
+                "stad",
+                "waterland",
+                "amsterdam",
+                "markt"
+              ]
+            },
+            {
+              "word": "Vlaardingen",
+              "forbiddens": [
+                "zuid-holland",
+                "haven",
+                "stad",
+                "maas",
+                "rotterdam"
+              ]
+            },
+            {
+              "word": "Spijkenisse",
+              "forbiddens": [
+                "zuid-holland",
+                "stad",
+                "rotterdam",
+                "metro",
+                "voorne-putten"
+              ]
+            },
+            {
+              "word": "Veenendaal",
+              "forbiddens": [
+                "utrecht",
+                "stad",
+                "gelderse vallei",
+                "centrum",
+                "textiel"
+              ]
+            },
+            {
+              "word": "Noordzeekanaal",
+              "forbiddens": [
+                "amsterdam",
+                "ijmuiden",
+                "schepen",
+                "water",
+                "sluizen"
+              ]
+            },
+            {
+              "word": "Seychellen",
+              "forbiddens": [
+                "eilanden",
+                "indische oceaan",
+                "strand",
+                "granieten rotsen",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Beieren",
+              "forbiddens": [
+                "duitsland",
+                "münchen",
+                "alpen",
+                "zuiden",
+                "lederhosen"
+              ]
+            },
+            {
+              "word": "Menorca",
+              "forbiddens": [
+                "eiland",
+                "spanje",
+                "balearen",
+                "middellandse zee",
+                "strand"
+              ]
+            },
+            {
+              "word": "Tasmanië",
+              "forbiddens": [
+                "eiland",
+                "australië",
+                "zuiden",
+                "natuur",
+                "buideldier"
+              ]
+            },
+            {
+              "word": "Seoul",
+              "forbiddens": [
+                "zuid-korea",
+                "hoofdstad",
+                "k-pop",
+                "azië",
+                "kimchi"
+              ]
+            },
+            {
+              "word": "El Salvador",
+              "forbiddens": [
+                "centraal-amerika",
+                "hoofdstad",
+                "vulkanen",
+                "stille oceaan",
+                "kleinste"
+              ]
+            },
+            {
+              "word": "Noordoostpolder",
+              "forbiddens": [
+                "flevoland",
+                "emmeloord",
+                "ijsselmeer",
+                "drooggelegd",
+                "schokland"
+              ]
             }
           ]
         },
@@ -98835,6 +102145,3006 @@
                 "watervallen",
                 "jungfrau",
                 "berner oberland"
+              ]
+            },
+            {
+              "word": "Brahmaputra",
+              "forbiddens": [
+                "rivier",
+                "india",
+                "bangladesh",
+                "azië",
+                "himalaya"
+              ]
+            },
+            {
+              "word": "Orinoco",
+              "forbiddens": [
+                "rivier",
+                "venezuela",
+                "colombia",
+                "zuid-amerika",
+                "delta"
+              ]
+            },
+            {
+              "word": "Kyushu",
+              "forbiddens": [
+                "eiland",
+                "japan",
+                "vulkaan",
+                "zuiden",
+                "fukuoka"
+              ]
+            },
+            {
+              "word": "Sargassozee",
+              "forbiddens": [
+                "atlantische oceaan",
+                "zeewier",
+                "bermuda",
+                "alen",
+                "stil"
+              ]
+            },
+            {
+              "word": "Gibsonwoestijn",
+              "forbiddens": [
+                "australië",
+                "outback",
+                "droog",
+                "rood",
+                "zand"
+              ]
+            },
+            {
+              "word": "Oulu",
+              "forbiddens": [
+                "finland",
+                "stad",
+                "noorden",
+                "haven",
+                "botnische golf"
+              ]
+            },
+            {
+              "word": "Tartu",
+              "forbiddens": [
+                "estland",
+                "universiteit",
+                "stad",
+                "zuiden",
+                "studenten"
+              ]
+            },
+            {
+              "word": "Klaipėda",
+              "forbiddens": [
+                "litouwen",
+                "haven",
+                "oostzee",
+                "stad",
+                "kust"
+              ]
+            },
+            {
+              "word": "Sankt Gallen",
+              "forbiddens": [
+                "zwitserland",
+                "stad",
+                "oosten",
+                "abdij",
+                "bibliotheek"
+              ]
+            },
+            {
+              "word": "Perugia",
+              "forbiddens": [
+                "umbrië",
+                "italië",
+                "stad",
+                "chocolade",
+                "centraal"
+              ]
+            },
+            {
+              "word": "Lucca",
+              "forbiddens": [
+                "toscane",
+                "italië",
+                "stad",
+                "stadsmuren",
+                "fietsen"
+              ]
+            },
+            {
+              "word": "Cagliari",
+              "forbiddens": [
+                "sardinië",
+                "italië",
+                "haven",
+                "stad",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Lecce",
+              "forbiddens": [
+                "apulië",
+                "italië",
+                "stad",
+                "barok",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Cortina d'Ampezzo",
+              "forbiddens": [
+                "dolomieten",
+                "italië",
+                "skiën",
+                "olympisch",
+                "dorp"
+              ]
+            },
+            {
+              "word": "Burgos",
+              "forbiddens": [
+                "castilië",
+                "spanje",
+                "stad",
+                "noorden",
+                "kathedraal"
+              ]
+            },
+            {
+              "word": "León",
+              "forbiddens": [
+                "castilië",
+                "spanje",
+                "stad",
+                "noordwesten",
+                "oud"
+              ]
+            },
+            {
+              "word": "Braga",
+              "forbiddens": [
+                "portugal",
+                "noorden",
+                "stad",
+                "minho",
+                "oud"
+              ]
+            },
+            {
+              "word": "Évora",
+              "forbiddens": [
+                "alentejo",
+                "portugal",
+                "stad",
+                "oud",
+                "romeinse tempel"
+              ]
+            },
+            {
+              "word": "Exeter",
+              "forbiddens": [
+                "devon",
+                "engeland",
+                "stad",
+                "zuidwesten",
+                "universiteit"
+              ]
+            },
+            {
+              "word": "Stirling",
+              "forbiddens": [
+                "schotland",
+                "kasteel",
+                "stad",
+                "centraal",
+                "rivier"
+              ]
+            },
+            {
+              "word": "Dundee",
+              "forbiddens": [
+                "schotland",
+                "tay",
+                "stad",
+                "oostkust",
+                "haven"
+              ]
+            },
+            {
+              "word": "Kilkenny",
+              "forbiddens": [
+                "ierland",
+                "stad",
+                "kasteel",
+                "zuidoosten",
+                "middeleeuws"
+              ]
+            },
+            {
+              "word": "Turku",
+              "forbiddens": [
+                "finland",
+                "stad",
+                "zuidwesten",
+                "oud",
+                "rivier"
+              ]
+            },
+            {
+              "word": "Tampere",
+              "forbiddens": [
+                "finland",
+                "stad",
+                "meren",
+                "industrie",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Ålesund",
+              "forbiddens": [
+                "noorwegen",
+                "jugendstil",
+                "stad",
+                "haven",
+                "fjord"
+              ]
+            },
+            {
+              "word": "Visby",
+              "forbiddens": [
+                "gotland",
+                "zweden",
+                "stadsmuur",
+                "stad",
+                "haven"
+              ]
+            },
+            {
+              "word": "Lund",
+              "forbiddens": [
+                "zweden",
+                "universiteit",
+                "stad",
+                "skåne",
+                "studenten"
+              ]
+            },
+            {
+              "word": "Esbjerg",
+              "forbiddens": [
+                "denemarken",
+                "jutland",
+                "haven",
+                "noordzee",
+                "stad"
+              ]
+            },
+            {
+              "word": "Helsingør",
+              "forbiddens": [
+                "denemarken",
+                "kasteel",
+                "zeeland",
+                "sont",
+                "zweden"
+              ]
+            },
+            {
+              "word": "Toruń",
+              "forbiddens": [
+                "polen",
+                "peperkoek",
+                "weichsel",
+                "stad",
+                "copernicus"
+              ]
+            },
+            {
+              "word": "Český Krumlov",
+              "forbiddens": [
+                "tsjechië",
+                "bohemen",
+                "stad",
+                "vltava",
+                "kasteel"
+              ]
+            },
+            {
+              "word": "Szeged",
+              "forbiddens": [
+                "hongarije",
+                "stad",
+                "zuiden",
+                "tisza",
+                "paprika"
+              ]
+            },
+            {
+              "word": "Cluj-Napoca",
+              "forbiddens": [
+                "roemenië",
+                "transsylvanië",
+                "stad",
+                "universiteit",
+                "noordwesten"
+              ]
+            },
+            {
+              "word": "Brașov",
+              "forbiddens": [
+                "roemenië",
+                "transsylvanië",
+                "stad",
+                "karpaten",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Rijeka",
+              "forbiddens": [
+                "kroatië",
+                "kust",
+                "haven",
+                "stad",
+                "adriatische zee"
+              ]
+            },
+            {
+              "word": "Nafplio",
+              "forbiddens": [
+                "griekenland",
+                "peloponnesos",
+                "haven",
+                "stad",
+                "kasteel"
+              ]
+            },
+            {
+              "word": "Bursa",
+              "forbiddens": [
+                "turkije",
+                "stad",
+                "marmara",
+                "berg",
+                "skiën"
+              ]
+            },
+            {
+              "word": "Konya",
+              "forbiddens": [
+                "turkije",
+                "anatolië",
+                "stad",
+                "vlakte",
+                "centraal"
+              ]
+            },
+            {
+              "word": "Nara",
+              "forbiddens": [
+                "japan",
+                "herten",
+                "park",
+                "oud",
+                "stad"
+              ]
+            },
+            {
+              "word": "Fukuoka",
+              "forbiddens": [
+                "japan",
+                "kyushu",
+                "stad",
+                "haven",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Hangzhou",
+              "forbiddens": [
+                "china",
+                "westmeer",
+                "stad",
+                "zhejiang",
+                "thee"
+              ]
+            },
+            {
+              "word": "Udaipur",
+              "forbiddens": [
+                "rajasthan",
+                "india",
+                "meren",
+                "paleis",
+                "stad"
+              ]
+            },
+            {
+              "word": "Jodhpur",
+              "forbiddens": [
+                "rajasthan",
+                "india",
+                "blauw",
+                "stad",
+                "fort"
+              ]
+            },
+            {
+              "word": "Mysore",
+              "forbiddens": [
+                "india",
+                "zuiden",
+                "paleis",
+                "stad",
+                "karnataka"
+              ]
+            },
+            {
+              "word": "Da Nang",
+              "forbiddens": [
+                "vietnam",
+                "strand",
+                "stad",
+                "midden",
+                "brug"
+              ]
+            },
+            {
+              "word": "Davao",
+              "forbiddens": [
+                "filipijnen",
+                "mindanao",
+                "stad",
+                "durian",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Port Louis",
+              "forbiddens": [
+                "mauritius",
+                "hoofdstad",
+                "haven",
+                "indische oceaan",
+                "eiland"
+              ]
+            },
+            {
+              "word": "Incheon",
+              "forbiddens": [
+                "seoel",
+                "luchthaven",
+                "haven",
+                "zuid-korea",
+                "kust"
+              ]
+            },
+            {
+              "word": "Vientiane",
+              "forbiddens": [
+                "laos",
+                "hoofdstad",
+                "mekong",
+                "zuidoost-azië",
+                "rivier"
+              ]
+            },
+            {
+              "word": "Hoi An",
+              "forbiddens": [
+                "vietnam",
+                "lampionnen",
+                "oude stad",
+                "kleermakers",
+                "rivier"
+              ]
+            },
+            {
+              "word": "Gullfoss",
+              "forbiddens": [
+                "ijsland",
+                "waterval",
+                "gouden cirkel",
+                "hvítá",
+                "kloof"
+              ]
+            },
+            {
+              "word": "Jungfraujoch",
+              "forbiddens": [
+                "zwitserland",
+                "tandradtrein",
+                "gletsjer",
+                "europa's hoogste station",
+                "sneeuw"
+              ]
+            },
+            {
+              "word": "Lido di Jesolo",
+              "forbiddens": [
+                "adriatische zee",
+                "veneto",
+                "strand",
+                "badplaats",
+                "italië"
+              ]
+            },
+            {
+              "word": "Gamla Stan",
+              "forbiddens": [
+                "stockholm",
+                "steegjes",
+                "eiland",
+                "middeleeuws",
+                "zweden"
+              ]
+            },
+            {
+              "word": "Marienplatz",
+              "forbiddens": [
+                "münchen",
+                "nieuwe raadhuis",
+                "klokkenspel",
+                "beieren",
+                "centrum"
+              ]
+            },
+            {
+              "word": "Pampa",
+              "forbiddens": [
+                "argentinië",
+                "gras",
+                "vlakte",
+                "gaucho",
+                "zuid-amerika"
+              ]
+            },
+            {
+              "word": "Tombolo",
+              "forbiddens": [
+                "zandbank",
+                "eiland",
+                "landverbinding",
+                "strand",
+                "kust"
+              ]
+            },
+            {
+              "word": "Cuesta",
+              "forbiddens": [
+                "heuvelrug",
+                "helling",
+                "gesteente",
+                "laag",
+                "steil"
+              ]
+            },
+            {
+              "word": "Kebnekaise",
+              "forbiddens": [
+                "zweden",
+                "hoogste",
+                "berg",
+                "lapland",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Saimaa",
+              "forbiddens": [
+                "finland",
+                "meren",
+                "ringelrob",
+                "oosten",
+                "labyrint"
+              ]
+            },
+            {
+              "word": "Päijänne",
+              "forbiddens": [
+                "finland",
+                "meer",
+                "diep",
+                "helsinki",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Mälaren",
+              "forbiddens": [
+                "zweden",
+                "stockholm",
+                "meer",
+                "eilanden",
+                "oostzee"
+              ]
+            },
+            {
+              "word": "Dalarna",
+              "forbiddens": [
+                "zweden",
+                "dalapaard",
+                "rood",
+                "zomer",
+                "bos"
+              ]
+            },
+            {
+              "word": "Åland",
+              "forbiddens": [
+                "eilanden",
+                "oostzee",
+                "finland",
+                "zweedstalig",
+                "veerboot"
+              ]
+            },
+            {
+              "word": "Eifel",
+              "forbiddens": [
+                "duitsland",
+                "vulkanisch",
+                "heuvels",
+                "maren",
+                "gebergte"
+              ]
+            },
+            {
+              "word": "Hunsrück",
+              "forbiddens": [
+                "duitsland",
+                "rijn",
+                "moezel",
+                "heuvels",
+                "bos"
+              ]
+            },
+            {
+              "word": "Vogezen",
+              "forbiddens": [
+                "frankrijk",
+                "elzas",
+                "gebergte",
+                "colmar",
+                "bos"
+              ]
+            },
+            {
+              "word": "Massif Central",
+              "forbiddens": [
+                "frankrijk",
+                "vulkanen",
+                "plateau",
+                "auvergne",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Camargue",
+              "forbiddens": [
+                "rhônedelta",
+                "witte paarden",
+                "flamingo's",
+                "zuid-frankrijk",
+                "moeras"
+              ]
+            },
+            {
+              "word": "Dordogne",
+              "forbiddens": [
+                "rivier",
+                "frankrijk",
+                "grotten",
+                "dorpen",
+                "zuidwesten"
+              ]
+            },
+            {
+              "word": "Picos de Europa",
+              "forbiddens": [
+                "spanje",
+                "gebergte",
+                "asturië",
+                "kalksteen",
+                "nationaal park"
+              ]
+            },
+            {
+              "word": "Alentejo",
+              "forbiddens": [
+                "portugal",
+                "zuiden",
+                "kurk",
+                "vlak",
+                "zon"
+              ]
+            },
+            {
+              "word": "Ligurië",
+              "forbiddens": [
+                "italië",
+                "genua",
+                "rivièra",
+                "noordwest",
+                "kust"
+              ]
+            },
+            {
+              "word": "Cinque Terre",
+              "forbiddens": [
+                "italië",
+                "ligurië",
+                "kleurrijke dorpen",
+                "kust",
+                "wandelen"
+              ]
+            },
+            {
+              "word": "Gran Sasso",
+              "forbiddens": [
+                "abruzzen",
+                "italië",
+                "gebergte",
+                "apennijnen",
+                "centraal"
+              ]
+            },
+            {
+              "word": "Friuli",
+              "forbiddens": [
+                "noordoost-italië",
+                "udine",
+                "alpen",
+                "slovenië",
+                "kust"
+              ]
+            },
+            {
+              "word": "Plitvice",
+              "forbiddens": [
+                "meren",
+                "kroatië",
+                "watervallen",
+                "nationaal park",
+                "groen"
+              ]
+            },
+            {
+              "word": "Kotor",
+              "forbiddens": [
+                "montenegro",
+                "baai",
+                "oude stad",
+                "berg",
+                "kust"
+              ]
+            },
+            {
+              "word": "Ohridmeer",
+              "forbiddens": [
+                "noord-macedonië",
+                "albanië",
+                "diep",
+                "oud",
+                "balkan"
+              ]
+            },
+            {
+              "word": "Neusiedlersee",
+              "forbiddens": [
+                "oostenrijk",
+                "hongarije",
+                "steppemeer",
+                "vlak",
+                "burgenland"
+              ]
+            },
+            {
+              "word": "Mazurië",
+              "forbiddens": [
+                "polen",
+                "meren",
+                "zeilen",
+                "noordoosten",
+                "bos"
+              ]
+            },
+            {
+              "word": "Karakum",
+              "forbiddens": [
+                "woestijn",
+                "turkmenistan",
+                "centraal-azië",
+                "zand",
+                "droog"
+              ]
+            },
+            {
+              "word": "Irrawaddy",
+              "forbiddens": [
+                "rivier",
+                "myanmar",
+                "delta",
+                "zuidoost-azië",
+                "rijst"
+              ]
+            },
+            {
+              "word": "Amboseli",
+              "forbiddens": [
+                "kenia",
+                "olifanten",
+                "kilimanjaro",
+                "nationaal park",
+                "safari"
+              ]
+            },
+            {
+              "word": "Tsavo",
+              "forbiddens": [
+                "kenia",
+                "nationaal park",
+                "olifanten",
+                "rood",
+                "safari"
+              ]
+            },
+            {
+              "word": "Danakil",
+              "forbiddens": [
+                "ethiopië",
+                "hitte",
+                "zout",
+                "woestijn",
+                "lava"
+              ]
+            },
+            {
+              "word": "Fish River Canyon",
+              "forbiddens": [
+                "namibië",
+                "kloof",
+                "zuiden",
+                "rivier",
+                "afrika"
+              ]
+            },
+            {
+              "word": "Baja California",
+              "forbiddens": [
+                "mexico",
+                "schiereiland",
+                "woestijn",
+                "grijze walvissen",
+                "stille oceaan"
+              ]
+            },
+            {
+              "word": "Monument Valley",
+              "forbiddens": [
+                "rotsen",
+                "utah",
+                "arizona",
+                "westerns",
+                "woestijn"
+              ]
+            },
+            {
+              "word": "Arches",
+              "forbiddens": [
+                "utah",
+                "rotsbogen",
+                "nationaal park",
+                "woestijn",
+                "zandsteen"
+              ]
+            },
+            {
+              "word": "Cape Cod",
+              "forbiddens": [
+                "massachusetts",
+                "schiereiland",
+                "boston",
+                "strand",
+                "haak"
+              ]
+            },
+            {
+              "word": "Nantucket",
+              "forbiddens": [
+                "massachusetts",
+                "eiland",
+                "walvissen",
+                "strand",
+                "oostkust"
+              ]
+            },
+            {
+              "word": "Newfoundland",
+              "forbiddens": [
+                "canada",
+                "eiland",
+                "oost",
+                "atlantische oceaan",
+                "st. john's"
+              ]
+            },
+            {
+              "word": "Nova Scotia",
+              "forbiddens": [
+                "canada",
+                "oostkust",
+                "halifax",
+                "schiereiland",
+                "atlantische oceaan"
+              ]
+            },
+            {
+              "word": "Banff",
+              "forbiddens": [
+                "canada",
+                "rocky mountains",
+                "alberta",
+                "nationaal park",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Lake Louise",
+              "forbiddens": [
+                "alberta",
+                "canada",
+                "turkoois",
+                "gletsjer",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Nunavut",
+              "forbiddens": [
+                "canada",
+                "arctisch",
+                "inuit",
+                "noorden",
+                "ijs"
+              ]
+            },
+            {
+              "word": "Atacama",
+              "forbiddens": [
+                "chili",
+                "woestijn",
+                "droogste",
+                "andes",
+                "zout"
+              ]
+            },
+            {
+              "word": "Vuurland",
+              "forbiddens": [
+                "zuidpunt",
+                "zuid-amerika",
+                "ushuaia",
+                "kaap hoorn",
+                "eilanden"
+              ]
+            },
+            {
+              "word": "Straat van Magellaan",
+              "forbiddens": [
+                "zuid-amerika",
+                "vuurland",
+                "chili",
+                "stille oceaan",
+                "atlantische oceaan"
+              ]
+            },
+            {
+              "word": "Pantanal",
+              "forbiddens": [
+                "brazilië",
+                "moeras",
+                "jaguars",
+                "natuur",
+                "groot"
+              ]
+            },
+            {
+              "word": "Mato Grosso",
+              "forbiddens": [
+                "brazilië",
+                "regio",
+                "savanne",
+                "landbouw",
+                "zuid-amerika"
+              ]
+            },
+            {
+              "word": "Rio Negro",
+              "forbiddens": [
+                "rivier",
+                "amazone",
+                "manaus",
+                "zwart",
+                "brazilië"
+              ]
+            },
+            {
+              "word": "Fernando de Noronha",
+              "forbiddens": [
+                "brazilië",
+                "eiland",
+                "duiken",
+                "dolfijnen",
+                "atlantische oceaan"
+              ]
+            },
+            {
+              "word": "Colca Canyon",
+              "forbiddens": [
+                "peru",
+                "condors",
+                "kloof",
+                "andes",
+                "diep"
+              ]
+            },
+            {
+              "word": "Nazca",
+              "forbiddens": [
+                "peru",
+                "lijnen",
+                "woestijn",
+                "kolibrie",
+                "aarde"
+              ]
+            },
+            {
+              "word": "Deccan",
+              "forbiddens": [
+                "india",
+                "plateau",
+                "zuiden",
+                "hoogland",
+                "basalt"
+              ]
+            },
+            {
+              "word": "Westelijke Ghats",
+              "forbiddens": [
+                "india",
+                "bergketen",
+                "moesson",
+                "kust",
+                "regen"
+              ]
+            },
+            {
+              "word": "Sundarbans",
+              "forbiddens": [
+                "mangrove",
+                "tijgers",
+                "ganges",
+                "delta",
+                "bengalen"
+              ]
+            },
+            {
+              "word": "Zhangjiajie",
+              "forbiddens": [
+                "china",
+                "pilaren",
+                "zandsteen",
+                "bergen",
+                "mist"
+              ]
+            },
+            {
+              "word": "Guilin",
+              "forbiddens": [
+                "china",
+                "karstbergen",
+                "li-rivier",
+                "landschap",
+                "bamboe"
+              ]
+            },
+            {
+              "word": "Yunnan",
+              "forbiddens": [
+                "china",
+                "zuidwesten",
+                "bergen",
+                "thee",
+                "regio"
+              ]
+            },
+            {
+              "word": "Hakone",
+              "forbiddens": [
+                "japan",
+                "vulkaan",
+                "warme bronnen",
+                "fuji",
+                "meer"
+              ]
+            },
+            {
+              "word": "Hallasan",
+              "forbiddens": [
+                "jeju",
+                "vulkaan",
+                "zuid-korea",
+                "berg",
+                "eiland"
+              ]
+            },
+            {
+              "word": "Bromo",
+              "forbiddens": [
+                "java",
+                "vulkaan",
+                "zandzee",
+                "indonesië",
+                "zonsopgang"
+              ]
+            },
+            {
+              "word": "Flores",
+              "forbiddens": [
+                "indonesië",
+                "eiland",
+                "komodo",
+                "kelimutu",
+                "oost"
+              ]
+            },
+            {
+              "word": "Mindanao",
+              "forbiddens": [
+                "filipijnen",
+                "eiland",
+                "zuiden",
+                "groot",
+                "tropisch"
+              ]
+            },
+            {
+              "word": "Cebu",
+              "forbiddens": [
+                "filipijnen",
+                "eiland",
+                "haaien",
+                "duiken",
+                "visayas"
+              ]
+            },
+            {
+              "word": "Tonle Sap",
+              "forbiddens": [
+                "cambodja",
+                "meer",
+                "drijvende dorpen",
+                "mekong",
+                "zoet"
+              ]
+            },
+            {
+              "word": "Langkawi",
+              "forbiddens": [
+                "maleisië",
+                "eiland",
+                "strand",
+                "kabelbaan",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Penang",
+              "forbiddens": [
+                "maleisië",
+                "eiland",
+                "george town",
+                "straatvoedsel",
+                "brug"
+              ]
+            },
+            {
+              "word": "Sarawak",
+              "forbiddens": [
+                "borneo",
+                "maleisië",
+                "regenwoud",
+                "grotten",
+                "kuching"
+              ]
+            },
+            {
+              "word": "Koh Samui",
+              "forbiddens": [
+                "thailand",
+                "eiland",
+                "kokosnoten",
+                "strand",
+                "vakantie"
+              ]
+            },
+            {
+              "word": "Kakadu",
+              "forbiddens": [
+                "australië",
+                "nationaal park",
+                "krokodillen",
+                "noorden",
+                "moerassen"
+              ]
+            },
+            {
+              "word": "Daintree",
+              "forbiddens": [
+                "australië",
+                "regenwoud",
+                "queensland",
+                "oud",
+                "kust"
+              ]
+            },
+            {
+              "word": "Kimberley",
+              "forbiddens": [
+                "australië",
+                "noordwesten",
+                "kloven",
+                "rood",
+                "afgelegen"
+              ]
+            },
+            {
+              "word": "Nullarbor",
+              "forbiddens": [
+                "australië",
+                "vlakte",
+                "droog",
+                "spoor",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Fiordland",
+              "forbiddens": [
+                "nieuw-zeeland",
+                "fjorden",
+                "zuidereiland",
+                "regen",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Tongariro",
+              "forbiddens": [
+                "nieuw-zeeland",
+                "vulkaan",
+                "noordereiland",
+                "wandelen",
+                "nationaal park"
+              ]
+            },
+            {
+              "word": "Bay of Islands",
+              "forbiddens": [
+                "nieuw-zeeland",
+                "noordereiland",
+                "eilanden",
+                "dolfijnen",
+                "zeilen"
+              ]
+            },
+            {
+              "word": "Hoge Venen",
+              "forbiddens": [
+                "belgië",
+                "hoogveen",
+                "ardennen",
+                "wandelen",
+                "plateau"
+              ]
+            },
+            {
+              "word": "Kempen",
+              "forbiddens": [
+                "belgië",
+                "heide",
+                "zand",
+                "noorden",
+                "nederland"
+              ]
+            },
+            {
+              "word": "Han-sur-Lesse",
+              "forbiddens": [
+                "grotten",
+                "ardennen",
+                "wallonië",
+                "kalksteen",
+                "boottocht"
+              ]
+            },
+            {
+              "word": "Tongeren",
+              "forbiddens": [
+                "belgië",
+                "limburg",
+                "romeinen",
+                "stad",
+                "oud"
+              ]
+            },
+            {
+              "word": "Sint-Truiden",
+              "forbiddens": [
+                "belgië",
+                "limburg",
+                "fruit",
+                "haspengouw",
+                "stad"
+              ]
+            },
+            {
+              "word": "Turnhout",
+              "forbiddens": [
+                "kempen",
+                "stad",
+                "antwerpen",
+                "speelkaarten",
+                "markt"
+              ]
+            },
+            {
+              "word": "Zeebrugge",
+              "forbiddens": [
+                "belgië",
+                "haven",
+                "veerboot",
+                "kust",
+                "west-vlaanderen"
+              ]
+            },
+            {
+              "word": "Hondsrug",
+              "forbiddens": [
+                "drenthe",
+                "groningen",
+                "heuvelrug",
+                "hunebedden",
+                "ijstijd"
+              ]
+            },
+            {
+              "word": "Tholen",
+              "forbiddens": [
+                "zeeland",
+                "eiland",
+                "bergen op zoom",
+                "oosterschelde",
+                "brug"
+              ]
+            },
+            {
+              "word": "Zuid-Beveland",
+              "forbiddens": [
+                "zeeland",
+                "schiereiland",
+                "goes",
+                "fruit",
+                "schelde"
+              ]
+            },
+            {
+              "word": "Kaap Agulhas",
+              "forbiddens": [
+                "zuid-afrika",
+                "zuidelijkste",
+                "indische oceaan",
+                "atlantische oceaan",
+                "vuurtoren"
+              ]
+            },
+            {
+              "word": "Veneto",
+              "forbiddens": [
+                "verona",
+                "italië",
+                "venetië",
+                "dolomieten",
+                "padua"
+              ]
+            },
+            {
+              "word": "Trentino",
+              "forbiddens": [
+                "dolomieten",
+                "italië",
+                "noorden",
+                "alpen",
+                "appelboomgaarden"
+              ]
+            },
+            {
+              "word": "Po-vlakte",
+              "forbiddens": [
+                "noord-italië",
+                "rivier",
+                "rijst",
+                "mist",
+                "turijn"
+              ]
+            },
+            {
+              "word": "Loosdrechtse Plassen",
+              "forbiddens": [
+                "zeilen",
+                "utrecht",
+                "vecht",
+                "water",
+                "riet"
+              ]
+            },
+            {
+              "word": "Kralingse Plas",
+              "forbiddens": [
+                "rotterdam",
+                "recreatie",
+                "water",
+                "bos",
+                "zwemmen"
+              ]
+            },
+            {
+              "word": "Reeuwijkse Plassen",
+              "forbiddens": [
+                "zuid-holland",
+                "gouda",
+                "water",
+                "riet",
+                "eilandjes"
+              ]
+            },
+            {
+              "word": "Brouwersdam",
+              "forbiddens": [
+                "zeeland",
+                "zuid-holland",
+                "strand",
+                "surfen",
+                "haven"
+              ]
+            },
+            {
+              "word": "Zuidelijke Alpen",
+              "forbiddens": [
+                "nieuw-zeeland",
+                "gebergte",
+                "zuidereiland",
+                "gletsjers",
+                "sneeuw"
+              ]
+            },
+            {
+              "word": "Grossglockner",
+              "forbiddens": [
+                "oostenrijk",
+                "hoogste",
+                "berg",
+                "alpen",
+                "hochalpenstraße"
+              ]
+            },
+            {
+              "word": "Piz Bernina",
+              "forbiddens": [
+                "zwitserland",
+                "alpen",
+                "oostelijk",
+                "berg",
+                "engadin"
+              ]
+            },
+            {
+              "word": "Musala",
+              "forbiddens": [
+                "bulgarije",
+                "rila",
+                "hoogste",
+                "berg",
+                "balkan"
+              ]
+            },
+            {
+              "word": "Aneto",
+              "forbiddens": [
+                "pyreneeën",
+                "spanje",
+                "hoogste",
+                "berg",
+                "gletsjer"
+              ]
+            },
+            {
+              "word": "Formentera",
+              "forbiddens": [
+                "eiland",
+                "balearen",
+                "ibiza",
+                "strand",
+                "rustig"
+              ]
+            },
+            {
+              "word": "Puy de Dôme",
+              "forbiddens": [
+                "auvergne",
+                "vulkaan",
+                "frankrijk",
+                "berg",
+                "massif central"
+              ]
+            },
+            {
+              "word": "Gorges de l'Ardèche",
+              "forbiddens": [
+                "frankrijk",
+                "kloof",
+                "rivier",
+                "kajak",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Pic du Midi",
+              "forbiddens": [
+                "pyreneeën",
+                "frankrijk",
+                "sterrenwacht",
+                "berg",
+                "kabelbaan"
+              ]
+            },
+            {
+              "word": "São Miguel",
+              "forbiddens": [
+                "azoren",
+                "eiland",
+                "groen",
+                "vulkanisch",
+                "meren"
+              ]
+            },
+            {
+              "word": "Pico",
+              "forbiddens": [
+                "azoren",
+                "vulkaan",
+                "hoogste",
+                "berg",
+                "eiland"
+              ]
+            },
+            {
+              "word": "Faial",
+              "forbiddens": [
+                "azoren",
+                "eiland",
+                "hortensia's",
+                "horta",
+                "vulkaan"
+              ]
+            },
+            {
+              "word": "Isla Mujeres",
+              "forbiddens": [
+                "mexico",
+                "eiland",
+                "cancún",
+                "caribisch",
+                "strand"
+              ]
+            },
+            {
+              "word": "Cozumel",
+              "forbiddens": [
+                "mexico",
+                "eiland",
+                "duiken",
+                "caribisch",
+                "cruiseschepen"
+              ]
+            },
+            {
+              "word": "Holbox",
+              "forbiddens": [
+                "mexico",
+                "eiland",
+                "walvishaaien",
+                "caribisch",
+                "zand"
+              ]
+            },
+            {
+              "word": "Gili-eilanden",
+              "forbiddens": [
+                "lombok",
+                "indonesië",
+                "schildpadden",
+                "duiken",
+                "autovrij"
+              ]
+            },
+            {
+              "word": "Nusa Penida",
+              "forbiddens": [
+                "bali",
+                "eiland",
+                "kliffen",
+                "manta's",
+                "indonesië"
+              ]
+            },
+            {
+              "word": "Ubud",
+              "forbiddens": [
+                "bali",
+                "rijstterrassen",
+                "apen",
+                "indonesië",
+                "dorp"
+              ]
+            },
+            {
+              "word": "Phong Nha",
+              "forbiddens": [
+                "vietnam",
+                "grotten",
+                "nationaal park",
+                "rivier",
+                "karst"
+              ]
+            },
+            {
+              "word": "Sapa",
+              "forbiddens": [
+                "vietnam",
+                "rijstterrassen",
+                "bergen",
+                "noorden",
+                "etnisch"
+              ]
+            },
+            {
+              "word": "Pai",
+              "forbiddens": [
+                "thailand",
+                "noorden",
+                "bergen",
+                "dorp",
+                "rustig"
+              ]
+            },
+            {
+              "word": "Luang Prabang",
+              "forbiddens": [
+                "laos",
+                "mekong",
+                "stad",
+                "werelderfgoed",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Vang Vieng",
+              "forbiddens": [
+                "laos",
+                "rivier",
+                "karstbergen",
+                "tubing",
+                "toeristen"
+              ]
+            },
+            {
+              "word": "Wilsons Promontory",
+              "forbiddens": [
+                "australië",
+                "victoria",
+                "zuidelijkste",
+                "wombats",
+                "strand"
+              ]
+            },
+            {
+              "word": "Kaikoura",
+              "forbiddens": [
+                "nieuw-zeeland",
+                "walvissen",
+                "zuidereiland",
+                "kust",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Franz Josef",
+              "forbiddens": [
+                "nieuw-zeeland",
+                "gletsjer",
+                "zuidereiland",
+                "west",
+                "regenwoud"
+              ]
+            },
+            {
+              "word": "Vesterålen",
+              "forbiddens": [
+                "noorwegen",
+                "eilanden",
+                "walvissen",
+                "noord",
+                "lofoten"
+              ]
+            },
+            {
+              "word": "Sognefjellet",
+              "forbiddens": [
+                "noorwegen",
+                "bergweg",
+                "jotunheimen",
+                "hoog",
+                "pas"
+              ]
+            },
+            {
+              "word": "Trollstigen",
+              "forbiddens": [
+                "noorwegen",
+                "bergweg",
+                "haarspeldbochten",
+                "romsdal",
+                "steil"
+              ]
+            },
+            {
+              "word": "Åndalsnes",
+              "forbiddens": [
+                "noorwegen",
+                "romsdalsfjord",
+                "rauma",
+                "trollstigen",
+                "stad"
+              ]
+            },
+            {
+              "word": "Lillehammer",
+              "forbiddens": [
+                "noorwegen",
+                "winterspelen",
+                "meer",
+                "mjøsa",
+                "stad"
+              ]
+            },
+            {
+              "word": "Ringkøbing Fjord",
+              "forbiddens": [
+                "denemarken",
+                "lagune",
+                "jutland",
+                "westkust",
+                "windsurfen"
+              ]
+            },
+            {
+              "word": "Møn",
+              "forbiddens": [
+                "denemarken",
+                "eiland",
+                "krijtrotsen",
+                "seeland",
+                "oostzee"
+              ]
+            },
+            {
+              "word": "Lolland",
+              "forbiddens": [
+                "denemarken",
+                "eiland",
+                "zuiden",
+                "vlak",
+                "oostzee"
+              ]
+            },
+            {
+              "word": "Abisko",
+              "forbiddens": [
+                "zweden",
+                "lapland",
+                "noorderlicht",
+                "nationaal park",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Sarek",
+              "forbiddens": [
+                "zweden",
+                "lapland",
+                "wildernis",
+                "nationaal park",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Koli",
+              "forbiddens": [
+                "finland",
+                "nationaal park",
+                "heuvels",
+                "oost",
+                "meer"
+              ]
+            },
+            {
+              "word": "Kuusamo",
+              "forbiddens": [
+                "finland",
+                "noorden",
+                "oulanka",
+                "skiën",
+                "bossen"
+              ]
+            },
+            {
+              "word": "Inari",
+              "forbiddens": [
+                "finland",
+                "meer",
+                "lapland",
+                "noorden",
+                "eilanden"
+              ]
+            },
+            {
+              "word": "Saaremaa",
+              "forbiddens": [
+                "estland",
+                "eiland",
+                "oostzee",
+                "grootste",
+                "windmolens"
+              ]
+            },
+            {
+              "word": "Žemaitija",
+              "forbiddens": [
+                "litouwen",
+                "regio",
+                "noordwesten",
+                "heuvels",
+                "bos"
+              ]
+            },
+            {
+              "word": "Białowieża",
+              "forbiddens": [
+                "polen",
+                "oerbos",
+                "wisenten",
+                "nationaal park",
+                "oost"
+              ]
+            },
+            {
+              "word": "Bieszczady",
+              "forbiddens": [
+                "polen",
+                "bergen",
+                "zuidoosten",
+                "wilde dieren",
+                "karpaten"
+              ]
+            },
+            {
+              "word": "Boheems Zwitserland",
+              "forbiddens": [
+                "tsjechië",
+                "zandsteen",
+                "rotsbogen",
+                "nationaal park",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Moravische Karst",
+              "forbiddens": [
+                "tsjechië",
+                "grotten",
+                "brno",
+                "kalksteen",
+                "punkva"
+              ]
+            },
+            {
+              "word": "Wachau",
+              "forbiddens": [
+                "oostenrijk",
+                "donau",
+                "abrikozen",
+                "vallei",
+                "krems"
+              ]
+            },
+            {
+              "word": "Salzkammergut",
+              "forbiddens": [
+                "oostenrijk",
+                "meren",
+                "bergen",
+                "hallstatt",
+                "zout"
+              ]
+            },
+            {
+              "word": "Wörthersee",
+              "forbiddens": [
+                "oostenrijk",
+                "karinthië",
+                "meer",
+                "klagenfurt",
+                "zwemmen"
+              ]
+            },
+            {
+              "word": "Zillertal",
+              "forbiddens": [
+                "oostenrijk",
+                "tirol",
+                "dal",
+                "skiën",
+                "gletsjer"
+              ]
+            },
+            {
+              "word": "Engadin",
+              "forbiddens": [
+                "zwitserland",
+                "dal",
+                "sankt moritz",
+                "inn",
+                "oost"
+              ]
+            },
+            {
+              "word": "Wallis",
+              "forbiddens": [
+                "zwitserland",
+                "zuiden",
+                "rhône",
+                "matterhorn",
+                "kanton"
+              ]
+            },
+            {
+              "word": "Ticino",
+              "forbiddens": [
+                "zwitserland",
+                "zuiden",
+                "lugano",
+                "italiaans",
+                "palmen"
+              ]
+            },
+            {
+              "word": "Aletschgletsjer",
+              "forbiddens": [
+                "zwitserland",
+                "langste",
+                "ijs",
+                "alpen",
+                "jungfrau"
+              ]
+            },
+            {
+              "word": "Schwarzwaldhochstraße",
+              "forbiddens": [
+                "duitsland",
+                "zwarte woud",
+                "weg",
+                "baden-baden",
+                "hoogte"
+              ]
+            },
+            {
+              "word": "Müritz",
+              "forbiddens": [
+                "duitsland",
+                "meer",
+                "mecklenburg",
+                "grootste",
+                "natuur"
+              ]
+            },
+            {
+              "word": "Spreewald",
+              "forbiddens": [
+                "duitsland",
+                "kanalen",
+                "brandenburg",
+                "komkommers",
+                "boten"
+              ]
+            },
+            {
+              "word": "Teutoburgerwoud",
+              "forbiddens": [
+                "duitsland",
+                "heuvels",
+                "westfalen",
+                "bos",
+                "wandelen"
+              ]
+            },
+            {
+              "word": "Rothaargebergte",
+              "forbiddens": [
+                "duitsland",
+                "heuvels",
+                "sauerland",
+                "wandelen",
+                "bos"
+              ]
+            },
+            {
+              "word": "Fichtelgebergte",
+              "forbiddens": [
+                "duitsland",
+                "beieren",
+                "heuvels",
+                "bos",
+                "oost"
+              ]
+            },
+            {
+              "word": "Chiemsee",
+              "forbiddens": [
+                "beieren",
+                "duitsland",
+                "meer",
+                "bergen",
+                "herreninsel"
+              ]
+            },
+            {
+              "word": "Königssee",
+              "forbiddens": [
+                "beieren",
+                "duitsland",
+                "meer",
+                "bergen",
+                "berchtesgaden"
+              ]
+            },
+            {
+              "word": "Mont Aiguille",
+              "forbiddens": [
+                "frankrijk",
+                "berg",
+                "vercors",
+                "tafelberg",
+                "alpen"
+              ]
+            },
+            {
+              "word": "Vercors",
+              "forbiddens": [
+                "frankrijk",
+                "plateau",
+                "alpen",
+                "grotten",
+                "kliffen"
+              ]
+            },
+            {
+              "word": "Cevennen",
+              "forbiddens": [
+                "frankrijk",
+                "zuiden",
+                "gebergte",
+                "wandelen",
+                "bossen"
+              ]
+            },
+            {
+              "word": "Aubrac",
+              "forbiddens": [
+                "frankrijk",
+                "plateau",
+                "koeien",
+                "zuiden",
+                "massif central"
+              ]
+            },
+            {
+              "word": "Lot",
+              "forbiddens": [
+                "rivier",
+                "frankrijk",
+                "zuidwesten",
+                "garonne",
+                "dal"
+              ]
+            },
+            {
+              "word": "Tarn",
+              "forbiddens": [
+                "rivier",
+                "frankrijk",
+                "kloof",
+                "zuiden",
+                "albi"
+              ]
+            },
+            {
+              "word": "Pointe du Raz",
+              "forbiddens": [
+                "bretagne",
+                "frankrijk",
+                "kaap",
+                "kliffen",
+                "atlantische oceaan"
+              ]
+            },
+            {
+              "word": "Quiberon",
+              "forbiddens": [
+                "bretagne",
+                "frankrijk",
+                "schiereiland",
+                "strand",
+                "kust"
+              ]
+            },
+            {
+              "word": "Belle-Île",
+              "forbiddens": [
+                "bretagne",
+                "eiland",
+                "frankrijk",
+                "groot",
+                "kust"
+              ]
+            },
+            {
+              "word": "Île de Ré",
+              "forbiddens": [
+                "frankrijk",
+                "eiland",
+                "fietsen",
+                "zout",
+                "westkust"
+              ]
+            },
+            {
+              "word": "Arcachon",
+              "forbiddens": [
+                "frankrijk",
+                "bassin",
+                "duin van pilat",
+                "oesters",
+                "zuidwesten"
+              ]
+            },
+            {
+              "word": "Duin van Pilat",
+              "forbiddens": [
+                "frankrijk",
+                "hoogste",
+                "zand",
+                "arcachon",
+                "atlantische oceaan"
+              ]
+            },
+            {
+              "word": "Calanques",
+              "forbiddens": [
+                "marseille",
+                "frankrijk",
+                "kliffen",
+                "baai",
+                "middellandse zee"
+              ]
+            },
+            {
+              "word": "Luberon",
+              "forbiddens": [
+                "provence",
+                "frankrijk",
+                "dorpen",
+                "lavendel",
+                "heuvels"
+              ]
+            },
+            {
+              "word": "Ordesa",
+              "forbiddens": [
+                "pyreneeën",
+                "spanje",
+                "nationaal park",
+                "kloof",
+                "watervallen"
+              ]
+            },
+            {
+              "word": "Doñana",
+              "forbiddens": [
+                "andalusië",
+                "spanje",
+                "nationaal park",
+                "moeras",
+                "vogels"
+              ]
+            },
+            {
+              "word": "Tabernas",
+              "forbiddens": [
+                "andalusië",
+                "spanje",
+                "woestijn",
+                "westerns",
+                "droog"
+              ]
+            },
+            {
+              "word": "Sierra de Gredos",
+              "forbiddens": [
+                "spanje",
+                "gebergte",
+                "castilië",
+                "steenbokken",
+                "centraal"
+              ]
+            },
+            {
+              "word": "Cabo de Gata",
+              "forbiddens": [
+                "andalusië",
+                "spanje",
+                "kaap",
+                "zuidoosten",
+                "stranden"
+              ]
+            },
+            {
+              "word": "Rías Baixas",
+              "forbiddens": [
+                "galicië",
+                "spanje",
+                "inhammen",
+                "kust",
+                "oesters"
+              ]
+            },
+            {
+              "word": "Cabo da Roca",
+              "forbiddens": [
+                "portugal",
+                "kaap",
+                "westelijkste",
+                "klif",
+                "sintra"
+              ]
+            },
+            {
+              "word": "Peneda-Gerês",
+              "forbiddens": [
+                "portugal",
+                "nationaal park",
+                "noorden",
+                "bergen",
+                "wolven"
+              ]
+            },
+            {
+              "word": "Serra da Estrela",
+              "forbiddens": [
+                "portugal",
+                "gebergte",
+                "hoogste",
+                "sneeuw",
+                "kaas"
+              ]
+            },
+            {
+              "word": "Ria Formosa",
+              "forbiddens": [
+                "portugal",
+                "algarve",
+                "lagune",
+                "vogels",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Berlengas",
+              "forbiddens": [
+                "portugal",
+                "eilanden",
+                "vissers",
+                "atlantische oceaan",
+                "reservaat"
+              ]
+            },
+            {
+              "word": "Portofino",
+              "forbiddens": [
+                "ligurië",
+                "italië",
+                "haven",
+                "rivièra",
+                "dorp"
+              ]
+            },
+            {
+              "word": "Val d'Orcia",
+              "forbiddens": [
+                "toscane",
+                "italië",
+                "heuvels",
+                "cipressen",
+                "landschap"
+              ]
+            },
+            {
+              "word": "Maremma",
+              "forbiddens": [
+                "toscane",
+                "italië",
+                "kust",
+                "paarden",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Valle dei Templi",
+              "forbiddens": [
+                "sicilië",
+                "italië",
+                "agrigento",
+                "oud",
+                "tempels"
+              ]
+            },
+            {
+              "word": "Eolische Eilanden",
+              "forbiddens": [
+                "sicilië",
+                "italië",
+                "vulkaan",
+                "stromboli",
+                "zee"
+              ]
+            },
+            {
+              "word": "Gargano",
+              "forbiddens": [
+                "apulië",
+                "italië",
+                "schiereiland",
+                "spoor",
+                "kust"
+              ]
+            },
+            {
+              "word": "Costa Smeralda",
+              "forbiddens": [
+                "sardinië",
+                "italië",
+                "kust",
+                "jachten",
+                "strand"
+              ]
+            },
+            {
+              "word": "Bonifacio",
+              "forbiddens": [
+                "corsica",
+                "kliffen",
+                "haven",
+                "stad",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Scandola",
+              "forbiddens": [
+                "corsica",
+                "natuurreservaat",
+                "rode rotsen",
+                "kust",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Comino",
+              "forbiddens": [
+                "malta",
+                "eiland",
+                "blauwe lagune",
+                "klein",
+                "baai"
+              ]
+            },
+            {
+              "word": "Postojna",
+              "forbiddens": [
+                "slovenië",
+                "grotten",
+                "druipstenen",
+                "karst",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Škocjan",
+              "forbiddens": [
+                "slovenië",
+                "grotten",
+                "karst",
+                "kloof",
+                "werelderfgoed"
+              ]
+            },
+            {
+              "word": "Soča",
+              "forbiddens": [
+                "rivier",
+                "slovenië",
+                "turkoois",
+                "alpen",
+                "kajak"
+              ]
+            },
+            {
+              "word": "Krka",
+              "forbiddens": [
+                "kroatië",
+                "nationaal park",
+                "watervallen",
+                "rivier",
+                "dalmatië"
+              ]
+            },
+            {
+              "word": "Brač",
+              "forbiddens": [
+                "kroatië",
+                "eiland",
+                "dalmatië",
+                "strand",
+                "zlatni rat"
+              ]
+            },
+            {
+              "word": "Korčula",
+              "forbiddens": [
+                "kroatië",
+                "eiland",
+                "dalmatië",
+                "muren",
+                "zuiden"
+              ]
+            },
+            {
+              "word": "Mljet",
+              "forbiddens": [
+                "kroatië",
+                "eiland",
+                "meren",
+                "groen",
+                "nationaal park"
+              ]
+            },
+            {
+              "word": "Una",
+              "forbiddens": [
+                "rivier",
+                "bosnië",
+                "nationaal park",
+                "watervallen",
+                "kajak"
+              ]
+            },
+            {
+              "word": "Durmitor",
+              "forbiddens": [
+                "montenegro",
+                "gebergte",
+                "nationaal park",
+                "noorden",
+                "meer"
+              ]
+            },
+            {
+              "word": "Berat",
+              "forbiddens": [
+                "albanië",
+                "stad",
+                "duizend ramen",
+                "unesco",
+                "oud"
+              ]
+            },
+            {
+              "word": "Bucegi",
+              "forbiddens": [
+                "roemenië",
+                "gebergte",
+                "karpaten",
+                "sfinx",
+                "plateau"
+              ]
+            },
+            {
+              "word": "Tisza",
+              "forbiddens": [
+                "rivier",
+                "hongarije",
+                "oost",
+                "donau",
+                "vlak"
+              ]
+            },
+            {
+              "word": "Kemijoki",
+              "forbiddens": [
+                "rivier",
+                "finland",
+                "lapland",
+                "langste",
+                "noorden"
+              ]
+            },
+            {
+              "word": "Glomma",
+              "forbiddens": [
+                "rivier",
+                "noorwegen",
+                "langste",
+                "oost",
+                "oslofjord"
+              ]
+            },
+            {
+              "word": "Klarälven",
+              "forbiddens": [
+                "rivier",
+                "zweden",
+                "noorwegen",
+                "vlot",
+                "vänern"
+              ]
+            },
+            {
+              "word": "Ischgl",
+              "forbiddens": [
+                "tirol",
+                "skiën",
+                "paznaun",
+                "silvretta",
+                "oostenrijk"
+              ]
+            },
+            {
+              "word": "Sölden",
+              "forbiddens": [
+                "ötztal",
+                "gletsjer",
+                "tirol",
+                "skiën",
+                "oostenrijk"
+              ]
+            },
+            {
+              "word": "Kaprun",
+              "forbiddens": [
+                "gletsjer",
+                "kitzsteinhorn",
+                "salzburgerland",
+                "skiën",
+                "oostenrijk"
+              ]
+            },
+            {
+              "word": "Schladming",
+              "forbiddens": [
+                "stiermarken",
+                "skiën",
+                "dachstein",
+                "planai",
+                "oostenrijk"
+              ]
+            },
+            {
+              "word": "Dachstein",
+              "forbiddens": [
+                "gletsjer",
+                "salzkammergut",
+                "hallstatt",
+                "oostenrijk",
+                "ijsgrot"
+              ]
+            },
+            {
+              "word": "Cervinia",
+              "forbiddens": [
+                "matterhorn",
+                "aosta",
+                "skiën",
+                "italië",
+                "gletsjer"
+              ]
+            },
+            {
+              "word": "Livigno",
+              "forbiddens": [
+                "belastingvrij",
+                "lombardije",
+                "skiën",
+                "italië",
+                "alpen"
+              ]
+            },
+            {
+              "word": "Madonna di Campiglio",
+              "forbiddens": [
+                "dolomieten",
+                "trentino",
+                "skiën",
+                "italië",
+                "brenta"
+              ]
+            },
+            {
+              "word": "Sestriere",
+              "forbiddens": [
+                "piëmont",
+                "skiën",
+                "italië",
+                "alpen",
+                "olympische spelen"
+              ]
+            },
+            {
+              "word": "Bormio",
+              "forbiddens": [
+                "lombardije",
+                "thermen",
+                "skiën",
+                "italië",
+                "stelvio"
+              ]
+            },
+            {
+              "word": "Val d'Isère",
+              "forbiddens": [
+                "tignes",
+                "skiën",
+                "savoie",
+                "frankrijk",
+                "espace killy"
+              ]
+            },
+            {
+              "word": "Tignes",
+              "forbiddens": [
+                "val d'isère",
+                "skiën",
+                "savoie",
+                "gletsjer",
+                "stuwmeer"
+              ]
+            },
+            {
+              "word": "La Plagne",
+              "forbiddens": [
+                "skiën",
+                "savoie",
+                "paradiski",
+                "bobsleebaan",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Morzine",
+              "forbiddens": [
+                "portes du soleil",
+                "haute-savoie",
+                "skiën",
+                "avoriaz",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Avoriaz",
+              "forbiddens": [
+                "morzine",
+                "portes du soleil",
+                "autovrij",
+                "skiën",
+                "haute-savoie"
+              ]
+            },
+            {
+              "word": "Briançon",
+              "forbiddens": [
+                "hoogste stad",
+                "hautes-alpes",
+                "alpen",
+                "vesting",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Vanoise",
+              "forbiddens": [
+                "nationaal park",
+                "savoie",
+                "steenbokken",
+                "alpen",
+                "frankrijk"
+              ]
+            },
+            {
+              "word": "Kassel",
+              "forbiddens": [
+                "documenta",
+                "hessen",
+                "kunst",
+                "grimm",
+                "bergpark"
+              ]
+            },
+            {
+              "word": "Trier",
+              "forbiddens": [
+                "moezel",
+                "romeins",
+                "porta nigra",
+                "duitsland",
+                "rijnland-palts"
+              ]
+            },
+            {
+              "word": "Ulm",
+              "forbiddens": [
+                "donau",
+                "einstein",
+                "dom",
+                "baden-württemberg",
+                "toren"
+              ]
+            },
+            {
+              "word": "Thüringen",
+              "forbiddens": [
+                "erfurt",
+                "weimar",
+                "wartburg",
+                "deelstaat",
+                "bosrijk"
+              ]
+            },
+            {
+              "word": "Isle of Man",
+              "forbiddens": [
+                "eiland",
+                "ierse zee",
+                "motoren",
+                "manx",
+                "kat"
+              ]
+            },
+            {
+              "word": "Skye",
+              "forbiddens": [
+                "schotland",
+                "hebriden",
+                "eiland",
+                "cuillins",
+                "brug"
+              ]
+            },
+            {
+              "word": "Dartmoor",
+              "forbiddens": [
+                "devon",
+                "nationaal park",
+                "pony's",
+                "heide",
+                "zuidwesten"
+              ]
+            },
+            {
+              "word": "Stratford-upon-Avon",
+              "forbiddens": [
+                "shakespeare",
+                "toneel",
+                "engeland",
+                "warwickshire",
+                "rivier"
+              ]
+            },
+            {
+              "word": "Saint-Malo",
+              "forbiddens": [
+                "bretagne",
+                "getijden",
+                "ommuurde stad",
+                "kanaal",
+                "strand"
+              ]
+            },
+            {
+              "word": "Giverny",
+              "forbiddens": [
+                "monet",
+                "waterlelies",
+                "tuin",
+                "impressionisme",
+                "normandië"
+              ]
+            },
+            {
+              "word": "Chenonceau",
+              "forbiddens": [
+                "kasteel",
+                "loirevallei",
+                "cher",
+                "galerij",
+                "brug"
+              ]
+            },
+            {
+              "word": "Fontainebleau",
+              "forbiddens": [
+                "paleis",
+                "bos",
+                "parijs",
+                "klimmen",
+                "rotsen"
+              ]
+            },
+            {
+              "word": "Arles",
+              "forbiddens": [
+                "van gogh",
+                "provence",
+                "romeins",
+                "rhône",
+                "zuid-frankrijk"
+              ]
+            },
+            {
+              "word": "Aix-en-Provence",
+              "forbiddens": [
+                "marseille",
+                "cézanne",
+                "fonteinen",
+                "studenten",
+                "zuid-frankrijk"
+              ]
+            },
+            {
+              "word": "La Rochelle",
+              "forbiddens": [
+                "atlantische kust",
+                "charente-maritime",
+                "île de ré",
+                "oude haven",
+                "torens"
+              ]
+            },
+            {
+              "word": "Nîmes",
+              "forbiddens": [
+                "arena",
+                "denim",
+                "romeins",
+                "zuid-frankrijk",
+                "languedoc"
+              ]
+            },
+            {
+              "word": "Messina",
+              "forbiddens": [
+                "sicilië",
+                "haven",
+                "calabrië",
+                "veerboot",
+                "zeestraat"
+              ]
+            },
+            {
+              "word": "Trapani",
+              "forbiddens": [
+                "sicilië",
+                "zoutpannen",
+                "haven",
+                "egadische eilanden",
+                "westkust"
+              ]
+            },
+            {
+              "word": "Riva del Garda",
+              "forbiddens": [
+                "meer",
+                "trentino",
+                "windsurfen",
+                "italië",
+                "berg"
+              ]
+            },
+            {
+              "word": "Chandigarh",
+              "forbiddens": [
+                "le corbusier",
+                "punjab",
+                "hoofdstad",
+                "planmatig",
+                "india"
+              ]
+            },
+            {
+              "word": "Kochi",
+              "forbiddens": [
+                "kerala",
+                "havenstad",
+                "chinese visnetten",
+                "specerijen",
+                "backwaters"
+              ]
+            },
+            {
+              "word": "Munnar",
+              "forbiddens": [
+                "kerala",
+                "theeplantages",
+                "heuvels",
+                "india",
+                "westelijke ghats"
+              ]
+            },
+            {
+              "word": "Kaziranga",
+              "forbiddens": [
+                "assam",
+                "neushoorns",
+                "nationaal park",
+                "india",
+                "olifanten"
+              ]
+            },
+            {
+              "word": "Ranthambore",
+              "forbiddens": [
+                "rajasthan",
+                "tijgers",
+                "nationaal park",
+                "india",
+                "fort"
               ]
             }
           ]

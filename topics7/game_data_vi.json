@@ -1,5 +1,5 @@
 {
- "version": 17,
+ "version": 18,
  "data": [
   {
    "topic": "cultural",
@@ -93736,6 +93736,116 @@
         "nước",
         "bờ"
        ]
+      },
+      {
+       "word": "Vịnh Thái Lan",
+       "forbiddens": [
+        "biển",
+        "phú quốc",
+        "hà tiên",
+        "đông nam á",
+        "nước cạn"
+       ]
+      },
+      {
+       "word": "Vịnh Bắc Bộ",
+       "forbiddens": [
+        "hải phòng",
+        "biển",
+        "đảo",
+        "thanh hóa",
+        "quảng ninh"
+       ]
+      },
+      {
+       "word": "Nam Trung Bộ",
+       "forbiddens": [
+        "đà nẵng",
+        "khánh hòa",
+        "bình thuận",
+        "biển",
+        "nắng"
+       ]
+      },
+      {
+       "word": "Rừng U Minh",
+       "forbiddens": [
+        "cà mau",
+        "tràm",
+        "miền tây",
+        "ngập nước",
+        "chim"
+       ]
+      },
+      {
+       "word": "Thành phố Hồ Chí Minh",
+       "forbiddens": [
+        "sài gòn",
+        "miền nam",
+        "đông dân nhất",
+        "nhộn nhịp",
+        "kinh tế"
+       ]
+      },
+      {
+       "word": "Mũi Né",
+       "forbiddens": [
+        "phan thiết",
+        "đồi cát",
+        "lướt ván",
+        "bình thuận",
+        "biển"
+       ]
+      },
+      {
+       "word": "Trung du",
+       "forbiddens": [
+        "đồi",
+        "phú thọ",
+        "thái nguyên",
+        "chè",
+        "miền bắc"
+       ]
+      },
+      {
+       "word": "Cao Bằng",
+       "forbiddens": [
+        "đông bắc",
+        "bản giốc",
+        "hạt dẻ",
+        "ngườm ngao",
+        "hồ thang hen"
+       ]
+      },
+      {
+       "word": "Lai Châu",
+       "forbiddens": [
+        "tây bắc",
+        "sìn hồ",
+        "thủy điện",
+        "miền núi",
+        "chè"
+       ]
+      },
+      {
+       "word": "Miền núi",
+       "forbiddens": [
+        "vùng cao",
+        "dân tộc",
+        "ruộng bậc thang",
+        "sương mù",
+        "đường đèo"
+       ]
+      },
+      {
+       "word": "Nông thôn",
+       "forbiddens": [
+        "ruộng",
+        "làng",
+        "trâu",
+        "thành thị",
+        "yên tĩnh"
+       ]
       }
      ]
     },
@@ -96741,6 +96851,1616 @@
         "măng đá",
         "treo"
        ]
+      },
+      {
+       "word": "Rome",
+       "forbiddens": [
+        "ý",
+        "thủ đô",
+        "colosseum",
+        "trevi",
+        "vĩnh cửu"
+       ]
+      },
+      {
+       "word": "Moscow",
+       "forbiddens": [
+        "nga",
+        "thủ đô",
+        "quảng trường đỏ",
+        "tuyết",
+        "tàu điện ngầm"
+       ]
+      },
+      {
+       "word": "Istanbul",
+       "forbiddens": [
+        "thổ nhĩ kỳ",
+        "bosphorus",
+        "hai châu lục",
+        "eo biển",
+        "thành phố cổ"
+       ]
+      },
+      {
+       "word": "Rio de Janeiro",
+       "forbiddens": [
+        "brazil",
+        "copacabana",
+        "carnaval",
+        "bãi biển",
+        "samba"
+       ]
+      },
+      {
+       "word": "Prague",
+       "forbiddens": [
+        "séc",
+        "thủ đô",
+        "cầu charles",
+        "đồng hồ",
+        "châu âu"
+       ]
+      },
+      {
+       "word": "Vienna",
+       "forbiddens": [
+        "áo",
+        "thủ đô",
+        "âm nhạc",
+        "mozart",
+        "cung điện"
+       ]
+      },
+      {
+       "word": "Lisbon",
+       "forbiddens": [
+        "bồ đào nha",
+        "thủ đô",
+        "tàu điện cổ",
+        "sông tagus",
+        "bánh trứng"
+       ]
+      },
+      {
+       "word": "Delhi",
+       "forbiddens": [
+        "ấn độ",
+        "thủ đô",
+        "đông dân",
+        "thành phố cổ",
+        "nóng"
+       ]
+      },
+      {
+       "word": "Kuala Lumpur",
+       "forbiddens": [
+        "malaysia",
+        "thủ đô",
+        "tháp đôi",
+        "thành phố",
+        "đông nam á"
+       ]
+      },
+      {
+       "word": "Bãi Sao",
+       "forbiddens": [
+        "phú quốc",
+        "cát trắng",
+        "biển",
+        "nước trong",
+        "đảo"
+       ]
+      },
+      {
+       "word": "Long Xuyên",
+       "forbiddens": [
+        "an giang",
+        "miền tây",
+        "sông hậu",
+        "thành phố",
+        "chợ nổi"
+       ]
+      },
+      {
+       "word": "Rạch Giá",
+       "forbiddens": [
+        "kiên giang",
+        "miền tây",
+        "biển",
+        "thành phố",
+        "hải sản"
+       ]
+      },
+      {
+       "word": "Hà Tiên",
+       "forbiddens": [
+        "kiên giang",
+        "miền tây",
+        "biển",
+        "mũi nai",
+        "thạch động"
+       ]
+      },
+      {
+       "word": "Đồng Hới",
+       "forbiddens": [
+        "quảng bình",
+        "miền trung",
+        "biển",
+        "thành phố",
+        "sông nhật lệ"
+       ]
+      },
+      {
+       "word": "Tam Kỳ",
+       "forbiddens": [
+        "quảng nam",
+        "miền trung",
+        "thành phố",
+        "hồ phú ninh",
+        "tam thanh"
+       ]
+      },
+      {
+       "word": "Mai Châu",
+       "forbiddens": [
+        "hòa bình",
+        "thung lũng",
+        "nhà sàn",
+        "tây bắc",
+        "lúa"
+       ]
+      },
+      {
+       "word": "Thác Pongour",
+       "forbiddens": [
+        "đức trọng",
+        "lâm đồng",
+        "bậc thang",
+        "nước",
+        "tây nguyên"
+       ]
+      },
+      {
+       "word": "Đảo Bạch Long Vĩ",
+       "forbiddens": [
+        "hải phòng",
+        "vịnh bắc bộ",
+        "xa bờ",
+        "biển",
+        "nhỏ"
+       ]
+      },
+      {
+       "word": "Brussels",
+       "forbiddens": [
+        "bỉ",
+        "thủ đô",
+        "châu âu",
+        "sô cô la",
+        "bánh quế"
+       ]
+      },
+      {
+       "word": "Đảo Bình Ba",
+       "forbiddens": [
+        "khánh hòa",
+        "tôm hùm",
+        "cam ranh",
+        "biển",
+        "làng chài"
+       ]
+      },
+      {
+       "word": "Cao Lãnh",
+       "forbiddens": [
+        "đồng tháp",
+        "miền tây",
+        "sen",
+        "thành phố",
+        "sông tiền"
+       ]
+      },
+      {
+       "word": "Cái Bè",
+       "forbiddens": [
+        "tiền giang",
+        "chợ nổi",
+        "miền tây",
+        "trái cây",
+        "sông"
+       ]
+      },
+      {
+       "word": "Cái Răng",
+       "forbiddens": [
+        "cần thơ",
+        "chợ nổi",
+        "miền tây",
+        "ghe",
+        "sông"
+       ]
+      },
+      {
+       "word": "Hòn Gai",
+       "forbiddens": [
+        "quảng ninh",
+        "vịnh hạ long",
+        "than",
+        "thành phố",
+        "cảng"
+       ]
+      },
+      {
+       "word": "Cẩm Phả",
+       "forbiddens": [
+        "quảng ninh",
+        "than",
+        "thành phố",
+        "vịnh",
+        "mỏ"
+       ]
+      },
+      {
+       "word": "Bãi Cháy",
+       "forbiddens": [
+        "hạ long",
+        "quảng ninh",
+        "tắm",
+        "cầu",
+        "biển"
+       ]
+      },
+      {
+       "word": "Đập Tam Hiệp",
+       "forbiddens": [
+        "trung quốc",
+        "sông dương tử",
+        "thủy điện",
+        "lớn nhất",
+        "hồ chứa"
+       ]
+      },
+      {
+       "word": "Dãy Hoàng Liên Sơn",
+       "forbiddens": [
+        "fansipan",
+        "sa pa",
+        "tây bắc",
+        "cao nhất",
+        "lào cai"
+       ]
+      },
+      {
+       "word": "Sông Đà",
+       "forbiddens": [
+        "tây bắc",
+        "thủy điện",
+        "hòa bình",
+        "dòng chảy",
+        "miền núi"
+       ]
+      },
+      {
+       "word": "Sông Cầu",
+       "forbiddens": [
+        "thái nguyên",
+        "bắc ninh",
+        "đông bắc",
+        "bắc giang",
+        "quan họ"
+       ]
+      },
+      {
+       "word": "Vườn quốc gia Cát Tiên",
+       "forbiddens": [
+        "đồng nai",
+        "rừng",
+        "nai",
+        "đông nam bộ",
+        "sông"
+       ]
+      },
+      {
+       "word": "Vườn quốc gia Bạch Mã",
+       "forbiddens": [
+        "huế",
+        "mây",
+        "thác",
+        "rừng",
+        "đèo hải vân"
+       ]
+      },
+      {
+       "word": "Vườn quốc gia Tràm Chim",
+       "forbiddens": [
+        "đồng tháp",
+        "sếu đầu đỏ",
+        "đất ngập nước",
+        "miền tây",
+        "cò"
+       ]
+      },
+      {
+       "word": "Warsaw",
+       "forbiddens": [
+        "ba lan",
+        "thủ đô",
+        "sông vistula",
+        "châu âu",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Belgrade",
+       "forbiddens": [
+        "serbia",
+        "thủ đô",
+        "sông danube",
+        "châu âu",
+        "balkan"
+       ]
+      },
+      {
+       "word": "Cologne",
+       "forbiddens": [
+        "đức",
+        "sông rhine",
+        "nhà thờ lớn",
+        "nước hoa",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Florence",
+       "forbiddens": [
+        "ý",
+        "toscana",
+        "nghệ thuật",
+        "phục hưng",
+        "sông arno"
+       ]
+      },
+      {
+       "word": "Seville",
+       "forbiddens": [
+        "tây ban nha",
+        "andalusia",
+        "flamenco",
+        "cam",
+        "nắng"
+       ]
+      },
+      {
+       "word": "Bordeaux",
+       "forbiddens": [
+        "pháp",
+        "sông garonne",
+        "tây nam",
+        "thành phố",
+        "nho"
+       ]
+      },
+      {
+       "word": "Toulouse",
+       "forbiddens": [
+        "pháp",
+        "máy bay",
+        "tây nam",
+        "thành phố",
+        "hoa tím"
+       ]
+      },
+      {
+       "word": "Geneva",
+       "forbiddens": [
+        "thụy sĩ",
+        "hồ lớn",
+        "đồng hồ",
+        "quốc tế",
+        "alps"
+       ]
+      },
+      {
+       "word": "Miami",
+       "forbiddens": [
+        "florida",
+        "biển",
+        "hoa kỳ",
+        "nắng",
+        "bãi cát"
+       ]
+      },
+      {
+       "word": "Thành phố Québec",
+       "forbiddens": [
+        "canada",
+        "tiếng pháp",
+        "thành phố cổ",
+        "phía đông",
+        "lâu đài"
+       ]
+      },
+      {
+       "word": "Riyadh",
+       "forbiddens": [
+        "saudi arabia",
+        "thủ đô",
+        "sa mạc",
+        "trung đông",
+        "cao nguyên"
+       ]
+      },
+      {
+       "word": "Abu Dhabi",
+       "forbiddens": [
+        "uae",
+        "thủ đô",
+        "dầu",
+        "sa mạc",
+        "trung đông"
+       ]
+      },
+      {
+       "word": "Doha",
+       "forbiddens": [
+        "qatar",
+        "thủ đô",
+        "vịnh",
+        "trung đông",
+        "nhà chọc trời"
+       ]
+      },
+      {
+       "word": "Kobe",
+       "forbiddens": [
+        "nhật bản",
+        "cảng",
+        "thịt bò",
+        "osaka",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Fukuoka",
+       "forbiddens": [
+        "nhật bản",
+        "kyushu",
+        "cảng",
+        "mì",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Trùng Khánh",
+       "forbiddens": [
+        "trung quốc",
+        "lẩu",
+        "núi",
+        "sông",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Gold Coast",
+       "forbiddens": [
+        "úc",
+        "queensland",
+        "bãi biển",
+        "lướt sóng",
+        "nắng"
+       ]
+      },
+      {
+       "word": "Zimbabwe",
+       "forbiddens": [
+        "harare",
+        "châu phi",
+        "thác victoria",
+        "miền nam phi",
+        "hoang dã"
+       ]
+      },
+      {
+       "word": "Zambia",
+       "forbiddens": [
+        "lusaka",
+        "châu phi",
+        "thác victoria",
+        "sông zambezi",
+        "nội địa"
+       ]
+      },
+      {
+       "word": "Angola",
+       "forbiddens": [
+        "luanda",
+        "châu phi",
+        "tây nam",
+        "dầu",
+        "đại tây dương"
+       ]
+      },
+      {
+       "word": "Jordan",
+       "forbiddens": [
+        "amman",
+        "trung đông",
+        "petra",
+        "sa mạc",
+        "biển đỏ"
+       ]
+      },
+      {
+       "word": "Đảo Phục Sinh",
+       "forbiddens": [
+        "chile",
+        "tượng đá",
+        "moai",
+        "thái bình dương",
+        "xa xôi"
+       ]
+      },
+      {
+       "word": "Hồ Ontario",
+       "forbiddens": [
+        "ngũ đại hồ",
+        "toronto",
+        "niagara",
+        "bắc mỹ",
+        "nước ngọt"
+       ]
+      },
+      {
+       "word": "Sông Colorado",
+       "forbiddens": [
+        "hoa kỳ",
+        "grand canyon",
+        "tây",
+        "hẻm núi",
+        "đập"
+       ]
+      },
+      {
+       "word": "Vịnh Cam Ranh",
+       "forbiddens": [
+        "khánh hòa",
+        "cảng",
+        "nước sâu",
+        "nha trang",
+        "miền trung"
+       ]
+      },
+      {
+       "word": "Hồ Thác Bà",
+       "forbiddens": [
+        "yên bái",
+        "đảo",
+        "thủy điện",
+        "đông bắc",
+        "nhân tạo"
+       ]
+      },
+      {
+       "word": "Hồ Dầu Tiếng",
+       "forbiddens": [
+        "tây ninh",
+        "bình dương",
+        "lớn nhất",
+        "nhân tạo",
+        "nam bộ"
+       ]
+      },
+      {
+       "word": "Sông Thái Bình",
+       "forbiddens": [
+        "hải phòng",
+        "hải dương",
+        "đồng bằng",
+        "cửa biển",
+        "nhánh"
+       ]
+      },
+      {
+       "word": "Tunis",
+       "forbiddens": [
+        "thủ đô",
+        "bắc phi",
+        "địa trung hải",
+        "thành phố cổ",
+        "châu phi"
+       ]
+      },
+      {
+       "word": "Algiers",
+       "forbiddens": [
+        "algeria",
+        "thủ đô",
+        "bắc phi",
+        "địa trung hải",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Jeju",
+       "forbiddens": [
+        "hàn quốc",
+        "đảo",
+        "núi lửa",
+        "cam",
+        "nghỉ dưỡng"
+       ]
+      },
+      {
+       "word": "Bắc Trung Bộ",
+       "forbiddens": [
+        "thanh hóa",
+        "nghệ an",
+        "hà tĩnh",
+        "quảng bình",
+        "huế"
+       ]
+      },
+      {
+       "word": "Bãi biển Nhật Lệ",
+       "forbiddens": [
+        "quảng bình",
+        "đồng hới",
+        "cát",
+        "sóng",
+        "miền trung"
+       ]
+      },
+      {
+       "word": "Bãi Dài Cam Ranh",
+       "forbiddens": [
+        "khánh hòa",
+        "cát",
+        "sóng",
+        "sân bay",
+        "trắng"
+       ]
+      },
+      {
+       "word": "Bãi biển Long Hải",
+       "forbiddens": [
+        "vũng tàu",
+        "cát",
+        "sóng",
+        "miền nam",
+        "nghỉ"
+       ]
+      },
+      {
+       "word": "Bãi biển Thuận An",
+       "forbiddens": [
+        "huế",
+        "cát",
+        "sóng",
+        "cảng",
+        "miền trung"
+       ]
+      },
+      {
+       "word": "Cầu Thuận Phước",
+       "forbiddens": [
+        "đà nẵng",
+        "sông hàn",
+        "treo",
+        "dài nhất",
+        "biển"
+       ]
+      },
+      {
+       "word": "Cầu Trần Thị Lý",
+       "forbiddens": [
+        "đà nẵng",
+        "sông hàn",
+        "dây văng",
+        "cánh buồm",
+        "trung tâm"
+       ]
+      },
+      {
+       "word": "Cầu Vàm Cống",
+       "forbiddens": [
+        "đồng tháp",
+        "sông hậu",
+        "dây văng",
+        "miền tây",
+        "cần thơ"
+       ]
+      },
+      {
+       "word": "Đèo Ngang",
+       "forbiddens": [
+        "hà tĩnh",
+        "quảng bình",
+        "quốc lộ 1",
+        "bắc trung bộ",
+        "núi"
+       ]
+      },
+      {
+       "word": "Núi Hoàng Sơn",
+       "forbiddens": [
+        "trung quốc",
+        "an huy",
+        "thông",
+        "biển mây",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Đèo Ngoạn Mục",
+       "forbiddens": [
+        "lâm đồng",
+        "đà lạt",
+        "ninh thuận",
+        "tây nguyên",
+        "quanh co"
+       ]
+      },
+      {
+       "word": "Núi Chứa Chan",
+       "forbiddens": [
+        "đồng nai",
+        "xuân lộc",
+        "đỉnh",
+        "đông nam bộ",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Trương Gia Giới",
+       "forbiddens": [
+        "trung quốc",
+        "cột đá",
+        "hồ nam",
+        "sương",
+        "avatar"
+       ]
+      },
+      {
+       "word": "Núi Cấm",
+       "forbiddens": [
+        "an giang",
+        "tịnh biên",
+        "cao",
+        "miền tây",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Hàm Rồng",
+       "forbiddens": [
+        "sa pa",
+        "lào cai",
+        "vườn hoa",
+        "tây bắc",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Hồng Lĩnh",
+       "forbiddens": [
+        "hà tĩnh",
+        "chín mươi chín",
+        "dãy",
+        "bắc trung bộ",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Tằm",
+       "forbiddens": [
+        "nha trang",
+        "biển",
+        "nhỏ",
+        "vịnh",
+        "lặn"
+       ]
+      },
+      {
+       "word": "Eo Gió",
+       "forbiddens": [
+        "quy nhơn",
+        "bình định",
+        "vách đá",
+        "biển",
+        "cong"
+       ]
+      },
+      {
+       "word": "Gành Ráng",
+       "forbiddens": [
+        "bình định",
+        "quy nhơn",
+        "biển",
+        "đá",
+        "miền trung"
+       ]
+      },
+      {
+       "word": "Mũi Điện",
+       "forbiddens": [
+        "phú yên",
+        "đại lãnh",
+        "mặt trời",
+        "biển",
+        "hải đăng"
+       ]
+      },
+      {
+       "word": "Mũi Dinh",
+       "forbiddens": [
+        "ninh thuận",
+        "biển",
+        "hải đăng",
+        "nắng",
+        "đồi cát"
+       ]
+      },
+      {
+       "word": "Mũi Đôi",
+       "forbiddens": [
+        "khánh hòa",
+        "cực đông",
+        "biển",
+        "đá",
+        "nắng"
+       ]
+      },
+      {
+       "word": "Mũi Nai",
+       "forbiddens": [
+        "hà tiên",
+        "kiên giang",
+        "biển",
+        "đá",
+        "miền tây"
+       ]
+      },
+      {
+       "word": "Đầm Nha Phu",
+       "forbiddens": [
+        "khánh hòa",
+        "sóng",
+        "biển",
+        "miền trung",
+        "ninh hòa"
+       ]
+      },
+      {
+       "word": "Vịnh Bái Tử Long",
+       "forbiddens": [
+        "quảng ninh",
+        "sóng",
+        "biển",
+        "đảo",
+        "đá"
+       ]
+      },
+      {
+       "word": "Vịnh Lan Hạ",
+       "forbiddens": [
+        "hải phòng",
+        "cát bà",
+        "biển",
+        "đảo",
+        "đá"
+       ]
+      },
+      {
+       "word": "Lạc Dương",
+       "forbiddens": [
+        "đà lạt",
+        "lâm đồng",
+        "núi",
+        "lang biang",
+        "cao"
+       ]
+      },
+      {
+       "word": "Măng Đen",
+       "forbiddens": [
+        "kon tum",
+        "thông",
+        "lạnh",
+        "tây nguyên",
+        "nghỉ"
+       ]
+      },
+      {
+       "word": "Thủ Đức",
+       "forbiddens": [
+        "sài gòn",
+        "đông",
+        "thành phố",
+        "đại học",
+        "khu công nghệ"
+       ]
+      },
+      {
+       "word": "Thung lũng Silicon",
+       "forbiddens": [
+        "california",
+        "công nghệ",
+        "san francisco",
+        "khởi nghiệp",
+        "máy tính"
+       ]
+      },
+      {
+       "word": "Orlando",
+       "forbiddens": [
+        "florida",
+        "hoa kỳ",
+        "công viên",
+        "du lịch",
+        "nắng"
+       ]
+      },
+      {
+       "word": "Sông Đồng Nai",
+       "forbiddens": [
+        "hồ trị an",
+        "biên hòa",
+        "cát tiên",
+        "đông nam bộ",
+        "sài gòn"
+       ]
+      },
+      {
+       "word": "Mũi Hảo Vọng",
+       "forbiddens": [
+        "nam phi",
+        "cape town",
+        "châu phi",
+        "tàu buồm",
+        "đại tây dương"
+       ]
+      },
+      {
+       "word": "Vịnh Nha Trang",
+       "forbiddens": [
+        "khánh hòa",
+        "hòn tằm",
+        "hòn mun",
+        "lặn biển",
+        "đảo"
+       ]
+      },
+      {
+       "word": "Hang Sửng Sốt",
+       "forbiddens": [
+        "vịnh hạ long",
+        "quảng ninh",
+        "thạch nhũ",
+        "di sản unesco",
+        "du thuyền"
+       ]
+      },
+      {
+       "word": "Phan Rang",
+       "forbiddens": [
+        "ninh thuận",
+        "nho",
+        "nắng gió",
+        "tháp chàm",
+        "miền trung"
+       ]
+      },
+      {
+       "word": "Krabi",
+       "forbiddens": [
+        "thái lan",
+        "biển",
+        "đá vôi",
+        "phuket",
+        "leo núi"
+       ]
+      },
+      {
+       "word": "Pretoria",
+       "forbiddens": [
+        "nam phi",
+        "thủ đô",
+        "johannesburg",
+        "phượng tím",
+        "hành chính"
+       ]
+      },
+      {
+       "word": "Gành Đá Đĩa",
+       "forbiddens": [
+        "phú yên",
+        "lục giác",
+        "biển",
+        "tuy hòa",
+        "bazan"
+       ]
+      },
+      {
+       "word": "Buôn Đôn",
+       "forbiddens": [
+        "đắk lắk",
+        "voi",
+        "nhà sàn",
+        "tây nguyên",
+        "dân tộc"
+       ]
+      },
+      {
+       "word": "Đụn cát",
+       "forbiddens": [
+        "sa mạc",
+        "gió",
+        "mũi né",
+        "trượt",
+        "sahara"
+       ]
+      },
+      {
+       "word": "Scandinavia",
+       "forbiddens": [
+        "na uy",
+        "thụy điển",
+        "đan mạch",
+        "bắc âu",
+        "vịnh hẹp"
+       ]
+      },
+      {
+       "word": "Siberia",
+       "forbiddens": [
+        "nga",
+        "lạnh giá",
+        "rộng lớn",
+        "rừng taiga",
+        "hồ baikal"
+       ]
+      },
+      {
+       "word": "Andalusia",
+       "forbiddens": [
+        "tây ban nha",
+        "seville",
+        "flamenco",
+        "nắng",
+        "granada"
+       ]
+      },
+      {
+       "word": "Toscana",
+       "forbiddens": [
+        "ý",
+        "florence",
+        "đồi",
+        "pisa",
+        "nông thôn"
+       ]
+      },
+      {
+       "word": "Bavaria",
+       "forbiddens": [
+        "đức",
+        "munich",
+        "neuschwanstein",
+        "alps",
+        "miền nam"
+       ]
+      },
+      {
+       "word": "Naples",
+       "forbiddens": [
+        "ý",
+        "pizza",
+        "vesuvius",
+        "miền nam",
+        "cảng"
+       ]
+      },
+      {
+       "word": "Queensland",
+       "forbiddens": [
+        "úc",
+        "brisbane",
+        "rạn san hô",
+        "gold coast",
+        "nắng"
+       ]
+      },
+      {
+       "word": "Champs-Élysées",
+       "forbiddens": [
+        "paris",
+        "đại lộ",
+        "khải hoàn môn",
+        "pháp",
+        "dạo phố"
+       ]
+      },
+      {
+       "word": "Cầu sông Hàn",
+       "forbiddens": [
+        "đà nẵng",
+        "xoay",
+        "thép",
+        "ban đêm",
+        "trung tâm"
+       ]
+      },
+      {
+       "word": "Merlion",
+       "forbiddens": [
+        "singapore",
+        "sư tử",
+        "đuôi cá",
+        "biểu tượng",
+        "vịnh marina"
+       ]
+      },
+      {
+       "word": "Đồng Tháp Mười",
+       "forbiddens": [
+        "sen",
+        "tràm chim",
+        "miền tây",
+        "long an",
+        "sếu"
+       ]
+      },
+      {
+       "word": "Phố Wall",
+       "forbiddens": [
+        "new york",
+        "tài chính",
+        "manhattan",
+        "chứng khoán",
+        "nhà đầu tư"
+       ]
+      },
+      {
+       "word": "Broadway",
+       "forbiddens": [
+        "new york",
+        "nhạc kịch",
+        "sân khấu",
+        "manhattan",
+        "diễn viên"
+       ]
+      },
+      {
+       "word": "Nhà thờ Thánh Basil",
+       "forbiddens": [
+        "moscow",
+        "quảng trường đỏ",
+        "vòm củ hành",
+        "nhiều màu",
+        "nga"
+       ]
+      },
+      {
+       "word": "Bảo tàng Hermitage",
+       "forbiddens": [
+        "saint petersburg",
+        "nga",
+        "nghệ thuật",
+        "mèo",
+        "cung điện"
+       ]
+      },
+      {
+       "word": "Bảo tàng Anh",
+       "forbiddens": [
+        "luân đôn",
+        "đá rosetta",
+        "cổ vật",
+        "triển lãm",
+        "bloomsbury"
+       ]
+      },
+      {
+       "word": "Thác Bạc",
+       "forbiddens": [
+        "sa pa",
+        "lào cai",
+        "trắng xóa",
+        "miền núi",
+        "tầng"
+       ]
+      },
+      {
+       "word": "Hòn Phụ Tử",
+       "forbiddens": [
+        "kiên giang",
+        "hà tiên",
+        "biển",
+        "cha con",
+        "đá"
+       ]
+      },
+      {
+       "word": "Hòn Trống Mái",
+       "forbiddens": [
+        "sầm sơn",
+        "thanh hóa",
+        "biển",
+        "đá",
+        "đôi"
+       ]
+      },
+      {
+       "word": "Hầm Hải Vân",
+       "forbiddens": [
+        "đà nẵng",
+        "huế",
+        "xuyên núi",
+        "quốc lộ 1",
+        "ô tô"
+       ]
+      },
+      {
+       "word": "Đường đồng mức",
+       "forbiddens": [
+        "bản đồ",
+        "độ cao",
+        "vòng",
+        "địa hình",
+        "núi"
+       ]
+      },
+      {
+       "word": "Hải Nam",
+       "forbiddens": [
+        "trung quốc",
+        "đảo",
+        "nhiệt đới",
+        "tam á",
+        "biển"
+       ]
+      },
+      {
+       "word": "Biển Caspi",
+       "forbiddens": [
+        "hồ lớn nhất",
+        "cá tầm",
+        "trứng cá muối",
+        "dầu mỏ",
+        "châu á"
+       ]
+      },
+      {
+       "word": "Saint Petersburg",
+       "forbiddens": [
+        "nga",
+        "sông neva",
+        "cung điện",
+        "đêm trắng",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Nhà hát Thành phố",
+       "forbiddens": [
+        "sài gòn",
+        "biểu diễn",
+        "kiến trúc pháp",
+        "quận 1",
+        "opera"
+       ]
+      },
+      {
+       "word": "Sân bay Nội Bài",
+       "forbiddens": [
+        "hà nội",
+        "cất cánh",
+        "quốc tế",
+        "đường băng",
+        "nhà ga"
+       ]
+      },
+      {
+       "word": "Sân bay Tân Sơn Nhất",
+       "forbiddens": [
+        "sài gòn",
+        "cất cánh",
+        "quốc tế",
+        "đường băng",
+        "nhà ga"
+       ]
+      },
+      {
+       "word": "Sân bay Changi",
+       "forbiddens": [
+        "singapore",
+        "quốc tế",
+        "cất cánh",
+        "đường băng",
+        "nhà ga"
+       ]
+      },
+      {
+       "word": "Brooklyn",
+       "forbiddens": [
+        "new york",
+        "quận",
+        "khu phố",
+        "east river",
+        "manhattan"
+       ]
+      },
+      {
+       "word": "Sentosa",
+       "forbiddens": [
+        "singapore",
+        "đảo",
+        "bãi biển",
+        "nghỉ dưỡng",
+        "cáp treo"
+       ]
+      },
+      {
+       "word": "Cáp Nhĩ Tân",
+       "forbiddens": [
+        "trung quốc",
+        "băng đăng",
+        "lạnh",
+        "tuyết",
+        "đông bắc"
+       ]
+      },
+      {
+       "word": "Phượng Hoàng Cổ Trấn",
+       "forbiddens": [
+        "hồ nam",
+        "nhà sàn",
+        "đèn lồng",
+        "trung quốc",
+        "sông"
+       ]
+      },
+      {
+       "word": "Tam Á",
+       "forbiddens": [
+        "hải nam",
+        "trung quốc",
+        "biển",
+        "nghỉ dưỡng",
+        "nhiệt đới"
+       ]
+      },
+      {
+       "word": "Shibuya",
+       "forbiddens": [
+        "tokyo",
+        "ngã tư",
+        "đông người",
+        "hachiko",
+        "giới trẻ"
+       ]
+      },
+      {
+       "word": "Shinjuku",
+       "forbiddens": [
+        "tokyo",
+        "ga tàu",
+        "nhà chọc trời",
+        "đông đúc",
+        "đèn neon"
+       ]
+      },
+      {
+       "word": "Đảo Nami",
+       "forbiddens": [
+        "hàn quốc",
+        "hàng cây",
+        "mùa thu",
+        "phim truyền hình",
+        "sông"
+       ]
+      },
+      {
+       "word": "Gangnam",
+       "forbiddens": [
+        "seoul",
+        "hàn quốc",
+        "sông hàn",
+        "khu phố",
+        "psy"
+       ]
+      },
+      {
+       "word": "Biển Ả Rập",
+       "forbiddens": [
+        "ấn độ",
+        "oman",
+        "ấn độ dương",
+        "mumbai",
+        "pakistan"
+       ]
+      },
+      {
+       "word": "Malacca",
+       "forbiddens": [
+        "malaysia",
+        "thành phố cổ",
+        "cảng",
+        "di sản",
+        "eo biển"
+       ]
+      },
+      {
+       "word": "Cù lao",
+       "forbiddens": [
+        "sông",
+        "miền tây",
+        "giữa dòng",
+        "bãi bồi",
+        "trái cây"
+       ]
+      },
+      {
+       "word": "Quốc đảo",
+       "forbiddens": [
+        "biển bao quanh",
+        "quần đảo",
+        "singapore",
+        "nhật bản",
+        "maldives"
+       ]
+      },
+      {
+       "word": "Hồ muối",
+       "forbiddens": [
+        "nước mặn",
+        "bốc hơi",
+        "nội địa",
+        "kết tinh",
+        "màu hồng"
+       ]
+      },
+      {
+       "word": "Gulf Stream",
+       "forbiddens": [
+        "dòng chảy",
+        "đại tây dương",
+        "nước ấm",
+        "florida",
+        "châu âu"
+       ]
+      },
+      {
+       "word": "Bahrain",
+       "forbiddens": [
+        "manama",
+        "đảo",
+        "vùng vịnh",
+        "trung đông",
+        "ngọc trai"
+       ]
+      },
+      {
+       "word": "Beirut",
+       "forbiddens": [
+        "liban",
+        "thủ đô",
+        "bờ biển",
+        "địa trung hải",
+        "cảng"
+       ]
+      },
+      {
+       "word": "Kuwait City",
+       "forbiddens": [
+        "thủ đô",
+        "dầu mỏ",
+        "vùng vịnh",
+        "tòa tháp",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Thác Kuang Si",
+       "forbiddens": [
+        "lào",
+        "luang prabang",
+        "nước xanh",
+        "bậc",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Biển San Hô",
+       "forbiddens": [
+        "úc",
+        "rạn chắn",
+        "queensland",
+        "thái bình dương",
+        "cairns"
+       ]
+      },
+      {
+       "word": "Sông Moskva",
+       "forbiddens": [
+        "moscow",
+        "nga",
+        "thủ đô",
+        "chảy qua",
+        "cầu"
+       ]
+      },
+      {
+       "word": "Núi Olympus",
+       "forbiddens": [
+        "hy lạp",
+        "cao nhất",
+        "đỉnh",
+        "thessaloniki",
+        "tuyết"
+       ]
+      },
+      {
+       "word": "Núi Ngự Bình",
+       "forbiddens": [
+        "huế",
+        "đồi",
+        "thành phố",
+        "sông hương",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Đất Mũi",
+       "forbiddens": [
+        "cực nam",
+        "cà mau",
+        "rừng đước",
+        "biển",
+        "miền tây"
+       ]
+      },
+      {
+       "word": "Thác Cam Ly",
+       "forbiddens": [
+        "đà lạt",
+        "nước",
+        "thành phố",
+        "dòng chảy",
+        "cao nguyên"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Tre",
+       "forbiddens": [
+        "nha trang",
+        "vịnh",
+        "cáp treo",
+        "biển",
+        "khánh hòa"
+       ]
+      },
+      {
+       "word": "Thanh Đảo",
+       "forbiddens": [
+        "trung quốc",
+        "biển",
+        "sơn đông",
+        "cảng",
+        "hải sản"
+       ]
+      },
+      {
+       "word": "Đại Liên",
+       "forbiddens": [
+        "trung quốc",
+        "cảng",
+        "biển",
+        "liêu ninh",
+        "thành phố"
+       ]
       }
      ]
     },
@@ -98745,6 +100465,3006 @@
         "bản",
         "rừng",
         "nhà sàn"
+       ]
+      },
+      {
+       "word": "Lucerne",
+       "forbiddens": [
+        "thụy sĩ",
+        "hồ",
+        "cầu gỗ",
+        "alps",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Innsbruck",
+       "forbiddens": [
+        "áo",
+        "alps",
+        "trượt tuyết",
+        "thế vận hội",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Bristol",
+       "forbiddens": [
+        "anh",
+        "cảng",
+        "tây nam",
+        "cầu treo",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Phoenix",
+       "forbiddens": [
+        "arizona",
+        "sa mạc",
+        "nóng",
+        "thành phố",
+        "tây nam"
+       ]
+      },
+      {
+       "word": "Portland",
+       "forbiddens": [
+        "oregon",
+        "cầu",
+        "mưa",
+        "tây bắc",
+        "hoa hồng"
+       ]
+      },
+      {
+       "word": "Nashville",
+       "forbiddens": [
+        "tennessee",
+        "nhạc đồng quê",
+        "thành phố",
+        "nam",
+        "guitar"
+       ]
+      },
+      {
+       "word": "Austin",
+       "forbiddens": [
+        "texas",
+        "âm nhạc",
+        "thủ phủ",
+        "thành phố",
+        "nam"
+       ]
+      },
+      {
+       "word": "Calgary",
+       "forbiddens": [
+        "canada",
+        "alberta",
+        "thế vận hội",
+        "núi",
+        "bò"
+       ]
+      },
+      {
+       "word": "Windhoek",
+       "forbiddens": [
+        "namibia",
+        "thủ đô",
+        "châu phi",
+        "thành phố",
+        "cao nguyên"
+       ]
+      },
+      {
+       "word": "Lusaka",
+       "forbiddens": [
+        "zambia",
+        "thủ đô",
+        "châu phi",
+        "thành phố",
+        "nội địa"
+       ]
+      },
+      {
+       "word": "Harare",
+       "forbiddens": [
+        "zimbabwe",
+        "thủ đô",
+        "châu phi",
+        "thành phố",
+        "cao nguyên"
+       ]
+      },
+      {
+       "word": "Kampala",
+       "forbiddens": [
+        "uganda",
+        "thủ đô",
+        "châu phi",
+        "hồ victoria",
+        "đồi"
+       ]
+      },
+      {
+       "word": "Kinshasa",
+       "forbiddens": [
+        "chdc congo",
+        "thủ đô",
+        "châu phi",
+        "sông congo",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Abuja",
+       "forbiddens": [
+        "nigeria",
+        "thủ đô",
+        "châu phi",
+        "thành phố",
+        "trung tâm"
+       ]
+      },
+      {
+       "word": "Maputo",
+       "forbiddens": [
+        "mozambique",
+        "thủ đô",
+        "châu phi",
+        "cảng",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Liechtenstein",
+       "forbiddens": [
+        "vaduz",
+        "nhỏ",
+        "alps",
+        "châu âu",
+        "thụy sĩ"
+       ]
+      },
+      {
+       "word": "Andorra",
+       "forbiddens": [
+        "pyrenees",
+        "nhỏ",
+        "châu âu",
+        "trượt tuyết",
+        "núi"
+       ]
+      },
+      {
+       "word": "Bosnia và Herzegovina",
+       "forbiddens": [
+        "sarajevo",
+        "balkan",
+        "châu âu",
+        "núi",
+        "thành cổ"
+       ]
+      },
+      {
+       "word": "Bắc Macedonia",
+       "forbiddens": [
+        "skopje",
+        "balkan",
+        "châu âu",
+        "hồ",
+        "núi"
+       ]
+      },
+      {
+       "word": "Cộng hòa Dominica",
+       "forbiddens": [
+        "santo domingo",
+        "caribe",
+        "đảo",
+        "biển",
+        "bãi cát"
+       ]
+      },
+      {
+       "word": "Guyana",
+       "forbiddens": [
+        "georgetown",
+        "nam mỹ",
+        "rừng",
+        "đại tây dương",
+        "nhiệt đới"
+       ]
+      },
+      {
+       "word": "Biển Adriatic",
+       "forbiddens": [
+        "ý",
+        "croatia",
+        "địa trung hải",
+        "vịnh",
+        "đảo"
+       ]
+      },
+      {
+       "word": "Hồ Huron",
+       "forbiddens": [
+        "ngũ đại hồ",
+        "canada",
+        "hoa kỳ",
+        "nước ngọt",
+        "bắc mỹ"
+       ]
+      },
+      {
+       "word": "Hồ Erie",
+       "forbiddens": [
+        "ngũ đại hồ",
+        "niagara",
+        "nông",
+        "nước ngọt",
+        "bắc mỹ"
+       ]
+      },
+      {
+       "word": "Hồ Constance",
+       "forbiddens": [
+        "alps",
+        "đức",
+        "áo",
+        "thụy sĩ",
+        "châu âu"
+       ]
+      },
+      {
+       "word": "Sông Oder",
+       "forbiddens": [
+        "châu âu",
+        "ba lan",
+        "đức",
+        "baltic",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Don",
+       "forbiddens": [
+        "nga",
+        "đông âu",
+        "biển",
+        "dài",
+        "thảo nguyên"
+       ]
+      },
+      {
+       "word": "Sông Ebro",
+       "forbiddens": [
+        "tây ban nha",
+        "đông bắc",
+        "địa trung hải",
+        "dài",
+        "thung lũng"
+       ]
+      },
+      {
+       "word": "Sông Paraná",
+       "forbiddens": [
+        "nam mỹ",
+        "brazil",
+        "argentina",
+        "paraguay",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Columbia",
+       "forbiddens": [
+        "tây bắc",
+        "thái bình dương",
+        "bắc mỹ",
+        "đập",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Yukon",
+       "forbiddens": [
+        "alaska",
+        "canada",
+        "bắc",
+        "băng",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Edmonton",
+       "forbiddens": [
+        "canada",
+        "alberta",
+        "lạnh",
+        "thủ phủ",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Sochi",
+       "forbiddens": [
+        "nga",
+        "biển đen",
+        "thế vận hội",
+        "nghỉ dưỡng",
+        "bờ biển"
+       ]
+      },
+      {
+       "word": "Kazan",
+       "forbiddens": [
+        "nga",
+        "sông volga",
+        "thành phố",
+        "tatarstan",
+        "điện kremlin"
+       ]
+      },
+      {
+       "word": "Verona",
+       "forbiddens": [
+        "ý",
+        "romeo",
+        "ban công",
+        "thành phố",
+        "đấu trường"
+       ]
+      },
+      {
+       "word": "Siena",
+       "forbiddens": [
+        "ý",
+        "toscana",
+        "quảng trường",
+        "thời trung cổ",
+        "đồi"
+       ]
+      },
+      {
+       "word": "Heidelberg",
+       "forbiddens": [
+        "đức",
+        "đại học",
+        "lâu đài",
+        "sông neckar",
+        "thành cổ"
+       ]
+      },
+      {
+       "word": "Utrecht",
+       "forbiddens": [
+        "hà lan",
+        "kênh",
+        "đại học",
+        "tháp",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Ghent",
+       "forbiddens": [
+        "bỉ",
+        "kênh",
+        "thành cổ",
+        "lâu đài",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Basel",
+       "forbiddens": [
+        "thụy sĩ",
+        "sông rhine",
+        "bảo tàng",
+        "hội chợ",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Lausanne",
+       "forbiddens": [
+        "thụy sĩ",
+        "hồ geneva",
+        "olympic",
+        "thành phố",
+        "đồi"
+       ]
+      },
+      {
+       "word": "Cork",
+       "forbiddens": [
+        "ireland",
+        "nam",
+        "cảng",
+        "thành phố",
+        "sông lee"
+       ]
+      },
+      {
+       "word": "Galway",
+       "forbiddens": [
+        "ireland",
+        "tây",
+        "biển",
+        "thành phố",
+        "nghệ thuật"
+       ]
+      },
+      {
+       "word": "Bergen",
+       "forbiddens": [
+        "na uy",
+        "vịnh hẹp",
+        "cảng",
+        "mưa",
+        "nhà gỗ"
+       ]
+      },
+      {
+       "word": "Aarhus",
+       "forbiddens": [
+        "đan mạch",
+        "thành phố",
+        "cảng",
+        "bảo tàng",
+        "đại học"
+       ]
+      },
+      {
+       "word": "Tampere",
+       "forbiddens": [
+        "phần lan",
+        "hồ",
+        "thành phố",
+        "nhà máy",
+        "đại học"
+       ]
+      },
+      {
+       "word": "Salt Lake City",
+       "forbiddens": [
+        "utah",
+        "hồ muối",
+        "núi",
+        "thành phố",
+        "trượt tuyết"
+       ]
+      },
+      {
+       "word": "Pittsburgh",
+       "forbiddens": [
+        "pennsylvania",
+        "cầu",
+        "thép",
+        "sông",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Cleveland",
+       "forbiddens": [
+        "ohio",
+        "hồ erie",
+        "nhạc rock",
+        "thành phố",
+        "bắc"
+       ]
+      },
+      {
+       "word": "Anchorage",
+       "forbiddens": [
+        "alaska",
+        "lạnh",
+        "thành phố",
+        "núi",
+        "băng"
+       ]
+      },
+      {
+       "word": "Winnipeg",
+       "forbiddens": [
+        "canada",
+        "thành phố",
+        "manitoba",
+        "lạnh",
+        "đồng cỏ"
+       ]
+      },
+      {
+       "word": "Halifax",
+       "forbiddens": [
+        "canada",
+        "cảng",
+        "nova scotia",
+        "thành phố",
+        "biển"
+       ]
+      },
+      {
+       "word": "Salvador",
+       "forbiddens": [
+        "brazil",
+        "bờ biển",
+        "thành phố",
+        "carnaval",
+        "bahia"
+       ]
+      },
+      {
+       "word": "Recife",
+       "forbiddens": [
+        "brazil",
+        "biển",
+        "thành phố",
+        "đông bắc",
+        "cầu"
+       ]
+      },
+      {
+       "word": "Arequipa",
+       "forbiddens": [
+        "peru",
+        "núi lửa",
+        "thành phố trắng",
+        "andes",
+        "nam"
+       ]
+      },
+      {
+       "word": "Guayaquil",
+       "forbiddens": [
+        "ecuador",
+        "cảng",
+        "thành phố",
+        "sông",
+        "lớn nhất"
+       ]
+      },
+      {
+       "word": "Abidjan",
+       "forbiddens": [
+        "bờ biển ngà",
+        "cảng",
+        "tây phi",
+        "thành phố",
+        "lớn nhất"
+       ]
+      },
+      {
+       "word": "Luanda",
+       "forbiddens": [
+        "angola",
+        "thủ đô",
+        "cảng",
+        "châu phi",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Lahore",
+       "forbiddens": [
+        "pakistan",
+        "thành phố",
+        "phía đông",
+        "vườn",
+        "punjab"
+       ]
+      },
+      {
+       "word": "Manama",
+       "forbiddens": [
+        "bahrain",
+        "thủ đô",
+        "đảo",
+        "vịnh",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Jeddah",
+       "forbiddens": [
+        "saudi arabia",
+        "biển đỏ",
+        "cảng",
+        "thành phố",
+        "tây"
+       ]
+      },
+      {
+       "word": "Tashkent",
+       "forbiddens": [
+        "uzbekistan",
+        "thủ đô",
+        "trung á",
+        "thành phố",
+        "tàu điện"
+       ]
+      },
+      {
+       "word": "Bishkek",
+       "forbiddens": [
+        "kyrgyzstan",
+        "thủ đô",
+        "trung á",
+        "núi",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Hakone",
+       "forbiddens": [
+        "nhật bản",
+        "suối nước nóng",
+        "núi phú sĩ",
+        "hồ",
+        "nghỉ dưỡng"
+       ]
+      },
+      {
+       "word": "Daegu",
+       "forbiddens": [
+        "hàn quốc",
+        "thành phố",
+        "nam",
+        "dệt may",
+        "nóng"
+       ]
+      },
+      {
+       "word": "Bãi biển Hải Tiến",
+       "forbiddens": [
+        "thanh hóa",
+        "hoằng hóa",
+        "cát",
+        "sóng",
+        "bắc trung bộ"
+       ]
+      },
+      {
+       "word": "Bãi biển Thiên Cầm",
+       "forbiddens": [
+        "hà tĩnh",
+        "cát",
+        "sóng",
+        "miền trung",
+        "cẩm xuyên"
+       ]
+      },
+      {
+       "word": "Vịnh Chesapeake",
+       "forbiddens": [
+        "hoa kỳ",
+        "đông",
+        "biển",
+        "cua",
+        "baltimore"
+       ]
+      },
+      {
+       "word": "Cape Cod",
+       "forbiddens": [
+        "massachusetts",
+        "bán đảo",
+        "biển",
+        "hải âu",
+        "đông bắc"
+       ]
+      },
+      {
+       "word": "Núi Whitney",
+       "forbiddens": [
+        "california",
+        "cao",
+        "sierra nevada",
+        "hoa kỳ",
+        "leo"
+       ]
+      },
+      {
+       "word": "Núi Rainier",
+       "forbiddens": [
+        "washington",
+        "seattle",
+        "tuyết",
+        "dung nham",
+        "tây bắc"
+       ]
+      },
+      {
+       "word": "Núi Hood",
+       "forbiddens": [
+        "oregon",
+        "tuyết",
+        "dung nham",
+        "portland",
+        "tây bắc"
+       ]
+      },
+      {
+       "word": "Núi Shasta",
+       "forbiddens": [
+        "california",
+        "tuyết",
+        "dung nham",
+        "bắc",
+        "cao"
+       ]
+      },
+      {
+       "word": "Núi Logan",
+       "forbiddens": [
+        "canada",
+        "cao nhất",
+        "yukon",
+        "băng",
+        "bắc"
+       ]
+      },
+      {
+       "word": "Núi Triglav",
+       "forbiddens": [
+        "slovenia",
+        "cao nhất",
+        "alps",
+        "đỉnh",
+        "tuyết"
+       ]
+      },
+      {
+       "word": "Núi Gerlach",
+       "forbiddens": [
+        "slovakia",
+        "cao nhất",
+        "tatra",
+        "đỉnh",
+        "trung âu"
+       ]
+      },
+      {
+       "word": "Núi Musala",
+       "forbiddens": [
+        "bulgaria",
+        "cao nhất",
+        "rila",
+        "đỉnh",
+        "balkan"
+       ]
+      },
+      {
+       "word": "Cầu Đông Trù",
+       "forbiddens": [
+        "hà nội",
+        "sông đuống",
+        "thép",
+        "đông anh",
+        "đường"
+       ]
+      },
+      {
+       "word": "Núi Mulhacén",
+       "forbiddens": [
+        "tây ban nha",
+        "cao nhất",
+        "sierra nevada",
+        "granada",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Aneto",
+       "forbiddens": [
+        "tây ban nha",
+        "pyrenees",
+        "cao nhất",
+        "đỉnh",
+        "tuyết"
+       ]
+      },
+      {
+       "word": "Núi Grossglockner",
+       "forbiddens": [
+        "áo",
+        "cao nhất",
+        "alps",
+        "băng hà",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Pilatus",
+       "forbiddens": [
+        "thụy sĩ",
+        "lucerne",
+        "alps",
+        "đỉnh",
+        "tuyết"
+       ]
+      },
+      {
+       "word": "Núi Galdhøpiggen",
+       "forbiddens": [
+        "na uy",
+        "cao nhất",
+        "đỉnh",
+        "băng hà",
+        "bắc âu"
+       ]
+      },
+      {
+       "word": "Cầu Năm Căn",
+       "forbiddens": [
+        "cà mau",
+        "sông cửa lớn",
+        "mũi",
+        "miền tây",
+        "ngọc hiển"
+       ]
+      },
+      {
+       "word": "Núi Kebnekaise",
+       "forbiddens": [
+        "thụy điển",
+        "cao nhất",
+        "lapland",
+        "đỉnh",
+        "tuyết"
+       ]
+      },
+      {
+       "word": "Núi Hekla",
+       "forbiddens": [
+        "iceland",
+        "dung nham",
+        "đỉnh",
+        "tuyết",
+        "bắc"
+       ]
+      },
+      {
+       "word": "Núi Pico",
+       "forbiddens": [
+        "azores",
+        "bồ đào nha",
+        "dung nham",
+        "đỉnh",
+        "đảo"
+       ]
+      },
+      {
+       "word": "Núi Toubkal",
+       "forbiddens": [
+        "maroc",
+        "cao nhất",
+        "atlas",
+        "đỉnh",
+        "tuyết"
+       ]
+      },
+      {
+       "word": "Đèo Tam Điệp",
+       "forbiddens": [
+        "ninh bình",
+        "thanh hóa",
+        "quốc lộ 1",
+        "núi",
+        "phía bắc"
+       ]
+      },
+      {
+       "word": "Núi Meru",
+       "forbiddens": [
+        "tanzania",
+        "dung nham",
+        "kilimanjaro",
+        "đỉnh",
+        "cao"
+       ]
+      },
+      {
+       "word": "Đèo Phượng Hoàng",
+       "forbiddens": [
+        "khánh hòa",
+        "đắk lắk",
+        "tây nguyên",
+        "quanh co",
+        "quốc lộ 26"
+       ]
+      },
+      {
+       "word": "Núi Damavand",
+       "forbiddens": [
+        "iran",
+        "dung nham",
+        "cao nhất",
+        "elburz",
+        "tuyết"
+       ]
+      },
+      {
+       "word": "Đèo Sa Mù",
+       "forbiddens": [
+        "quảng trị",
+        "quanh co",
+        "miền núi",
+        "mây",
+        "cao"
+       ]
+      },
+      {
+       "word": "Núi Ngũ Đài",
+       "forbiddens": [
+        "trung quốc",
+        "sơn tây",
+        "đỉnh",
+        "mây",
+        "cao"
+       ]
+      },
+      {
+       "word": "Đèo Đại Ninh",
+       "forbiddens": [
+        "lâm đồng",
+        "bình thuận",
+        "quốc lộ",
+        "tây nguyên",
+        "núi"
+       ]
+      },
+      {
+       "word": "Núi Hoa Sơn",
+       "forbiddens": [
+        "trung quốc",
+        "thiểm tây",
+        "dốc",
+        "đỉnh",
+        "đường"
+       ]
+      },
+      {
+       "word": "Núi Lư",
+       "forbiddens": [
+        "trung quốc",
+        "giang tây",
+        "mây",
+        "đỉnh",
+        "nghỉ"
+       ]
+      },
+      {
+       "word": "Núi Aso",
+       "forbiddens": [
+        "nhật bản",
+        "kyushu",
+        "dung nham",
+        "miệng",
+        "đồng cỏ"
+       ]
+      },
+      {
+       "word": "Núi Dinh",
+       "forbiddens": [
+        "vũng tàu",
+        "bà rịa",
+        "đỉnh",
+        "đông nam bộ",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Núi Hallasan",
+       "forbiddens": [
+        "hàn quốc",
+        "jeju",
+        "dung nham",
+        "cao nhất",
+        "baengnokdam"
+       ]
+      },
+      {
+       "word": "Núi Seorak",
+       "forbiddens": [
+        "hàn quốc",
+        "đông",
+        "đỉnh",
+        "lá đỏ",
+        "cáp treo"
+       ]
+      },
+      {
+       "word": "Núi Bromo",
+       "forbiddens": [
+        "indonesia",
+        "java",
+        "dung nham",
+        "cát",
+        "bình minh"
+       ]
+      },
+      {
+       "word": "Dãy Pu Sam Cáp",
+       "forbiddens": [
+        "lai châu",
+        "đỉnh",
+        "tây bắc",
+        "hang động",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Núi Tà Chì Nhù",
+       "forbiddens": [
+        "yên bái",
+        "đỉnh",
+        "tây bắc",
+        "cao",
+        "mây"
+       ]
+      },
+      {
+       "word": "Núi Rinjani",
+       "forbiddens": [
+        "indonesia",
+        "lombok",
+        "dung nham",
+        "hồ",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Phia Oắc",
+       "forbiddens": [
+        "cao bằng",
+        "đỉnh",
+        "đông bắc",
+        "cao",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Núi Agung",
+       "forbiddens": [
+        "indonesia",
+        "bali",
+        "dung nham",
+        "cao nhất",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Sập",
+       "forbiddens": [
+        "an giang",
+        "thoại sơn",
+        "đồi",
+        "miền tây",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Mayon",
+       "forbiddens": [
+        "philippines",
+        "dung nham",
+        "luzon",
+        "hình nón",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Ba Thê",
+       "forbiddens": [
+        "an giang",
+        "thoại sơn",
+        "đồi",
+        "miền tây",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Apo",
+       "forbiddens": [
+        "philippines",
+        "cao nhất",
+        "mindanao",
+        "dung nham",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Thị Vải",
+       "forbiddens": [
+        "vũng tàu",
+        "phú mỹ",
+        "sông",
+        "đông nam bộ",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Pulag",
+       "forbiddens": [
+        "philippines",
+        "luzon",
+        "biển mây",
+        "đỉnh",
+        "lạnh"
+       ]
+      },
+      {
+       "word": "Núi Nưa",
+       "forbiddens": [
+        "thanh hóa",
+        "triệu sơn",
+        "đỉnh",
+        "bắc trung bộ",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Núi Doi Inthanon",
+       "forbiddens": [
+        "thái lan",
+        "cao nhất",
+        "chiang mai",
+        "đỉnh",
+        "lạnh"
+       ]
+      },
+      {
+       "word": "Núi Ruapehu",
+       "forbiddens": [
+        "new zealand",
+        "dung nham",
+        "đảo bắc",
+        "trượt tuyết",
+        "tuyết"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Mê",
+       "forbiddens": [
+        "thanh hóa",
+        "biển",
+        "nhỏ",
+        "bắc trung bộ",
+        "xa bờ"
+       ]
+      },
+      {
+       "word": "Núi Kosciuszko",
+       "forbiddens": [
+        "úc",
+        "cao nhất",
+        "tuyết",
+        "đỉnh",
+        "alps"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Ngư",
+       "forbiddens": [
+        "nghệ an",
+        "cửa lò",
+        "biển",
+        "nhỏ",
+        "bắc trung bộ"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Nẹ",
+       "forbiddens": [
+        "thanh hóa",
+        "biển",
+        "nhỏ",
+        "bắc trung bộ",
+        "ven bờ"
+       ]
+      },
+      {
+       "word": "Núi Chimborazo",
+       "forbiddens": [
+        "ecuador",
+        "dung nham",
+        "đỉnh",
+        "xích đạo",
+        "andes"
+       ]
+      },
+      {
+       "word": "Núi Cotopaxi",
+       "forbiddens": [
+        "ecuador",
+        "dung nham",
+        "tuyết",
+        "andes",
+        "hình nón"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Chuối",
+       "forbiddens": [
+        "cà mau",
+        "biển",
+        "nhỏ",
+        "miền tây",
+        "xa bờ"
+       ]
+      },
+      {
+       "word": "Núi Huascarán",
+       "forbiddens": [
+        "peru",
+        "cao nhất",
+        "andes",
+        "tuyết",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Đá Bạc",
+       "forbiddens": [
+        "cà mau",
+        "biển",
+        "trần văn thời",
+        "miền tây",
+        "nhỏ"
+       ]
+      },
+      {
+       "word": "Núi Illimani",
+       "forbiddens": [
+        "bolivia",
+        "la paz",
+        "andes",
+        "tuyết",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Popocatépetl",
+       "forbiddens": [
+        "mexico",
+        "dung nham",
+        "khói",
+        "thành phố mexico",
+        "cao"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Một",
+       "forbiddens": [
+        "nha trang",
+        "biển",
+        "nhỏ",
+        "vịnh",
+        "lặn"
+       ]
+      },
+      {
+       "word": "Núi Orizaba",
+       "forbiddens": [
+        "mexico",
+        "cao nhất",
+        "dung nham",
+        "tuyết",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Nội",
+       "forbiddens": [
+        "khánh hòa",
+        "biển",
+        "nhỏ",
+        "yến",
+        "nha trang"
+       ]
+      },
+      {
+       "word": "Đảo Hòn La",
+       "forbiddens": [
+        "quảng bình",
+        "biển",
+        "nhỏ",
+        "miền trung",
+        "hải đăng"
+       ]
+      },
+      {
+       "word": "Quần đảo Hebrides",
+       "forbiddens": [
+        "scotland",
+        "bắc",
+        "nhỏ",
+        "gió",
+        "biển"
+       ]
+      },
+      {
+       "word": "Đảo Hòn Cau",
+       "forbiddens": [
+        "bình thuận",
+        "biển",
+        "nhỏ",
+        "rùa biển",
+        "nắng"
+       ]
+      },
+      {
+       "word": "Quần đảo Orkney",
+       "forbiddens": [
+        "scotland",
+        "bắc",
+        "nhỏ",
+        "gió",
+        "biển"
+       ]
+      },
+      {
+       "word": "Quần đảo Shetland",
+       "forbiddens": [
+        "scotland",
+        "bắc",
+        "nhỏ",
+        "ngựa",
+        "biển"
+       ]
+      },
+      {
+       "word": "Quần đảo Scilly",
+       "forbiddens": [
+        "anh",
+        "tây nam",
+        "nhỏ",
+        "hoa",
+        "biển"
+       ]
+      },
+      {
+       "word": "Quần đảo Åland",
+       "forbiddens": [
+        "phần lan",
+        "baltic",
+        "nhỏ",
+        "biển",
+        "thuyền"
+       ]
+      },
+      {
+       "word": "Quần đảo Cyclades",
+       "forbiddens": [
+        "hy lạp",
+        "biển aegean",
+        "nhỏ",
+        "trắng",
+        "santorini"
+       ]
+      },
+      {
+       "word": "Quần đảo Dodecanese",
+       "forbiddens": [
+        "hy lạp",
+        "biển aegean",
+        "nhỏ",
+        "rhodes",
+        "đông nam"
+       ]
+      },
+      {
+       "word": "Quần đảo Bijagós",
+       "forbiddens": [
+        "guinea-bissau",
+        "nhỏ",
+        "rừng",
+        "rùa",
+        "châu phi"
+       ]
+      },
+      {
+       "word": "Quần đảo Lamu",
+       "forbiddens": [
+        "kenya",
+        "nhỏ",
+        "biển",
+        "thành cổ",
+        "đông phi"
+       ]
+      },
+      {
+       "word": "Mũi Ba Làng An",
+       "forbiddens": [
+        "quảng ngãi",
+        "biển",
+        "đá",
+        "hải đăng",
+        "miền trung"
+       ]
+      },
+      {
+       "word": "Quần đảo Mergui",
+       "forbiddens": [
+        "myanmar",
+        "andaman",
+        "nhỏ",
+        "biển",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Bán đảo Hòn Khói",
+       "forbiddens": [
+        "khánh hòa",
+        "ninh hòa",
+        "biển",
+        "miền trung",
+        "muối"
+       ]
+      },
+      {
+       "word": "Quần đảo Togian",
+       "forbiddens": [
+        "indonesia",
+        "sulawesi",
+        "lặn",
+        "nhỏ",
+        "biển"
+       ]
+      },
+      {
+       "word": "Quần đảo Banda",
+       "forbiddens": [
+        "indonesia",
+        "maluku",
+        "gia vị",
+        "nhỏ",
+        "núi lửa"
+       ]
+      },
+      {
+       "word": "Quần đảo Whitsunday",
+       "forbiddens": [
+        "úc",
+        "queensland",
+        "nhỏ",
+        "biển",
+        "cát"
+       ]
+      },
+      {
+       "word": "Quần đảo Bismarck",
+       "forbiddens": [
+        "papua new guinea",
+        "thái bình dương",
+        "nhỏ",
+        "núi lửa",
+        "biển"
+       ]
+      },
+      {
+       "word": "Cù Lao Xanh",
+       "forbiddens": [
+        "bình định",
+        "đảo",
+        "biển",
+        "hải đăng",
+        "nhỏ"
+       ]
+      },
+      {
+       "word": "Quần đảo Cô Tô",
+       "forbiddens": [
+        "quảng ninh",
+        "biển",
+        "hải đăng",
+        "bãi cát",
+        "hòn"
+       ]
+      },
+      {
+       "word": "Đảo Quan Lạn",
+       "forbiddens": [
+        "quảng ninh",
+        "vân đồn",
+        "biển",
+        "bãi tắm",
+        "hải sản"
+       ]
+      },
+      {
+       "word": "Hòn Mun",
+       "forbiddens": [
+        "nha trang",
+        "khánh hòa",
+        "lặn",
+        "san hô",
+        "đảo"
+       ]
+      },
+      {
+       "word": "Vườn quốc gia Núi Chúa",
+       "forbiddens": [
+        "ninh thuận",
+        "rừng khô",
+        "biển",
+        "cừu",
+        "hoang dã"
+       ]
+      },
+      {
+       "word": "Vườn quốc gia Pù Mát",
+       "forbiddens": [
+        "nghệ an",
+        "rừng",
+        "bắc trung bộ",
+        "voọc",
+        "khu bảo tồn"
+       ]
+      },
+      {
+       "word": "Vườn quốc gia Ba Vì",
+       "forbiddens": [
+        "hà nội",
+        "núi",
+        "rừng",
+        "đồi",
+        "nghỉ dưỡng"
+       ]
+      },
+      {
+       "word": "Vườn quốc gia Xuân Thủy",
+       "forbiddens": [
+        "nam định",
+        "chim di cư",
+        "ngập mặn",
+        "cửa sông",
+        "sông hồng"
+       ]
+      },
+      {
+       "word": "Núi Ngọc Linh",
+       "forbiddens": [
+        "kon tum",
+        "sâm",
+        "tây nguyên",
+        "cao",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Núi Lang Biang",
+       "forbiddens": [
+        "đà lạt",
+        "lâm đồng",
+        "cao nguyên",
+        "truyền thuyết",
+        "đỉnh"
+       ]
+      },
+      {
+       "word": "Núi Bà Rá",
+       "forbiddens": [
+        "bình phước",
+        "đông nam bộ",
+        "đỉnh",
+        "rừng",
+        "cáp treo"
+       ]
+      },
+      {
+       "word": "Núi Sam",
+       "forbiddens": [
+        "châu đốc",
+        "an giang",
+        "miền tây",
+        "đồi",
+        "lễ hội"
+       ]
+      },
+      {
+       "word": "Sông Vàm Cỏ",
+       "forbiddens": [
+        "long an",
+        "tây ninh",
+        "miền nam",
+        "dòng",
+        "nhánh"
+       ]
+      },
+      {
+       "word": "Sông Srêpốk",
+       "forbiddens": [
+        "đắk lắk",
+        "tây nguyên",
+        "buôn đôn",
+        "dòng",
+        "thác"
+       ]
+      },
+      {
+       "word": "Sông Ba",
+       "forbiddens": [
+        "phú yên",
+        "gia lai",
+        "miền trung",
+        "dài",
+        "tuy hòa"
+       ]
+      },
+      {
+       "word": "Sông Kôn",
+       "forbiddens": [
+        "bình định",
+        "miền trung",
+        "quy nhơn",
+        "dòng",
+        "biển"
+       ]
+      },
+      {
+       "word": "Sông Lô",
+       "forbiddens": [
+        "tuyên quang",
+        "phú thọ",
+        "nhánh",
+        "đông bắc",
+        "hà giang"
+       ]
+      },
+      {
+       "word": "Sông Chảy",
+       "forbiddens": [
+        "lào cai",
+        "yên bái",
+        "tây bắc",
+        "dòng",
+        "nhánh"
+       ]
+      },
+      {
+       "word": "Sông Gâm",
+       "forbiddens": [
+        "cao bằng",
+        "tuyên quang",
+        "đông bắc",
+        "thủy điện",
+        "nhánh"
+       ]
+      },
+      {
+       "word": "Sông Đáy",
+       "forbiddens": [
+        "hà nội",
+        "ninh bình",
+        "hà nam",
+        "nhánh",
+        "đồng bằng"
+       ]
+      },
+      {
+       "word": "Sông Kỳ Cùng",
+       "forbiddens": [
+        "lạng sơn",
+        "đông bắc",
+        "thất khê",
+        "dòng",
+        "nhánh"
+       ]
+      },
+      {
+       "word": "Hồ Tà Đùng",
+       "forbiddens": [
+        "đắk nông",
+        "tây nguyên",
+        "đảo",
+        "vịnh hạ long",
+        "thủy điện"
+       ]
+      },
+      {
+       "word": "Hồ Cấm Sơn",
+       "forbiddens": [
+        "bắc giang",
+        "lục ngạn",
+        "đông bắc",
+        "đảo",
+        "nhân tạo"
+       ]
+      },
+      {
+       "word": "Hồ Kẻ Gỗ",
+       "forbiddens": [
+        "hà tĩnh",
+        "bắc trung bộ",
+        "rừng",
+        "nhân tạo",
+        "đảo"
+       ]
+      },
+      {
+       "word": "Hồ Phú Ninh",
+       "forbiddens": [
+        "quảng nam",
+        "tam kỳ",
+        "miền trung",
+        "nhân tạo",
+        "đảo"
+       ]
+      },
+      {
+       "word": "Cầu Akashi Kaikyo",
+       "forbiddens": [
+        "nhật bản",
+        "treo",
+        "đảo awaji",
+        "kobe",
+        "eo biển"
+       ]
+      },
+      {
+       "word": "Tháp Thượng Hải",
+       "forbiddens": [
+        "trung quốc",
+        "cao",
+        "xoắn",
+        "nhà chọc trời",
+        "phố đông"
+       ]
+      },
+      {
+       "word": "Vách đá Dover",
+       "forbiddens": [
+        "anh",
+        "trắng",
+        "eo biển",
+        "bờ biển",
+        "phấn"
+       ]
+      },
+      {
+       "word": "Torres del Paine",
+       "forbiddens": [
+        "chile",
+        "patagonia",
+        "tháp đá",
+        "vườn quốc gia",
+        "núi"
+       ]
+      },
+      {
+       "word": "Fiordland",
+       "forbiddens": [
+        "new zealand",
+        "đảo nam",
+        "vịnh hẹp",
+        "vườn quốc gia",
+        "milford sound"
+       ]
+      },
+      {
+       "word": "Kruger",
+       "forbiddens": [
+        "nam phi",
+        "vườn quốc gia",
+        "hoang dã",
+        "voi",
+        "sư tử"
+       ]
+      },
+      {
+       "word": "Masai Mara",
+       "forbiddens": [
+        "kenya",
+        "hoang dã",
+        "di cư",
+        "linh dương",
+        "đồng cỏ"
+       ]
+      },
+      {
+       "word": "Etosha",
+       "forbiddens": [
+        "namibia",
+        "vườn quốc gia",
+        "muối",
+        "voi",
+        "hoang dã"
+       ]
+      },
+      {
+       "word": "Amboseli",
+       "forbiddens": [
+        "kenya",
+        "kilimanjaro",
+        "voi",
+        "vườn quốc gia",
+        "hoang dã"
+       ]
+      },
+      {
+       "word": "Everglades",
+       "forbiddens": [
+        "florida",
+        "đầm lầy",
+        "cá sấu",
+        "hoa kỳ",
+        "vườn quốc gia"
+       ]
+      },
+      {
+       "word": "Great Smoky Mountains",
+       "forbiddens": [
+        "hoa kỳ",
+        "sương mù",
+        "vườn quốc gia",
+        "appalachian",
+        "gấu"
+       ]
+      },
+      {
+       "word": "Zion",
+       "forbiddens": [
+        "utah",
+        "hẻm núi",
+        "đá đỏ",
+        "vườn quốc gia",
+        "hoa kỳ"
+       ]
+      },
+      {
+       "word": "Arches",
+       "forbiddens": [
+        "utah",
+        "vòm đá",
+        "sa mạc",
+        "vườn quốc gia",
+        "hoa kỳ"
+       ]
+      },
+      {
+       "word": "Cinque Terre",
+       "forbiddens": [
+        "ý",
+        "làng",
+        "vách đá",
+        "bờ biển",
+        "năm"
+       ]
+      },
+      {
+       "word": "Plitvice",
+       "forbiddens": [
+        "croatia",
+        "hồ",
+        "thác",
+        "vườn quốc gia",
+        "rừng"
+       ]
+      },
+      {
+       "word": "Hồ Bled",
+       "forbiddens": [
+        "slovenia",
+        "đảo",
+        "alps",
+        "lâu đài",
+        "nhà thờ nhỏ"
+       ]
+      },
+      {
+       "word": "Hallstatt",
+       "forbiddens": [
+        "áo",
+        "hồ",
+        "làng",
+        "alps",
+        "mỏ muối"
+       ]
+      },
+      {
+       "word": "Sông Yenisei",
+       "forbiddens": [
+        "siberia",
+        "nga",
+        "bắc",
+        "dài",
+        "băng"
+       ]
+      },
+      {
+       "word": "Sông Ob",
+       "forbiddens": [
+        "siberia",
+        "nga",
+        "bắc",
+        "dài",
+        "băng"
+       ]
+      },
+      {
+       "word": "Sông São Francisco",
+       "forbiddens": [
+        "brazil",
+        "đông bắc",
+        "dài",
+        "nam mỹ",
+        "sa mạc"
+       ]
+      },
+      {
+       "word": "Sông Magdalena",
+       "forbiddens": [
+        "colombia",
+        "andes",
+        "nam mỹ",
+        "dài",
+        "biển caribe"
+       ]
+      },
+      {
+       "word": "Sông Orange",
+       "forbiddens": [
+        "nam phi",
+        "namibia",
+        "châu phi",
+        "dài",
+        "sa mạc"
+       ]
+      },
+      {
+       "word": "Sông Senegal",
+       "forbiddens": [
+        "tây phi",
+        "dài",
+        "saint-louis",
+        "mauritania",
+        "châu phi"
+       ]
+      },
+      {
+       "word": "Sông Volta",
+       "forbiddens": [
+        "ghana",
+        "tây phi",
+        "hồ",
+        "thủy điện",
+        "châu phi"
+       ]
+      },
+      {
+       "word": "Sông Salween",
+       "forbiddens": [
+        "myanmar",
+        "đông nam á",
+        "dài",
+        "thái lan",
+        "hẻm núi"
+       ]
+      },
+      {
+       "word": "Sông Vistula",
+       "forbiddens": [
+        "ba lan",
+        "baltic",
+        "warsaw",
+        "kraków",
+        "dài nhất"
+       ]
+      },
+      {
+       "word": "Sông Douro",
+       "forbiddens": [
+        "bồ đào nha",
+        "porto",
+        "tây ban nha",
+        "nho",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Garonne",
+       "forbiddens": [
+        "pháp",
+        "bordeaux",
+        "toulouse",
+        "đại tây dương",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Moselle",
+       "forbiddens": [
+        "đức",
+        "pháp",
+        "nho",
+        "dòng",
+        "nhánh"
+       ]
+      },
+      {
+       "word": "Hồ Taupo",
+       "forbiddens": [
+        "new zealand",
+        "đảo bắc",
+        "núi lửa",
+        "lớn nhất",
+        "cá hồi"
+       ]
+      },
+      {
+       "word": "Hồ Wakatipu",
+       "forbiddens": [
+        "new zealand",
+        "queenstown",
+        "đảo nam",
+        "hình chữ s",
+        "núi"
+       ]
+      },
+      {
+       "word": "Hồ Biwa",
+       "forbiddens": [
+        "nhật bản",
+        "lớn nhất",
+        "kyoto",
+        "nước ngọt",
+        "honshu"
+       ]
+      },
+      {
+       "word": "Hồ Toba",
+       "forbiddens": [
+        "indonesia",
+        "sumatra",
+        "núi lửa",
+        "lớn",
+        "đảo"
+       ]
+      },
+      {
+       "word": "Hồ Inle",
+       "forbiddens": [
+        "myanmar",
+        "làng nổi",
+        "thuyền",
+        "chèo chân",
+        "cá"
+       ]
+      },
+      {
+       "word": "Hồ Tonlé Sap",
+       "forbiddens": [
+        "campuchia",
+        "mê kông",
+        "siem reap",
+        "mùa lũ",
+        "cá"
+       ]
+      },
+      {
+       "word": "Hồ Maracaibo",
+       "forbiddens": [
+        "venezuela",
+        "dầu",
+        "nam mỹ",
+        "sét",
+        "lớn"
+       ]
+      },
+      {
+       "word": "Hồ Nicaragua",
+       "forbiddens": [
+        "trung mỹ",
+        "cá mập",
+        "đảo",
+        "núi lửa",
+        "lớn nhất"
+       ]
+      },
+      {
+       "word": "Hồ Ladoga",
+       "forbiddens": [
+        "nga",
+        "châu âu",
+        "lớn nhất",
+        "băng",
+        "saint petersburg"
+       ]
+      },
+      {
+       "word": "Hồ Balaton",
+       "forbiddens": [
+        "hungary",
+        "lớn nhất",
+        "nghỉ hè",
+        "trung âu",
+        "nông"
+       ]
+      },
+      {
+       "word": "Hồ Tahoe",
+       "forbiddens": [
+        "california",
+        "nevada",
+        "trượt tuyết",
+        "trong xanh",
+        "núi"
+       ]
+      },
+      {
+       "word": "Hồ Turkana",
+       "forbiddens": [
+        "kenya",
+        "đông phi",
+        "ngọc bích",
+        "sa mạc",
+        "cá sấu"
+       ]
+      },
+      {
+       "word": "Sulawesi",
+       "forbiddens": [
+        "indonesia",
+        "đảo",
+        "hình chữ k",
+        "lặn",
+        "đông nam á"
+       ]
+      },
+      {
+       "word": "Honshu",
+       "forbiddens": [
+        "nhật bản",
+        "đảo lớn nhất",
+        "tokyo",
+        "núi phú sĩ",
+        "osaka"
+       ]
+      },
+      {
+       "word": "Baffin",
+       "forbiddens": [
+        "canada",
+        "bắc cực",
+        "đảo",
+        "băng",
+        "lớn"
+       ]
+      },
+      {
+       "word": "Newfoundland",
+       "forbiddens": [
+        "canada",
+        "đông",
+        "đảo",
+        "đại tây dương",
+        "cá tuyết"
+       ]
+      },
+      {
+       "word": "Baleares",
+       "forbiddens": [
+        "tây ban nha",
+        "đảo",
+        "địa trung hải",
+        "mallorca",
+        "nghỉ dưỡng"
+       ]
+      },
+      {
+       "word": "Mallorca",
+       "forbiddens": [
+        "tây ban nha",
+        "baleares",
+        "đảo",
+        "địa trung hải",
+        "nghỉ dưỡng"
+       ]
+      },
+      {
+       "word": "Menorca",
+       "forbiddens": [
+        "tây ban nha",
+        "baleares",
+        "đảo",
+        "bãi biển",
+        "địa trung hải"
+       ]
+      },
+      {
+       "word": "Zanzibar",
+       "forbiddens": [
+        "tanzania",
+        "đảo",
+        "gia vị",
+        "ấn độ dương",
+        "đông phi"
+       ]
+      },
+      {
+       "word": "Koh Samui",
+       "forbiddens": [
+        "thái lan",
+        "đảo",
+        "vịnh",
+        "dừa",
+        "nghỉ dưỡng"
+       ]
+      },
+      {
+       "word": "Phi Phi",
+       "forbiddens": [
+        "thái lan",
+        "đảo",
+        "andaman",
+        "phuket",
+        "vịnh"
+       ]
+      },
+      {
+       "word": "Maui",
+       "forbiddens": [
+        "hawaii",
+        "đảo",
+        "lướt sóng",
+        "núi lửa",
+        "cá voi"
+       ]
+      },
+      {
+       "word": "Oahu",
+       "forbiddens": [
+        "hawaii",
+        "honolulu",
+        "đảo",
+        "bãi biển",
+        "lướt sóng"
+       ]
+      },
+      {
+       "word": "Skye",
+       "forbiddens": [
+        "scotland",
+        "đảo",
+        "núi",
+        "vách đá",
+        "sương mù"
+       ]
+      },
+      {
+       "word": "Lofoten",
+       "forbiddens": [
+        "na uy",
+        "quần đảo",
+        "đánh cá",
+        "bắc cực",
+        "cực quang"
+       ]
+      },
+      {
+       "word": "Gotland",
+       "forbiddens": [
+        "thụy điển",
+        "đảo",
+        "baltic",
+        "thời trung cổ",
+        "visby"
+       ]
+      },
+      {
+       "word": "Chiloé",
+       "forbiddens": [
+        "chile",
+        "đảo",
+        "nhà sàn",
+        "nam mỹ",
+        "mưa"
+       ]
+      },
+      {
+       "word": "Hồ Suối Hai",
+       "forbiddens": [
+        "hà nội",
+        "ba vì",
+        "nước",
+        "đảo",
+        "nghỉ dưỡng"
+       ]
+      },
+      {
+       "word": "Hồ Đồng Mô",
+       "forbiddens": [
+        "hà nội",
+        "sơn tây",
+        "nước",
+        "đồi",
+        "nghỉ dưỡng"
+       ]
+      },
+      {
+       "word": "Phá Tam Giang",
+       "forbiddens": [
+        "huế",
+        "lớn",
+        "miền trung",
+        "biển",
+        "nước lợ"
+       ]
+      },
+      {
+       "word": "Vườn quốc gia Hoàng Liên",
+       "forbiddens": [
+        "lào cai",
+        "sa pa",
+        "fansipan",
+        "rừng",
+        "núi"
+       ]
+      },
+      {
+       "word": "Tangier",
+       "forbiddens": [
+        "maroc",
+        "eo biển",
+        "bắc phi",
+        "cảng",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Chefchaouen",
+       "forbiddens": [
+        "maroc",
+        "thành phố xanh",
+        "núi",
+        "bắc phi",
+        "nhà"
+       ]
+      },
+      {
+       "word": "Aït Benhaddou",
+       "forbiddens": [
+        "maroc",
+        "đất sét",
+        "sa mạc",
+        "phim",
+        "làng"
+       ]
+      },
+      {
+       "word": "Ouagadougou",
+       "forbiddens": [
+        "burkina faso",
+        "thủ đô",
+        "tây phi",
+        "châu phi",
+        "nóng"
+       ]
+      },
+      {
+       "word": "Lilongwe",
+       "forbiddens": [
+        "malawi",
+        "thủ đô",
+        "đông phi",
+        "châu phi",
+        "hồ"
+       ]
+      },
+      {
+       "word": "Freetown",
+       "forbiddens": [
+        "sierra leone",
+        "thủ đô",
+        "tây phi",
+        "cảng",
+        "châu phi"
+       ]
+      },
+      {
+       "word": "Paramaribo",
+       "forbiddens": [
+        "suriname",
+        "thủ đô",
+        "nam mỹ",
+        "sông",
+        "gỗ"
+       ]
+      },
+      {
+       "word": "Georgetown",
+       "forbiddens": [
+        "guyana",
+        "thủ đô",
+        "nam mỹ",
+        "caribe",
+        "gỗ"
+       ]
+      },
+      {
+       "word": "Tegucigalpa",
+       "forbiddens": [
+        "honduras",
+        "thủ đô",
+        "trung mỹ",
+        "núi",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Managua",
+       "forbiddens": [
+        "nicaragua",
+        "thủ đô",
+        "hồ",
+        "trung mỹ",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "San José",
+       "forbiddens": [
+        "costa rica",
+        "thủ đô",
+        "trung mỹ",
+        "núi",
+        "thành phố"
+       ]
+      },
+      {
+       "word": "Libreville",
+       "forbiddens": [
+        "gabon",
+        "thủ đô",
+        "xích đạo",
+        "châu phi",
+        "cảng"
+       ]
+      },
+      {
+       "word": "Luang Namtha",
+       "forbiddens": [
+        "lào",
+        "bắc lào",
+        "rừng",
+        "núi",
+        "dân tộc"
+       ]
+      },
+      {
+       "word": "Sông Ngàn Sâu",
+       "forbiddens": [
+        "hà tĩnh",
+        "hương khê",
+        "dòng",
+        "bắc trung bộ",
+        "nhánh"
+       ]
+      },
+      {
+       "word": "Sông Rio Negro",
+       "forbiddens": [
+        "amazon",
+        "brazil",
+        "nước đen",
+        "manaus",
+        "phụ lưu"
+       ]
+      },
+      {
+       "word": "Sông Madeira",
+       "forbiddens": [
+        "amazon",
+        "brazil",
+        "bolivia",
+        "phụ lưu",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Purus",
+       "forbiddens": [
+        "amazon",
+        "brazil",
+        "phụ lưu",
+        "rừng",
+        "ngoằn ngoèo"
+       ]
+      },
+      {
+       "word": "Sông Ucayali",
+       "forbiddens": [
+        "peru",
+        "amazon",
+        "andes",
+        "nguồn",
+        "phụ lưu"
+       ]
+      },
+      {
+       "word": "Sông Uruguay",
+       "forbiddens": [
+        "nam mỹ",
+        "argentina",
+        "brazil",
+        "dòng",
+        "thác"
+       ]
+      },
+      {
+       "word": "Sông Putumayo",
+       "forbiddens": [
+        "amazon",
+        "colombia",
+        "peru",
+        "rừng",
+        "phụ lưu"
+       ]
+      },
+      {
+       "word": "Sông Tocantins",
+       "forbiddens": [
+        "brazil",
+        "đập",
+        "nam mỹ",
+        "dài",
+        "cerrado"
+       ]
+      },
+      {
+       "word": "Sông Churchill",
+       "forbiddens": [
+        "canada",
+        "hudson",
+        "bắc",
+        "dài",
+        "đập"
+       ]
+      },
+      {
+       "word": "Sông Snake",
+       "forbiddens": [
+        "hoa kỳ",
+        "columbia",
+        "tây",
+        "hẻm núi",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Arkansas",
+       "forbiddens": [
+        "hoa kỳ",
+        "mississippi",
+        "phụ lưu",
+        "dài",
+        "trung tây"
+       ]
+      },
+      {
+       "word": "Sông Tennessee",
+       "forbiddens": [
+        "hoa kỳ",
+        "nam",
+        "đập",
+        "phụ lưu",
+        "ohio"
+       ]
+      },
+      {
+       "word": "Sông Potomac",
+       "forbiddens": [
+        "hoa kỳ",
+        "thủ đô",
+        "đông",
+        "dòng",
+        "vịnh"
+       ]
+      },
+      {
+       "word": "Sông Delaware",
+       "forbiddens": [
+        "hoa kỳ",
+        "đông",
+        "dòng",
+        "philadelphia",
+        "vịnh"
+       ]
+      },
+      {
+       "word": "Sông Platte",
+       "forbiddens": [
+        "hoa kỳ",
+        "nebraska",
+        "trung tây",
+        "nông",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Pecos",
+       "forbiddens": [
+        "hoa kỳ",
+        "texas",
+        "tây nam",
+        "dòng",
+        "phụ lưu"
+       ]
+      },
+      {
+       "word": "Sông Chao Phraya",
+       "forbiddens": [
+        "thái lan",
+        "bangkok",
+        "vịnh",
+        "đồng bằng",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Châu Giang",
+       "forbiddens": [
+        "trung quốc",
+        "quảng châu",
+        "đồng bằng",
+        "nam",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Hoài Hà",
+       "forbiddens": [
+        "trung quốc",
+        "đông",
+        "dòng",
+        "đồng bằng",
+        "bắc"
+       ]
+      },
+      {
+       "word": "Liêu Hà",
+       "forbiddens": [
+        "trung quốc",
+        "đông bắc",
+        "dòng",
+        "biển",
+        "đồng bằng"
+       ]
+      },
+      {
+       "word": "Sông Shinano",
+       "forbiddens": [
+        "nhật bản",
+        "dài nhất",
+        "honshu",
+        "dòng",
+        "đồng bằng"
+       ]
+      },
+      {
+       "word": "Sông Tone",
+       "forbiddens": [
+        "nhật bản",
+        "tokyo",
+        "honshu",
+        "dòng",
+        "đồng bằng"
+       ]
+      },
+      {
+       "word": "Sông Kiso",
+       "forbiddens": [
+        "nhật bản",
+        "honshu",
+        "dòng",
+        "nagoya",
+        "hẻm núi"
+       ]
+      },
+      {
+       "word": "Sông Godavari",
+       "forbiddens": [
+        "ấn độ",
+        "nam",
+        "dài",
+        "đồng bằng",
+        "vịnh bengal"
+       ]
+      },
+      {
+       "word": "Sông Narmada",
+       "forbiddens": [
+        "ấn độ",
+        "tây",
+        "dòng",
+        "vịnh",
+        "đập"
+       ]
+      },
+      {
+       "word": "Sông Yamuna",
+       "forbiddens": [
+        "ấn độ",
+        "delhi",
+        "agra",
+        "phụ lưu",
+        "hằng"
+       ]
+      },
+      {
+       "word": "Sông Amu Darya",
+       "forbiddens": [
+        "trung á",
+        "aral",
+        "dài",
+        "sa mạc",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Ili",
+       "forbiddens": [
+        "kazakhstan",
+        "hồ balkhash",
+        "dòng",
+        "trung á",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Orkhon",
+       "forbiddens": [
+        "mông cổ",
+        "dòng",
+        "thảo nguyên",
+        "dài",
+        "bắc"
+       ]
+      },
+      {
+       "word": "Sông Selenga",
+       "forbiddens": [
+        "mông cổ",
+        "hồ baikal",
+        "dòng",
+        "dài",
+        "bắc"
+       ]
+      },
+      {
+       "word": "Sông Pechora",
+       "forbiddens": [
+        "nga",
+        "bắc",
+        "dòng",
+        "băng",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Neva",
+       "forbiddens": [
+        "saint petersburg",
+        "nga",
+        "dòng",
+        "ladoga",
+        "cầu"
+       ]
+      },
+      {
+       "word": "Sông Oka",
+       "forbiddens": [
+        "nga",
+        "volga",
+        "phụ lưu",
+        "dòng",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Tisza",
+       "forbiddens": [
+        "hungary",
+        "trung âu",
+        "danube",
+        "phụ lưu",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Sava",
+       "forbiddens": [
+        "balkan",
+        "danube",
+        "belgrade",
+        "zagreb",
+        "phụ lưu"
+       ]
+      },
+      {
+       "word": "Sông Drava",
+       "forbiddens": [
+        "danube",
+        "phụ lưu",
+        "áo",
+        "croatia",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Inn",
+       "forbiddens": [
+        "alps",
+        "thụy sĩ",
+        "áo",
+        "danube",
+        "phụ lưu"
+       ]
+      },
+      {
+       "word": "Sông Main",
+       "forbiddens": [
+        "đức",
+        "frankfurt",
+        "rhine",
+        "phụ lưu",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Neckar",
+       "forbiddens": [
+        "đức",
+        "heidelberg",
+        "rhine",
+        "phụ lưu",
+        "stuttgart"
+       ]
+      },
+      {
+       "word": "Sông Spree",
+       "forbiddens": [
+        "berlin",
+        "đức",
+        "dòng",
+        "đảo",
+        "nhánh"
+       ]
+      },
+      {
+       "word": "Sông Havel",
+       "forbiddens": [
+        "đức",
+        "berlin",
+        "dòng",
+        "hồ",
+        "elbe"
+       ]
+      },
+      {
+       "word": "Sông Scheldt",
+       "forbiddens": [
+        "bỉ",
+        "antwerp",
+        "hà lan",
+        "cảng",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Dordogne",
+       "forbiddens": [
+        "pháp",
+        "nam",
+        "dòng",
+        "hang động",
+        "thung lũng"
+       ]
+      },
+      {
+       "word": "Sông Lot",
+       "forbiddens": [
+        "pháp",
+        "nam",
+        "dòng",
+        "thung lũng",
+        "garonne"
+       ]
+      },
+      {
+       "word": "Sông Saône",
+       "forbiddens": [
+        "pháp",
+        "lyon",
+        "rhône",
+        "phụ lưu",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Ticino",
+       "forbiddens": [
+        "ý",
+        "thụy sĩ",
+        "po",
+        "phụ lưu",
+        "dòng"
+       ]
+      },
+      {
+       "word": "Sông Arno",
+       "forbiddens": [
+        "florence",
+        "pisa",
+        "ý",
+        "toscana",
+        "cầu"
+       ]
+      },
+      {
+       "word": "Sông Tiber",
+       "forbiddens": [
+        "rome",
+        "ý",
+        "dòng",
+        "cầu",
+        "thủ đô"
+       ]
+      },
+      {
+       "word": "Sông Adige",
+       "forbiddens": [
+        "ý",
+        "verona",
+        "dòng",
+        "alps",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Guadalquivir",
+       "forbiddens": [
+        "tây ban nha",
+        "seville",
+        "andalusia",
+        "dòng",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Guadiana",
+       "forbiddens": [
+        "tây ban nha",
+        "bồ đào nha",
+        "dòng",
+        "nam",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Júcar",
+       "forbiddens": [
+        "tây ban nha",
+        "valencia",
+        "dòng",
+        "đông",
+        "dài"
+       ]
+      },
+      {
+       "word": "Sông Mondego",
+       "forbiddens": [
+        "bồ đào nha",
+        "coimbra",
+        "dòng",
+        "dài",
+        "đại tây dương"
        ]
       }
      ]

@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "data": [
     {
       "topic": "cultural",
@@ -94214,6 +94214,196 @@
                 "malinau",
                 "bulungan"
               ]
+            },
+            {
+              "word": "Sulawesi",
+              "forbiddens": [
+                "pulau",
+                "makassar",
+                "manado",
+                "celebes",
+                "anoa"
+              ]
+            },
+            {
+              "word": "Aceh",
+              "forbiddens": [
+                "sumatra",
+                "ujung barat",
+                "kopi gayo",
+                "sabang",
+                "provinsi"
+              ]
+            },
+            {
+              "word": "Vietnam",
+              "forbiddens": [
+                "hanoi",
+                "pho",
+                "topi kerucut",
+                "asia tenggara",
+                "ao dai"
+              ]
+            },
+            {
+              "word": "Filipina",
+              "forbiddens": [
+                "manila",
+                "kepulauan",
+                "tagalog",
+                "asia tenggara",
+                "peso"
+              ]
+            },
+            {
+              "word": "Prancis",
+              "forbiddens": [
+                "paris",
+                "eiffel",
+                "croissant",
+                "baguette",
+                "mode"
+              ]
+            },
+            {
+              "word": "Samudra Pasifik",
+              "forbiddens": [
+                "terbesar",
+                "terdalam",
+                "palung mariana",
+                "cincin api",
+                "hawaii"
+              ]
+            },
+            {
+              "word": "Gunung Tangkuban Perahu",
+              "forbiddens": [
+                "bandung",
+                "lembang",
+                "kawah",
+                "legenda",
+                "jawa barat"
+              ]
+            },
+            {
+              "word": "Merauke",
+              "forbiddens": [
+                "papua",
+                "paling timur",
+                "sabang",
+                "rusa",
+                "kota"
+              ]
+            },
+            {
+              "word": "Papua Nugini",
+              "forbiddens": [
+                "port moresby",
+                "oseania",
+                "pulau",
+                "cenderawasih",
+                "melanesia"
+              ]
+            },
+            {
+              "word": "Puncak",
+              "forbiddens": [
+                "bogor",
+                "cianjur",
+                "teh",
+                "sejuk",
+                "jalur"
+              ]
+            },
+            {
+              "word": "Nusa Tenggara",
+              "forbiddens": [
+                "bali",
+                "lombok",
+                "flores",
+                "timur",
+                "kepulauan"
+              ]
+            },
+            {
+              "word": "Kalimantan Tengah",
+              "forbiddens": [
+                "palangka raya",
+                "orangutan",
+                "sungai",
+                "hutan",
+                "borneo"
+              ]
+            },
+            {
+              "word": "Asia Tenggara",
+              "forbiddens": [
+                "indonesia",
+                "asean",
+                "tropis",
+                "thailand",
+                "kepulauan"
+              ]
+            },
+            {
+              "word": "Bandara Soekarno-Hatta",
+              "forbiddens": [
+                "tangerang",
+                "jakarta",
+                "pesawat",
+                "banten",
+                "internasional"
+              ]
+            },
+            {
+              "word": "Borobudur",
+              "forbiddens": [
+                "candi",
+                "magelang",
+                "stupa",
+                "jawa tengah",
+                "unesco"
+              ]
+            },
+            {
+              "word": "Prambanan",
+              "forbiddens": [
+                "candi",
+                "yogyakarta",
+                "unesco",
+                "klaten",
+                "sleman"
+              ]
+            },
+            {
+              "word": "Taman Mini",
+              "forbiddens": [
+                "jakarta",
+                "anjungan",
+                "budaya",
+                "rumah adat",
+                "provinsi"
+              ]
+            },
+            {
+              "word": "Oase",
+              "forbiddens": [
+                "gurun",
+                "kurma",
+                "unta",
+                "sahara",
+                "mata air"
+              ]
+            },
+            {
+              "word": "Hutan Hujan",
+              "forbiddens": [
+                "pohon",
+                "tropis",
+                "amazon",
+                "lebat",
+                "orangutan"
+              ]
             }
           ]
         },
@@ -97219,6 +97409,2676 @@
                 "minyak",
                 "roket"
               ]
+            },
+            {
+              "word": "Yunani",
+              "forbiddens": [
+                "athena",
+                "olimpiade",
+                "santorini",
+                "zaitun",
+                "eropa selatan"
+              ]
+            },
+            {
+              "word": "Swedia",
+              "forbiddens": [
+                "stockholm",
+                "skandinavia",
+                "nobel",
+                "krona",
+                "eropa utara"
+              ]
+            },
+            {
+              "word": "Denmark",
+              "forbiddens": [
+                "kopenhagen",
+                "skandinavia",
+                "krone",
+                "eropa utara",
+                "jutland"
+              ]
+            },
+            {
+              "word": "Danau Sentani",
+              "forbiddens": [
+                "jayapura",
+                "papua",
+                "festival",
+                "ikan",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Uni Emirat Arab",
+              "forbiddens": [
+                "dubai",
+                "abu dhabi",
+                "gurun",
+                "minyak",
+                "unta"
+              ]
+            },
+            {
+              "word": "Pantai Lovina",
+              "forbiddens": [
+                "bali",
+                "singaraja",
+                "lumba-lumba",
+                "utara",
+                "pasir hitam"
+              ]
+            },
+            {
+              "word": "Rio de Janeiro",
+              "forbiddens": [
+                "brasil",
+                "pantai",
+                "copacabana",
+                "kristus penebus",
+                "karnaval"
+              ]
+            },
+            {
+              "word": "Mumbai",
+              "forbiddens": [
+                "india",
+                "bollywood",
+                "pelabuhan",
+                "kota",
+                "maharashtra"
+              ]
+            },
+            {
+              "word": "Kolkata",
+              "forbiddens": [
+                "india",
+                "bengal",
+                "kota",
+                "sungai hooghly",
+                "trem"
+              ]
+            },
+            {
+              "word": "Lahore",
+              "forbiddens": [
+                "pakistan",
+                "punjab",
+                "kota",
+                "benteng",
+                "asia selatan"
+              ]
+            },
+            {
+              "word": "Luang Prabang",
+              "forbiddens": [
+                "laos",
+                "mekong",
+                "kota tua",
+                "biksu",
+                "unesco"
+              ]
+            },
+            {
+              "word": "Kota Kinabalu",
+              "forbiddens": [
+                "sabah",
+                "malaysia",
+                "borneo",
+                "pesisir",
+                "gunung"
+              ]
+            },
+            {
+              "word": "Salzburg",
+              "forbiddens": [
+                "austria",
+                "mozart",
+                "alpen",
+                "kota",
+                "sound of music"
+              ]
+            },
+            {
+              "word": "Napoli",
+              "forbiddens": [
+                "italia",
+                "pizza",
+                "vesuvius",
+                "kota",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Porto",
+              "forbiddens": [
+                "portugal",
+                "kota",
+                "sungai douro",
+                "jembatan",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Sevilla",
+              "forbiddens": [
+                "spanyol",
+                "andalusia",
+                "flamenco",
+                "kota",
+                "jeruk"
+              ]
+            },
+            {
+              "word": "Granada",
+              "forbiddens": [
+                "spanyol",
+                "andalusia",
+                "alhambra",
+                "kota",
+                "sierra nevada"
+              ]
+            },
+            {
+              "word": "Air Terjun Niagara",
+              "forbiddens": [
+                "kanada",
+                "amerika serikat",
+                "danau erie",
+                "deras",
+                "wisata"
+              ]
+            },
+            {
+              "word": "Gunung Kinabalu",
+              "forbiddens": [
+                "sabah",
+                "malaysia",
+                "borneo",
+                "tertinggi",
+                "pendakian"
+              ]
+            },
+            {
+              "word": "Sungai Danube",
+              "forbiddens": [
+                "eropa",
+                "wina",
+                "budapest",
+                "biru",
+                "bratislava"
+              ]
+            },
+            {
+              "word": "Sungai Thames",
+              "forbiddens": [
+                "london",
+                "inggris",
+                "jembatan",
+                "oxford",
+                "kota"
+              ]
+            },
+            {
+              "word": "Sungai Volga",
+              "forbiddens": [
+                "rusia",
+                "terpanjang di eropa",
+                "kaspia",
+                "kazan",
+                "astrakhan"
+              ]
+            },
+            {
+              "word": "Sungai Zambezi",
+              "forbiddens": [
+                "afrika",
+                "air terjun victoria",
+                "zambia",
+                "zimbabwe",
+                "kariba"
+              ]
+            },
+            {
+              "word": "Sungai Kuning",
+              "forbiddens": [
+                "tiongkok",
+                "huang he",
+                "lumpur",
+                "terpanjang kedua",
+                "peradaban"
+              ]
+            },
+            {
+              "word": "Laut Tengah",
+              "forbiddens": [
+                "mediterania",
+                "eropa",
+                "afrika",
+                "italia",
+                "spanyol"
+              ]
+            },
+            {
+              "word": "Laut Kaspia",
+              "forbiddens": [
+                "danau terbesar",
+                "rusia",
+                "iran",
+                "kazakhstan",
+                "kaviar"
+              ]
+            },
+            {
+              "word": "Laut Hitam",
+              "forbiddens": [
+                "turki",
+                "rumania",
+                "bulgaria",
+                "bosporus",
+                "eropa timur"
+              ]
+            },
+            {
+              "word": "Danau Ontario",
+              "forbiddens": [
+                "kanada",
+                "toronto",
+                "niagara",
+                "amerika serikat",
+                "kingston"
+              ]
+            },
+            {
+              "word": "Danau Jenewa",
+              "forbiddens": [
+                "prancis",
+                "swiss",
+                "alpen",
+                "lausanne",
+                "rhone"
+              ]
+            },
+            {
+              "word": "Korsika",
+              "forbiddens": [
+                "prancis",
+                "mediterania",
+                "pulau",
+                "gunung",
+                "ajaccio"
+              ]
+            },
+            {
+              "word": "Melanesia",
+              "forbiddens": [
+                "papua nugini",
+                "fiji",
+                "pasifik",
+                "kepulauan",
+                "vanuatu"
+              ]
+            },
+            {
+              "word": "Normandia",
+              "forbiddens": [
+                "prancis",
+                "pantai",
+                "utara",
+                "camembert",
+                "apel"
+              ]
+            },
+            {
+              "word": "Bavaria",
+              "forbiddens": [
+                "jerman",
+                "munich",
+                "alpen",
+                "selatan",
+                "neuschwanstein"
+              ]
+            },
+            {
+              "word": "Hongaria",
+              "forbiddens": [
+                "budapest",
+                "danube",
+                "paprika",
+                "eropa tengah",
+                "forint"
+              ]
+            },
+            {
+              "word": "Republik Ceko",
+              "forbiddens": [
+                "praha",
+                "bohemia",
+                "moravia",
+                "eropa tengah",
+                "kristal"
+              ]
+            },
+            {
+              "word": "Slovakia",
+              "forbiddens": [
+                "bratislava",
+                "tatra",
+                "eropa tengah",
+                "danube",
+                "euro"
+              ]
+            },
+            {
+              "word": "Rumania",
+              "forbiddens": [
+                "bukares",
+                "transilvania",
+                "karpatia",
+                "danube",
+                "eropa timur"
+              ]
+            },
+            {
+              "word": "Bulgaria",
+              "forbiddens": [
+                "sofia",
+                "laut hitam",
+                "mawar",
+                "yoghurt",
+                "balkan"
+              ]
+            },
+            {
+              "word": "Serbia",
+              "forbiddens": [
+                "beograd",
+                "balkan",
+                "danube",
+                "sava",
+                "eropa tenggara"
+              ]
+            },
+            {
+              "word": "Slovenia",
+              "forbiddens": [
+                "ljubljana",
+                "danau bled",
+                "alpen",
+                "eropa tengah",
+                "kecil"
+              ]
+            },
+            {
+              "word": "Lituania",
+              "forbiddens": [
+                "vilnius",
+                "baltik",
+                "eropa utara",
+                "ambar",
+                "kaunas"
+              ]
+            },
+            {
+              "word": "Estonia",
+              "forbiddens": [
+                "tallinn",
+                "baltik",
+                "finlandia",
+                "digital",
+                "eropa utara"
+              ]
+            },
+            {
+              "word": "Uzbekistan",
+              "forbiddens": [
+                "tashkent",
+                "samarkand",
+                "asia tengah",
+                "kapas",
+                "bukhara"
+              ]
+            },
+            {
+              "word": "Oman",
+              "forbiddens": [
+                "muskat",
+                "semenanjung arab",
+                "dupa",
+                "gurun",
+                "laut arab"
+              ]
+            },
+            {
+              "word": "Qatar",
+              "forbiddens": [
+                "doha",
+                "gas alam",
+                "piala dunia",
+                "gurun",
+                "semenanjung"
+              ]
+            },
+            {
+              "word": "Aljazair",
+              "forbiddens": [
+                "sahara",
+                "afrika utara",
+                "mediterania",
+                "terluas di afrika",
+                "dinar"
+              ]
+            },
+            {
+              "word": "Tunisia",
+              "forbiddens": [
+                "kartago",
+                "afrika utara",
+                "mediterania",
+                "kurma",
+                "sahara"
+              ]
+            },
+            {
+              "word": "Uganda",
+              "forbiddens": [
+                "kampala",
+                "afrika timur",
+                "gorila",
+                "danau victoria",
+                "nil"
+              ]
+            },
+            {
+              "word": "Zimbabwe",
+              "forbiddens": [
+                "harare",
+                "air terjun victoria",
+                "zambezi",
+                "savana",
+                "kariba"
+              ]
+            },
+            {
+              "word": "Zambia",
+              "forbiddens": [
+                "lusaka",
+                "zambezi",
+                "tembaga",
+                "afrika",
+                "air terjun"
+              ]
+            },
+            {
+              "word": "Botswana",
+              "forbiddens": [
+                "gaborone",
+                "kalahari",
+                "delta okavango",
+                "berlian",
+                "gajah"
+              ]
+            },
+            {
+              "word": "Mozambik",
+              "forbiddens": [
+                "maputo",
+                "afrika timur",
+                "samudra hindia",
+                "kacang mete",
+                "portugis"
+              ]
+            },
+            {
+              "word": "Venezuela",
+              "forbiddens": [
+                "caracas",
+                "minyak",
+                "air terjun angel",
+                "amerika selatan",
+                "orinoco"
+              ]
+            },
+            {
+              "word": "Guatemala",
+              "forbiddens": [
+                "amerika tengah",
+                "maya",
+                "kopi",
+                "gunung berapi",
+                "tikal"
+              ]
+            },
+            {
+              "word": "Honduras",
+              "forbiddens": [
+                "tegucigalpa",
+                "amerika tengah",
+                "karibia",
+                "maya",
+                "pisang"
+              ]
+            },
+            {
+              "word": "Haiti",
+              "forbiddens": [
+                "karibia",
+                "hispaniola",
+                "port-au-prince",
+                "amerika",
+                "pulau"
+              ]
+            },
+            {
+              "word": "Suriname",
+              "forbiddens": [
+                "paramaribo",
+                "amerika selatan",
+                "hutan",
+                "jawa",
+                "belanda"
+              ]
+            },
+            {
+              "word": "Guyana",
+              "forbiddens": [
+                "georgetown",
+                "amerika selatan",
+                "air terjun kaieteur",
+                "hutan hujan",
+                "karibia"
+              ]
+            },
+            {
+              "word": "Kamerun",
+              "forbiddens": [
+                "afrika tengah",
+                "sepak bola",
+                "kopi",
+                "kakao",
+                "douala"
+              ]
+            },
+            {
+              "word": "Angola",
+              "forbiddens": [
+                "luanda",
+                "afrika barat daya",
+                "minyak",
+                "portugis",
+                "berlian"
+              ]
+            },
+            {
+              "word": "Nikaragua",
+              "forbiddens": [
+                "managua",
+                "amerika tengah",
+                "danau",
+                "gunung berapi",
+                "kopi"
+              ]
+            },
+            {
+              "word": "Vanuatu",
+              "forbiddens": [
+                "port vila",
+                "melanesia",
+                "pulau",
+                "pasifik",
+                "gunung berapi"
+              ]
+            },
+            {
+              "word": "Samoa",
+              "forbiddens": [
+                "apia",
+                "polinesia",
+                "pasifik",
+                "pulau",
+                "rugby"
+              ]
+            },
+            {
+              "word": "Tonga",
+              "forbiddens": [
+                "polinesia",
+                "pasifik",
+                "kepulauan",
+                "paus bungkuk",
+                "oseania"
+              ]
+            },
+            {
+              "word": "Gunung Leuser",
+              "forbiddens": [
+                "aceh",
+                "taman nasional",
+                "sumatra",
+                "orangutan",
+                "hutan"
+              ]
+            },
+            {
+              "word": "Taman Nasional Ujung Kulon",
+              "forbiddens": [
+                "banten",
+                "badak",
+                "jawa",
+                "pandeglang",
+                "semenanjung"
+              ]
+            },
+            {
+              "word": "Air Terjun Tumpak Sewu",
+              "forbiddens": [
+                "lumajang",
+                "jawa timur",
+                "malang",
+                "tirai",
+                "semeru"
+              ]
+            },
+            {
+              "word": "Kediri",
+              "forbiddens": [
+                "jawa timur",
+                "tahu",
+                "brantas",
+                "kelud",
+                "kota"
+              ]
+            },
+            {
+              "word": "Mojokerto",
+              "forbiddens": [
+                "jawa timur",
+                "majapahit",
+                "trowulan",
+                "kota",
+                "surabaya"
+              ]
+            },
+            {
+              "word": "Indramayu",
+              "forbiddens": [
+                "jawa barat",
+                "mangga",
+                "pantura",
+                "cirebon",
+                "kabupaten"
+              ]
+            },
+            {
+              "word": "Singaraja",
+              "forbiddens": [
+                "bali",
+                "buleleng",
+                "kota",
+                "utara",
+                "lovina"
+              ]
+            },
+            {
+              "word": "Teluk Cenderawasih",
+              "forbiddens": [
+                "papua",
+                "hiu paus",
+                "taman nasional",
+                "laut",
+                "nabire"
+              ]
+            },
+            {
+              "word": "Laut Arafura",
+              "forbiddens": [
+                "papua",
+                "australia",
+                "merauke",
+                "aru",
+                "udang"
+              ]
+            },
+            {
+              "word": "Uluru",
+              "forbiddens": [
+                "australia",
+                "batu merah",
+                "outback",
+                "monolit",
+                "gurun"
+              ]
+            },
+            {
+              "word": "Sungai Hudson",
+              "forbiddens": [
+                "new york",
+                "manhattan",
+                "amerika serikat",
+                "new jersey",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Demak",
+              "forbiddens": [
+                "jawa tengah",
+                "pantura",
+                "kabupaten",
+                "semarang",
+                "kudus"
+              ]
+            },
+            {
+              "word": "Brebes",
+              "forbiddens": [
+                "jawa tengah",
+                "bawang merah",
+                "telur asin",
+                "pantura",
+                "tegal"
+              ]
+            },
+            {
+              "word": "Ponorogo",
+              "forbiddens": [
+                "jawa timur",
+                "reog",
+                "kabupaten",
+                "madiun",
+                "kota"
+              ]
+            },
+            {
+              "word": "Jombang",
+              "forbiddens": [
+                "jawa timur",
+                "kabupaten",
+                "mojokerto",
+                "kediri",
+                "brantas"
+              ]
+            },
+            {
+              "word": "Lamongan",
+              "forbiddens": [
+                "jawa timur",
+                "soto",
+                "pantura",
+                "kabupaten",
+                "gresik"
+              ]
+            },
+            {
+              "word": "Pasuruan",
+              "forbiddens": [
+                "jawa timur",
+                "pantura",
+                "bromo",
+                "kabupaten",
+                "probolinggo"
+              ]
+            },
+            {
+              "word": "Blitar",
+              "forbiddens": [
+                "jawa timur",
+                "kelud",
+                "kabupaten",
+                "kota",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Transilvania",
+              "forbiddens": [
+                "rumania",
+                "karpatia",
+                "eropa timur",
+                "pegunungan",
+                "wilayah"
+              ]
+            },
+            {
+              "word": "Anatolia",
+              "forbiddens": [
+                "turki",
+                "semenanjung",
+                "dataran tinggi",
+                "asia kecil",
+                "ankara"
+              ]
+            },
+            {
+              "word": "Tanduk Afrika",
+              "forbiddens": [
+                "somalia",
+                "ethiopia",
+                "djibouti",
+                "semenanjung",
+                "samudra hindia"
+              ]
+            },
+            {
+              "word": "Gabon",
+              "forbiddens": [
+                "libreville",
+                "afrika tengah",
+                "hutan",
+                "khatulistiwa",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Togo",
+              "forbiddens": [
+                "lome",
+                "afrika barat",
+                "teluk guinea",
+                "kecil",
+                "pantai"
+              ]
+            },
+            {
+              "word": "Benin",
+              "forbiddens": [
+                "porto-novo",
+                "afrika barat",
+                "teluk guinea",
+                "cotonou",
+                "kecil"
+              ]
+            },
+            {
+              "word": "Burkina Faso",
+              "forbiddens": [
+                "ouagadougou",
+                "afrika barat",
+                "sahel",
+                "tanpa laut",
+                "kapas"
+              ]
+            },
+            {
+              "word": "Sierra Leone",
+              "forbiddens": [
+                "freetown",
+                "afrika barat",
+                "berlian",
+                "atlantik",
+                "pantai"
+              ]
+            },
+            {
+              "word": "Liberia",
+              "forbiddens": [
+                "monrovia",
+                "afrika barat",
+                "atlantik",
+                "karet",
+                "pantai"
+              ]
+            },
+            {
+              "word": "Pantai Gading",
+              "forbiddens": [
+                "abidjan",
+                "afrika barat",
+                "kakao",
+                "yamoussoukro",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Gambia",
+              "forbiddens": [
+                "banjul",
+                "afrika barat",
+                "sungai",
+                "senegal",
+                "kecil"
+              ]
+            },
+            {
+              "word": "Guinea",
+              "forbiddens": [
+                "conakry",
+                "afrika barat",
+                "bauksit",
+                "atlantik",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Albania",
+              "forbiddens": [
+                "tirana",
+                "balkan",
+                "adriatik",
+                "pegunungan",
+                "eropa tenggara"
+              ]
+            },
+            {
+              "word": "Montenegro",
+              "forbiddens": [
+                "podgorica",
+                "balkan",
+                "adriatik",
+                "teluk kotor",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Luksemburg",
+              "forbiddens": [
+                "eropa barat",
+                "kecil",
+                "belgia",
+                "euro",
+                "bank"
+              ]
+            },
+            {
+              "word": "Liechtenstein",
+              "forbiddens": [
+                "vaduz",
+                "alpen",
+                "kecil",
+                "swiss",
+                "eropa tengah"
+              ]
+            },
+            {
+              "word": "Andorra",
+              "forbiddens": [
+                "pyrenea",
+                "kecil",
+                "spanyol",
+                "prancis",
+                "ski"
+              ]
+            },
+            {
+              "word": "Turkmenistan",
+              "forbiddens": [
+                "ashgabat",
+                "asia tengah",
+                "gurun",
+                "karakum",
+                "gas"
+              ]
+            },
+            {
+              "word": "Tajikistan",
+              "forbiddens": [
+                "dushanbe",
+                "asia tengah",
+                "pamir",
+                "pegunungan",
+                "kecil"
+              ]
+            },
+            {
+              "word": "Bahrain",
+              "forbiddens": [
+                "manama",
+                "kepulauan",
+                "teluk",
+                "timur tengah",
+                "mutiara"
+              ]
+            },
+            {
+              "word": "Bhutan",
+              "forbiddens": [
+                "thimphu",
+                "himalaya",
+                "kerajaan",
+                "kebahagiaan",
+                "asia selatan"
+              ]
+            },
+            {
+              "word": "Belize",
+              "forbiddens": [
+                "belmopan",
+                "amerika tengah",
+                "karibia",
+                "terumbu karang",
+                "maya"
+              ]
+            },
+            {
+              "word": "Trinidad dan Tobago",
+              "forbiddens": [
+                "port of spain",
+                "karibia",
+                "kepulauan",
+                "kalipso",
+                "minyak"
+              ]
+            },
+            {
+              "word": "Republik Dominika",
+              "forbiddens": [
+                "karibia",
+                "hispaniola",
+                "pantai",
+                "baseball",
+                "merengue"
+              ]
+            },
+            {
+              "word": "Palau",
+              "forbiddens": [
+                "pasifik",
+                "mikronesia",
+                "kepulauan",
+                "selam",
+                "ubur-ubur"
+              ]
+            },
+            {
+              "word": "Tuvalu",
+              "forbiddens": [
+                "pasifik",
+                "polinesia",
+                "atol",
+                "kecil",
+                "funafuti"
+              ]
+            },
+            {
+              "word": "Kiribati",
+              "forbiddens": [
+                "pasifik",
+                "atol",
+                "tarawa",
+                "garis tanggal",
+                "kepulauan"
+              ]
+            },
+            {
+              "word": "Kepulauan Marshall",
+              "forbiddens": [
+                "pasifik",
+                "mikronesia",
+                "atol",
+                "majuro",
+                "laguna"
+              ]
+            },
+            {
+              "word": "Niger",
+              "forbiddens": [
+                "niamey",
+                "afrika barat",
+                "sahara",
+                "sahel",
+                "uranium"
+              ]
+            },
+            {
+              "word": "Chad",
+              "forbiddens": [
+                "n'djamena",
+                "afrika tengah",
+                "sahara",
+                "danau",
+                "tanpa laut"
+              ]
+            },
+            {
+              "word": "Mauritania",
+              "forbiddens": [
+                "nouakchott",
+                "afrika barat",
+                "sahara",
+                "atlantik",
+                "gurun"
+              ]
+            },
+            {
+              "word": "Cancún",
+              "forbiddens": [
+                "meksiko",
+                "karibia",
+                "pantai",
+                "yucatan",
+                "wisata"
+              ]
+            },
+            {
+              "word": "Acapulco",
+              "forbiddens": [
+                "meksiko",
+                "pasifik",
+                "pantai",
+                "teluk",
+                "wisata"
+              ]
+            },
+            {
+              "word": "Salvador",
+              "forbiddens": [
+                "brasil",
+                "bahia",
+                "pelabuhan",
+                "kota",
+                "pantai"
+              ]
+            },
+            {
+              "word": "Sungai Han",
+              "forbiddens": [
+                "korea selatan",
+                "seoul",
+                "jembatan",
+                "kota",
+                "taman"
+              ]
+            },
+            {
+              "word": "Sungai Nil Putih",
+              "forbiddens": [
+                "uganda",
+                "danau victoria",
+                "khartoum",
+                "sudan",
+                "afrika"
+              ]
+            },
+            {
+              "word": "Danau Segara Anak",
+              "forbiddens": [
+                "rinjani",
+                "lombok",
+                "kawah",
+                "biru",
+                "gunung"
+              ]
+            },
+            {
+              "word": "Danau Bratan",
+              "forbiddens": [
+                "bali",
+                "bedugul",
+                "ulun danu",
+                "pegunungan",
+                "dataran tinggi"
+              ]
+            },
+            {
+              "word": "Pati",
+              "forbiddens": [
+                "jawa tengah",
+                "pantura",
+                "kabupaten",
+                "muria",
+                "kudus"
+              ]
+            },
+            {
+              "word": "Sumbawa Besar",
+              "forbiddens": [
+                "nusa tenggara barat",
+                "kota",
+                "madu",
+                "kuda",
+                "pulau"
+              ]
+            },
+            {
+              "word": "Bratislava",
+              "forbiddens": [
+                "slovakia",
+                "ibu kota",
+                "danube",
+                "kastil",
+                "eropa tengah"
+              ]
+            },
+            {
+              "word": "Beograd",
+              "forbiddens": [
+                "serbia",
+                "ibu kota",
+                "sava",
+                "danube",
+                "balkan"
+              ]
+            },
+            {
+              "word": "Vilnius",
+              "forbiddens": [
+                "lituania",
+                "ibu kota",
+                "baltik",
+                "kota tua",
+                "eropa utara"
+              ]
+            },
+            {
+              "word": "Riga",
+              "forbiddens": [
+                "latvia",
+                "ibu kota",
+                "baltik",
+                "kota tua",
+                "art nouveau"
+              ]
+            },
+            {
+              "word": "Bilbao",
+              "forbiddens": [
+                "spanyol",
+                "basque",
+                "museum guggenheim",
+                "utara",
+                "kota"
+              ]
+            },
+            {
+              "word": "Düsseldorf",
+              "forbiddens": [
+                "jerman",
+                "rhein",
+                "kota",
+                "mode",
+                "nordrhein-westfalen"
+              ]
+            },
+            {
+              "word": "Köln",
+              "forbiddens": [
+                "jerman",
+                "rhein",
+                "katedral",
+                "kota",
+                "nordrhein-westfalen"
+              ]
+            },
+            {
+              "word": "Nürnberg",
+              "forbiddens": [
+                "jerman",
+                "bayern",
+                "kota",
+                "mainan",
+                "abad pertengahan"
+              ]
+            },
+            {
+              "word": "Leipzig",
+              "forbiddens": [
+                "jerman",
+                "saxony",
+                "kota",
+                "buku",
+                "musik"
+              ]
+            },
+            {
+              "word": "Bremen",
+              "forbiddens": [
+                "jerman",
+                "kota",
+                "pelabuhan",
+                "utara",
+                "musisi"
+              ]
+            },
+            {
+              "word": "Hannover",
+              "forbiddens": [
+                "jerman",
+                "kota",
+                "pameran",
+                "niedersachsen",
+                "tengah"
+              ]
+            },
+            {
+              "word": "Lucerne",
+              "forbiddens": [
+                "swiss",
+                "danau",
+                "jembatan kayu",
+                "alpen",
+                "pilatus"
+              ]
+            },
+            {
+              "word": "Lausanne",
+              "forbiddens": [
+                "swiss",
+                "danau jenewa",
+                "kota",
+                "olimpiade",
+                "alpen"
+              ]
+            },
+            {
+              "word": "Interlaken",
+              "forbiddens": [
+                "swiss",
+                "alpen",
+                "danau",
+                "kota kecil",
+                "jungfrau"
+              ]
+            },
+            {
+              "word": "Lille",
+              "forbiddens": [
+                "prancis",
+                "utara",
+                "kota",
+                "flandria",
+                "belgia"
+              ]
+            },
+            {
+              "word": "Toulouse",
+              "forbiddens": [
+                "prancis",
+                "barat daya",
+                "kota merah muda",
+                "pesawat",
+                "garonne"
+              ]
+            },
+            {
+              "word": "Nantes",
+              "forbiddens": [
+                "prancis",
+                "loire",
+                "kota",
+                "barat",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Versailles",
+              "forbiddens": [
+                "prancis",
+                "paris",
+                "taman",
+                "istana",
+                "kaca"
+              ]
+            },
+            {
+              "word": "Leiden",
+              "forbiddens": [
+                "belanda",
+                "universitas",
+                "kanal",
+                "kota",
+                "rhein"
+              ]
+            },
+            {
+              "word": "Groningen",
+              "forbiddens": [
+                "belanda",
+                "utara",
+                "kota",
+                "sepeda",
+                "universitas"
+              ]
+            },
+            {
+              "word": "Leeds",
+              "forbiddens": [
+                "inggris",
+                "yorkshire",
+                "kota",
+                "utara",
+                "sungai aire"
+              ]
+            },
+            {
+              "word": "Newcastle",
+              "forbiddens": [
+                "inggris",
+                "timur laut",
+                "sungai tyne",
+                "kota",
+                "jembatan"
+              ]
+            },
+            {
+              "word": "Bristol",
+              "forbiddens": [
+                "inggris",
+                "barat daya",
+                "pelabuhan",
+                "jembatan gantung",
+                "kota"
+              ]
+            },
+            {
+              "word": "Aberdeen",
+              "forbiddens": [
+                "skotlandia",
+                "timur laut",
+                "granit",
+                "pelabuhan",
+                "laut utara"
+              ]
+            },
+            {
+              "word": "Brighton",
+              "forbiddens": [
+                "inggris",
+                "pantai",
+                "selatan",
+                "dermaga",
+                "kota"
+              ]
+            },
+            {
+              "word": "Izmir",
+              "forbiddens": [
+                "turki",
+                "laut aegea",
+                "kota",
+                "pelabuhan",
+                "barat"
+              ]
+            },
+            {
+              "word": "Antalya",
+              "forbiddens": [
+                "turki",
+                "mediterania",
+                "pantai",
+                "kota",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Bursa",
+              "forbiddens": [
+                "turki",
+                "uludag",
+                "kota",
+                "sutra",
+                "marmara"
+              ]
+            },
+            {
+              "word": "Kobe",
+              "forbiddens": [
+                "jepang",
+                "hyogo",
+                "pelabuhan",
+                "sapi",
+                "kota"
+              ]
+            },
+            {
+              "word": "Nara",
+              "forbiddens": [
+                "jepang",
+                "rusa",
+                "kansai",
+                "taman",
+                "kota tua"
+              ]
+            },
+            {
+              "word": "Fukuoka",
+              "forbiddens": [
+                "jepang",
+                "kyushu",
+                "kota",
+                "ramen",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Incheon",
+              "forbiddens": [
+                "korea selatan",
+                "bandara",
+                "pelabuhan",
+                "kota",
+                "seoul"
+              ]
+            },
+            {
+              "word": "Chongqing",
+              "forbiddens": [
+                "tiongkok",
+                "sungai yangtze",
+                "kota",
+                "pegunungan",
+                "hotpot"
+              ]
+            },
+            {
+              "word": "Suzhou",
+              "forbiddens": [
+                "tiongkok",
+                "kanal",
+                "taman",
+                "sutra",
+                "jiangsu"
+              ]
+            },
+            {
+              "word": "Harbin",
+              "forbiddens": [
+                "tiongkok",
+                "utara",
+                "festival es",
+                "kota",
+                "dingin"
+              ]
+            },
+            {
+              "word": "Kunming",
+              "forbiddens": [
+                "tiongkok",
+                "yunnan",
+                "kota musim semi",
+                "bunga",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Ipoh",
+              "forbiddens": [
+                "malaysia",
+                "perak",
+                "kota",
+                "kapur",
+                "bukit"
+              ]
+            },
+            {
+              "word": "Sandakan",
+              "forbiddens": [
+                "sabah",
+                "malaysia",
+                "orangutan",
+                "kota",
+                "borneo"
+              ]
+            },
+            {
+              "word": "Davao",
+              "forbiddens": [
+                "filipina",
+                "mindanao",
+                "kota",
+                "durian",
+                "gunung apo"
+              ]
+            },
+            {
+              "word": "Bagan",
+              "forbiddens": [
+                "myanmar",
+                "dataran",
+                "reruntuhan",
+                "balon udara",
+                "irrawaddy"
+              ]
+            },
+            {
+              "word": "Mandalay",
+              "forbiddens": [
+                "myanmar",
+                "kota",
+                "irrawaddy",
+                "istana",
+                "tengah"
+              ]
+            },
+            {
+              "word": "Chennai",
+              "forbiddens": [
+                "india",
+                "tamil nadu",
+                "pantai",
+                "kota",
+                "teluk benggala"
+              ]
+            },
+            {
+              "word": "Bengaluru",
+              "forbiddens": [
+                "india",
+                "karnataka",
+                "teknologi",
+                "kota",
+                "taman"
+              ]
+            },
+            {
+              "word": "Hyderabad",
+              "forbiddens": [
+                "india",
+                "kota",
+                "mutiara",
+                "charminar",
+                "biryani"
+              ]
+            },
+            {
+              "word": "Goa",
+              "forbiddens": [
+                "india",
+                "pantai",
+                "barat",
+                "pasir putih",
+                "wisata"
+              ]
+            },
+            {
+              "word": "Kerala",
+              "forbiddens": [
+                "india",
+                "selatan",
+                "rawa",
+                "perahu",
+                "rempah"
+              ]
+            },
+            {
+              "word": "Shiraz",
+              "forbiddens": [
+                "iran",
+                "kota",
+                "bunga",
+                "taman",
+                "persepolis"
+              ]
+            },
+            {
+              "word": "Durban",
+              "forbiddens": [
+                "afrika selatan",
+                "samudra hindia",
+                "kota",
+                "pantai",
+                "kwazulu-natal"
+              ]
+            },
+            {
+              "word": "Seattle",
+              "forbiddens": [
+                "amerika serikat",
+                "washington",
+                "space needle",
+                "kopi",
+                "hujan"
+              ]
+            },
+            {
+              "word": "Portland",
+              "forbiddens": [
+                "amerika serikat",
+                "oregon",
+                "kota",
+                "mawar",
+                "hujan"
+              ]
+            },
+            {
+              "word": "Salt Lake City",
+              "forbiddens": [
+                "amerika serikat",
+                "utah",
+                "danau asin",
+                "kota",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Nashville",
+              "forbiddens": [
+                "amerika serikat",
+                "tennessee",
+                "musik country",
+                "kota",
+                "gitar"
+              ]
+            },
+            {
+              "word": "Memphis",
+              "forbiddens": [
+                "amerika serikat",
+                "tennessee",
+                "mississippi",
+                "musik blues",
+                "kota"
+              ]
+            },
+            {
+              "word": "Baltimore",
+              "forbiddens": [
+                "amerika serikat",
+                "maryland",
+                "pelabuhan",
+                "kota",
+                "teluk chesapeake"
+              ]
+            },
+            {
+              "word": "Pittsburgh",
+              "forbiddens": [
+                "amerika serikat",
+                "pennsylvania",
+                "jembatan",
+                "baja",
+                "tiga sungai"
+              ]
+            },
+            {
+              "word": "Minneapolis",
+              "forbiddens": [
+                "amerika serikat",
+                "danau",
+                "kota",
+                "mississippi",
+                "saint paul"
+              ]
+            },
+            {
+              "word": "Calgary",
+              "forbiddens": [
+                "kanada",
+                "alberta",
+                "rodeo",
+                "rocky",
+                "kota"
+              ]
+            },
+            {
+              "word": "Edmonton",
+              "forbiddens": [
+                "kanada",
+                "alberta",
+                "kota",
+                "sungai",
+                "utara"
+              ]
+            },
+            {
+              "word": "Kota Québec",
+              "forbiddens": [
+                "kanada",
+                "kota tua",
+                "prancis",
+                "saint lawrence",
+                "benteng"
+              ]
+            },
+            {
+              "word": "Kingston",
+              "forbiddens": [
+                "jamaika",
+                "ibu kota",
+                "karibia",
+                "pelabuhan",
+                "reggae"
+              ]
+            },
+            {
+              "word": "Nassau",
+              "forbiddens": [
+                "bahama",
+                "ibu kota",
+                "karibia",
+                "pulau",
+                "pantai"
+              ]
+            },
+            {
+              "word": "Taman Nasional Yosemite",
+              "forbiddens": [
+                "california",
+                "sierra nevada",
+                "tebing",
+                "air terjun",
+                "el capitan"
+              ]
+            },
+            {
+              "word": "Taman Nasional Banff",
+              "forbiddens": [
+                "alberta",
+                "kanada",
+                "rocky",
+                "danau",
+                "gletser"
+              ]
+            },
+            {
+              "word": "Hyde Park",
+              "forbiddens": [
+                "london",
+                "taman",
+                "danau",
+                "kota",
+                "hijau"
+              ]
+            },
+            {
+              "word": "Piccadilly Circus",
+              "forbiddens": [
+                "london",
+                "papan iklan",
+                "alun-alun",
+                "kota",
+                "persimpangan"
+              ]
+            },
+            {
+              "word": "La Rambla",
+              "forbiddens": [
+                "barcelona",
+                "jalan",
+                "pejalan kaki",
+                "spanyol",
+                "pasar"
+              ]
+            },
+            {
+              "word": "Taman Güell",
+              "forbiddens": [
+                "barcelona",
+                "spanyol",
+                "mosaik",
+                "kadal",
+                "gaudi"
+              ]
+            },
+            {
+              "word": "Tebing Dover",
+              "forbiddens": [
+                "inggris",
+                "kapur",
+                "putih",
+                "selat",
+                "pantai"
+              ]
+            },
+            {
+              "word": "Cilacap",
+              "forbiddens": [
+                "jawa tengah",
+                "kilang",
+                "pelabuhan",
+                "pantai selatan",
+                "segara anakan"
+              ]
+            },
+            {
+              "word": "Gresik",
+              "forbiddens": [
+                "jawa timur",
+                "semen",
+                "pelabuhan",
+                "kota",
+                "surabaya"
+              ]
+            },
+            {
+              "word": "Honolulu",
+              "forbiddens": [
+                "hawaii",
+                "oahu",
+                "waikiki",
+                "pantai",
+                "ibu kota"
+              ]
+            },
+            {
+              "word": "Montreal",
+              "forbiddens": [
+                "kanada",
+                "quebec",
+                "prancis",
+                "kota",
+                "saint lawrence"
+              ]
+            },
+            {
+              "word": "Brisbane",
+              "forbiddens": [
+                "australia",
+                "queensland",
+                "kota",
+                "sungai",
+                "gold coast"
+              ]
+            },
+            {
+              "word": "Perth",
+              "forbiddens": [
+                "australia barat",
+                "kota",
+                "laut",
+                "terpencil",
+                "sungai swan"
+              ]
+            },
+            {
+              "word": "Meridian Greenwich",
+              "forbiddens": [
+                "garis bujur",
+                "london",
+                "nol derajat",
+                "zona waktu",
+                "inggris"
+              ]
+            },
+            {
+              "word": "Tanah Genting",
+              "forbiddens": [
+                "daratan",
+                "sempit",
+                "dua laut",
+                "penghubung",
+                "panama"
+              ]
+            },
+            {
+              "word": "Geiser",
+              "forbiddens": [
+                "semburan",
+                "air panas",
+                "uap",
+                "islandia",
+                "yellowstone"
+              ]
+            },
+            {
+              "word": "Semenanjung Iberia",
+              "forbiddens": [
+                "spanyol",
+                "portugal",
+                "eropa barat",
+                "pyrenea",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Semenanjung Skandinavia",
+              "forbiddens": [
+                "norwegia",
+                "swedia",
+                "eropa utara",
+                "fjord",
+                "es"
+              ]
+            },
+            {
+              "word": "Semenanjung Arab",
+              "forbiddens": [
+                "gurun",
+                "minyak",
+                "timur tengah",
+                "laut merah",
+                "teluk"
+              ]
+            },
+            {
+              "word": "Pantai Tanjung Bira",
+              "forbiddens": [
+                "bulukumba",
+                "sulawesi selatan",
+                "pasir putih",
+                "pinisi",
+                "laut"
+              ]
+            },
+            {
+              "word": "Tanjung Priok",
+              "forbiddens": [
+                "jakarta utara",
+                "pelabuhan",
+                "kapal",
+                "laut",
+                "kontainer"
+              ]
+            },
+            {
+              "word": "Pulau Bidadari",
+              "forbiddens": [
+                "kepulauan seribu",
+                "jakarta",
+                "benteng",
+                "pantai",
+                "wisata"
+              ]
+            },
+            {
+              "word": "Gunung Padang",
+              "forbiddens": [
+                "cianjur",
+                "jawa barat",
+                "punden berundak",
+                "batu",
+                "situs"
+              ]
+            },
+            {
+              "word": "Kirgistan",
+              "forbiddens": [
+                "bishkek",
+                "asia tengah",
+                "gunung",
+                "danau issyk-kul",
+                "nomaden"
+              ]
+            },
+            {
+              "word": "Mali",
+              "forbiddens": [
+                "bamako",
+                "afrika barat",
+                "timbuktu",
+                "niger",
+                "sahel"
+              ]
+            },
+            {
+              "word": "Republik Demokratik Kongo",
+              "forbiddens": [
+                "kinshasa",
+                "afrika tengah",
+                "hutan",
+                "sungai",
+                "gorila"
+              ]
+            },
+            {
+              "word": "Taman Nasional Gunung Gede Pangrango",
+              "forbiddens": [
+                "cibodas",
+                "bogor",
+                "cianjur",
+                "edelweis",
+                "hutan"
+              ]
+            },
+            {
+              "word": "Kuta",
+              "forbiddens": [
+                "bali",
+                "pantai",
+                "selancar",
+                "bandara",
+                "turis"
+              ]
+            },
+            {
+              "word": "Parangtritis",
+              "forbiddens": [
+                "yogyakarta",
+                "bantul",
+                "samudra hindia",
+                "gumuk pasir",
+                "ombak"
+              ]
+            },
+            {
+              "word": "Pulau Derawan",
+              "forbiddens": [
+                "kalimantan timur",
+                "penyu",
+                "selam",
+                "berau",
+                "kakaban"
+              ]
+            },
+            {
+              "word": "Kelimutu",
+              "forbiddens": [
+                "flores",
+                "ende",
+                "danau",
+                "tiga warna",
+                "krater"
+              ]
+            },
+            {
+              "word": "Waduk Jatiluhur",
+              "forbiddens": [
+                "purwakarta",
+                "jawa barat",
+                "bendungan",
+                "sungai citarum",
+                "listrik"
+              ]
+            },
+            {
+              "word": "Sumedang",
+              "forbiddens": [
+                "jawa barat",
+                "tahu",
+                "bandung",
+                "jatinangor",
+                "kabupaten"
+              ]
+            },
+            {
+              "word": "Wonosobo",
+              "forbiddens": [
+                "dieng",
+                "jawa tengah",
+                "carica",
+                "sindoro",
+                "sumbing"
+              ]
+            },
+            {
+              "word": "Boyolali",
+              "forbiddens": [
+                "jawa tengah",
+                "susu",
+                "merapi",
+                "merbabu",
+                "solo"
+              ]
+            },
+            {
+              "word": "Sulawesi Tengah",
+              "forbiddens": [
+                "palu",
+                "danau poso",
+                "lore lindu",
+                "provinsi",
+                "togean"
+              ]
+            },
+            {
+              "word": "Sulawesi Barat",
+              "forbiddens": [
+                "mamuju",
+                "provinsi",
+                "mandar",
+                "majene",
+                "selat makassar"
+              ]
+            },
+            {
+              "word": "Afghanistan",
+              "forbiddens": [
+                "kabul",
+                "asia tengah",
+                "pegunungan",
+                "kering",
+                "karpet"
+              ]
+            },
+            {
+              "word": "Irak",
+              "forbiddens": [
+                "baghdad",
+                "mesopotamia",
+                "tigris",
+                "efrat",
+                "timur tengah"
+              ]
+            },
+            {
+              "word": "Suriah",
+              "forbiddens": [
+                "damaskus",
+                "aleppo",
+                "timur tengah",
+                "laut tengah",
+                "gurun"
+              ]
+            },
+            {
+              "word": "Kuwait",
+              "forbiddens": [
+                "minyak",
+                "timur tengah",
+                "gurun",
+                "dinar",
+                "kecil"
+              ]
+            },
+            {
+              "word": "Baghdad",
+              "forbiddens": [
+                "irak",
+                "sungai tigris",
+                "ibu kota",
+                "mesopotamia",
+                "timur tengah"
+              ]
+            },
+            {
+              "word": "Damaskus",
+              "forbiddens": [
+                "suriah",
+                "ibu kota",
+                "timur tengah",
+                "kuno",
+                "aleppo"
+              ]
+            },
+            {
+              "word": "Islamabad",
+              "forbiddens": [
+                "pakistan",
+                "ibu kota",
+                "rawalpindi",
+                "margalla",
+                "terencana"
+              ]
+            },
+            {
+              "word": "Shenzhen",
+              "forbiddens": [
+                "tiongkok",
+                "guangdong",
+                "teknologi",
+                "zona ekonomi khusus",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Gold Coast",
+              "forbiddens": [
+                "queensland",
+                "selancar",
+                "pantai",
+                "brisbane",
+                "australia"
+              ]
+            },
+            {
+              "word": "Silicon Valley",
+              "forbiddens": [
+                "california",
+                "teknologi",
+                "startup",
+                "komputer",
+                "internet"
+              ]
+            },
+            {
+              "word": "Arizona",
+              "forbiddens": [
+                "grand canyon",
+                "phoenix",
+                "gurun",
+                "amerika serikat",
+                "kaktus"
+              ]
+            },
+            {
+              "word": "Colorado",
+              "forbiddens": [
+                "denver",
+                "rocky",
+                "ski",
+                "pegunungan",
+                "aspen"
+              ]
+            },
+            {
+              "word": "Louisiana",
+              "forbiddens": [
+                "new orleans",
+                "mississippi",
+                "jazz",
+                "rawa",
+                "amerika serikat"
+              ]
+            },
+            {
+              "word": "Venesia",
+              "forbiddens": [
+                "italia",
+                "kanal",
+                "gondola",
+                "laguna",
+                "karnaval"
+              ]
+            },
+            {
+              "word": "Sankt Peterburg",
+              "forbiddens": [
+                "rusia",
+                "neva",
+                "hermitage",
+                "laut baltik",
+                "kanal"
+              ]
+            },
+            {
+              "word": "Gardens by the Bay",
+              "forbiddens": [
+                "singapura",
+                "supertree",
+                "kubah kaca",
+                "taman",
+                "marina"
+              ]
+            },
+            {
+              "word": "Rajasthan",
+              "forbiddens": [
+                "india",
+                "jaipur",
+                "gurun thar",
+                "benteng",
+                "unta"
+              ]
+            },
+            {
+              "word": "Andalusia",
+              "forbiddens": [
+                "spanyol",
+                "sevilla",
+                "granada",
+                "flamenco",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Côte d’Azur",
+              "forbiddens": [
+                "prancis",
+                "nice",
+                "cannes",
+                "pantai",
+                "laut tengah"
+              ]
+            },
+            {
+              "word": "Timur Tengah",
+              "forbiddens": [
+                "minyak",
+                "gurun",
+                "arab",
+                "unta",
+                "kawasan"
+              ]
+            },
+            {
+              "word": "Asia Timur",
+              "forbiddens": [
+                "jepang",
+                "tiongkok",
+                "korea selatan",
+                "samudra pasifik",
+                "kawasan"
+              ]
+            },
+            {
+              "word": "Asia Selatan",
+              "forbiddens": [
+                "india",
+                "bangladesh",
+                "nepal",
+                "sri lanka",
+                "kawasan"
+              ]
+            },
+            {
+              "word": "Asia Tengah",
+              "forbiddens": [
+                "kazakhstan",
+                "uzbekistan",
+                "stepa",
+                "jalur sutra",
+                "kirgistan"
+              ]
+            },
+            {
+              "word": "Afrika Utara",
+              "forbiddens": [
+                "mesir",
+                "maroko",
+                "sahara",
+                "aljazair",
+                "kawasan"
+              ]
+            },
+            {
+              "word": "Amerika Latin",
+              "forbiddens": [
+                "brasil",
+                "meksiko",
+                "argentina",
+                "bahasa spanyol",
+                "kawasan"
+              ]
+            },
+            {
+              "word": "Nusa Dua",
+              "forbiddens": [
+                "bali",
+                "pantai",
+                "selatan",
+                "wisata",
+                "pasir putih"
+              ]
+            },
+            {
+              "word": "Jimbaran",
+              "forbiddens": [
+                "bali",
+                "pantai",
+                "makanan laut",
+                "matahari terbenam",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Seminyak",
+              "forbiddens": [
+                "bali",
+                "pantai",
+                "kuta",
+                "matahari terbenam",
+                "wisata"
+              ]
+            },
+            {
+              "word": "Uluwatu",
+              "forbiddens": [
+                "bali",
+                "tebing",
+                "selancar",
+                "ombak",
+                "matahari terbenam"
+              ]
+            },
+            {
+              "word": "Canggu",
+              "forbiddens": [
+                "bali",
+                "selancar",
+                "pantai",
+                "sawah",
+                "wisata"
+              ]
+            },
+            {
+              "word": "Senayan",
+              "forbiddens": [
+                "jakarta",
+                "stadion",
+                "gelora bung karno",
+                "olahraga",
+                "kompleks"
+              ]
+            },
+            {
+              "word": "Kemang",
+              "forbiddens": [
+                "jakarta selatan",
+                "kawasan",
+                "ekspatriat",
+                "kafe",
+                "jalan"
+              ]
+            },
+            {
+              "word": "Glodok",
+              "forbiddens": [
+                "pecinan",
+                "jakarta barat",
+                "pasar",
+                "kota tua",
+                "lampion"
+              ]
+            },
+            {
+              "word": "Cibubur",
+              "forbiddens": [
+                "jakarta timur",
+                "bogor",
+                "perkemahan",
+                "pramuka",
+                "tol"
+              ]
+            },
+            {
+              "word": "Kelapa Gading",
+              "forbiddens": [
+                "jakarta utara",
+                "kawasan",
+                "perumahan",
+                "ruko",
+                "mal"
+              ]
+            },
+            {
+              "word": "Pondok Indah",
+              "forbiddens": [
+                "jakarta selatan",
+                "kawasan",
+                "mal",
+                "golf",
+                "perumahan"
+              ]
+            },
+            {
+              "word": "Cikarang",
+              "forbiddens": [
+                "bekasi",
+                "jawa barat",
+                "kawasan industri",
+                "kota",
+                "tol"
+              ]
+            },
+            {
+              "word": "Sleman",
+              "forbiddens": [
+                "yogyakarta",
+                "kabupaten",
+                "merapi",
+                "salak",
+                "utara"
+              ]
+            },
+            {
+              "word": "Bantul",
+              "forbiddens": [
+                "yogyakarta",
+                "parangtritis",
+                "kabupaten",
+                "selatan",
+                "kerajinan"
+              ]
+            },
+            {
+              "word": "Blok M",
+              "forbiddens": [
+                "jakarta",
+                "selatan",
+                "terminal",
+                "kebayoran",
+                "pusat belanja"
+              ]
+            },
+            {
+              "word": "Queensland",
+              "forbiddens": [
+                "brisbane",
+                "australia",
+                "gold coast",
+                "great barrier reef",
+                "timur laut"
+              ]
+            },
+            {
+              "word": "New South Wales",
+              "forbiddens": [
+                "sydney",
+                "australia",
+                "negara bagian",
+                "pegunungan biru",
+                "pantai bondi"
+              ]
+            },
+            {
+              "word": "Sichuan",
+              "forbiddens": [
+                "tiongkok",
+                "panda",
+                "pedas",
+                "chengdu",
+                "barat daya"
+              ]
+            },
+            {
+              "word": "Benelux",
+              "forbiddens": [
+                "belgia",
+                "belanda",
+                "luksemburg",
+                "eropa barat",
+                "brussel"
+              ]
+            },
+            {
+              "word": "Birmingham",
+              "forbiddens": [
+                "inggris",
+                "midlands",
+                "kanal",
+                "kota terbesar kedua",
+                "industri"
+              ]
+            },
+            {
+              "word": "Danau Beratan",
+              "forbiddens": [
+                "bali",
+                "bedugul",
+                "tabanan",
+                "dataran tinggi",
+                "pura ulun danu"
+              ]
+            },
+            {
+              "word": "Bakauheni",
+              "forbiddens": [
+                "lampung",
+                "pelabuhan",
+                "selat sunda",
+                "merak",
+                "sumatra"
+              ]
             }
           ]
         },
@@ -99223,6 +102083,3006 @@
                 "pedalaman",
                 "kering",
                 "kanguru"
+              ]
+            },
+            {
+              "word": "Heidelberg",
+              "forbiddens": [
+                "jerman",
+                "universitas",
+                "kastil",
+                "sungai neckar",
+                "kota"
+              ]
+            },
+            {
+              "word": "Brugge",
+              "forbiddens": [
+                "belgia",
+                "kanal",
+                "kota tua",
+                "cokelat",
+                "abad pertengahan"
+              ]
+            },
+            {
+              "word": "Danau Huron",
+              "forbiddens": [
+                "kanada",
+                "michigan",
+                "amerika serikat",
+                "manitoulin",
+                "great lakes"
+              ]
+            },
+            {
+              "word": "Pulau Moyo",
+              "forbiddens": [
+                "sumbawa",
+                "nusa tenggara barat",
+                "taman nasional",
+                "air terjun",
+                "selam"
+              ]
+            },
+            {
+              "word": "Danau Konstanz",
+              "forbiddens": [
+                "jerman",
+                "swiss",
+                "austria",
+                "alpen",
+                "rhein"
+              ]
+            },
+            {
+              "word": "Rengat",
+              "forbiddens": [
+                "riau",
+                "sungai indragiri",
+                "kota",
+                "kabupaten",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Bohemia",
+              "forbiddens": [
+                "republik ceko",
+                "praha",
+                "eropa tengah",
+                "kristal",
+                "barat"
+              ]
+            },
+            {
+              "word": "Moravia",
+              "forbiddens": [
+                "republik ceko",
+                "brno",
+                "eropa tengah",
+                "timur",
+                "wilayah"
+              ]
+            },
+            {
+              "word": "Dalmatia",
+              "forbiddens": [
+                "kroasia",
+                "adriatik",
+                "split",
+                "pantai",
+                "anjing"
+              ]
+            },
+            {
+              "word": "Maghreb",
+              "forbiddens": [
+                "afrika utara",
+                "maroko",
+                "aljazair",
+                "tunisia",
+                "barat"
+              ]
+            },
+            {
+              "word": "Pantanal",
+              "forbiddens": [
+                "brasil",
+                "lahan basah",
+                "jaguar",
+                "terbesar",
+                "mato grosso"
+              ]
+            },
+            {
+              "word": "Monterrey",
+              "forbiddens": [
+                "meksiko",
+                "utara",
+                "industri",
+                "kota",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Tulum",
+              "forbiddens": [
+                "meksiko",
+                "karibia",
+                "reruntuhan",
+                "maya",
+                "pantai"
+              ]
+            },
+            {
+              "word": "Oaxaca",
+              "forbiddens": [
+                "meksiko",
+                "selatan",
+                "kuliner",
+                "kota",
+                "mole"
+              ]
+            },
+            {
+              "word": "Recife",
+              "forbiddens": [
+                "brasil",
+                "timur laut",
+                "pelabuhan",
+                "kota",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Fortaleza",
+              "forbiddens": [
+                "brasil",
+                "timur laut",
+                "pantai",
+                "kota",
+                "ceara"
+              ]
+            },
+            {
+              "word": "Curitiba",
+              "forbiddens": [
+                "brasil",
+                "selatan",
+                "parana",
+                "kota",
+                "taman"
+              ]
+            },
+            {
+              "word": "Porto Alegre",
+              "forbiddens": [
+                "brasil",
+                "selatan",
+                "guaiba",
+                "kota",
+                "gaucho"
+              ]
+            },
+            {
+              "word": "Córdoba",
+              "forbiddens": [
+                "argentina",
+                "kota",
+                "universitas",
+                "pegunungan",
+                "tengah"
+              ]
+            },
+            {
+              "word": "Bariloche",
+              "forbiddens": [
+                "argentina",
+                "patagonia",
+                "danau",
+                "ski",
+                "cokelat"
+              ]
+            },
+            {
+              "word": "Arequipa",
+              "forbiddens": [
+                "peru",
+                "gunung berapi",
+                "kota putih",
+                "andes",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Cali",
+              "forbiddens": [
+                "kolombia",
+                "salsa",
+                "kota",
+                "lembah",
+                "barat daya"
+              ]
+            },
+            {
+              "word": "Torres del Paine",
+              "forbiddens": [
+                "cile",
+                "patagonia",
+                "taman nasional",
+                "menara granit",
+                "gletser"
+              ]
+            },
+            {
+              "word": "Punta Arenas",
+              "forbiddens": [
+                "cile",
+                "selat magellan",
+                "patagonia",
+                "kota",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Pulau Pangkor",
+              "forbiddens": [
+                "malaysia",
+                "perak",
+                "selat malaka",
+                "pantai",
+                "wisata"
+              ]
+            },
+            {
+              "word": "Sungai Magdalena",
+              "forbiddens": [
+                "kolombia",
+                "andes",
+                "terpanjang",
+                "karibia",
+                "barranquilla"
+              ]
+            },
+            {
+              "word": "Sungai Madeira",
+              "forbiddens": [
+                "amazon",
+                "brasil",
+                "bolivia",
+                "cabang",
+                "terpanjang"
+              ]
+            },
+            {
+              "word": "Sungai São Francisco",
+              "forbiddens": [
+                "brasil",
+                "timur laut",
+                "minas gerais",
+                "atlantik",
+                "bendungan"
+              ]
+            },
+            {
+              "word": "Sungai Potomac",
+              "forbiddens": [
+                "washington d.c.",
+                "amerika serikat",
+                "virginia",
+                "aliran",
+                "maryland"
+              ]
+            },
+            {
+              "word": "Sungai Ohio",
+              "forbiddens": [
+                "amerika serikat",
+                "mississippi",
+                "cincinnati",
+                "kentucky",
+                "cabang"
+              ]
+            },
+            {
+              "word": "Sungai Columbia",
+              "forbiddens": [
+                "amerika serikat",
+                "kanada",
+                "oregon",
+                "bendungan",
+                "pasifik"
+              ]
+            },
+            {
+              "word": "Sungai Mackenzie",
+              "forbiddens": [
+                "kanada",
+                "utara",
+                "wilayah barat laut",
+                "terpanjang",
+                "samudra arktik"
+              ]
+            },
+            {
+              "word": "Sungai Garonne",
+              "forbiddens": [
+                "prancis",
+                "bordeaux",
+                "toulouse",
+                "pyrenea",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Sungai Moselle",
+              "forbiddens": [
+                "prancis",
+                "jerman",
+                "luksemburg",
+                "rhein",
+                "lembah"
+              ]
+            },
+            {
+              "word": "Sungai Neckar",
+              "forbiddens": [
+                "jerman",
+                "heidelberg",
+                "stuttgart",
+                "rhein",
+                "lembah"
+              ]
+            },
+            {
+              "word": "Sungai Guadalquivir",
+              "forbiddens": [
+                "spanyol",
+                "sevilla",
+                "andalusia",
+                "atlantik",
+                "cordoba"
+              ]
+            },
+            {
+              "word": "Sungai Arno",
+              "forbiddens": [
+                "italia",
+                "firenze",
+                "pisa",
+                "toscana",
+                "jembatan"
+              ]
+            },
+            {
+              "word": "Sungai Yenisei",
+              "forbiddens": [
+                "siberia",
+                "rusia",
+                "utara",
+                "samudra arktik",
+                "panjang"
+              ]
+            },
+            {
+              "word": "Sungai Amu Darya",
+              "forbiddens": [
+                "asia tengah",
+                "uzbekistan",
+                "laut aral",
+                "turkmenistan",
+                "oxus"
+              ]
+            },
+            {
+              "word": "Sungai Godavari",
+              "forbiddens": [
+                "india",
+                "selatan",
+                "delta",
+                "teluk benggala",
+                "panjang"
+              ]
+            },
+            {
+              "word": "Sungai Narmada",
+              "forbiddens": [
+                "india",
+                "tengah",
+                "barat",
+                "laut arab",
+                "bendungan"
+              ]
+            },
+            {
+              "word": "Sungai Perak",
+              "forbiddens": [
+                "malaysia",
+                "semenanjung",
+                "ipoh",
+                "timah",
+                "kuala kangsar"
+              ]
+            },
+            {
+              "word": "Sungai Rajang",
+              "forbiddens": [
+                "sarawak",
+                "malaysia",
+                "borneo",
+                "terpanjang",
+                "sibu"
+              ]
+            },
+            {
+              "word": "Sungai Kinabatangan",
+              "forbiddens": [
+                "sabah",
+                "malaysia",
+                "borneo",
+                "orangutan",
+                "hutan"
+              ]
+            },
+            {
+              "word": "Sungai Sepik",
+              "forbiddens": [
+                "papua nugini",
+                "rawa",
+                "buaya",
+                "utara",
+                "pasifik"
+              ]
+            },
+            {
+              "word": "Sungai Yarra",
+              "forbiddens": [
+                "melbourne",
+                "australia",
+                "victoria",
+                "kota",
+                "aliran"
+              ]
+            },
+            {
+              "word": "Sungai Okavango",
+              "forbiddens": [
+                "botswana",
+                "angola",
+                "namibia",
+                "delta",
+                "kalahari"
+              ]
+            },
+            {
+              "word": "Sungai Volta",
+              "forbiddens": [
+                "ghana",
+                "afrika barat",
+                "bendungan",
+                "danau",
+                "teluk guinea"
+              ]
+            },
+            {
+              "word": "Sungai Benue",
+              "forbiddens": [
+                "nigeria",
+                "niger",
+                "kamerun",
+                "cabang",
+                "afrika barat"
+              ]
+            },
+            {
+              "word": "Danau Turkana",
+              "forbiddens": [
+                "kenya",
+                "afrika timur",
+                "giok",
+                "lembah retakan",
+                "gurun"
+              ]
+            },
+            {
+              "word": "Danau Kariba",
+              "forbiddens": [
+                "zambia",
+                "zimbabwe",
+                "zambezi",
+                "bendungan",
+                "afrika"
+              ]
+            },
+            {
+              "word": "Danau Naivasha",
+              "forbiddens": [
+                "kenya",
+                "lembah retakan",
+                "kuda nil",
+                "burung",
+                "nairobi"
+              ]
+            },
+            {
+              "word": "Danau Nakuru",
+              "forbiddens": [
+                "kenya",
+                "flamingo",
+                "taman nasional",
+                "lembah retakan",
+                "burung"
+              ]
+            },
+            {
+              "word": "Danau Natron",
+              "forbiddens": [
+                "tanzania",
+                "merah",
+                "flamingo",
+                "soda",
+                "lembah retakan"
+              ]
+            },
+            {
+              "word": "Danau Van",
+              "forbiddens": [
+                "turki",
+                "timur",
+                "asin",
+                "anatolia",
+                "soda"
+              ]
+            },
+            {
+              "word": "Danau Sevan",
+              "forbiddens": [
+                "pegunungan",
+                "dataran tinggi",
+                "armenia",
+                "ikan",
+                "biru"
+              ]
+            },
+            {
+              "word": "Danau Issyk-Kul",
+              "forbiddens": [
+                "kirgistan",
+                "asia tengah",
+                "pegunungan",
+                "tian shan",
+                "asin"
+              ]
+            },
+            {
+              "word": "Danau Balkhash",
+              "forbiddens": [
+                "kazakhstan",
+                "asia tengah",
+                "setengah asin",
+                "stepa",
+                "ili"
+              ]
+            },
+            {
+              "word": "Danau Urmia",
+              "forbiddens": [
+                "iran",
+                "asin",
+                "barat laut",
+                "flamingo",
+                "menyusut"
+              ]
+            },
+            {
+              "word": "Danau Inle",
+              "forbiddens": [
+                "myanmar",
+                "kebun terapung",
+                "nelayan",
+                "shan",
+                "perahu"
+              ]
+            },
+            {
+              "word": "Danau Tonle Sap",
+              "forbiddens": [
+                "kamboja",
+                "siem reap",
+                "mekong",
+                "kampung terapung",
+                "terbesar"
+              ]
+            },
+            {
+              "word": "Danau Taihu",
+              "forbiddens": [
+                "tiongkok",
+                "jiangsu",
+                "suzhou",
+                "kanal",
+                "wuxi"
+              ]
+            },
+            {
+              "word": "Danau Dongting",
+              "forbiddens": [
+                "tiongkok",
+                "hunan",
+                "yangtze",
+                "besar",
+                "banjir"
+              ]
+            },
+            {
+              "word": "Danau Barat",
+              "forbiddens": [
+                "hangzhou",
+                "tiongkok",
+                "jembatan",
+                "teratai",
+                "perahu"
+              ]
+            },
+            {
+              "word": "Danau Taal",
+              "forbiddens": [
+                "filipina",
+                "luzon",
+                "gunung berapi",
+                "pulau",
+                "manila"
+              ]
+            },
+            {
+              "word": "Danau Kenyir",
+              "forbiddens": [
+                "malaysia",
+                "terengganu",
+                "bendungan",
+                "pulau",
+                "ikan"
+              ]
+            },
+            {
+              "word": "Danau Buyan",
+              "forbiddens": [
+                "bali",
+                "bedugul",
+                "bratan",
+                "tamblingan",
+                "kembar"
+              ]
+            },
+            {
+              "word": "Danau Tamblingan",
+              "forbiddens": [
+                "bali",
+                "bedugul",
+                "buyan",
+                "hutan",
+                "tenang"
+              ]
+            },
+            {
+              "word": "Danau Diatas",
+              "forbiddens": [
+                "solok",
+                "sumatra barat",
+                "kembar",
+                "dibawah",
+                "alahan panjang"
+              ]
+            },
+            {
+              "word": "Danau Dibawah",
+              "forbiddens": [
+                "solok",
+                "sumatra barat",
+                "kembar",
+                "diatas",
+                "alahan panjang"
+              ]
+            },
+            {
+              "word": "Danau Talang",
+              "forbiddens": [
+                "solok",
+                "sumatra barat",
+                "vulkanik",
+                "hijau",
+                "diatas"
+              ]
+            },
+            {
+              "word": "Danau Gunung Tujuh",
+              "forbiddens": [
+                "kerinci",
+                "jambi",
+                "kaldera",
+                "tertinggi",
+                "hutan"
+              ]
+            },
+            {
+              "word": "Selong",
+              "forbiddens": [
+                "lombok timur",
+                "nusa tenggara barat",
+                "kota",
+                "rinjani",
+                "kabupaten"
+              ]
+            },
+            {
+              "word": "Praya",
+              "forbiddens": [
+                "lombok tengah",
+                "nusa tenggara barat",
+                "kota",
+                "bandara",
+                "kabupaten"
+              ]
+            },
+            {
+              "word": "Soe",
+              "forbiddens": [
+                "nusa tenggara timur",
+                "timor tengah selatan",
+                "kota",
+                "sejuk",
+                "kabupaten"
+              ]
+            },
+            {
+              "word": "Tobelo",
+              "forbiddens": [
+                "maluku utara",
+                "halmahera",
+                "kota",
+                "laut",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Tahuna",
+              "forbiddens": [
+                "sulawesi utara",
+                "sangihe",
+                "kota",
+                "pelabuhan",
+                "pulau"
+              ]
+            },
+            {
+              "word": "Tanjung Redeb",
+              "forbiddens": [
+                "kalimantan timur",
+                "berau",
+                "kota",
+                "sungai",
+                "derawan"
+              ]
+            },
+            {
+              "word": "Kuala Tungkal",
+              "forbiddens": [
+                "jambi",
+                "kota",
+                "pelabuhan",
+                "tanjung jabung",
+                "sungai"
+              ]
+            },
+            {
+              "word": "Muara Bungo",
+              "forbiddens": [
+                "jambi",
+                "kota",
+                "kabupaten",
+                "sungai",
+                "sumatra"
+              ]
+            },
+            {
+              "word": "Curup",
+              "forbiddens": [
+                "bengkulu",
+                "rejang lebong",
+                "kota",
+                "sejuk",
+                "kabupaten"
+              ]
+            },
+            {
+              "word": "Málaga",
+              "forbiddens": [
+                "spanyol",
+                "andalusia",
+                "costa del sol",
+                "pantai",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "San Sebastián",
+              "forbiddens": [
+                "spanyol",
+                "basque",
+                "pantai",
+                "teluk",
+                "kuliner"
+              ]
+            },
+            {
+              "word": "Potsdam",
+              "forbiddens": [
+                "jerman",
+                "berlin",
+                "taman",
+                "istana",
+                "brandenburg"
+              ]
+            },
+            {
+              "word": "Graz",
+              "forbiddens": [
+                "austria",
+                "styria",
+                "kota",
+                "selatan",
+                "menara jam"
+              ]
+            },
+            {
+              "word": "Linz",
+              "forbiddens": [
+                "austria",
+                "danube",
+                "kota",
+                "torte",
+                "utara"
+              ]
+            },
+            {
+              "word": "Zermatt",
+              "forbiddens": [
+                "swiss",
+                "matterhorn",
+                "ski",
+                "desa",
+                "alpen"
+              ]
+            },
+            {
+              "word": "Avignon",
+              "forbiddens": [
+                "prancis",
+                "rhone",
+                "jembatan",
+                "provence",
+                "kota tua"
+              ]
+            },
+            {
+              "word": "Gent",
+              "forbiddens": [
+                "belgia",
+                "flandria",
+                "kanal",
+                "kota tua",
+                "abad pertengahan"
+              ]
+            },
+            {
+              "word": "Inverness",
+              "forbiddens": [
+                "skotlandia",
+                "dataran tinggi",
+                "loch ness",
+                "kota",
+                "utara"
+              ]
+            },
+            {
+              "word": "Bath",
+              "forbiddens": [
+                "inggris",
+                "pemandian",
+                "kota",
+                "somerset",
+                "batu"
+              ]
+            },
+            {
+              "word": "Bari",
+              "forbiddens": [
+                "italia",
+                "puglia",
+                "pelabuhan",
+                "adriatik",
+                "kota"
+              ]
+            },
+            {
+              "word": "Catania",
+              "forbiddens": [
+                "italia",
+                "sisilia",
+                "etna",
+                "kota",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Trieste",
+              "forbiddens": [
+                "italia",
+                "adriatik",
+                "timur laut",
+                "pelabuhan",
+                "kota"
+              ]
+            },
+            {
+              "word": "Padua",
+              "forbiddens": [
+                "italia",
+                "veneto",
+                "universitas",
+                "kota",
+                "giotto"
+              ]
+            },
+            {
+              "word": "Sorrento",
+              "forbiddens": [
+                "italia",
+                "napoli",
+                "teluk",
+                "tebing",
+                "lemon"
+              ]
+            },
+            {
+              "word": "Positano",
+              "forbiddens": [
+                "italia",
+                "amalfi",
+                "tebing",
+                "pantai",
+                "desa"
+              ]
+            },
+            {
+              "word": "Cinque Terre",
+              "forbiddens": [
+                "italia",
+                "liguria",
+                "desa",
+                "tebing",
+                "berwarna"
+              ]
+            },
+            {
+              "word": "Patras",
+              "forbiddens": [
+                "yunani",
+                "peloponnesos",
+                "pelabuhan",
+                "kota",
+                "karnaval"
+              ]
+            },
+            {
+              "word": "Heraklion",
+              "forbiddens": [
+                "yunani",
+                "kreta",
+                "kota",
+                "pelabuhan",
+                "knossos"
+              ]
+            },
+            {
+              "word": "Meteora",
+              "forbiddens": [
+                "yunani",
+                "tebing",
+                "pilar",
+                "batu",
+                "thessaly"
+              ]
+            },
+            {
+              "word": "Bodrum",
+              "forbiddens": [
+                "turki",
+                "laut aegea",
+                "pantai",
+                "benteng",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Kanazawa",
+              "forbiddens": [
+                "jepang",
+                "taman kenrokuen",
+                "kota",
+                "pantai barat",
+                "honshu"
+              ]
+            },
+            {
+              "word": "Daegu",
+              "forbiddens": [
+                "korea selatan",
+                "kota",
+                "apel",
+                "tenggara",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Gyeongju",
+              "forbiddens": [
+                "korea selatan",
+                "kota tua",
+                "unesco",
+                "silla",
+                "tenggara"
+              ]
+            },
+            {
+              "word": "Nha Trang",
+              "forbiddens": [
+                "vietnam",
+                "pantai",
+                "laut",
+                "kota",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Kuantan",
+              "forbiddens": [
+                "malaysia",
+                "pahang",
+                "kota",
+                "pantai timur",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Miri",
+              "forbiddens": [
+                "sarawak",
+                "malaysia",
+                "borneo",
+                "minyak",
+                "kota"
+              ]
+            },
+            {
+              "word": "Baguio",
+              "forbiddens": [
+                "filipina",
+                "luzon",
+                "kota",
+                "pegunungan",
+                "sejuk"
+              ]
+            },
+            {
+              "word": "Galle",
+              "forbiddens": [
+                "sri lanka",
+                "benteng",
+                "pantai",
+                "kota tua",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Udaipur",
+              "forbiddens": [
+                "india",
+                "rajasthan",
+                "danau",
+                "istana",
+                "kota"
+              ]
+            },
+            {
+              "word": "Savannah",
+              "forbiddens": [
+                "amerika serikat",
+                "georgia",
+                "kota tua",
+                "pelabuhan",
+                "pohon ek"
+              ]
+            },
+            {
+              "word": "Halifax",
+              "forbiddens": [
+                "kanada",
+                "nova scotia",
+                "pelabuhan",
+                "kota",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Winnipeg",
+              "forbiddens": [
+                "kanada",
+                "manitoba",
+                "kota",
+                "prairi",
+                "dingin"
+              ]
+            },
+            {
+              "word": "Taman Nasional Zion",
+              "forbiddens": [
+                "utah",
+                "ngarai",
+                "tebing",
+                "merah",
+                "amerika serikat"
+              ]
+            },
+            {
+              "word": "Taman Nasional Etosha",
+              "forbiddens": [
+                "namibia",
+                "savana",
+                "garam",
+                "gajah",
+                "afrika"
+              ]
+            },
+            {
+              "word": "Taman Nasional Chobe",
+              "forbiddens": [
+                "botswana",
+                "gajah",
+                "sungai",
+                "afrika",
+                "savana"
+              ]
+            },
+            {
+              "word": "Puerta del Sol",
+              "forbiddens": [
+                "madrid",
+                "alun-alun",
+                "spanyol",
+                "jam",
+                "pusat"
+              ]
+            },
+            {
+              "word": "Prater",
+              "forbiddens": [
+                "wina",
+                "taman",
+                "bianglala",
+                "austria",
+                "hijau"
+              ]
+            },
+            {
+              "word": "Pegunungan Snowy",
+              "forbiddens": [
+                "australia",
+                "ski",
+                "new south wales",
+                "salju",
+                "tenggara"
+              ]
+            },
+            {
+              "word": "Danau Wakatipu",
+              "forbiddens": [
+                "selandia baru",
+                "queenstown",
+                "pulau selatan",
+                "panjang",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Fiordland",
+              "forbiddens": [
+                "selandia baru",
+                "pulau selatan",
+                "fjord",
+                "milford sound",
+                "hujan"
+              ]
+            },
+            {
+              "word": "Lembah Baliem",
+              "forbiddens": [
+                "papua",
+                "wamena",
+                "festival",
+                "ubi jalar",
+                "dani"
+              ]
+            },
+            {
+              "word": "Sungai Digul",
+              "forbiddens": [
+                "papua",
+                "merauke",
+                "rawa",
+                "selatan",
+                "panjang"
+              ]
+            },
+            {
+              "word": "Sungai Kampar",
+              "forbiddens": [
+                "riau",
+                "sumatra",
+                "pekanbaru",
+                "bono",
+                "gelombang"
+              ]
+            },
+            {
+              "word": "Sungai Indragiri",
+              "forbiddens": [
+                "riau",
+                "sumatra",
+                "rengat",
+                "kuantan",
+                "selat malaka"
+              ]
+            },
+            {
+              "word": "Sungai Rokan",
+              "forbiddens": [
+                "riau",
+                "bagansiapiapi",
+                "sumatra",
+                "muara",
+                "selat malaka"
+              ]
+            },
+            {
+              "word": "Sungai Lematang",
+              "forbiddens": [
+                "sumatra selatan",
+                "lahat",
+                "musi",
+                "pagar alam",
+                "hulu"
+              ]
+            },
+            {
+              "word": "Sungai Komering",
+              "forbiddens": [
+                "sumatra selatan",
+                "oku",
+                "musi",
+                "ogan",
+                "palembang"
+              ]
+            },
+            {
+              "word": "Sungai Citanduy",
+              "forbiddens": [
+                "jawa barat",
+                "ciamis",
+                "segara anakan",
+                "cilacap",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Danau Towuti",
+              "forbiddens": [
+                "sulawesi selatan",
+                "luwu timur",
+                "matano",
+                "nikel",
+                "malili"
+              ]
+            },
+            {
+              "word": "Danau Sentarum",
+              "forbiddens": [
+                "kalimantan barat",
+                "kapuas hulu",
+                "taman nasional",
+                "lahan basah",
+                "ikan"
+              ]
+            },
+            {
+              "word": "Danau Paniai",
+              "forbiddens": [
+                "papua",
+                "enarotali",
+                "pegunungan",
+                "dataran tinggi",
+                "tengah"
+              ]
+            },
+            {
+              "word": "Gunung Sumbing",
+              "forbiddens": [
+                "jawa tengah",
+                "temanggung",
+                "wonosobo",
+                "sindoro",
+                "kembar"
+              ]
+            },
+            {
+              "word": "Gunung Raung",
+              "forbiddens": [
+                "jawa timur",
+                "bondowoso",
+                "banyuwangi",
+                "kaldera",
+                "ijen"
+              ]
+            },
+            {
+              "word": "Gunung Welirang",
+              "forbiddens": [
+                "jawa timur",
+                "mojokerto",
+                "arjuno",
+                "belerang",
+                "penanggungan"
+              ]
+            },
+            {
+              "word": "Gunung Lokon",
+              "forbiddens": [
+                "sulawesi utara",
+                "tomohon",
+                "manado",
+                "vulkanik",
+                "minahasa"
+              ]
+            },
+            {
+              "word": "Gunung Galunggung",
+              "forbiddens": [
+                "tasikmalaya",
+                "jawa barat",
+                "kawah",
+                "vulkanik",
+                "letusan"
+              ]
+            },
+            {
+              "word": "Gunung Dempo",
+              "forbiddens": [
+                "pagar alam",
+                "sumatra selatan",
+                "teh",
+                "tertinggi",
+                "puncak"
+              ]
+            },
+            {
+              "word": "Gunung Singgalang",
+              "forbiddens": [
+                "sumatra barat",
+                "bukittinggi",
+                "marapi",
+                "vulkanik",
+                "padang panjang"
+              ]
+            },
+            {
+              "word": "Gunung Sibayak",
+              "forbiddens": [
+                "berastagi",
+                "karo",
+                "sumatra utara",
+                "sinabung",
+                "kawah"
+              ]
+            },
+            {
+              "word": "Gunung Ungaran",
+              "forbiddens": [
+                "jawa tengah",
+                "semarang",
+                "ambarawa",
+                "rawa pening",
+                "candi gedong songo"
+              ]
+            },
+            {
+              "word": "Pulau Morotai",
+              "forbiddens": [
+                "maluku utara",
+                "halmahera",
+                "pasifik",
+                "pantai",
+                "selam"
+              ]
+            },
+            {
+              "word": "Pulau Obi",
+              "forbiddens": [
+                "maluku utara",
+                "halmahera selatan",
+                "nikel",
+                "laut",
+                "bacan"
+              ]
+            },
+            {
+              "word": "Kepulauan Kei",
+              "forbiddens": [
+                "maluku tenggara",
+                "tual",
+                "pasir putih",
+                "pantai",
+                "ngurbloat"
+              ]
+            },
+            {
+              "word": "Pulau Bawean",
+              "forbiddens": [
+                "jawa timur",
+                "gresik",
+                "laut jawa",
+                "rusa",
+                "terpencil"
+              ]
+            },
+            {
+              "word": "Pulau Kangean",
+              "forbiddens": [
+                "madura",
+                "sumenep",
+                "laut jawa",
+                "kepulauan",
+                "terpencil"
+              ]
+            },
+            {
+              "word": "Pulau Selayar",
+              "forbiddens": [
+                "sulawesi selatan",
+                "takabonerate",
+                "kepulauan",
+                "selam",
+                "bulukumba"
+              ]
+            },
+            {
+              "word": "Pulau Waigeo",
+              "forbiddens": [
+                "raja ampat",
+                "papua barat daya",
+                "wayag",
+                "cenderawasih",
+                "karang"
+              ]
+            },
+            {
+              "word": "Pulau Misool",
+              "forbiddens": [
+                "raja ampat",
+                "papua",
+                "karang",
+                "gua",
+                "selam"
+              ]
+            },
+            {
+              "word": "Pulau Panaitan",
+              "forbiddens": [
+                "selat sunda",
+                "ujung kulon",
+                "banten",
+                "selancar",
+                "hutan"
+              ]
+            },
+            {
+              "word": "Pulau Penyengat",
+              "forbiddens": [
+                "tanjungpinang",
+                "kepulauan riau",
+                "bintan",
+                "masjid",
+                "kecil"
+              ]
+            },
+            {
+              "word": "Pulau Wetar",
+              "forbiddens": [
+                "maluku barat daya",
+                "laut banda",
+                "tambang",
+                "timor",
+                "terpencil"
+              ]
+            },
+            {
+              "word": "Pulau Biak",
+              "forbiddens": [
+                "teluk cenderawasih",
+                "papua",
+                "bandara",
+                "pasifik",
+                "supiori"
+              ]
+            },
+            {
+              "word": "Kepulauan Sangihe",
+              "forbiddens": [
+                "sulawesi utara",
+                "tahuna",
+                "vulkanik",
+                "awu",
+                "talaud"
+              ]
+            },
+            {
+              "word": "Pulau Pagai Utara",
+              "forbiddens": [
+                "mentawai",
+                "sumatra barat",
+                "selancar",
+                "laut",
+                "sipora"
+              ]
+            },
+            {
+              "word": "Selat Alas",
+              "forbiddens": [
+                "lombok",
+                "sumbawa",
+                "nusa tenggara barat",
+                "sempit",
+                "laut"
+              ]
+            },
+            {
+              "word": "Selat Bangka",
+              "forbiddens": [
+                "sumatra",
+                "timah",
+                "laut",
+                "sempit",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Selat Sape",
+              "forbiddens": [
+                "sumbawa",
+                "komodo",
+                "flores",
+                "arus deras",
+                "laut"
+              ]
+            },
+            {
+              "word": "Laut Sawu",
+              "forbiddens": [
+                "paus",
+                "nusa tenggara timur",
+                "sumba",
+                "flores",
+                "samudra hindia"
+              ]
+            },
+            {
+              "word": "Teluk Bintuni",
+              "forbiddens": [
+                "papua barat",
+                "bakau",
+                "gas",
+                "laut",
+                "hutan"
+              ]
+            },
+            {
+              "word": "Teluk Bayur",
+              "forbiddens": [
+                "padang",
+                "sumatra barat",
+                "pelabuhan",
+                "laut",
+                "semen"
+              ]
+            },
+            {
+              "word": "Taman Nasional Baluran",
+              "forbiddens": [
+                "situbondo",
+                "savana",
+                "jawa timur",
+                "banteng",
+                "afrika kecil"
+              ]
+            },
+            {
+              "word": "Taman Nasional Alas Purwo",
+              "forbiddens": [
+                "banyuwangi",
+                "jawa timur",
+                "hutan",
+                "penyu",
+                "g-land"
+              ]
+            },
+            {
+              "word": "Taman Nasional Way Kambas",
+              "forbiddens": [
+                "lampung",
+                "gajah",
+                "sumatra",
+                "hutan",
+                "badak"
+              ]
+            },
+            {
+              "word": "Taman Nasional Kerinci Seblat",
+              "forbiddens": [
+                "jambi",
+                "sumatra",
+                "harimau",
+                "hutan",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Taman Nasional Lore Lindu",
+              "forbiddens": [
+                "sulawesi tengah",
+                "megalit",
+                "hutan",
+                "anoa",
+                "palu"
+              ]
+            },
+            {
+              "word": "Taman Nasional Bantimurung Bulusaraung",
+              "forbiddens": [
+                "maros",
+                "sulawesi selatan",
+                "kupu-kupu",
+                "karst",
+                "air terjun"
+              ]
+            },
+            {
+              "word": "Rammang-Rammang",
+              "forbiddens": [
+                "maros",
+                "sulawesi selatan",
+                "karst",
+                "sungai",
+                "perahu"
+              ]
+            },
+            {
+              "word": "Pegunungan Jayawijaya",
+              "forbiddens": [
+                "papua",
+                "salju",
+                "puncak mandala",
+                "wamena",
+                "terjal"
+              ]
+            },
+            {
+              "word": "Pegunungan Meratus",
+              "forbiddens": [
+                "kalimantan selatan",
+                "hutan",
+                "dayak",
+                "hulu",
+                "barito"
+              ]
+            },
+            {
+              "word": "Dataran Tinggi Karo",
+              "forbiddens": [
+                "sumatra utara",
+                "berastagi",
+                "kabanjahe",
+                "sejuk",
+                "jeruk"
+              ]
+            },
+            {
+              "word": "Dataran Tinggi Gayo",
+              "forbiddens": [
+                "aceh",
+                "takengon",
+                "kopi",
+                "danau laut tawar",
+                "bener meriah"
+              ]
+            },
+            {
+              "word": "Karst Gunung Sewu",
+              "forbiddens": [
+                "wonogiri",
+                "pacitan",
+                "gua",
+                "batu kapur",
+                "unesco"
+              ]
+            },
+            {
+              "word": "Sungai Ob",
+              "forbiddens": [
+                "rusia",
+                "siberia",
+                "novosibirsk",
+                "terpanjang",
+                "irtysh"
+              ]
+            },
+            {
+              "word": "Sungai Lena",
+              "forbiddens": [
+                "siberia",
+                "rusia",
+                "delta",
+                "yakutsk",
+                "es"
+              ]
+            },
+            {
+              "word": "Sungai Po",
+              "forbiddens": [
+                "italia",
+                "utara",
+                "lombardia",
+                "delta",
+                "turin"
+              ]
+            },
+            {
+              "word": "Sungai Oder",
+              "forbiddens": [
+                "polandia",
+                "jerman",
+                "baltik",
+                "wroclaw",
+                "eropa tengah"
+              ]
+            },
+            {
+              "word": "Sungai Neva",
+              "forbiddens": [
+                "rusia",
+                "st. petersburg",
+                "ladoga",
+                "baltik",
+                "kanal"
+              ]
+            },
+            {
+              "word": "Sungai Orange",
+              "forbiddens": [
+                "afrika selatan",
+                "namibia",
+                "lesotho",
+                "terpanjang",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Danau Ladoga",
+              "forbiddens": [
+                "rusia",
+                "terbesar di eropa",
+                "st. petersburg",
+                "karelia",
+                "neva"
+              ]
+            },
+            {
+              "word": "Danau Aral",
+              "forbiddens": [
+                "asia tengah",
+                "kering",
+                "uzbekistan",
+                "kazakhstan",
+                "menyusut"
+              ]
+            },
+            {
+              "word": "Danau Maggiore",
+              "forbiddens": [
+                "italia",
+                "swiss",
+                "alpen",
+                "borromea",
+                "stresa"
+              ]
+            },
+            {
+              "word": "Danau Lugano",
+              "forbiddens": [
+                "swiss",
+                "italia",
+                "alpen",
+                "kota",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Danau Winnipeg",
+              "forbiddens": [
+                "kanada",
+                "manitoba",
+                "prairi",
+                "utara",
+                "besar"
+              ]
+            },
+            {
+              "word": "Danau Nikaragua",
+              "forbiddens": [
+                "amerika tengah",
+                "ometepe",
+                "hiu air tawar",
+                "gunung berapi",
+                "managua"
+              ]
+            },
+            {
+              "word": "Danau Maracaibo",
+              "forbiddens": [
+                "venezuela",
+                "minyak",
+                "petir",
+                "teluk",
+                "amerika selatan"
+              ]
+            },
+            {
+              "word": "Danau Balaton",
+              "forbiddens": [
+                "hongaria",
+                "eropa tengah",
+                "terbesar",
+                "budapest",
+                "pesisir"
+              ]
+            },
+            {
+              "word": "Gunung Kosciuszko",
+              "forbiddens": [
+                "australia",
+                "tertinggi",
+                "salju",
+                "new south wales",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Gunung Rainier",
+              "forbiddens": [
+                "washington",
+                "gletser",
+                "seattle",
+                "vulkanik",
+                "cascade"
+              ]
+            },
+            {
+              "word": "Gunung Teide",
+              "forbiddens": [
+                "tenerife",
+                "kepulauan kanari",
+                "vulkanik",
+                "spanyol",
+                "tertinggi"
+              ]
+            },
+            {
+              "word": "Gunung Hekla",
+              "forbiddens": [
+                "islandia",
+                "vulkanik",
+                "selatan",
+                "lava",
+                "abu"
+              ]
+            },
+            {
+              "word": "Gunung Eiger",
+              "forbiddens": [
+                "swiss",
+                "alpen",
+                "bern",
+                "dinding utara",
+                "puncak"
+              ]
+            },
+            {
+              "word": "Jungfrau",
+              "forbiddens": [
+                "swiss",
+                "alpen",
+                "kereta",
+                "gletser",
+                "salju"
+              ]
+            },
+            {
+              "word": "Gunung Kenya",
+              "forbiddens": [
+                "afrika",
+                "nairobi",
+                "khatulistiwa",
+                "salju",
+                "tertinggi"
+              ]
+            },
+            {
+              "word": "Gunung Erebus",
+              "forbiddens": [
+                "antartika",
+                "vulkanik",
+                "lava",
+                "es",
+                "aktif"
+              ]
+            },
+            {
+              "word": "Pegunungan Apennina",
+              "forbiddens": [
+                "italia",
+                "tulang punggung",
+                "eropa",
+                "semenanjung",
+                "memanjang"
+              ]
+            },
+            {
+              "word": "Sierra Nevada",
+              "forbiddens": [
+                "california",
+                "yosemite",
+                "amerika serikat",
+                "gunung",
+                "salju"
+              ]
+            },
+            {
+              "word": "Pegunungan Cascade",
+              "forbiddens": [
+                "washington",
+                "oregon",
+                "gunung berapi",
+                "pasifik",
+                "barat laut"
+              ]
+            },
+            {
+              "word": "Pegunungan Atlas Tinggi",
+              "forbiddens": [
+                "maroko",
+                "marrakesh",
+                "berber",
+                "salju",
+                "toubkal"
+              ]
+            },
+            {
+              "word": "Newfoundland",
+              "forbiddens": [
+                "kanada",
+                "pulau",
+                "atlantik",
+                "tanjung",
+                "labrador"
+              ]
+            },
+            {
+              "word": "Kepulauan Hebrides",
+              "forbiddens": [
+                "skotlandia",
+                "barat",
+                "gaelik",
+                "atlantik",
+                "skye"
+              ]
+            },
+            {
+              "word": "Kepulauan Cyclades",
+              "forbiddens": [
+                "yunani",
+                "laut aegea",
+                "santorini",
+                "mykonos",
+                "pulau putih"
+              ]
+            },
+            {
+              "word": "Ibiza",
+              "forbiddens": [
+                "spanyol",
+                "balearik",
+                "pulau",
+                "pantai",
+                "mediterania"
+              ]
+            },
+            {
+              "word": "Menorca",
+              "forbiddens": [
+                "spanyol",
+                "balearik",
+                "pulau",
+                "mediterania",
+                "mallorca"
+              ]
+            },
+            {
+              "word": "Maui",
+              "forbiddens": [
+                "hawaii",
+                "pulau",
+                "haleakala",
+                "pantai",
+                "paus"
+              ]
+            },
+            {
+              "word": "Kauai",
+              "forbiddens": [
+                "hawaii",
+                "pulau taman",
+                "napali",
+                "hijau",
+                "tertua"
+              ]
+            },
+            {
+              "word": "Okinawa",
+              "forbiddens": [
+                "jepang",
+                "pulau",
+                "selatan",
+                "laut",
+                "ryukyu"
+              ]
+            },
+            {
+              "word": "Hainan",
+              "forbiddens": [
+                "tiongkok",
+                "pulau",
+                "tropis",
+                "sanya",
+                "selatan"
+              ]
+            },
+            {
+              "word": "Kraków",
+              "forbiddens": [
+                "polandia",
+                "wawel",
+                "kota tua",
+                "vistula",
+                "eropa timur"
+              ]
+            },
+            {
+              "word": "Dubrovnik",
+              "forbiddens": [
+                "kroasia",
+                "adriatik",
+                "kota tua",
+                "tembok",
+                "pesisir"
+              ]
+            },
+            {
+              "word": "Bukhara",
+              "forbiddens": [
+                "uzbekistan",
+                "jalur sutra",
+                "kota tua",
+                "asia tengah",
+                "samarkand"
+              ]
+            },
+            {
+              "word": "Almaty",
+              "forbiddens": [
+                "kazakhstan",
+                "kota terbesar",
+                "gunung",
+                "apel",
+                "tian shan"
+              ]
+            },
+            {
+              "word": "Kandy",
+              "forbiddens": [
+                "sri lanka",
+                "danau",
+                "teh",
+                "kuil gigi",
+                "bukit"
+              ]
+            },
+            {
+              "word": "Pokhara",
+              "forbiddens": [
+                "nepal",
+                "danau",
+                "annapurna",
+                "kota",
+                "lintas alam"
+              ]
+            },
+            {
+              "word": "Jaipur",
+              "forbiddens": [
+                "india",
+                "rajasthan",
+                "kota merah muda",
+                "istana",
+                "gajah"
+              ]
+            },
+            {
+              "word": "Alexandria",
+              "forbiddens": [
+                "mesir",
+                "mediterania",
+                "mercusuar",
+                "perpustakaan",
+                "delta"
+              ]
+            },
+            {
+              "word": "Aswan",
+              "forbiddens": [
+                "mesir",
+                "nil",
+                "bendungan",
+                "selatan",
+                "kota"
+              ]
+            },
+            {
+              "word": "Medellín",
+              "forbiddens": [
+                "kolombia",
+                "kota",
+                "lembah",
+                "bunga",
+                "andes"
+              ]
+            },
+            {
+              "word": "Cartagena",
+              "forbiddens": [
+                "kolombia",
+                "karibia",
+                "kota tua",
+                "kolonial",
+                "pantai"
+              ]
+            },
+            {
+              "word": "Manaus",
+              "forbiddens": [
+                "brasil",
+                "amazon",
+                "kota",
+                "hutan",
+                "rio negro"
+              ]
+            },
+            {
+              "word": "Queenstown",
+              "forbiddens": [
+                "selandia baru",
+                "pulau selatan",
+                "danau wakatipu",
+                "bungee",
+                "ski"
+              ]
+            },
+            {
+              "word": "Rotorua",
+              "forbiddens": [
+                "selandia baru",
+                "geiser",
+                "maori",
+                "belerang",
+                "kota"
+              ]
+            },
+            {
+              "word": "Pampas",
+              "forbiddens": [
+                "argentina",
+                "padang rumput",
+                "gaucho",
+                "amerika selatan",
+                "datar"
+              ]
+            },
+            {
+              "word": "Morena",
+              "forbiddens": [
+                "gletser",
+                "batu",
+                "lembah",
+                "es",
+                "endapan"
+              ]
+            },
+            {
+              "word": "Lingkaran Arktik",
+              "forbiddens": [
+                "kutub utara",
+                "garis lintang",
+                "matahari tengah malam",
+                "66 derajat",
+                "norwegia"
+              ]
+            },
+            {
+              "word": "Fumarol",
+              "forbiddens": [
+                "uap",
+                "gunung berapi",
+                "gas",
+                "celah",
+                "belerang"
+              ]
+            },
+            {
+              "word": "Danau Tapal Kuda",
+              "forbiddens": [
+                "meander",
+                "sungai",
+                "terpotong",
+                "melengkung",
+                "bekas"
+              ]
+            },
+            {
+              "word": "Geirangerfjord",
+              "forbiddens": [
+                "norwegia",
+                "tebing",
+                "air terjun",
+                "unesco",
+                "kapal pesiar"
+              ]
+            },
+            {
+              "word": "Tanjung Horn",
+              "forbiddens": [
+                "chili",
+                "ujung selatan",
+                "amerika selatan",
+                "kapal",
+                "badai"
+              ]
+            },
+            {
+              "word": "Tanjung Agulhas",
+              "forbiddens": [
+                "afrika selatan",
+                "ujung selatan",
+                "samudra hindia",
+                "atlantik",
+                "mercusuar"
+              ]
+            },
+            {
+              "word": "Tanjung York",
+              "forbiddens": [
+                "australia",
+                "queensland",
+                "utara",
+                "semenanjung",
+                "ujung"
+              ]
+            },
+            {
+              "word": "Semenanjung Kamchatka",
+              "forbiddens": [
+                "rusia",
+                "gunung berapi",
+                "beruang",
+                "timur",
+                "pasifik"
+              ]
+            },
+            {
+              "word": "Semenanjung Sinai",
+              "forbiddens": [
+                "mesir",
+                "segitiga",
+                "laut merah",
+                "gurun",
+                "teluk suez"
+              ]
+            },
+            {
+              "word": "Selat Messina",
+              "forbiddens": [
+                "sisilia",
+                "italia",
+                "sempit",
+                "laut",
+                "kalabria"
+              ]
+            },
+            {
+              "word": "Selat Bonifacio",
+              "forbiddens": [
+                "korsika",
+                "sardinia",
+                "sempit",
+                "mediterania",
+                "laut"
+              ]
+            },
+            {
+              "word": "Selat Otranto",
+              "forbiddens": [
+                "adriatik",
+                "italia",
+                "albania",
+                "sempit",
+                "mediterania"
+              ]
+            },
+            {
+              "word": "Selat Oresund",
+              "forbiddens": [
+                "denmark",
+                "swedia",
+                "kopenhagen",
+                "jembatan",
+                "baltik"
+              ]
+            },
+            {
+              "word": "Selat Johor",
+              "forbiddens": [
+                "singapura",
+                "malaysia",
+                "sempit",
+                "jembatan",
+                "laut"
+              ]
+            },
+            {
+              "word": "Selat Singapura",
+              "forbiddens": [
+                "batam",
+                "kapal",
+                "sempit",
+                "laut",
+                "pelabuhan"
+              ]
+            },
+            {
+              "word": "Laut Tirenia",
+              "forbiddens": [
+                "italia",
+                "korsika",
+                "sardinia",
+                "mediterania",
+                "sisilia"
+              ]
+            },
+            {
+              "word": "Laut Liguria",
+              "forbiddens": [
+                "italia",
+                "genoa",
+                "prancis",
+                "mediterania",
+                "riviera"
+              ]
+            },
+            {
+              "word": "Laut Okhotsk",
+              "forbiddens": [
+                "rusia",
+                "jepang",
+                "pasifik",
+                "kamchatka",
+                "es"
+              ]
+            },
+            {
+              "word": "Laut Koral",
+              "forbiddens": [
+                "australia",
+                "great barrier reef",
+                "pasifik",
+                "papua nugini",
+                "kepulauan"
+              ]
+            },
+            {
+              "word": "Laut Hebrides",
+              "forbiddens": [
+                "skotlandia",
+                "barat",
+                "pulau",
+                "atlantik",
+                "skye"
+              ]
+            },
+            {
+              "word": "Teluk Guinea",
+              "forbiddens": [
+                "afrika barat",
+                "atlantik",
+                "nigeria",
+                "ghana",
+                "khatulistiwa"
+              ]
+            },
+            {
+              "word": "Teluk Carpentaria",
+              "forbiddens": [
+                "australia",
+                "utara",
+                "laut arafura",
+                "queensland",
+                "besar"
+              ]
+            },
+            {
+              "word": "Teluk Fundy",
+              "forbiddens": [
+                "kanada",
+                "pasang surut",
+                "tertinggi",
+                "nova scotia",
+                "atlantik"
+              ]
+            },
+            {
+              "word": "Teluk Botnia",
+              "forbiddens": [
+                "finlandia",
+                "swedia",
+                "baltik",
+                "es",
+                "laut"
+              ]
+            },
+            {
+              "word": "Teluk Napoli",
+              "forbiddens": [
+                "italia",
+                "vesuvius",
+                "capri",
+                "laut",
+                "mediterania"
+              ]
+            },
+            {
+              "word": "Teluk Kotor",
+              "forbiddens": [
+                "montenegro",
+                "adriatik",
+                "boka",
+                "tebing",
+                "kota tua"
+              ]
+            },
+            {
+              "word": "Pegunungan Vosges",
+              "forbiddens": [
+                "prancis",
+                "alsace",
+                "hutan",
+                "timur",
+                "rhein"
+              ]
+            },
+            {
+              "word": "Pegunungan Harz",
+              "forbiddens": [
+                "jerman",
+                "brocken",
+                "hutan",
+                "tengah",
+                "tambang"
+              ]
+            },
+            {
+              "word": "Pegunungan Cantabria",
+              "forbiddens": [
+                "spanyol",
+                "utara",
+                "picos de europa",
+                "atlantik",
+                "hijau"
+              ]
+            },
+            {
+              "word": "Pegunungan Brooks",
+              "forbiddens": [
+                "alaska",
+                "utara",
+                "arktik",
+                "tundra",
+                "tinggi"
+              ]
+            },
+            {
+              "word": "Pegunungan Ozark",
+              "forbiddens": [
+                "amerika serikat",
+                "missouri",
+                "arkansas",
+                "hutan",
+                "plato"
+              ]
+            },
+            {
+              "word": "Pegunungan Great Smoky",
+              "forbiddens": [
+                "amerika serikat",
+                "tennessee",
+                "kabut",
+                "taman nasional",
+                "appalachia"
+              ]
+            },
+            {
+              "word": "Pegunungan Blue Ridge",
+              "forbiddens": [
+                "amerika serikat",
+                "virginia",
+                "appalachia",
+                "biru",
+                "kabut"
+              ]
+            },
+            {
+              "word": "Pegunungan Hoggar",
+              "forbiddens": [
+                "aljazair",
+                "sahara",
+                "gurun",
+                "vulkanik",
+                "tinggi"
+              ]
+            },
+            {
+              "word": "Pegunungan Simien",
+              "forbiddens": [
+                "ethiopia",
+                "tebing",
+                "dataran tinggi",
+                "babon",
+                "unesco"
+              ]
+            },
+            {
+              "word": "Pegunungan Elburz",
+              "forbiddens": [
+                "iran",
+                "teheran",
+                "damavand",
+                "utara",
+                "laut kaspia"
+              ]
+            },
+            {
+              "word": "Pegunungan Qinling",
+              "forbiddens": [
+                "tiongkok",
+                "tengah",
+                "panda",
+                "pemisah",
+                "utara"
+              ]
+            },
+            {
+              "word": "Pegunungan Great Dividing",
+              "forbiddens": [
+                "australia",
+                "timur",
+                "memanjang",
+                "sydney",
+                "brisbane"
+              ]
+            },
+            {
+              "word": "Pegunungan Biru",
+              "forbiddens": [
+                "sydney",
+                "australia",
+                "tiga saudari",
+                "eukaliptus",
+                "kabut"
+              ]
+            },
+            {
+              "word": "Gunung Damavand",
+              "forbiddens": [
+                "iran",
+                "tertinggi",
+                "vulkanik",
+                "elburz",
+                "teheran"
+              ]
+            },
+            {
+              "word": "Gunung Kamerun",
+              "forbiddens": [
+                "buea",
+                "afrika tengah",
+                "vulkanik",
+                "aktif",
+                "tertinggi"
+              ]
+            },
+            {
+              "word": "Gunung Stromboli",
+              "forbiddens": [
+                "italia",
+                "kepulauan eolia",
+                "vulkanik",
+                "aktif",
+                "laut"
+              ]
+            },
+            {
+              "word": "Gunung Apo",
+              "forbiddens": [
+                "filipina",
+                "mindanao",
+                "tertinggi",
+                "vulkanik",
+                "davao"
+              ]
+            },
+            {
+              "word": "Gunung Halla",
+              "forbiddens": [
+                "korea selatan",
+                "jeju",
+                "vulkanik",
+                "tertinggi",
+                "danau"
+              ]
+            },
+            {
+              "word": "Gunung Tahan",
+              "forbiddens": [
+                "malaysia",
+                "semenanjung",
+                "tertinggi",
+                "taman negara",
+                "pahang"
+              ]
+            },
+            {
+              "word": "Gunung Mulu",
+              "forbiddens": [
+                "sarawak",
+                "gua",
+                "borneo",
+                "taman nasional",
+                "karst"
+              ]
+            },
+            {
+              "word": "Gunung Talang",
+              "forbiddens": [
+                "solok",
+                "sumatra barat",
+                "vulkanik",
+                "danau kembar",
+                "hijau"
+              ]
+            },
+            {
+              "word": "Gunung Tandikat",
+              "forbiddens": [
+                "sumatra barat",
+                "padang panjang",
+                "vulkanik",
+                "singgalang",
+                "kembar"
+              ]
+            },
+            {
+              "word": "Gunung Guntur",
+              "forbiddens": [
+                "garut",
+                "jawa barat",
+                "vulkanik",
+                "kawah",
+                "pendakian"
+              ]
+            },
+            {
+              "word": "Gunung Cikuray",
+              "forbiddens": [
+                "garut",
+                "jawa barat",
+                "teh",
+                "vulkanik",
+                "pendakian"
+              ]
+            },
+            {
+              "word": "Gunung Telomoyo",
+              "forbiddens": [
+                "magelang",
+                "jawa tengah",
+                "ambarawa",
+                "vulkanik",
+                "pendakian"
+              ]
+            },
+            {
+              "word": "Gunung Andong",
+              "forbiddens": [
+                "magelang",
+                "jawa tengah",
+                "vulkanik",
+                "pendakian",
+                "kecil"
+              ]
+            },
+            {
+              "word": "Gunung Penanggungan",
+              "forbiddens": [
+                "mojokerto",
+                "jawa timur",
+                "kerucut",
+                "vulkanik",
+                "candi"
+              ]
+            },
+            {
+              "word": "Gunung Argopuro",
+              "forbiddens": [
+                "jawa timur",
+                "jember",
+                "probolinggo",
+                "savana",
+                "pendakian"
+              ]
+            },
+            {
+              "word": "Gunung Lamongan",
+              "forbiddens": [
+                "lumajang",
+                "jawa timur",
+                "maar",
+                "vulkanik",
+                "aktif"
+              ]
+            },
+            {
+              "word": "Gunung Batukaru",
+              "forbiddens": [
+                "bali",
+                "tabanan",
+                "vulkanik",
+                "kedua tertinggi",
+                "hutan"
+              ]
+            },
+            {
+              "word": "Gunung Ile Boleng",
+              "forbiddens": [
+                "flores timur",
+                "nusa tenggara timur",
+                "vulkanik",
+                "adonara",
+                "solor"
+              ]
+            },
+            {
+              "word": "Gunung Egon",
+              "forbiddens": [
+                "flores",
+                "sikka",
+                "maumere",
+                "vulkanik",
+                "aktif"
+              ]
+            },
+            {
+              "word": "Gunung Inerie",
+              "forbiddens": [
+                "flores",
+                "bajawa",
+                "kerucut",
+                "vulkanik",
+                "ngada"
+              ]
+            },
+            {
+              "word": "Gunung Mutis",
+              "forbiddens": [
+                "nusa tenggara timur",
+                "timor",
+                "tertinggi",
+                "hutan",
+                "cagar alam"
+              ]
+            },
+            {
+              "word": "Gunung Binaiya",
+              "forbiddens": [
+                "seram",
+                "maluku",
+                "tertinggi",
+                "hutan",
+                "pendakian"
+              ]
+            },
+            {
+              "word": "Gunung Gamalama",
+              "forbiddens": [
+                "ternate",
+                "maluku utara",
+                "vulkanik",
+                "aktif",
+                "kota"
+              ]
+            },
+            {
+              "word": "Gunung Soputan",
+              "forbiddens": [
+                "sulawesi utara",
+                "minahasa",
+                "vulkanik",
+                "aktif",
+                "tomohon"
+              ]
+            },
+            {
+              "word": "Gunung Klabat",
+              "forbiddens": [
+                "sulawesi utara",
+                "minahasa utara",
+                "vulkanik",
+                "tertinggi",
+                "manado"
+              ]
+            },
+            {
+              "word": "Gunung Bawakaraeng",
+              "forbiddens": [
+                "gowa",
+                "sulawesi selatan",
+                "makassar",
+                "pendakian",
+                "malino"
+              ]
+            },
+            {
+              "word": "Gunung Latimojong",
+              "forbiddens": [
+                "sulawesi selatan",
+                "enrekang",
+                "tertinggi",
+                "pendakian",
+                "rantemario"
+              ]
+            },
+            {
+              "word": "Gunung Palung",
+              "forbiddens": [
+                "kalimantan barat",
+                "taman nasional",
+                "orangutan",
+                "hutan",
+                "ketapang"
+              ]
+            },
+            {
+              "word": "Sognefjord",
+              "forbiddens": [
+                "norwegia",
+                "terpanjang",
+                "tebing",
+                "laut",
+                "bergen"
+              ]
+            },
+            {
+              "word": "Ghats Barat",
+              "forbiddens": [
+                "india",
+                "hujan",
+                "sepanjang",
+                "pantai",
+                "pegunungan"
+              ]
+            },
+            {
+              "word": "Gunung Aso",
+              "forbiddens": [
+                "jepang",
+                "kyushu",
+                "kaldera",
+                "vulkanik",
+                "aktif"
+              ]
+            },
+            {
+              "word": "Gunung Asama",
+              "forbiddens": [
+                "jepang",
+                "honshu",
+                "vulkanik",
+                "karuizawa",
+                "aktif"
+              ]
+            },
+            {
+              "word": "Gunung Ruapehu",
+              "forbiddens": [
+                "selandia baru",
+                "pulau utara",
+                "vulkanik",
+                "ski",
+                "tongariro"
+              ]
+            },
+            {
+              "word": "Gunung Cotopaxi",
+              "forbiddens": [
+                "ekuador",
+                "andes",
+                "vulkanik",
+                "kerucut",
+                "quito"
+              ]
+            },
+            {
+              "word": "Gunung Chimborazo",
+              "forbiddens": [
+                "ekuador",
+                "andes",
+                "vulkanik",
+                "titik terjauh",
+                "salju"
+              ]
+            },
+            {
+              "word": "Popocatépetl",
+              "forbiddens": [
+                "meksiko",
+                "vulkanik",
+                "aktif",
+                "puebla",
+                "kerucut"
               ]
             }
           ]
